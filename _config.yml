@@ -18,21 +18,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Gran's Country Cupboard
+email: dschleimer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a digitization of my great grandmother's cookbook.
+  The original was written by Elizabeth M. McGinley some time before
+  I was born.  I hope that making the recipes herein easier to read and
+  search will lead to them seeing more use.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  dschleimer
 
 # Build settings
-theme: minima
+remote_theme: pages-themes/tactile@v0.2.0
 plugins:
-  - jekyll-feed
+  - jekyll-relative-links
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
