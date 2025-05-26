@@ -4,3 +4,14 @@
 
 layout: default
 ---
+
+## Pages
+
+{% assign sorted_pages = site.pages | sort_natural %}
+{% for page in sorted_pages%}
+  {%capture thumb%}/assets/thumbs/cookbook_{{page.number}}_enhanced.png{%endcapture%}
+  {% if page.number == "cover" %}
+    {%capture thumb%}/assets/thumbs/cookbook_{{page.number}}.png{%endcapture%}
+  {%endif%}
+  [![]({{thumb | relative_url }})]({{page.url}})
+{% endfor %}

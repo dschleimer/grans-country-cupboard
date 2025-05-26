@@ -37,6 +37,16 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-remote-theme
 
+collections:
+  pages:
+    output: true
+    # we're usingt too old a jekyll for this to be supported
+    # if we update to 4,0+ we can replace manual sorting with this
+    # sort_by: number
+    # order:
+    #   - cover.md
+    #   - title.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
