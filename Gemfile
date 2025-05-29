@@ -7,7 +7,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.10.0"
+gem "jekyll", "~> 4.4.1"
 gem 'jekyll-theme-tactile', '~> 0.2.0'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -15,10 +15,9 @@ gem 'jekyll-theme-tactile', '~> 0.2.0'
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem 'jekyll-relative-links', '~> 0.6.1'
+  gem 'jekyll-relative-links', '~> 0.7.0'
   gem 'jekyll-sitemap', '~> 1.4.0'
   gem 'jekyll-titles-from-headings', '~> 0.5.3'
-  gem "github-pages", '~> 232'
   gem 'jekyll-remote-theme', '~> 0.4.3'
   # gem 'github-pages-health-check',	'1.18.2'
 end
