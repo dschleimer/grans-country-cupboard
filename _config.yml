@@ -47,6 +47,9 @@ collections:
     order:
       - cover.md
       - title.md
+  chapters:
+    output: true
+    sort_by: number
 
 # Exclude from processing.
 # The following items will not be processed, by default.
