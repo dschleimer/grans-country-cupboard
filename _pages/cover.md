@@ -1,6 +1,7 @@
 ---
 layout: default
 number: "cover"
+chapter: 0
 ---
 
 # Cover Image
