@@ -13,12 +13,15 @@ layout: default
 {% endfor %}
 
 ## Pages
-
-TODO: these should be grouped by chapter
-{% for page in site.pages %}
-  {%capture thumb%}/assets/thumbs/cookbook_{{page.number}}_enhanced.png{%endcapture%}
-  {% if page.number == "cover" %}
-    {%capture thumb%}/assets/thumbs/cookbook_{{page.number}}.png{%endcapture%}
-  {%endif%}
-  [![]({{thumb | relative_url }})]({{page.url}})
+{%assign page_groups = site.pages | group_by: "chapter" %}
+{% for page_group in page_groups %}
+  {%assign chapter = site.chapters | find: "number", page_group.name %}
+### Chapter {{page_group.name}} - {{chapter.title}}
+  {%for page in page_group.items %}
+    {%capture thumb%}/assets/thumbs/cookbook_{{page.number}}_enhanced.png{%endcapture%}
+    {% if page.number == "cover" %}
+      {%capture thumb%}/assets/thumbs/cookbook_{{page.number}}.png{%endcapture%}
+    {%endif%}
+[![]({{thumb | relative_url }})]({{page.url}})
+  {% endfor %}
 {% endfor %}
