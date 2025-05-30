@@ -38,6 +38,9 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-remote-theme
 
+titles_from_headings:
+  collections: true
+
 collections:
   pages:
     output: true
