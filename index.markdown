@@ -17,11 +17,5 @@ layout: default
 {% for page_group in page_groups %}
   {%assign chapter = site.chapters | find: "number", page_group.name %}
 ### Chapter {{page_group.name}} - {{chapter.title}}
-  {%for page in page_group.items %}
-    {%capture thumb%}/assets/thumbs/cookbook_{{page.number}}_enhanced.png{%endcapture%}
-    {% if page.number == "cover" %}
-      {%capture thumb%}/assets/thumbs/cookbook_{{page.number}}.png{%endcapture%}
-    {%endif%}
-[![]({{thumb | relative_url }})]({{page.url}})
-  {% endfor %}
+  {%for page in page_group.items %}{%capture thumb%}/assets/thumbs/cookbook_{{page.number}}_enhanced.png{%endcapture%}{% if page.number == "cover" %}{%capture thumb%}/assets/thumbs/cookbook_{{page.number}}.png{%endcapture%}{%endif%}[![]({{thumb | relative_url }})]({{page.url}}){% endfor %}
 {% endfor %}
