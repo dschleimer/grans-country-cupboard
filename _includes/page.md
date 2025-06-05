@@ -32,17 +32,17 @@
 
 {%if prev %}
     {%capture prev_url%}/pages/{{prev}}.html{% endcapture %}
-    {%capture prev_link%}[Previous Page]({{prev_url | relative_url}}){% endcapture %}
+    {%capture prev_link%}[Previous Page]({{prev_url | relative_url}}) | {% endcapture %}
 {%endif%}
 {%if next %}
     {%capture next_url%}/pages/{{next}}.html{% endcapture %}
-    {%capture next_link%}[Next Page]({{next_url | relative_url}}){% endcapture %}
-{%endif%}
-{%if prev and next %}
-    {%capture prev_next_sep %} | {% endcapture %}
+    {%capture next_link%} | [Next Page]({{next_url | relative_url}}){% endcapture %}
 {%endif%}
 
-{{prev_link}}{{prev_next_sep}}{{next_link}}
+{%capture chapter_url %}/chapters/{{page.chapter}}.html{%endcapture %}
+{%capture chpater_link %}[Chapter Index]({{chapter_url | relative_url}}){%endcapture %}
+
+{{prev_link}}{{chpater_link}}{{next_link}}
 ![Page {{page.number}}]({{web | relative_url}})
 [Original Full Resolution]({{orig | relative_url}}) | [Enhanced Full Resolution]({{enhanced | relative_url}})<br/>
-{{prev_link}}{{prev_next_sep}}{{next_link}}
+{{prev_link}}{{chpater_link}}{{next_link}}
