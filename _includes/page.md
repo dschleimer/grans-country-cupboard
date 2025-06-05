@@ -42,6 +42,7 @@
     {%capture prev_next_sep %} | {% endcapture %}
 {%endif%}
 
+{{prev_link}}{{prev_next_sep}}{{next_link}}
 ![Page {{page.number}}]({{web | relative_url}})
 [Original Full Resolution]({{orig | relative_url}}) | [Enhanced Full Resolution]({{enhanced | relative_url}})<br/>
 {{prev_link}}{{prev_next_sep}}{{next_link}}
