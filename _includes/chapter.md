@@ -1,7 +1,7 @@
 ---
 ---
 
-{%capture web%}/assets/web/cookbook_{{page.title_page}}_enhanced.jpg{%endcapture%}
+{%capture web%}/assets/web/enhanced/cookbook_{{page.title_page}}_enhanced.jpg{%endcapture%}
 
 {%assign chapter_pages = site.pages | where: "chapter", page.number %}
 
