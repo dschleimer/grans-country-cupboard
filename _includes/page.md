@@ -8,7 +8,7 @@
 {%endunless%}
 
 {%capture web%}/assets/web/cookbook_{{page.number}}{{suffix}}.jpg{%endcapture%}
-{%capture orig%}/assets/full_res/cookbook_{{page.number}}.jpg{%endcapture%}
+{%capture orig%}/assets/full_res/original/cookbook_{{page.number}}.jpg{%endcapture%}
 {%capture enhanced%}/assets/full_res/enhanced/cookbook_{{page.number}}_enhanced.jpg{%endcapture%}
 
 {%case page.number%}
