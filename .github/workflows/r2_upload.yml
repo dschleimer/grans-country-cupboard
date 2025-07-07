@@ -6,12 +6,17 @@ on:
     - main
 
 jobs:
-  r2_upload:
+  r2_upload_downscaled:
     name: R2 Upload
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            assets
+            !assets/full_res
+          sparse-checkout-cone-mode: false
         
       - name: Upload Action
         uses: ryand56/r2-upload-action@latest
