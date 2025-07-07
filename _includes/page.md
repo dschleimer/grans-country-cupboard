@@ -7,9 +7,9 @@
     {%assign type = "original" %}
 {%endunless%}
 
-{%capture web%}/assets/web/{{type}}/cookbook_{{page.number}}.jpg{%endcapture%}
-{%capture orig%}/assets/full_res/original/cookbook_{{page.number}}.jpg{%endcapture%}
-{%capture enhanced%}/assets/full_res/enhanced/cookbook_{{page.number}}.jpg{%endcapture%}
+{%capture web%}/assets/web/{{type}}/{{page.number}}.jpg{%endcapture%}
+{%capture orig%}/assets/full_res/original/{{page.number}}.jpg{%endcapture%}
+{%capture enhanced%}/assets/full_res/enhanced/{{page.number}}.jpg{%endcapture%}
 
 {%case page.number%}
     {% when "cover" %}
