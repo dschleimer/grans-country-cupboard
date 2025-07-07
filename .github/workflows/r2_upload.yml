@@ -83,4 +83,4 @@ jobs:
           r2-secret-access-key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
           r2-bucket: gran-assets
           source-dir: assets/full_res/recipe_crops
-          destination-dir: .full_res/recipe_crops
+          destination-dir: full_res/recipe_crops
