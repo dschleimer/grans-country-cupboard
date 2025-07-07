@@ -3,6 +3,11 @@
 {%- else -%}
     {% assign ext = "jpg" -%}
 {%- endif -%}
-<a href="/assets/{{include.res}}/{{include.type}}/{{include.id}}.{{ext}}" >
+{%- if jekyll.environment == "production" -%}
+    {%- assign prefix = "https://assets.grans-country-cupboard.com" -%}
+{%- else -%}
+    {%- assign prefix = "/assets" -%}
+{%- endif -%}
+<a href="{{prefix}}/{{include.res}}/{{include.type}}/{{include.id}}.{{ext}}" >
     {{include.type | capitalize }} Full Resolution
 </a>

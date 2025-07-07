@@ -8,4 +8,9 @@
 {%- else -%}
     {%- assign ext = "jpg" -%}
 {%- endif -%}
-<img src="/assets/{{include.res}}/{{type}}/{{include.id}}.{{ext}}" />
+{%- if jekyll.environment == "production" -%}
+    {%- assign prefix = "https://assets.grans-country-cupboard.com" -%}
+{%- else -%}
+    {%- assign prefix = "/assets" -%}
+{%- endif -%}
+<img src="{{prefix}}/{{include.res}}/{{type}}/{{include.id}}.{{ext}}" />
