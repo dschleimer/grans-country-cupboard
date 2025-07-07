@@ -1,0 +1,11 @@
+{%- if include.id == "cover" -%}
+    {%- assign type = "original" -%}
+{%- else -%}
+    {%- assign type = include.type -%}
+{%- endif -%}
+{%- if include.res == "thumbs" -%}
+    {%- assign ext = "png" -%}
+{%- else -%}
+    {%- assign ext = "jpg" -%}
+{%- endif -%}
+<img src="/assets/{{include.res}}/{{type}}/{{include.id}}.{{ext}}" />

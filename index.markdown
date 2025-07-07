@@ -11,5 +11,7 @@ layout: default
 {% for page_group in page_groups %}
   {%assign chapter = site.chapters | find: "number", page_group.name %}
 ### Chapter {{chapter.number}} - [{{chapter.title}}]({{chapter_path | relative_url}})
-  {%for page in page_group.items %}{%capture thumb%}/assets/thumbs/enhanced/{{page.number}}.png{%endcapture%}{% if page.number == "cover" %}{%capture thumb%}/assets/thumbs/original/{{page.number}}.png{%endcapture%}{%endif%}[![]({{thumb | relative_url }})]({{page.url}}){% endfor %}
+{% for page in page_group.items -%}
+  [{%- include img.html res="thumbs" type="enhanced" id=page.number -%}]({{page.url}})
+{%- endfor -%}
 {% endfor %}
