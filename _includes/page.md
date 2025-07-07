@@ -43,5 +43,5 @@
 
 {{prev_link}}{{chpater_link}}{{next_link}}
 {% include img.html res="web" type="enhanced" id=page.number %}
-[Original Full Resolution]({{orig | relative_url}}) | [Enhanced Full Resolution]({{enhanced | relative_url}})<br/>
+{%- include asset_link.html res="full_res" type="original" id=page.number -%} | {%- include asset_link.html res="full_res" type="enhanced" id=page.number -%}<br/>
 {{prev_link}}{{chpater_link}}{{next_link}}

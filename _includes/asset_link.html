@@ -1,0 +1,8 @@
+{%- if include.type == "thumb" -%}
+    {% assign ext = "png" -%}
+{%- else -%}
+    {% assign ext = "jpg" -%}
+{%- endif -%}
+<a href="/assets/{{include.res}}/{{include.type}}/{{include.id}}.{{ext}}" >
+    {{include.type | capitalize }} Full Resolution
+</a>
