@@ -10,7 +10,7 @@ layout: default
 {%assign page_groups = site.pages | group_by: "chapter" %}
 {% for page_group in page_groups %}
   {%assign chapter = site.chapters | find: "number", page_group.name %}
-### Chapter {{chapter.number}} - [{{chapter.title}}]({{chapter_path | relative_url}})
+### Chapter {{chapter.number}} - [{{chapter.title}}]({{chapter.url}})
 {% for page in page_group.items -%}
   [{%- include img.html res="thumbs" type="enhanced" id=page.number -%}]({{page.url}})
 {%- endfor -%}
