@@ -10,7 +10,10 @@ jobs:
     name: R2 Upload
     runs-on: ubuntu-latest
     steps:
-      - name: R2 Upload Action
+      - name: Checkout
+        uses: actions/checkout@latest
+        
+      - name: Upload Action
         uses: ryand56/r2-upload-action@latest
         with:
           r2-account-id: ${{ secrets.R2_ACCOUNT_ID }}
