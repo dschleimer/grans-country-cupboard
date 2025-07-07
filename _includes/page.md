@@ -7,7 +7,6 @@
     {%assign type = "original" %}
 {%endunless%}
 
-{%capture web%}/assets/web/{{type}}/{{page.number}}.jpg{%endcapture%}
 {%capture orig%}/assets/full_res/original/{{page.number}}.jpg{%endcapture%}
 {%capture enhanced%}/assets/full_res/enhanced/{{page.number}}.jpg{%endcapture%}
 
@@ -43,6 +42,6 @@
 {%capture chpater_link %}[Chapter Index]({{chapter_url | relative_url}}){%endcapture %}
 
 {{prev_link}}{{chpater_link}}{{next_link}}
-![Page {{page.number}}]({{web | relative_url}})
+{% include img.html res="web" type="enhanced" id=page.number %}
 [Original Full Resolution]({{orig | relative_url}}) | [Enhanced Full Resolution]({{enhanced | relative_url}})<br/>
 {{prev_link}}{{chpater_link}}{{next_link}}
