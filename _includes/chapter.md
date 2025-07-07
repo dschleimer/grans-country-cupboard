@@ -5,8 +5,10 @@
 
 {%assign chapter_pages = site.pages | where: "chapter", page.number %}
 
-![Chapter Header Page]({{web | relative_url}})
+{% include img.html res="web" type="enhanced" id=page.title_page %}
 
 ## Pages
-{% for page in chapter_pages %}{%capture thumb%}/assets/thumbs/enhanced/{{page.number}}.png{%endcapture%}{% if page.number == "cover" %}{%capture thumb%}/assets/thumbs/original/{{page.number}}.png{%endcapture%}{%endif%}[![]({{thumb | relative_url }})]({{page.url}}){% endfor %}
+{% for page in chapter_pages -%}
+  [{%- include img.html res="thumbs" type="enhanced" id=page.number -%}]({{page.url}})
+{%- endfor -%}
 
