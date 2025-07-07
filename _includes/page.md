@@ -2,16 +2,14 @@
 ---
 
 {%unless page.number == "cover" %}
-    {%assign subdir = "enhanced" %}
-    {%assign suffix = "_enhanced" %}
+    {%assign type = "enhanced" %}
 {%else%}
-    {%assign subdir = "original" %}
-    {% assign suffix = "" %}
+    {%assign type = "original" %}
 {%endunless%}
 
-{%capture web%}/assets/web/{{subdir}}/cookbook_{{page.number}}{{suffix}}.jpg{%endcapture%}
+{%capture web%}/assets/web/{{type}}/cookbook_{{page.number}}.jpg{%endcapture%}
 {%capture orig%}/assets/full_res/original/cookbook_{{page.number}}.jpg{%endcapture%}
-{%capture enhanced%}/assets/full_res/enhanced/cookbook_{{page.number}}_enhanced.jpg{%endcapture%}
+{%capture enhanced%}/assets/full_res/enhanced/cookbook_{{page.number}}.jpg{%endcapture%}
 
 {%case page.number%}
     {% when "cover" %}
