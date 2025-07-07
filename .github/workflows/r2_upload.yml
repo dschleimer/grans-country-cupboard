@@ -7,7 +7,7 @@ on:
 
 jobs:
   r2_upload_downscaled:
-    name: R2 Upload
+    name: R2 Upload Downscaled
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -27,3 +27,60 @@ jobs:
           r2-bucket: gran-assets
           source-dir: assets/
           destination-dir: ./
+
+  r2_upload_original:
+    name: R2 Upload Full Res Original
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: assets/full_res/original
+        
+      - name: Upload Action
+        uses: ryand56/r2-upload-action@latest
+        with:
+          r2-account-id: ${{ secrets.R2_ACCOUNT_ID }}
+          r2-access-key-id: ${{ secrets.R2_ACCESS_KEY_ID }}
+          r2-secret-access-key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          r2-bucket: gran-assets
+          source-dir: assets/full_res/original
+          destination-dir: full_res/original
+
+  r2_upload_enhanced:
+    name: R2 Upload Full Res Enhanced
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: assets/full_res/enhanced
+        
+      - name: Upload Action
+        uses: ryand56/r2-upload-action@latest
+        with:
+          r2-account-id: ${{ secrets.R2_ACCOUNT_ID }}
+          r2-access-key-id: ${{ secrets.R2_ACCESS_KEY_ID }}
+          r2-secret-access-key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          r2-bucket: gran-assets
+          source-dir: assets/full_res/enhanced
+          destination-dir: full_res/enhanced
+
+  r2_upload_recipe_crops:
+    name: R2 Upload Full Res Recipe Crops
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: assets/full_res/recipe_crops
+        
+      - name: Upload Action
+        uses: ryand56/r2-upload-action@latest
+        with:
+          r2-account-id: ${{ secrets.R2_ACCOUNT_ID }}
+          r2-access-key-id: ${{ secrets.R2_ACCESS_KEY_ID }}
+          r2-secret-access-key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          r2-bucket: gran-assets
+          source-dir: aassets/full_res/recipe_crops
+          destination-dir: .full_res/recipe_crops
