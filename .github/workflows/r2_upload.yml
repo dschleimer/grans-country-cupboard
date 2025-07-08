@@ -5,7 +5,8 @@ on:
     branches:
       - main
     paths:
-      assets/
+      - assets/
+      - .github/workflows/r2_upload.yml
 
 jobs:
   r2_upload_downscaled:
