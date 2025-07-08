@@ -3,7 +3,9 @@ name: Upload assets to R2
 on:
   push:
     branches:
-    - main
+      - main
+    paths:
+      assets/
 
 jobs:
   r2_upload_downscaled:
