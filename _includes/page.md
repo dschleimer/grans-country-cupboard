@@ -1,6 +1,3 @@
----
----
-
 {%unless page.number == "cover" %}
     {%assign type = "enhanced" %}
 {%else%}
@@ -39,9 +36,10 @@
 {%endif%}
 
 {%capture chapter_url %}/chapters/{{page.chapter}}.html{%endcapture %}
-{%capture chpater_link %}[Chapter Index]({{chapter_url | relative_url}}){%endcapture %}
+{%capture chapter_link %}[Chapter Index]({{chapter_url | relative_url}}){%endcapture %}
 
-{{prev_link}}{{chpater_link}}{{next_link}}
+{{prev_link}}{{chapter_link}}{{next_link}}
 {% include img.html res="web" type="enhanced" id=page.number %}
-{%- include asset_link.html res="full_res" type="original" id=page.number -%} | {%- include asset_link.html res="full_res" type="enhanced" id=page.number -%}<br/>
-{{prev_link}}{{chpater_link}}{{next_link}}
+{%- include asset_link.html res="full_res" type="original" id=page.number -%} | {%- include asset_link.html res="full_res" type="enhanced" id=page.number -%}
+<br/>
+{{prev_link}}{{chapter_link}}{{next_link}}
