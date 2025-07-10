@@ -45,7 +45,7 @@ titles_from_headings:
 collections:
   recipes:
     output: true
-    sort_by: page
+    sort_by: recipe
   pages:
     output: true
     # order takes priority over sort_by
