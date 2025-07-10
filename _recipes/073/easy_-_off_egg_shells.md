@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "073"
-id: 073/easy_-_off_egg_shells
+recipe: 073/easy_-_off_egg_shells
 page_order: 2
 ---
 # easy - off egg shells
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="073/easy_-_off_egg_shells" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="073/easy_-_off_egg_shells" %}
+{% include recipe.md %}

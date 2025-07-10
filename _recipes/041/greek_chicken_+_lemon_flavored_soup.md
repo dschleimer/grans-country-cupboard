@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "041"
-id: 041/greek_chicken_+_lemon_flavored_soup
+recipe: 041/greek_chicken_+_lemon_flavored_soup
 page_order: 1
 ---
 # greek chicken + lemon flavored soup
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="041/greek_chicken_+_lemon_flavored_soup" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="041/greek_chicken_+_lemon_flavored_soup" %}
+{% include recipe.md %}

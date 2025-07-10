@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "055"
-id: 055/stewed_eggplant
+recipe: 055/stewed_eggplant
 page_order: 2
 ---
 # stewed eggplant
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="055/stewed_eggplant" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="055/stewed_eggplant" %}
+{% include recipe.md %}

@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "142"
-id: 142/grans_orange_blossom_bowl
+recipe: 142/grans_orange_blossom_bowl
 page_order: 1
 ---
 # grans orange blossom bowl
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="142/grans_orange_blossom_bowl" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="142/grans_orange_blossom_bowl" %}
+{% include recipe.md %}

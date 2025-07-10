@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "079"
-id: 079/shrim_newburg
+recipe: 079/shrim_newburg
 page_order: 2
 ---
 # shrim newburg
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="079/shrim_newburg" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="079/shrim_newburg" %}
+{% include recipe.md %}

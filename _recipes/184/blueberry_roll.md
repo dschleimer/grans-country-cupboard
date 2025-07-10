@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "184"
-id: 184/blueberry_roll
+recipe: 184/blueberry_roll
 page_order: 1
 ---
 # blueberry roll
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="184/blueberry_roll" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="184/blueberry_roll" %}
+{% include recipe.md %}

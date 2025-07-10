@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "028"
-id: 028/ham_salad_sandwiches
+recipe: 028/ham_salad_sandwiches
 page_order: 2
 ---
 # ham salad sandwiches
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="028/ham_salad_sandwiches" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="028/ham_salad_sandwiches" %}
+{% include recipe.md %}

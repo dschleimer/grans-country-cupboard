@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "208"
-id: 208/clean_up_victorian_china_closet
+recipe: 208/clean_up_victorian_china_closet
 page_order: 1
 ---
 # clean up victorian china closet
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="208/clean_up_victorian_china_closet" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="208/clean_up_victorian_china_closet" %}
+{% include recipe.md %}

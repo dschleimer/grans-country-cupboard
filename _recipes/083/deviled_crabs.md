@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "083"
-id: 083/deviled_crabs
+recipe: 083/deviled_crabs
 page_order: 2
 ---
 # deviled crabs
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="083/deviled_crabs" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="083/deviled_crabs" %}
+{% include recipe.md %}

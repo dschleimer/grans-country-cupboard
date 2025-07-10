@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "119"
-id: 119/irish_bread
+recipe: 119/irish_bread
 page_order: 1
 ---
 # irish bread
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="119/irish_bread" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="119/irish_bread" %}
+{% include recipe.md %}

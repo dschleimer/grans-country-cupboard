@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "082"
-id: 082/marylan_crabcakes
+recipe: 082/marylan_crabcakes
 page_order: 3
 ---
 # marylan crabcakes
@@ -16,5 +16,4 @@ page_order: 3
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="082/marylan_crabcakes" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="082/marylan_crabcakes" %}
+{% include recipe.md %}

@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "103"
-id: 103/baked_stuffed_hamburger
+recipe: 103/baked_stuffed_hamburger
 page_order: 1
 ---
 # baked stuffed hamburger
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="103/baked_stuffed_hamburger" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="103/baked_stuffed_hamburger" %}
+{% include recipe.md %}

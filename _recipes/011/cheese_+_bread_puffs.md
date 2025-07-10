@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "011"
-id: 011/cheese_+_bread_puffs
+recipe: 011/cheese_+_bread_puffs
 page_order: 1
 ---
 # Cheese + bread puffs
@@ -16,6 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crops" id="011/cheese_+_bread_puffs" %}
-<br />
-{% include asset_link.html res="full_res" type="recipe_crops" id="011/cheese_+_bread_puffs" %}
+{% include recipe.md %}

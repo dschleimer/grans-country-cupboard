@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "014"
-id: 014/cheese_olives
+recipe: 014/cheese_olives
 page_order: 1
 ---
 # Cheese olives
@@ -16,6 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crops" id="014/cheese_olives" %}
-<br />
-{% include asset_link.html res="full_res" type="recipe_crops" id="014/cheese_olives" %}
+{% include recipe.md %}

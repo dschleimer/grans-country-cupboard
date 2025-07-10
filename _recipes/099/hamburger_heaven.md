@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "099"
-id: 099/hamburger_heaven
+recipe: 099/hamburger_heaven
 page_order: 1
 ---
 # hamburger heaven
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="099/hamburger_heaven" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="099/hamburger_heaven" %}
+{% include recipe.md %}

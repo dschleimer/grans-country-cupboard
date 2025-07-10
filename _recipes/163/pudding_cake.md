@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "163"
-id: 163/pudding_cake
+recipe: 163/pudding_cake
 page_order: 2
 ---
 # pudding cake
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="163/pudding_cake" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="163/pudding_cake" %}
+{% include recipe.md %}

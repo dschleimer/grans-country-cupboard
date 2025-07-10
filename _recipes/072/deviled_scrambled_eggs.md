@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "072"
-id: 072/deviled_scrambled_eggs
+recipe: 072/deviled_scrambled_eggs
 page_order: 1
 ---
 # deviled scrambled eggs
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="072/deviled_scrambled_eggs" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="072/deviled_scrambled_eggs" %}
+{% include recipe.md %}

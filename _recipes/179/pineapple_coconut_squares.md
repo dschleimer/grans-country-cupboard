@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "179"
-id: 179/pineapple_coconut_squares
+recipe: 179/pineapple_coconut_squares
 page_order: 3
 ---
 # pineapple coconut squares
@@ -16,5 +16,4 @@ page_order: 3
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="179/pineapple_coconut_squares" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="179/pineapple_coconut_squares" %}
+{% include recipe.md %}

@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "055"
-id: 055/eggplant_parmesan
+recipe: 055/eggplant_parmesan
 page_order: 1
 ---
 # eggplant parmesan
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="055/eggplant_parmesan" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="055/eggplant_parmesan" %}
+{% include recipe.md %}

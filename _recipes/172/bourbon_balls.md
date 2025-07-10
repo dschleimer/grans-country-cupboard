@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "172"
-id: 172/bourbon_balls
+recipe: 172/bourbon_balls
 page_order: 1
 ---
 # bourbon balls
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="172/bourbon_balls" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="172/bourbon_balls" %}
+{% include recipe.md %}

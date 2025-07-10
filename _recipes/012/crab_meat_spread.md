@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "012"
-id: 012/crab_meat_spread
+recipe: 012/crab_meat_spread
 page_order: 1
 ---
 # Crab meat spread
@@ -16,6 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crops" id="012/crab_meat_spread" %}
-<br />
-{% include asset_link.html res="full_res" type="recipe_crops" id="012/crab_meat_spread" %}
+{% include recipe.md %}

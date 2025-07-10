@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "007"
-id: 007/party_meat_balls
+recipe: 007/party_meat_balls
 page_order: 1
 ---
 # Party meat balls
@@ -16,6 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crops" id="007/party_meat_balls" %}
-<br />
-{% include asset_link.html res="full_res" type="recipe_crops" id="007/party_meat_balls" %}
+{% include recipe.md %}

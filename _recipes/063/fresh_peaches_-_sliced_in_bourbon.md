@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "063"
-id: 063/fresh_peaches_-_sliced_in_bourbon
+recipe: 063/fresh_peaches_-_sliced_in_bourbon
 page_order: 2
 ---
 # fresh peaches - sliced in bourbon
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="063/fresh_peaches_-_sliced_in_bourbon" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="063/fresh_peaches_-_sliced_in_bourbon" %}
+{% include recipe.md %}

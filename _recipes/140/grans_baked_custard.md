@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "140"
-id: 140/grans_baked_custard
+recipe: 140/grans_baked_custard
 page_order: 2
 ---
 # grans baked custard
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="140/grans_baked_custard" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="140/grans_baked_custard" %}
+{% include recipe.md %}

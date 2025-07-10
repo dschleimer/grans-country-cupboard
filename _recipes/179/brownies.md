@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "179"
-id: 179/brownies
+recipe: 179/brownies
 page_order: 1
 ---
 # brownies
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="179/brownies" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="179/brownies" %}
+{% include recipe.md %}

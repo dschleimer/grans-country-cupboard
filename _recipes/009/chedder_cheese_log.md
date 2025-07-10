@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "009"
-id: 009/chedder_cheese_log
+recipe: 009/chedder_cheese_log
 page_order: 3
 ---
 # Chedder cheese log
@@ -16,6 +16,4 @@ page_order: 3
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crops" id="009/chedder_cheese_log" %}
-<br />
-{% include asset_link.html res="full_res" type="recipe_crops" id="009/chedder_cheese_log" %}
+{% include recipe.md %}

@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "114"
-id: 114/dear_or_elk_roast
+recipe: 114/dear_or_elk_roast
 page_order: 1
 ---
 # dear or elk roast
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="114/dear_or_elk_roast" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="114/dear_or_elk_roast" %}
+{% include recipe.md %}

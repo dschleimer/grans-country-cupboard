@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "150"
-id: 150/moms_chocolate_layer_cake
+recipe: 150/moms_chocolate_layer_cake
 page_order: 1
 ---
 # moms chocolate layer cake
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="150/moms_chocolate_layer_cake" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="150/moms_chocolate_layer_cake" %}
+{% include recipe.md %}

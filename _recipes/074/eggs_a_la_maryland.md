@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "074"
-id: 074/eggs_a_la_maryland
+recipe: 074/eggs_a_la_maryland
 page_order: 2
 ---
 # eggs a la maryland
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="074/eggs_a_la_maryland" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="074/eggs_a_la_maryland" %}
+{% include recipe.md %}

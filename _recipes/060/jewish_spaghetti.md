@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "060"
-id: 060/jewish_spaghetti
+recipe: 060/jewish_spaghetti
 page_order: 2
 ---
 # jewish spaghetti
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="060/jewish_spaghetti" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="060/jewish_spaghetti" %}
+{% include recipe.md %}

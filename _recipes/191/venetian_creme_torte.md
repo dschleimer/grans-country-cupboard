@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "191"
-id: 191/venetian_creme_torte
+recipe: 191/venetian_creme_torte
 page_order: 1
 ---
 # venetian creme torte
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="191/venetian_creme_torte" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="191/venetian_creme_torte" %}
+{% include recipe.md %}

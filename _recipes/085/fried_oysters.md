@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "085"
-id: 085/fried_oysters
+recipe: 085/fried_oysters
 page_order: 2
 ---
 # fried oysters
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="085/fried_oysters" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="085/fried_oysters" %}
+{% include recipe.md %}

@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "208"
-id: 208/linseed_note
+recipe: 208/linseed_note
 page_order: 2
 ---
 # linseed note
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="208/linseed_note" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="208/linseed_note" %}
+{% include recipe.md %}

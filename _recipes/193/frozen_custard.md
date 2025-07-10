@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "193"
-id: 193/frozen_custard
+recipe: 193/frozen_custard
 page_order: 1
 ---
 # frozen custard
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="193/frozen_custard" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="193/frozen_custard" %}
+{% include recipe.md %}

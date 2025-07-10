@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "147"
-id: 147/apple_cream_coffee_cake
+recipe: 147/apple_cream_coffee_cake
 page_order: 1
 ---
 # apple cream coffee cake
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="147/apple_cream_coffee_cake" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="147/apple_cream_coffee_cake" %}
+{% include recipe.md %}

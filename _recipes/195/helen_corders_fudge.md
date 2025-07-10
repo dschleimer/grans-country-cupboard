@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "195"
-id: 195/helen_corders_fudge
+recipe: 195/helen_corders_fudge
 page_order: 3
 ---
 # helen corders fudge
@@ -16,5 +16,4 @@ page_order: 3
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="195/helen_corders_fudge" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="195/helen_corders_fudge" %}
+{% include recipe.md %}

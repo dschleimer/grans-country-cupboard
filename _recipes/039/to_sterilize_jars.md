@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "039"
-id: 039/to_sterilize_jars
+recipe: 039/to_sterilize_jars
 page_order: 3
 ---
 # to sterilize jars
@@ -16,5 +16,4 @@ page_order: 3
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="039/to_sterilize_jars" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="039/to_sterilize_jars" %}
+{% include recipe.md %}

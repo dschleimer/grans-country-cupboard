@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "141"
-id: 141/chocolate_tapioca_cream
+recipe: 141/chocolate_tapioca_cream
 page_order: 1
 ---
 # chocolate tapioca cream
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="141/chocolate_tapioca_cream" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="141/chocolate_tapioca_cream" %}
+{% include recipe.md %}

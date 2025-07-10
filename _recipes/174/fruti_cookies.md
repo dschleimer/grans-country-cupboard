@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "174"
-id: 174/fruti_cookies
+recipe: 174/fruti_cookies
 page_order: 3
 ---
 # fruti cookies
@@ -16,5 +16,4 @@ page_order: 3
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="174/fruti_cookies" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="174/fruti_cookies" %}
+{% include recipe.md %}

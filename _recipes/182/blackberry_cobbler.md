@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "182"
-id: 182/blackberry_cobbler
+recipe: 182/blackberry_cobbler
 page_order: 1
 ---
 # blackberry cobbler
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="182/blackberry_cobbler" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="182/blackberry_cobbler" %}
+{% include recipe.md %}

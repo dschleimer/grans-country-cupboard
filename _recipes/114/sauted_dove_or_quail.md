@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "114"
-id: 114/sauted_dove_or_quail
+recipe: 114/sauted_dove_or_quail
 page_order: 2
 ---
 # sauted dove or quail
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="114/sauted_dove_or_quail" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="114/sauted_dove_or_quail" %}
+{% include recipe.md %}

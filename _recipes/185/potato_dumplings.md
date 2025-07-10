@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "185"
-id: 185/potato_dumplings
+recipe: 185/potato_dumplings
 page_order: 3
 ---
 # potato dumplings
@@ -16,5 +16,4 @@ page_order: 3
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="185/potato_dumplings" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="185/potato_dumplings" %}
+{% include recipe.md %}

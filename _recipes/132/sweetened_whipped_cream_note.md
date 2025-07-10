@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "132"
-id: 132/sweetened_whipped_cream_note
+recipe: 132/sweetened_whipped_cream_note
 page_order: 2
 ---
 # sweetened whipped cream note
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="132/sweetened_whipped_cream_note" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="132/sweetened_whipped_cream_note" %}
+{% include recipe.md %}

@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "114"
-id: 114/venison_patties
+recipe: 114/venison_patties
 page_order: 3
 ---
 # venison patties
@@ -16,5 +16,4 @@ page_order: 3
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="114/venison_patties" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="114/venison_patties" %}
+{% include recipe.md %}

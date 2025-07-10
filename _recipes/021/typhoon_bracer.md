@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "021"
-id: 021/typhoon_bracer
+recipe: 021/typhoon_bracer
 page_order: 3
 ---
 # typhoon bracer
@@ -16,5 +16,4 @@ page_order: 3
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="021/typhoon_bracer" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="021/typhoon_bracer" %}
+{% include recipe.md %}

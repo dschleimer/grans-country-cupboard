@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "142"
-id: 142/ice_-_box_pudding
+recipe: 142/ice_-_box_pudding
 page_order: 2
 ---
 # ice - box pudding
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="142/ice_-_box_pudding" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="142/ice_-_box_pudding" %}
+{% include recipe.md %}

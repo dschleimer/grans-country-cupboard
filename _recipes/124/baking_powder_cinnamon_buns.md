@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "124"
-id: 124/baking_powder_cinnamon_buns
+recipe: 124/baking_powder_cinnamon_buns
 page_order: 1
 ---
 # baking powder cinnamon buns
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="124/baking_powder_cinnamon_buns" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="124/baking_powder_cinnamon_buns" %}
+{% include recipe.md %}

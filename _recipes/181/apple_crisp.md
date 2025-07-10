@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "181"
-id: 181/apple_crisp
+recipe: 181/apple_crisp
 page_order: 1
 ---
 # apple crisp
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="181/apple_crisp" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="181/apple_crisp" %}
+{% include recipe.md %}

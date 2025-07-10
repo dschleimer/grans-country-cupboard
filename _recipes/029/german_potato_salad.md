@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "029"
-id: 029/german_potato_salad
+recipe: 029/german_potato_salad
 page_order: 1
 ---
 # german potato salad
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="029/german_potato_salad" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="029/german_potato_salad" %}
+{% include recipe.md %}

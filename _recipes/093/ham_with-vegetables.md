@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "093"
-id: 093/ham_with-vegetables
+recipe: 093/ham_with-vegetables
 page_order: 2
 ---
 # ham with-vegetables
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="093/ham_with-vegetables" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="093/ham_with-vegetables" %}
+{% include recipe.md %}

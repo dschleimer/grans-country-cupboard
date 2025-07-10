@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "100"
-id: 100/celery_note
+recipe: 100/celery_note
 page_order: 1
 ---
 # celery note
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="100/celery_note" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="100/celery_note" %}
+{% include recipe.md %}

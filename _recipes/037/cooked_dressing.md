@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "037"
-id: 037/cooked_dressing
+recipe: 037/cooked_dressing
 page_order: 1
 ---
 # cooked dressing
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="037/cooked_dressing" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="037/cooked_dressing" %}
+{% include recipe.md %}

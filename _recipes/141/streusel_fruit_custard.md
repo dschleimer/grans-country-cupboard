@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "141"
-id: 141/streusel_fruit_custard
+recipe: 141/streusel_fruit_custard
 page_order: 2
 ---
 # streusel fruit custard
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="141/streusel_fruit_custard" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="141/streusel_fruit_custard" %}
+{% include recipe.md %}

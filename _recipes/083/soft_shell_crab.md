@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "083"
-id: 083/soft_shell_crab
+recipe: 083/soft_shell_crab
 page_order: 3
 ---
 # soft shell crab
@@ -16,5 +16,4 @@ page_order: 3
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="083/soft_shell_crab" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="083/soft_shell_crab" %}
+{% include recipe.md %}

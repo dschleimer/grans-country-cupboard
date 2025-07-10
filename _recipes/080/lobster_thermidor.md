@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "080"
-id: 080/lobster_thermidor
+recipe: 080/lobster_thermidor
 page_order: 1
 ---
 # lobster thermidor
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="080/lobster_thermidor" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="080/lobster_thermidor" %}
+{% include recipe.md %}

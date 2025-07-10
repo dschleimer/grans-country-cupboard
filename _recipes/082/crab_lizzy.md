@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "082"
-id: 082/crab_lizzy
+recipe: 082/crab_lizzy
 page_order: 2
 ---
 # crab lizzy
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="082/crab_lizzy" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="082/crab_lizzy" %}
+{% include recipe.md %}

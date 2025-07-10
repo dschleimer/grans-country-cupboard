@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "155"
-id: 155/eggler_cake_-_no_icing
+recipe: 155/eggler_cake_-_no_icing
 page_order: 2
 ---
 # eggler cake - no icing
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="155/eggler_cake_-_no_icing" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="155/eggler_cake_-_no_icing" %}
+{% include recipe.md %}

@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "177"
-id: 177/orange_jambler_for_christmas
+recipe: 177/orange_jambler_for_christmas
 page_order: 3
 ---
 # orange jambler for christmas
@@ -16,5 +16,4 @@ page_order: 3
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="177/orange_jambler_for_christmas" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="177/orange_jambler_for_christmas" %}
+{% include recipe.md %}

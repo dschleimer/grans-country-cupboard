@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "201"
-id: 201/tomato_soy
+recipe: 201/tomato_soy
 page_order: 1
 ---
 # tomato soy
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="201/tomato_soy" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="201/tomato_soy" %}
+{% include recipe.md %}

@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "110"
-id: 110/hawaiian_chicken_wings
+recipe: 110/hawaiian_chicken_wings
 page_order: 2
 ---
 # hawaiian chicken wings
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="110/hawaiian_chicken_wings" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="110/hawaiian_chicken_wings" %}
+{% include recipe.md %}

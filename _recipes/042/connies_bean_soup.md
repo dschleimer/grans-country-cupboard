@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "042"
-id: 042/connies_bean_soup
+recipe: 042/connies_bean_soup
 page_order: 1
 ---
 # connies bean soup
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="042/connies_bean_soup" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="042/connies_bean_soup" %}
+{% include recipe.md %}

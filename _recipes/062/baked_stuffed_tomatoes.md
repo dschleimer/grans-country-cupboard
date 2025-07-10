@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "062"
-id: 062/baked_stuffed_tomatoes
+recipe: 062/baked_stuffed_tomatoes
 page_order: 2
 ---
 # baked stuffed tomatoes
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="062/baked_stuffed_tomatoes" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="062/baked_stuffed_tomatoes" %}
+{% include recipe.md %}

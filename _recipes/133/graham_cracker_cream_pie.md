@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "133"
-id: 133/graham_cracker_cream_pie
+recipe: 133/graham_cracker_cream_pie
 page_order: 1
 ---
 # graham cracker cream pie
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="133/graham_cracker_cream_pie" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="133/graham_cracker_cream_pie" %}
+{% include recipe.md %}

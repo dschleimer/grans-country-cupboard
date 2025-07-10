@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "083"
-id: 083/crab_tetrazzini
+recipe: 083/crab_tetrazzini
 page_order: 1
 ---
 # crab tetrazzini
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="083/crab_tetrazzini" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="083/crab_tetrazzini" %}
+{% include recipe.md %}

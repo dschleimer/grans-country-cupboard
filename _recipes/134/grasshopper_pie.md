@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "134"
-id: 134/grasshopper_pie
+recipe: 134/grasshopper_pie
 page_order: 1
 ---
 # grasshopper pie
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="134/grasshopper_pie" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="134/grasshopper_pie" %}
+{% include recipe.md %}

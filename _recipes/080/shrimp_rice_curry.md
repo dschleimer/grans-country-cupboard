@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "080"
-id: 080/shrimp_rice_curry
+recipe: 080/shrimp_rice_curry
 page_order: 2
 ---
 # shrimp rice curry
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="080/shrimp_rice_curry" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="080/shrimp_rice_curry" %}
+{% include recipe.md %}

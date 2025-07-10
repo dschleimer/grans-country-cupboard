@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "172"
-id: 172/soft_chocolate_cookies
+recipe: 172/soft_chocolate_cookies
 page_order: 3
 ---
 # soft chocolate cookies
@@ -16,5 +16,4 @@ page_order: 3
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="172/soft_chocolate_cookies" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="172/soft_chocolate_cookies" %}
+{% include recipe.md %}

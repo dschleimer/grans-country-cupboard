@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "007"
-id: 007/sausage_balls
+recipe: 007/sausage_balls
 page_order: 2
 ---
 # Sausage balls
@@ -16,6 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crops" id="007/sausage_balls" %}
-<br />
-{% include asset_link.html res="full_res" type="recipe_crops" id="007/sausage_balls" %}
+{% include recipe.md %}

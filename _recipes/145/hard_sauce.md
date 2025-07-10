@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "145"
-id: 145/hard_sauce
+recipe: 145/hard_sauce
 page_order: 2
 ---
 # hard sauce
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="145/hard_sauce" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="145/hard_sauce" %}
+{% include recipe.md %}

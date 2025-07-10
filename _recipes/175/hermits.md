@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "175"
-id: 175/hermits
+recipe: 175/hermits
 page_order: 2
 ---
 # hermits
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="175/hermits" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="175/hermits" %}
+{% include recipe.md %}

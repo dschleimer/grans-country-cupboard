@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "186"
-id: 186/peach_dumplings
+recipe: 186/peach_dumplings
 page_order: 2
 ---
 # peach dumplings
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="186/peach_dumplings" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="186/peach_dumplings" %}
+{% include recipe.md %}

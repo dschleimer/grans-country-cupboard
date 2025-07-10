@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "039"
-id: 039/onion_+_cucumber_relish
+recipe: 039/onion_+_cucumber_relish
 page_order: 1
 ---
 # onion + cucumber relish
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="039/onion_+_cucumber_relish" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="039/onion_+_cucumber_relish" %}
+{% include recipe.md %}

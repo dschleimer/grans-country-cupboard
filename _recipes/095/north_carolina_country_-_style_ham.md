@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "095"
-id: 095/north_carolina_country_-_style_ham
+recipe: 095/north_carolina_country_-_style_ham
 page_order: 2
 ---
 # north carolina country - style ham
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="095/north_carolina_country_-_style_ham" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="095/north_carolina_country_-_style_ham" %}
+{% include recipe.md %}

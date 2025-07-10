@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "071"
-id: 071/veal_curry_casserole
+recipe: 071/veal_curry_casserole
 page_order: 2
 ---
 # veal curry casserole
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="071/veal_curry_casserole" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="071/veal_curry_casserole" %}
+{% include recipe.md %}

@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "173"
-id: 173/christmas_cinnamon_snaps
+recipe: 173/christmas_cinnamon_snaps
 page_order: 1
 ---
 # christmas cinnamon snaps
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="173/christmas_cinnamon_snaps" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="173/christmas_cinnamon_snaps" %}
+{% include recipe.md %}

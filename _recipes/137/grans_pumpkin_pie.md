@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "137"
-id: 137/grans_pumpkin_pie
+recipe: 137/grans_pumpkin_pie
 page_order: 1
 ---
 # grans pumpkin pie
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="137/grans_pumpkin_pie" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="137/grans_pumpkin_pie" %}
+{% include recipe.md %}

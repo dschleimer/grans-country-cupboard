@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "079"
-id: 079/crab_delaware
+recipe: 079/crab_delaware
 page_order: 1
 ---
 # crab delaware
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="079/crab_delaware" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="079/crab_delaware" %}
+{% include recipe.md %}

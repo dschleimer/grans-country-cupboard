@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "072"
-id: 072/wranglers_omelet_with_cheese_sauce
+recipe: 072/wranglers_omelet_with_cheese_sauce
 page_order: 2
 ---
 # wranglers omelet with cheese sauce
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="072/wranglers_omelet_with_cheese_sauce" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="072/wranglers_omelet_with_cheese_sauce" %}
+{% include recipe.md %}

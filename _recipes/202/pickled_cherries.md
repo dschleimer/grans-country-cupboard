@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "202"
-id: 202/pickled_cherries
+recipe: 202/pickled_cherries
 page_order: 2
 ---
 # pickled cherries
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="202/pickled_cherries" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="202/pickled_cherries" %}
+{% include recipe.md %}

@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "148"
-id: 148/gingerbread
+recipe: 148/gingerbread
 page_order: 1
 ---
 # gingerbread
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="148/gingerbread" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="148/gingerbread" %}
+{% include recipe.md %}

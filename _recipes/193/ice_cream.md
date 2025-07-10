@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "193"
-id: 193/ice_cream
+recipe: 193/ice_cream
 page_order: 2
 ---
 # ice cream
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="193/ice_cream" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="193/ice_cream" %}
+{% include recipe.md %}

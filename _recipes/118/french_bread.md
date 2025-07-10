@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "118"
-id: 118/french_bread
+recipe: 118/french_bread
 page_order: 2
 ---
 # french bread
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="118/french_bread" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="118/french_bread" %}
+{% include recipe.md %}

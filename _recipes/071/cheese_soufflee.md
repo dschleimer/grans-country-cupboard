@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "071"
-id: 071/cheese_soufflee
+recipe: 071/cheese_soufflee
 page_order: 1
 ---
 # cheese soufflee
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="071/cheese_soufflee" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="071/cheese_soufflee" %}
+{% include recipe.md %}

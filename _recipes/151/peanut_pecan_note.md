@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "151"
-id: 151/peanut_pecan_note
+recipe: 151/peanut_pecan_note
 page_order: 2
 ---
 # peanut pecan note
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="151/peanut_pecan_note" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="151/peanut_pecan_note" %}
+{% include recipe.md %}

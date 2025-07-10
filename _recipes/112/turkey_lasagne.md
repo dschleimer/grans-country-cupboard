@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "112"
-id: 112/turkey_lasagne
+recipe: 112/turkey_lasagne
 page_order: 3
 ---
 # turkey lasagne
@@ -16,5 +16,4 @@ page_order: 3
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="112/turkey_lasagne" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="112/turkey_lasagne" %}
+{% include recipe.md %}

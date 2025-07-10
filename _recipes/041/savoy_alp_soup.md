@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "041"
-id: 041/savoy_alp_soup
+recipe: 041/savoy_alp_soup
 page_order: 2
 ---
 # savoy alp soup
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="041/savoy_alp_soup" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="041/savoy_alp_soup" %}
+{% include recipe.md %}

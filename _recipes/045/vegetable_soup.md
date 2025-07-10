@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "045"
-id: 045/vegetable_soup
+recipe: 045/vegetable_soup
 page_order: 1
 ---
 # vegetable soup
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="045/vegetable_soup" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="045/vegetable_soup" %}
+{% include recipe.md %}

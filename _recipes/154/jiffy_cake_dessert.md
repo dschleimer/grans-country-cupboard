@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "154"
-id: 154/jiffy_cake_dessert
+recipe: 154/jiffy_cake_dessert
 page_order: 2
 ---
 # jiffy cake dessert
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="154/jiffy_cake_dessert" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="154/jiffy_cake_dessert" %}
+{% include recipe.md %}

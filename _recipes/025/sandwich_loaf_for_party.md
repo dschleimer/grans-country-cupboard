@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "025"
-id: 025/sandwich_loaf_for_party
+recipe: 025/sandwich_loaf_for_party
 page_order: 1
 ---
 # sandwich loaf for party
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="025/sandwich_loaf_for_party" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="025/sandwich_loaf_for_party" %}
+{% include recipe.md %}

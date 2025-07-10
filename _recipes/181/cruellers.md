@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "181"
-id: 181/cruellers
+recipe: 181/cruellers
 page_order: 2
 ---
 # cruellers
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="181/cruellers" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="181/cruellers" %}
+{% include recipe.md %}

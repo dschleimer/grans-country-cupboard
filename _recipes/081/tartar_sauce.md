@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "081"
-id: 081/tartar_sauce
+recipe: 081/tartar_sauce
 page_order: 3
 ---
 # tartar sauce
@@ -16,5 +16,4 @@ page_order: 3
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="081/tartar_sauce" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="081/tartar_sauce" %}
+{% include recipe.md %}

@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "092"
-id: 092/ham_mousse
+recipe: 092/ham_mousse
 page_order: 2
 ---
 # ham mousse
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="092/ham_mousse" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="092/ham_mousse" %}
+{% include recipe.md %}

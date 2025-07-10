@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "135"
-id: 135/alene_mathers_lemon_pie
+recipe: 135/alene_mathers_lemon_pie
 page_order: 1
 ---
 # alene mathers lemon pie
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="135/alene_mathers_lemon_pie" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="135/alene_mathers_lemon_pie" %}
+{% include recipe.md %}

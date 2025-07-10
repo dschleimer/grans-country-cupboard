@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "081"
-id: 081/crab_dewey
+recipe: 081/crab_dewey
 page_order: 1
 ---
 # crab dewey
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="081/crab_dewey" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="081/crab_dewey" %}
+{% include recipe.md %}

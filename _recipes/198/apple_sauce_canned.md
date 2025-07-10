@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "198"
-id: 198/apple_sauce_canned
+recipe: 198/apple_sauce_canned
 page_order: 1
 ---
 # apple sauce canned
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="198/apple_sauce_canned" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="198/apple_sauce_canned" %}
+{% include recipe.md %}

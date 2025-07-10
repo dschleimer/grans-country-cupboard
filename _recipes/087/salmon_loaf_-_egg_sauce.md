@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "087"
-id: 087/salmon_loaf_-_egg_sauce
+recipe: 087/salmon_loaf_-_egg_sauce
 page_order: 2
 ---
 # salmon loaf - egg sauce
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="087/salmon_loaf_-_egg_sauce" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="087/salmon_loaf_-_egg_sauce" %}
+{% include recipe.md %}

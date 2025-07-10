@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "026"
-id: 026/mystery_sandwiches
+recipe: 026/mystery_sandwiches
 page_order: 3
 ---
 # mystery sandwiches
@@ -16,5 +16,4 @@ page_order: 3
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="026/mystery_sandwiches" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="026/mystery_sandwiches" %}
+{% include recipe.md %}

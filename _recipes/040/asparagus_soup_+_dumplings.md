@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "040"
-id: 040/asparagus_soup_+_dumplings
+recipe: 040/asparagus_soup_+_dumplings
 page_order: 1
 ---
 # asparagus soup + dumplings
@@ -16,5 +16,4 @@ page_order: 1
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="040/asparagus_soup_+_dumplings" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="040/asparagus_soup_+_dumplings" %}
+{% include recipe.md %}

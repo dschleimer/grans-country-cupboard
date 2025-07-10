@@ -1,7 +1,7 @@
 ---
 layout: default
 page: "119"
-id: 119/mauries_bread
+recipe: 119/mauries_bread
 page_order: 2
 ---
 # mauries bread
@@ -16,5 +16,4 @@ page_order: 2
 
 ## Notes
 
-{% include img.html res="web" type="recipe_crop" id="119/mauries_bread" %}
-{% include asset_link.html res="full_res" type="recipe_crop" id="119/mauries_bread" %}
+{% include recipe.md %}
