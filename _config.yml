@@ -43,6 +43,9 @@ titles_from_headings:
   strip_title: false
 
 collections:
+  recipes:
+    output: true
+    sort_by: page
   pages:
     output: true
     # order takes priority over sort_by

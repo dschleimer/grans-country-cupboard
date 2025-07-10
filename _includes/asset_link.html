@@ -9,5 +9,5 @@
     {%- assign prefix = "/assets" -%}
 {%- endif -%}
 <a href="{{prefix}}/{{include.res}}/{{include.type}}/{{include.id}}.{{ext}}" >
-    {{include.type | capitalize }} Full Resolution
+    {{include.type | split: "_" | first | capitalize }} Full Resolution
 </a>

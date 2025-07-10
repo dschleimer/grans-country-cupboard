@@ -1,0 +1,20 @@
+---
+layout: default
+page: "111"
+id: 111/chicken_turkey_or_ceal_croquettes
+page_order: 2
+---
+# chicken turkey or ceal croquettes
+
+## Ingredients
+
+| Ingredient | Amount | Unit | Notes |
+| ---------- | ------:|:---- | ----- |
+| | | | |
+
+## Method
+
+## Notes
+
+{% include img.html res="web" type="recipe_crop" id="111/chicken_turkey_or_ceal_croquettes" %}
+{% include asset_link.html res="full_res" type="recipe_crop" id="111/chicken_turkey_or_ceal_croquettes" %}
