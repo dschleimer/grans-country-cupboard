@@ -36,9 +36,16 @@
 {%endif%}
 
 {%capture chapter_url %}/chapters/{{page.chapter}}.html{%endcapture %}
-{%capture chapter_link %}[Chapter Index]({{chapter_url | relative_url}}){%endcapture %}
+{%capture chapter_link %}[Chapter Index]({{chapter_url | relative_url}}){%endcapture%}
 
-{{prev_link}}{{chapter_link}}{{next_link}}
+{%- capture doc_filter -%}doc.collection == "recipes" and doc.page == "{{page.number}}"{%- endcapture -%}
+{%-assign recipes = site.documents | where_exp: "doc", doc_filter -%}
+
+{{prev_link}}{{chapter_link}}{{next_link}}<br/>
+{%- for recipe in recipes -%}
+    [{%- include img.html res="thumbs" type="recipe_crops" id=recipe.recipe -%}]({{recipe.url | relative_url}})
+{%- endfor -%}
+<br />
 {% include img.html res="web" type="enhanced" id=page.number %}
 {%- include asset_link.html res="full_res" type="original" id=page.number -%} | {%- include asset_link.html res="full_res" type="enhanced" id=page.number -%}
 <br/>
