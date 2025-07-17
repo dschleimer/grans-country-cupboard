@@ -54,7 +54,7 @@ collections:
     order:
       - cover.md
       - title.md
-  chapters:
+  book_chapters:
     output: true
     sort_by: number
 

@@ -7,7 +7,7 @@
 {%- capture recipe_filter -%}doc.collection == "recipes" and doc.page == "{{page.number}}"{%- endcapture -%}
 {%-assign recipes = site.documents | where_exp: "doc", recipe_filter -%}
 
-{%- capture chapter_filter -%}doc.collection == "chapters" and doc.number == {{page.chapter}}{%- endcapture -%}
+{%- capture chapter_filter -%}doc.collection == "book_chapters" and doc.number == {{page.chapter}}{%- endcapture -%}
 {%-assign parent_chapter = site.documents | where_exp: "doc", chapter_filter | first -%}
 
 {% include nav_links.md parent=parent_chapter %}<br/>
