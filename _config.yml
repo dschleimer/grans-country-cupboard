@@ -31,7 +31,7 @@ github_username:  dschleimer
 repository: dschleimer/grans-country-cupboard
 
 # Build settings
-remote_theme: pages-themes/tactile@v0.2.0
+remote_theme: jekyll/minima@v2.5.2
 plugins:
   - jekyll-relative-links
   - jekyll-sitemap
