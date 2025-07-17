@@ -43,7 +43,7 @@ titles_from_headings:
   strip_title: false
 
 collections:
-  recipes:
+  book_recipes:
     output: true
     sort_by: recipe
   book_pages:
