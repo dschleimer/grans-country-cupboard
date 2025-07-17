@@ -1,7 +1,8 @@
 ---
+layout: default
 title: About
-permalink: /about/
 ---
+# About
 
 This is a digitization of my great grandmother's cookbook.
 The original was written by Elizabeth M. McGinley some time before
@@ -28,3 +29,5 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+{{page.path}}
