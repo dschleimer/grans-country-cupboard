@@ -1,14 +1,10 @@
-{%- if page.previous -%}
-    {%-capture prev_link -%}[Previous Recipe]({{page.previous.url | relative_url }}) | {% endcapture -%}
-{%- endif -%}
-{%- if page.next -%}
-    {%-capture next_link %} | [Next Recipe]({{page.next.url | relative_url }}){% endcapture -%}
-{%- endif -%}
-{%- capture page_url-%}/pages/{{page.page}}.html{%- endcapture -%}
-{%- capture page_link -%}[Page Index]({{page_url | relative_url}}){%- endcapture -%}
+
+{%- capture doc_filter -%}doc.collection == "pages" and doc.number == "{{page.page}}"{%- endcapture -%}
+{%- assign parent_page = site.documents | where_exp: "doc", doc_filter | first -%}
 
 {% include img.html res="web" type="recipe_crops" id=page.recipe %}
 <br />
 {% include asset_link.html res="full_res" type="recipe_crops" id=page.recipe %}
 <br />
-{{prev_link}}{{page_link}}{{next_link}}
+{% include nav_links.md parent=parent_page %}
+
