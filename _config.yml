@@ -46,7 +46,7 @@ collections:
   recipes:
     output: true
     sort_by: recipe
-  pages:
+  book_pages:
     output: true
     # order takes priority over sort_by
     # so this ends up going cover, title, 001, 002, ...

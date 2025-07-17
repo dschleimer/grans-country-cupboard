@@ -4,7 +4,7 @@
 layout: home
 ---
 
-{%assign page_groups = site.pages | group_by: "chapter" %}
+{%assign page_groups = site.book_pages | group_by: "chapter" %}
 {% for page_group in page_groups %}
   {%assign chapter = site.chapters | find: "number", page_group.name %}
 ### Chapter {{chapter.number}} - [{{chapter.title}}]({{chapter.url}})

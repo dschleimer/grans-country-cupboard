@@ -1,6 +1,6 @@
 {%- capture web -%}/assets/web/enhanced/{{page.title_page}}.jpg{%- endcapture -%}
 
-{%- assign chapter_pages = site.pages | where: "chapter", page.number -%}
+{%- assign chapter_pages = site.book_pages | where: "chapter", page.number -%}
 
 {%include nav_links.md %}
 <br/>
