@@ -20,7 +20,7 @@ categories:
 | Sherry          | 1/4 cup | |
 | Garlic          | 1 Clove | |
 | Ginger          | 1tbsp   | Powdered ginger per original recipe |
-| Top round steak | | Should be a htin rather than thick cut of steak |
+| Top round steak | | Should be a thin rather than thick cut of steak |
 | Bammboo Skewers | | |
 
 ## Method
