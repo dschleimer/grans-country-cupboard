@@ -3,6 +3,11 @@ layout: default
 page: "007"
 recipe: 007/sausage_balls
 page_order: 1
+categories:
+    - Appetizers
+    - Snacks
+    - Party Food
+    - Meat Balls
 ---
 # Sausage Balls
 

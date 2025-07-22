@@ -8,7 +8,7 @@ page_order: 2
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes | Notes |
+| Ingredient   | Amount  | Notes |
 | ------------ | ------- | ----- |
 | | | |
 

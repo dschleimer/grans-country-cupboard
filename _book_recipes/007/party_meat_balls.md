@@ -3,6 +3,11 @@ layout: default
 page: "007"
 recipe: 007/party_meat_balls
 page_order: 2
+categories:
+    - Appetizers
+    - Snacks
+    - Party Food
+    - Meat Balls
 ---
 # Party Meat Balls
 
