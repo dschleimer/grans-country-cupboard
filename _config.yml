@@ -57,6 +57,9 @@ collections:
   book_chapters:
     output: true
     sort_by: number
+  ingredients:
+    output: true
+    sort_by: ingredient
 
 header_pages:
   - about.markdown
