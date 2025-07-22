@@ -8,9 +8,9 @@ page_order: 2
 
 ## Ingredients
 
-| Ingredient | Amount | Unit | Notes |
-| ---------- | ------:|:---- | ----- |
-| | | | |
+| Ingredient   | Amount  | Notes | Notes |
+| ------------ | ------- | ----- |
+| | | |
 
 ## Method
 
