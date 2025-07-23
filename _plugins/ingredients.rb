@@ -55,14 +55,19 @@ module Ingredients
                 slug = Jekyll::Utils.slugify(ingredient)
                 path = File.join(site.source, '_ingredients', "#{slug}.md")
                 doc = Jekyll::Document.new(path, {:site => site, :collection => collection})
+                tag = "__ingredient:#{ingredient}"
+                recipes = site.collections["book_recipes"].docs.filter {|doc| doc.data['tags'].include?(tag)}.sort_by{|doc| doc.data['title'] }
+
                 doc.merge_data!({
                     "title" => ingredient.split().map {|w| w.capitalize}.join(" "),
                     "ingredient" => ingredient,
-                    "layout" => "default"
+                    "layout" => "default",
+                    "recipes" => recipes,
                 })
                 doc.content = '{% include ingredient.md %}'
                 collection.docs << doc
             end
+            collection.docs.sort_by! {|doc| doc.data['ingredient']}
         end
     end
 end
