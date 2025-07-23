@@ -1,4 +1,8 @@
-{%- assign category = page.collection | remove_first: "book_" | remove: "s" | capitalize -%}
+{%- if page.collection == "categories" -%}
+    {%- assign category = "Category" -%}
+{%- else -%}
+    {%- assign category = page.collection | remove_first: "book_" | remove: "s" | capitalize -%}
+{%- endif -%}
 {%- assign parent_category = include.parent.collection | default: "Home" | remove_first: "book_" | remove: "s" | capitalize -%}
 {%- assign parent_url = include.parent.url | default: "/" -%}
 
