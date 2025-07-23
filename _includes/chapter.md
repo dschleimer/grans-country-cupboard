@@ -3,7 +3,6 @@
 {%- assign chapter_pages = site.book_pages | where: "chapter", page.number -%}
 
 {%include nav_links.md %}
-<br/>
 {% include img.html res="web" type="enhanced" id=page.title_page %}
 
 ## Pages

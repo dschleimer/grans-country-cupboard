@@ -60,6 +60,7 @@ collections:
     output: true
 
 header_pages:
+  - book_chapters/index.md
   - about.markdown
 
 
