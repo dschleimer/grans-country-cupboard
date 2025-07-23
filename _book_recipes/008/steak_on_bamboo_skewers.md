@@ -34,6 +34,6 @@ categories:
 ## Notes
 
 ## Modern Notes
-Original recipe says to "barbeque on habachi" which I believe is using Hibachi as a genericized trademark for a charcoal briquette grill.  I interpret this to mean any flame grill would work, and assume most readers will have a propane rather than charcoal briquette grill.  --David S
+Original recipe says to "Barbeque on hibachi" which I believe is using Hibachi as a genericized trademark for a charcoal briquette grill.  I interpret this to mean any flame grill would work, and assume most readers will have a propane rather than charcoal briquette grill.  --David S
 
 {% include recipe.md %}
