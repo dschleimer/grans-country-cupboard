@@ -63,6 +63,7 @@ header_pages:
   - book_chapters/index.md
   - book_pages/index.md
   - book_recipes/index.md
+  - ingredients/index.md
   - about.markdown
 
 
