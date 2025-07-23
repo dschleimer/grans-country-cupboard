@@ -45,7 +45,6 @@ titles_from_headings:
 collections:
   book_recipes:
     output: true
-    sort_by: recipe
   book_pages:
     output: true
     # order takes priority over sort_by
@@ -59,7 +58,6 @@ collections:
     sort_by: number
   ingredients:
     output: true
-    sort_by: ingredient
 
 header_pages:
   - about.markdown
