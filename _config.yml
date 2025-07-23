@@ -61,6 +61,7 @@ collections:
 
 header_pages:
   - book_chapters/index.md
+  - book_pages/index.md
   - about.markdown
 
 
