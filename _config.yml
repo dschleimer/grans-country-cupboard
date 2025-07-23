@@ -58,14 +58,16 @@ collections:
     sort_by: number
   ingredients:
     output: true
+  categories:
+    output: true
 
 header_pages:
   - book_chapters/index.md
   - book_pages/index.md
   - book_recipes/index.md
+  - categories/index.md
   - ingredients/index.md
   - about.markdown
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
