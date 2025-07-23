@@ -21,7 +21,7 @@ categories:
 | Garlic          | 1 Clove | |
 | Ginger          | 1tbsp   | Powdered ginger per original recipe |
 | Top round steak | | Should be a thin rather than thick cut of steak |
-| Bammboo Skewers | | |
+| Bamboo Skewers  | | |
 
 ## Method
 1. Crush garlic
