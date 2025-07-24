@@ -4,7 +4,7 @@ page: "035"
 recipe: 035/seafood_salad_mold_for_16
 page_order: 2
 ---
-# seafood salad mold for 16
+# Seafood Salad Mold for 16
 
 ## Ingredients
 

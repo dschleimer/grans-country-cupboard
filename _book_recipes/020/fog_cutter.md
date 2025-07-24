@@ -4,7 +4,7 @@ page: "020"
 recipe: 020/fog_cutter
 page_order: 1
 ---
-# fog cutter
+# Fog Cutter
 
 ## Ingredients
 

@@ -4,7 +4,7 @@ page: "018"
 recipe: 018/artillery_punch
 page_order: 1
 ---
-# artillery punch
+# Artillery Punch
 
 ## Ingredients
 

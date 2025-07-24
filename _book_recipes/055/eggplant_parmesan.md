@@ -4,7 +4,7 @@ page: "055"
 recipe: 055/eggplant_parmesan
 page_order: 1
 ---
-# eggplant parmesan
+# Eggplant Parmesan
 
 ## Ingredients
 

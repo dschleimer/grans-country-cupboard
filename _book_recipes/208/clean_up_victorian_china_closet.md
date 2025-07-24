@@ -4,7 +4,7 @@ page: "208"
 recipe: 208/clean_up_victorian_china_closet
 page_order: 1
 ---
-# clean up victorian china closet
+# Clean Up Victorian China Closet
 
 ## Ingredients
 

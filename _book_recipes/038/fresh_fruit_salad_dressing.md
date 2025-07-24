@@ -4,7 +4,7 @@ page: "038"
 recipe: 038/fresh_fruit_salad_dressing
 page_order: 1
 ---
-# fresh fruit salad dressing
+# Fresh Fruit Salad Dressing
 
 ## Ingredients
 

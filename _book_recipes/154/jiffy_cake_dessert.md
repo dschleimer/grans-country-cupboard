@@ -4,7 +4,7 @@ page: "154"
 recipe: 154/jiffy_cake_dessert
 page_order: 2
 ---
-# jiffy cake dessert
+# Jiffy Cake Dessert
 
 ## Ingredients
 

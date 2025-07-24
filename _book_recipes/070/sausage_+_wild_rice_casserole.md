@@ -4,7 +4,7 @@ page: "070"
 recipe: 070/sausage_+_wild_rice_casserole
 page_order: 1
 ---
-# sausage + wild rice casserole
+# Sausage + Wild Rice Casserole
 
 ## Ingredients
 

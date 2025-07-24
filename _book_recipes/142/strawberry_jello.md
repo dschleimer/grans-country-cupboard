@@ -4,7 +4,7 @@ page: "142"
 recipe: 142/strawberry_jello
 page_order: 3
 ---
-# strawberry jello
+# Strawberry Jello
 
 ## Ingredients
 

@@ -4,7 +4,7 @@ page: "198"
 recipe: 198/preserved_strawberries
 page_order: 3
 ---
-# preserved strawberries
+# Preserved Strawberries
 
 ## Ingredients
 

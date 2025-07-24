@@ -4,7 +4,7 @@ page: "020"
 recipe: 020/trader_vics_punch
 page_order: 3
 ---
-# trader vics punch
+# Trader Vics Punch
 
 ## Ingredients
 

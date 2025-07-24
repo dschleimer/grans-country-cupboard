@@ -4,7 +4,7 @@ page: "016"
 recipe: 016/cream_puffs_with_ham
 page_order: 1
 ---
-# cream puffs with ham
+# Cream Puffs with Ham
 
 ## Ingredients
 

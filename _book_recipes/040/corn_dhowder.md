@@ -4,7 +4,7 @@ page: "040"
 recipe: 040/corn_dhowder
 page_order: 2
 ---
-# corn dhowder
+# Corn Dhowder
 
 ## Ingredients
 

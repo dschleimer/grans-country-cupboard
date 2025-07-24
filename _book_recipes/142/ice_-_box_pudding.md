@@ -4,7 +4,7 @@ page: "142"
 recipe: 142/ice_-_box_pudding
 page_order: 2
 ---
-# ice - box pudding
+# Ice - Box Pudding
 
 ## Ingredients
 

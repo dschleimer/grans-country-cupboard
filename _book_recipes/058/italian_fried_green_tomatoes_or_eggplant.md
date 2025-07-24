@@ -4,7 +4,7 @@ page: "058"
 recipe: 058/italian_fried_green_tomatoes_or_eggplant
 page_order: 2
 ---
-# italian fried green tomatoes or eggplant
+# Italian Fried Green Tomatoes or Eggplant
 
 ## Ingredients
 

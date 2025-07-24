@@ -4,7 +4,7 @@ page: "175"
 recipe: 175/hermits
 page_order: 2
 ---
-# hermits
+# Hermits
 
 ## Ingredients
 

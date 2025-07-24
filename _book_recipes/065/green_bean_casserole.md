@@ -4,7 +4,7 @@ page: "065"
 recipe: 065/green_bean_casserole
 page_order: 1
 ---
-# green bean casserole
+# Green Bean Casserole
 
 ## Ingredients
 

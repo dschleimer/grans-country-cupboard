@@ -4,7 +4,7 @@ page: "172"
 recipe: 172/bourbon_balls
 page_order: 1
 ---
-# bourbon balls
+# Bourbon Balls
 
 ## Ingredients
 

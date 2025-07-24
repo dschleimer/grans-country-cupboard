@@ -4,7 +4,7 @@ page: "009"
 recipe: 009/chedder_cheese_log
 page_order: 3
 ---
-# Chedder cheese log
+# Chedder Cheese Log
 
 ## Ingredients
 

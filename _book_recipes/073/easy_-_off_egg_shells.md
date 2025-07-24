@@ -4,7 +4,7 @@ page: "073"
 recipe: 073/easy_-_off_egg_shells
 page_order: 2
 ---
-# easy - off egg shells
+# Easy - Off Egg Shells
 
 ## Ingredients
 

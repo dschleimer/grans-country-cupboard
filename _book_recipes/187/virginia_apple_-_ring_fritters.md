@@ -4,7 +4,7 @@ page: "187"
 recipe: 187/virginia_apple_-_ring_fritters
 page_order: 3
 ---
-# virginia apple - ring fritters
+# Virginia Apple - Ring Fritters
 
 ## Ingredients
 

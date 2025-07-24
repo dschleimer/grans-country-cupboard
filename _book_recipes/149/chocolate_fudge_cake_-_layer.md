@@ -4,7 +4,7 @@ page: "149"
 recipe: 149/chocolate_fudge_cake_-_layer
 page_order: 1
 ---
-# chocolate fudge cake - layer
+# Chocolate Fudge Cake - Layer
 
 ## Ingredients
 

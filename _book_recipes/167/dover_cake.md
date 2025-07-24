@@ -4,7 +4,7 @@ page: "167"
 recipe: 167/dover_cake
 page_order: 2
 ---
-# dover cake
+# Dover Cake
 
 ## Ingredients
 

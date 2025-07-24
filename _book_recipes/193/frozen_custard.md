@@ -4,7 +4,7 @@ page: "193"
 recipe: 193/frozen_custard
 page_order: 1
 ---
-# frozen custard
+# Frozen Custard
 
 ## Ingredients
 

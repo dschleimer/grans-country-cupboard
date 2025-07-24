@@ -4,7 +4,7 @@ page: "140"
 recipe: 140/butterscotch_tarts
 page_order: 1
 ---
-# butterscotch tarts
+# Butterscotch Tarts
 
 ## Ingredients
 

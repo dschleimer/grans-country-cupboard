@@ -4,7 +4,7 @@ page: "019"
 recipe: 019/pina_colada
 page_order: 3
 ---
-# pina colada
+# Pina Colada
 
 ## Ingredients
 

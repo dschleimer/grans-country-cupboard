@@ -4,7 +4,7 @@ page: "162"
 recipe: 162/italian_plum_cake
 page_order: 2
 ---
-# italian plum cake
+# Italian Plum Cake
 
 ## Ingredients
 

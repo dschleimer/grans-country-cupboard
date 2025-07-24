@@ -4,7 +4,7 @@ page: "077"
 recipe: 077/quick_baked_fillets_of_fish
 page_order: 2
 ---
-# quick baked fillets of fish
+# Quick Baked Fillets of Fish
 
 ## Ingredients
 

@@ -4,7 +4,7 @@ page: "073"
 recipe: 073/blue_cheese_omelet
 page_order: 1
 ---
-# blue cheese omelet
+# Blue Cheese Omelet
 
 ## Ingredients
 

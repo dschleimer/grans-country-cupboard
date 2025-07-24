@@ -4,7 +4,7 @@ page: "169"
 recipe: 169/cream_cheese_frosting
 page_order: 1
 ---
-# cream cheese frosting
+# Cream Cheese Frosting
 
 ## Ingredients
 

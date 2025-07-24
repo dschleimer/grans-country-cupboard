@@ -4,7 +4,7 @@ page: "062"
 recipe: 062/baked_stuffed_tomatoes
 page_order: 2
 ---
-# baked stuffed tomatoes
+# Baked Stuffed Tomatoes
 
 ## Ingredients
 

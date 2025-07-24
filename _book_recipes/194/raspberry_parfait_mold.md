@@ -4,7 +4,7 @@ page: "194"
 recipe: 194/raspberry_parfait_mold
 page_order: 2
 ---
-# raspberry parfait mold
+# Raspberry Parfait Mold
 
 ## Ingredients
 

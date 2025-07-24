@@ -4,7 +4,7 @@ page: "206"
 recipe: 206/for_dried_beef_or_sugar_cured_hams
 page_order: 1
 ---
-# for dried beef or sugar cured hams
+# for Dried Beef or Sugar Cured Hams
 
 ## Ingredients
 

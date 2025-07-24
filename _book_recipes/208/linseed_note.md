@@ -4,7 +4,7 @@ page: "208"
 recipe: 208/linseed_note
 page_order: 2
 ---
-# linseed note
+# Linseed Note
 
 ## Ingredients
 

@@ -4,7 +4,7 @@ page: "145"
 recipe: 145/ernies_apple_cake
 page_order: 1
 ---
-# ernies apple cake
+# Ernies Apple Cake
 
 ## Ingredients
 

@@ -4,7 +4,7 @@ page: "018"
 recipe: 018/champagne_punch
 page_order: 2
 ---
-# champagne punch
+# Champagne Punch
 
 ## Ingredients
 

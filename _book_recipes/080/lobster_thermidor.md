@@ -4,7 +4,7 @@ page: "080"
 recipe: 080/lobster_thermidor
 page_order: 1
 ---
-# lobster thermidor
+# Lobster Thermidor
 
 ## Ingredients
 

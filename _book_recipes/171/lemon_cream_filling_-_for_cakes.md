@@ -4,7 +4,7 @@ page: "171"
 recipe: 171/lemon_cream_filling_-_for_cakes
 page_order: 2
 ---
-# lemon cream filling - for cakes
+# Lemon Cream Filling - for Cakes
 
 ## Ingredients
 

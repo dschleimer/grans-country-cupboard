@@ -4,7 +4,7 @@ page: "155"
 recipe: 155/eggler_cake_-_no_icing
 page_order: 2
 ---
-# eggler cake - no icing
+# Eggler Cake - No Icing
 
 ## Ingredients
 

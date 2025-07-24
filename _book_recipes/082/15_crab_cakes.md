@@ -4,7 +4,7 @@ page: "082"
 recipe: 082/15_crab_cakes
 page_order: 1
 ---
-# 15 crab cakes
+# 15 Crab Cakes
 
 ## Ingredients
 

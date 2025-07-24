@@ -4,7 +4,7 @@ page: "065"
 recipe: 065/lima_bean_casserole
 page_order: 2
 ---
-# lima bean casserole
+# Lima Bean Casserole
 
 ## Ingredients
 

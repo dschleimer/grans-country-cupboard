@@ -4,7 +4,7 @@ page: "119"
 recipe: 119/mauries_bread
 page_order: 2
 ---
-# mauries bread
+# Mauries Bread
 
 ## Ingredients
 

@@ -4,7 +4,7 @@ page: "156"
 recipe: 156/butter_sponge_cake
 page_order: 1
 ---
-# butter sponge cake
+# Butter Sponge Cake
 
 ## Ingredients
 

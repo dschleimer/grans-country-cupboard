@@ -4,7 +4,7 @@ page: "204"
 recipe: 204/grape_wine_referring_to_cherry_wine
 page_order: 2
 ---
-# grape wine referring to cherry wine
+# Grape Wine Referring To Cherry Wine
 
 ## Ingredients
 

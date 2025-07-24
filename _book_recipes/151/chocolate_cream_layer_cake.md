@@ -4,7 +4,7 @@ page: "151"
 recipe: 151/chocolate_cream_layer_cake
 page_order: 1
 ---
-# chocolate cream layer cake
+# Chocolate Cream Layer Cake
 
 ## Ingredients
 

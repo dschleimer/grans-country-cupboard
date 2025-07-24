@@ -4,7 +4,7 @@ page: "029"
 recipe: 029/grans_potato_salad
 page_order: 2
 ---
-# grans potato salad
+# Grans Potato Salad
 
 ## Ingredients
 

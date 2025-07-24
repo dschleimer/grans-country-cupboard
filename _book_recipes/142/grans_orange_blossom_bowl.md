@@ -4,7 +4,7 @@ page: "142"
 recipe: 142/grans_orange_blossom_bowl
 page_order: 1
 ---
-# grans orange blossom bowl
+# Grans Orange Blossom Bowl
 
 ## Ingredients
 

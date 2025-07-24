@@ -4,7 +4,7 @@ page: "105"
 recipe: 105/chestnuts_in_the_shell
 page_order: 1
 ---
-# chestnuts in the shell
+# Chestnuts in the Shell
 
 ## Ingredients
 

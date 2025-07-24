@@ -4,7 +4,7 @@ page: "099"
 recipe: 099/teriyaki
 page_order: 3
 ---
-# teriyaki
+# Teriyaki
 
 ## Ingredients
 

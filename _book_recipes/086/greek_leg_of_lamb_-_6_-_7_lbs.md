@@ -4,7 +4,7 @@ page: "086"
 recipe: 086/greek_leg_of_lamb_-_6_-_7_lbs
 page_order: 1
 ---
-# greek leg of lamb - 6 - 7 lbs
+# Greek Leg of Lamb - 6 - 7 Lbs
 
 ## Ingredients
 

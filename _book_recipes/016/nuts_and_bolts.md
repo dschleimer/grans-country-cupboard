@@ -4,7 +4,7 @@ page: "016"
 recipe: 016/nuts_and_bolts
 page_order: 2
 ---
-# nuts and bolts
+# Nuts and Bolts
 
 ## Ingredients
 

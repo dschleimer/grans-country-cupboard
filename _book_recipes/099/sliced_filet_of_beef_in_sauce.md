@@ -4,7 +4,7 @@ page: "099"
 recipe: 099/sliced_filet_of_beef_in_sauce
 page_order: 2
 ---
-# sliced filet of beef in sauce
+# Sliced Filet of Beef in Sauce
 
 ## Ingredients
 

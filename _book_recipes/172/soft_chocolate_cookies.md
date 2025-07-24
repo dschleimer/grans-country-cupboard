@@ -4,7 +4,7 @@ page: "172"
 recipe: 172/soft_chocolate_cookies
 page_order: 3
 ---
-# soft chocolate cookies
+# Soft Chocolate Cookies
 
 ## Ingredients
 

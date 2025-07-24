@@ -4,7 +4,7 @@ page: "067"
 recipe: 067/beef_casserole
 page_order: 1
 ---
-# beef casserole
+# Beef Casserole
 
 ## Ingredients
 

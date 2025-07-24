@@ -4,7 +4,7 @@ page: "118"
 recipe: 118/french_bread
 page_order: 2
 ---
-# french bread
+# French Bread
 
 ## Ingredients
 

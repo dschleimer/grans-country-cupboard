@@ -4,7 +4,7 @@ page: "061"
 recipe: 061/spanish_rice
 page_order: 2
 ---
-# spanish rice
+# Spanish Rice
 
 ## Ingredients
 

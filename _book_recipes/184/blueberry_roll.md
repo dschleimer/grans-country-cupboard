@@ -4,7 +4,7 @@ page: "184"
 recipe: 184/blueberry_roll
 page_order: 1
 ---
-# blueberry roll
+# Blueberry Roll
 
 ## Ingredients
 

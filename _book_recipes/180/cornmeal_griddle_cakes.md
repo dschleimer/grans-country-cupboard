@@ -4,7 +4,7 @@ page: "180"
 recipe: 180/cornmeal_griddle_cakes
 page_order: 1
 ---
-# cornmeal griddle cakes
+# Cornmeal Griddle Cakes
 
 ## Ingredients
 

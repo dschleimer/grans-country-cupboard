@@ -4,7 +4,7 @@ page: "127"
 recipe: 127/angel_pie
 page_order: 1
 ---
-# angel pie
+# Angel Pie
 
 ## Ingredients
 

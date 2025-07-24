@@ -4,7 +4,7 @@ page: "059"
 recipe: 059/fried_red_tomatoes_+_milk_gravy
 page_order: 1
 ---
-# fried red tomatoes + milk gravy
+# Fried Red Tomatoes + Milk Gravy
 
 ## Ingredients
 

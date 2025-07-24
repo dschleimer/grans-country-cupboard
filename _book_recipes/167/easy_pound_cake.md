@@ -4,7 +4,7 @@ page: "167"
 recipe: 167/easy_pound_cake
 page_order: 3
 ---
-# easy pound cake
+# Easy Pound Cake
 
 ## Ingredients
 

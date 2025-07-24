@@ -4,7 +4,7 @@ page: "140"
 recipe: 140/grans_baked_custard
 page_order: 2
 ---
-# grans baked custard
+# Grans Baked Custard
 
 ## Ingredients
 

@@ -4,7 +4,7 @@ page: "032"
 recipe: 032/strawberry_jello_salad
 page_order: 2
 ---
-# strawberry jello salad
+# Strawberry Jello Salad
 
 ## Ingredients
 

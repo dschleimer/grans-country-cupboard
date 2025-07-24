@@ -4,7 +4,7 @@ page: "112"
 recipe: 112/fried_rabbit
 page_order: 1
 ---
-# fried rabbit
+# Fried Rabbit
 
 ## Ingredients
 

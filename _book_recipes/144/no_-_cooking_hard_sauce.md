@@ -4,7 +4,7 @@ page: "144"
 recipe: 144/no_-_cooking_hard_sauce
 page_order: 1
 ---
-# no - cooking hard sauce
+# No - Cooking Hard Sauce
 
 ## Ingredients
 

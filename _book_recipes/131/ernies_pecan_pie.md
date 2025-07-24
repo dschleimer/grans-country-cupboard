@@ -4,7 +4,7 @@ page: "131"
 recipe: 131/ernies_pecan_pie
 page_order: 2
 ---
-# ernies pecan pie
+# Ernies Pecan Pie
 
 ## Ingredients
 

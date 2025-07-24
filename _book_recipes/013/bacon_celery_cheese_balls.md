@@ -4,7 +4,7 @@ page: "013"
 recipe: 013/bacon_celery_cheese_balls
 page_order: 1
 ---
-# Bacon celery cheese balls
+# Bacon Celery Cheese Balls
 
 ## Ingredients
 

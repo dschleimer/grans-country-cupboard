@@ -4,7 +4,7 @@ page: "043"
 recipe: 043/tomato_soup
 page_order: 2
 ---
-# tomato soup
+# Tomato Soup
 
 ## Ingredients
 

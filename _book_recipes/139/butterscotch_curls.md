@@ -4,7 +4,7 @@ page: "139"
 recipe: 139/butterscotch_curls
 page_order: 1
 ---
-# butterscotch curls
+# Butterscotch Curls
 
 ## Ingredients
 

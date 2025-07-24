@@ -4,7 +4,7 @@ page: "117"
 recipe: 117/christmas_bread
 page_order: 1
 ---
-# christmas bread
+# Christmas Bread
 
 ## Ingredients
 

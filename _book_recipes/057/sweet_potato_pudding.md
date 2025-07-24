@@ -4,7 +4,7 @@ page: "057"
 recipe: 057/sweet_potato_pudding
 page_order: 2
 ---
-# sweet potato pudding
+# Sweet Potato Pudding
 
 ## Ingredients
 

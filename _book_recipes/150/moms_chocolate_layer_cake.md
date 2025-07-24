@@ -4,7 +4,7 @@ page: "150"
 recipe: 150/moms_chocolate_layer_cake
 page_order: 1
 ---
-# moms chocolate layer cake
+# Moms Chocolate Layer Cake
 
 ## Ingredients
 

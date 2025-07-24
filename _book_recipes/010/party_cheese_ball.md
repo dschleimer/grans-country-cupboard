@@ -4,7 +4,7 @@ page: "010"
 recipe: 010/party_cheese_ball
 page_order: 3
 ---
-# Party cheese ball
+# Party Cheese Ball
 
 ## Ingredients
 

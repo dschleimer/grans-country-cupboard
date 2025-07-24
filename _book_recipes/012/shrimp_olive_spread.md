@@ -4,7 +4,7 @@ page: "012"
 recipe: 012/shrimp_olive_spread
 page_order: 3
 ---
-# Shrimp olive spread
+# Shrimp Olive Spread
 
 ## Ingredients
 

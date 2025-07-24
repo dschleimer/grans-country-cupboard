@@ -4,7 +4,7 @@ page: "037"
 recipe: 037/dressing_for_molded_fruit_salad
 page_order: 2
 ---
-# dressing for molded fruit salad
+# Dressing for Molded Fruit Salad
 
 ## Ingredients
 

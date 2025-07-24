@@ -4,7 +4,7 @@ page: "057"
 recipe: 057/crisp_onion_rings
 page_order: 1
 ---
-# crisp onion rings
+# Crisp Onion Rings
 
 ## Ingredients
 

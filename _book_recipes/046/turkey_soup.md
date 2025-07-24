@@ -4,7 +4,7 @@ page: "046"
 recipe: 046/turkey_soup
 page_order: 1
 ---
-# turkey soup
+# Turkey Soup
 
 ## Ingredients
 

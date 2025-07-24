@@ -4,7 +4,7 @@ page: "195"
 recipe: 195/everton_taffy
 page_order: 1
 ---
-# everton taffy
+# Everton Taffy
 
 ## Ingredients
 

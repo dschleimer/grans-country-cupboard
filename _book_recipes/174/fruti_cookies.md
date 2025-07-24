@@ -4,7 +4,7 @@ page: "174"
 recipe: 174/fruti_cookies
 page_order: 3
 ---
-# fruti cookies
+# Fruti Cookies
 
 ## Ingredients
 

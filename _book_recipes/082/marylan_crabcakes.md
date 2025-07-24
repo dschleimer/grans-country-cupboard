@@ -4,7 +4,7 @@ page: "082"
 recipe: 082/marylan_crabcakes
 page_order: 3
 ---
-# marylan crabcakes
+# Marylan Crabcakes
 
 ## Ingredients
 

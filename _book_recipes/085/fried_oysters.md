@@ -4,7 +4,7 @@ page: "085"
 recipe: 085/fried_oysters
 page_order: 2
 ---
-# fried oysters
+# Fried Oysters
 
 ## Ingredients
 

@@ -4,7 +4,7 @@ page: "125"
 recipe: 125/cream_puffs
 page_order: 1
 ---
-# cream puffs
+# Cream Puffs
 
 ## Ingredients
 

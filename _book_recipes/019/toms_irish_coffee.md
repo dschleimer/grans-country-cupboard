@@ -4,7 +4,7 @@ page: "019"
 recipe: 019/toms_irish_coffee
 page_order: 4
 ---
-# toms irish coffee
+# Toms Irish Coffee
 
 ## Ingredients
 

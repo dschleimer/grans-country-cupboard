@@ -4,7 +4,7 @@ page: "169"
 recipe: 169/grans_fruit_cake
 page_order: 2
 ---
-# grans fruit cake
+# Grans Fruit Cake
 
 ## Ingredients
 

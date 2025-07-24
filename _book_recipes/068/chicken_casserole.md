@@ -4,7 +4,7 @@ page: "068"
 recipe: 068/chicken_casserole
 page_order: 1
 ---
-# chicken casserole
+# Chicken Casserole
 
 ## Ingredients
 

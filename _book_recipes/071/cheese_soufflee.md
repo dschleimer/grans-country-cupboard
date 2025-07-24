@@ -4,7 +4,7 @@ page: "071"
 recipe: 071/cheese_soufflee
 page_order: 1
 ---
-# cheese soufflee
+# Cheese Soufflee
 
 ## Ingredients
 

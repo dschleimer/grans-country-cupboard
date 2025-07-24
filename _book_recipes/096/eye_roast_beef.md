@@ -4,7 +4,7 @@ page: "096"
 recipe: 096/eye_roast_beef
 page_order: 2
 ---
-# eye roast beef
+# Eye Roast Beef
 
 ## Ingredients
 

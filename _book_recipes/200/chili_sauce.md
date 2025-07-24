@@ -4,7 +4,7 @@ page: "200"
 recipe: 200/chili_sauce
 page_order: 1
 ---
-# chili sauce
+# Chili Sauce
 
 ## Ingredients
 

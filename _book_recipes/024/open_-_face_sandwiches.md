@@ -4,7 +4,7 @@ page: "024"
 recipe: 024/open_-_face_sandwiches
 page_order: 2
 ---
-# open - face sandwiches
+# Open - Face Sandwiches
 
 ## Ingredients
 

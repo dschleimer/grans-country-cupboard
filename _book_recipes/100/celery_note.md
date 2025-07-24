@@ -4,7 +4,7 @@ page: "100"
 recipe: 100/celery_note
 page_order: 1
 ---
-# celery note
+# Celery Note
 
 ## Ingredients
 

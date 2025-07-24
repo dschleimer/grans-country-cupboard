@@ -4,7 +4,7 @@ page: "110"
 recipe: 110/california_fried_chicken
 page_order: 1
 ---
-# california fried chicken
+# California Fried Chicken
 
 ## Ingredients
 

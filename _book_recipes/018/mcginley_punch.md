@@ -4,7 +4,7 @@ page: "018"
 recipe: 018/mcginley_punch
 page_order: 3
 ---
-# mcginley punch
+# McGinley Punch
 
 ## Ingredients
 

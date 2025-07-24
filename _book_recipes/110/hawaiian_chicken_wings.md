@@ -4,7 +4,7 @@ page: "110"
 recipe: 110/hawaiian_chicken_wings
 page_order: 2
 ---
-# hawaiian chicken wings
+# Hawaiian Chicken Wings
 
 ## Ingredients
 

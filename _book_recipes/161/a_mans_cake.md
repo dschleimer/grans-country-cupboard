@@ -4,7 +4,7 @@ page: "161"
 recipe: 161/a_mans_cake
 page_order: 1
 ---
-# a mans cake
+# a Mans Cake
 
 ## Ingredients
 

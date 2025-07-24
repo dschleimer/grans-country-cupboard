@@ -4,7 +4,7 @@ page: "038"
 recipe: 038/thousand_island_dressing
 page_order: 3
 ---
-# thousand island dressing
+# Thousand Island Dressing
 
 ## Ingredients
 

@@ -4,7 +4,7 @@ page: "060"
 recipe: 060/beths_spaghetti_for_12+
 page_order: 1
 ---
-# beths spaghetti for 12+
+# Beths Spaghetti for 12+
 
 ## Ingredients
 

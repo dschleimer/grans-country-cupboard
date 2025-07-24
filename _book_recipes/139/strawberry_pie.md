@@ -4,7 +4,7 @@ page: "139"
 recipe: 139/strawberry_pie
 page_order: 2
 ---
-# strawberry pie
+# Strawberry Pie
 
 ## Ingredients
 

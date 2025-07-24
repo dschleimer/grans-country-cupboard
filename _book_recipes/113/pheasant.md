@@ -4,7 +4,7 @@ page: "113"
 recipe: 113/pheasant
 page_order: 1
 ---
-# pheasant
+# Pheasant
 
 ## Ingredients
 

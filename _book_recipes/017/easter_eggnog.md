@@ -4,7 +4,7 @@ page: "017"
 recipe: 017/easter_eggnog
 page_order: 1
 ---
-# easter eggnog
+# Easter Eggnog
 
 ## Ingredients
 

@@ -4,7 +4,7 @@ page: "137"
 recipe: 137/grans_pumpkin_pie
 page_order: 1
 ---
-# grans pumpkin pie
+# Grans Pumpkin Pie
 
 ## Ingredients
 

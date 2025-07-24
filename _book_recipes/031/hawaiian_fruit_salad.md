@@ -4,7 +4,7 @@ page: "031"
 recipe: 031/hawaiian_fruit_salad
 page_order: 1
 ---
-# hawaiian fruit salad
+# Hawaiian Fruit Salad
 
 ## Ingredients
 

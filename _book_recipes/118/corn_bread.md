@@ -4,7 +4,7 @@ page: "118"
 recipe: 118/corn_bread
 page_order: 1
 ---
-# corn bread
+# Corn Bread
 
 ## Ingredients
 

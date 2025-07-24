@@ -4,7 +4,7 @@ page: "164"
 recipe: 164/tomato_soup_cake
 page_order: 2
 ---
-# tomato soup cake
+# Tomato Soup Cake
 
 ## Ingredients
 

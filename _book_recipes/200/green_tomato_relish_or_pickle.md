@@ -4,7 +4,7 @@ page: "200"
 recipe: 200/green_tomato_relish_or_pickle
 page_order: 2
 ---
-# green tomato relish or pickle
+# Green Tomato Relish or Pickle
 
 ## Ingredients
 

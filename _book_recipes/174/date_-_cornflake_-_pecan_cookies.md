@@ -4,7 +4,7 @@ page: "174"
 recipe: 174/date_-_cornflake_-_pecan_cookies
 page_order: 1
 ---
-# date - cornflake - pecan cookies
+# Date - Cornflake - Pecan Cookies
 
 ## Ingredients
 

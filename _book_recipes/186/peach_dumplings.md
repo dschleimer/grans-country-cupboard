@@ -4,7 +4,7 @@ page: "186"
 recipe: 186/peach_dumplings
 page_order: 2
 ---
-# peach dumplings
+# Peach Dumplings
 
 ## Ingredients
 

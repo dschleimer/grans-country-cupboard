@@ -4,7 +4,7 @@ page: "152"
 recipe: 152/rich_white_birthday_cake
 page_order: 2
 ---
-# rich white birthday cake
+# Rich White Birthday Cake
 
 ## Ingredients
 

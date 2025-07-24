@@ -4,7 +4,7 @@ page: "085"
 recipe: 085/devlied_clams
 page_order: 1
 ---
-# devlied clams
+# Devlied Clams
 
 ## Ingredients
 

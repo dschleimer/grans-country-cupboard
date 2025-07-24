@@ -4,7 +4,7 @@ page: "203"
 recipe: 203/sour_gherkins
 page_order: 1
 ---
-# sour gherkins
+# Sour Gherkins
 
 ## Ingredients
 

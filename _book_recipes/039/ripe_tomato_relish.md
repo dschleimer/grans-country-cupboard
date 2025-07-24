@@ -4,7 +4,7 @@ page: "039"
 recipe: 039/ripe_tomato_relish
 page_order: 2
 ---
-# ripe tomato relish
+# Ripe Tomato Relish
 
 ## Ingredients
 

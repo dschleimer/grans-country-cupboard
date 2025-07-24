@@ -4,7 +4,7 @@ page: "178"
 recipe: 178/toll_house_cookies
 page_order: 3
 ---
-# toll house cookies
+# Toll House Cookies
 
 ## Ingredients
 

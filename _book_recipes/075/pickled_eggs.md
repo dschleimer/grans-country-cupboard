@@ -4,7 +4,7 @@ page: "075"
 recipe: 075/pickled_eggs
 page_order: 1
 ---
-# pickled eggs
+# Pickled Eggs
 
 ## Ingredients
 

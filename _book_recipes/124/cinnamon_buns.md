@@ -4,7 +4,7 @@ page: "124"
 recipe: 124/cinnamon_buns
 page_order: 2
 ---
-# cinnamon buns
+# Cinnamon Buns
 
 ## Ingredients
 

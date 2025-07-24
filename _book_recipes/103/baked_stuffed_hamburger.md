@@ -4,7 +4,7 @@ page: "103"
 recipe: 103/baked_stuffed_hamburger
 page_order: 1
 ---
-# baked stuffed hamburger
+# Baked Stuffed Hamburger
 
 ## Ingredients
 

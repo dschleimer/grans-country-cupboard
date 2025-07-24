@@ -4,7 +4,7 @@ page: "084"
 recipe: 084/oyster_cakes_hollandaise
 page_order: 1
 ---
-# oyster cakes hollandaise
+# Oyster Cakes Hollandaise
 
 ## Ingredients
 

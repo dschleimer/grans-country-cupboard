@@ -4,7 +4,7 @@ page: "191"
 recipe: 191/venetian_creme_torte
 page_order: 1
 ---
-# venetian creme torte
+# Venetian Creme Torte
 
 ## Ingredients
 

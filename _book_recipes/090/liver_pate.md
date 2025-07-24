@@ -4,7 +4,7 @@ page: "090"
 recipe: 090/liver_pate
 page_order: 1
 ---
-# liver pate
+# Liver Pate
 
 ## Ingredients
 

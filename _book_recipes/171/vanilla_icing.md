@@ -4,7 +4,7 @@ page: "171"
 recipe: 171/vanilla_icing
 page_order: 4
 ---
-# vanilla icing
+# Vanilla Icing
 
 ## Ingredients
 

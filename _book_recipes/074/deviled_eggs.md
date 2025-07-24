@@ -4,7 +4,7 @@ page: "074"
 recipe: 074/deviled_eggs
 page_order: 1
 ---
-# deviled eggs
+# Deviled Eggs
 
 ## Ingredients
 

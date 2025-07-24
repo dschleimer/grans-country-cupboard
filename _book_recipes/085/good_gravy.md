@@ -4,7 +4,7 @@ page: "085"
 recipe: 085/good_gravy
 page_order: 3
 ---
-# good gravy
+# Good Gravy
 
 ## Ingredients
 

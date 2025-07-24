@@ -4,7 +4,7 @@ page: "078"
 recipe: 078/shrimp_with_romolade_sauce
 page_order: 2
 ---
-# shrimp with romolade sauce
+# Shrimp with Romolade Sauce
 
 ## Ingredients
 

@@ -4,7 +4,7 @@ page: "133"
 recipe: 133/graham_cracker_cream_pie
 page_order: 1
 ---
-# graham cracker cream pie
+# Graham Cracker Cream Pie
 
 ## Ingredients
 

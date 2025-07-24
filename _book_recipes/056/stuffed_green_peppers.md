@@ -4,7 +4,7 @@ page: "056"
 recipe: 056/stuffed_green_peppers
 page_order: 3
 ---
-# stuffed green peppers
+# Stuffed Green Peppers
 
 ## Ingredients
 

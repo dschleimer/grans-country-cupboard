@@ -4,7 +4,7 @@ page: "195"
 recipe: 195/famous_fudge
 page_order: 2
 ---
-# famous fudge
+# Famous Fudge
 
 ## Ingredients
 

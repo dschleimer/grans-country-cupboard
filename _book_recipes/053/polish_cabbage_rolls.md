@@ -4,7 +4,7 @@ page: "053"
 recipe: 053/polish_cabbage_rolls
 page_order: 1
 ---
-# polish cabbage rolls
+# Polish Cabbage Rolls
 
 ## Ingredients
 

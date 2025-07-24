@@ -4,7 +4,7 @@ page: "189"
 recipe: 189/blueberry_icebox_torte
 page_order: 2
 ---
-# blueberry icebox torte
+# Blueberry Icebox Torte
 
 ## Ingredients
 

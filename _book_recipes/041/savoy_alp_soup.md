@@ -4,7 +4,7 @@ page: "041"
 recipe: 041/savoy_alp_soup
 page_order: 2
 ---
-# savoy alp soup
+# Savoy Alp Soup
 
 ## Ingredients
 

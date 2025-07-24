@@ -4,7 +4,7 @@ page: "178"
 recipe: 178/ranger_cookies
 page_order: 1
 ---
-# ranger cookies
+# Ranger Cookies
 
 ## Ingredients
 

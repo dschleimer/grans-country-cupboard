@@ -4,7 +4,7 @@ page: "157"
 recipe: 157/fantastic_sheet_cake
 page_order: 1
 ---
-# fantastic sheet cake
+# Fantastic Sheet Cake
 
 ## Ingredients
 

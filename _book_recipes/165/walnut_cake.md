@@ -4,7 +4,7 @@ page: "165"
 recipe: 165/walnut_cake
 page_order: 2
 ---
-# walnut cake
+# Walnut Cake
 
 ## Ingredients
 

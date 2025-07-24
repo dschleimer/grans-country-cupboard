@@ -4,7 +4,7 @@ page: "098"
 recipe: 098/yorkshire_pudding
 page_order: 3
 ---
-# yorkshire pudding
+# Yorkshire Pudding
 
 ## Ingredients
 

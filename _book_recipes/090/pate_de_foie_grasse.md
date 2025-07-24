@@ -4,7 +4,7 @@ page: "090"
 recipe: 090/pate_de_foie_grasse
 page_order: 3
 ---
-# pate de foie grasse
+# Pate de Foie Grasse
 
 ## Ingredients
 

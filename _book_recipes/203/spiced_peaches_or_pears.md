@@ -4,7 +4,7 @@ page: "203"
 recipe: 203/spiced_peaches_or_pears
 page_order: 2
 ---
-# spiced peaches or pears
+# Spiced Peaches or Pears
 
 ## Ingredients
 

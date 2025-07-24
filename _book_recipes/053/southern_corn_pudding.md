@@ -4,7 +4,7 @@ page: "053"
 recipe: 053/southern_corn_pudding
 page_order: 2
 ---
-# southern corn pudding
+# Southern Corn Pudding
 
 ## Ingredients
 

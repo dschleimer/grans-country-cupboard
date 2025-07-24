@@ -4,7 +4,7 @@ page: "015"
 recipe: 015/deviled_ham_+_cheese_spread
 page_order: 1
 ---
-# Deviled ham + cheese spread
+# Deviled Ham + Cheese Spread
 
 ## Ingredients
 

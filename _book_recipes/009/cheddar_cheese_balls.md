@@ -4,7 +4,7 @@ page: "009"
 recipe: 009/cheddar_cheese_balls
 page_order: 2
 ---
-# Cheddar cheese balls
+# Cheddar Cheese Balls
 
 ## Ingredients
 

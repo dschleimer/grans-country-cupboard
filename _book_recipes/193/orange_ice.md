@@ -4,7 +4,7 @@ page: "193"
 recipe: 193/orange_ice
 page_order: 3
 ---
-# orange ice
+# Orange Ice
 
 ## Ingredients
 

@@ -4,7 +4,7 @@ page: "106"
 recipe: 106/veal_scallops_with_port
 page_order: 2
 ---
-# veal scallops with port
+# Veal Scallops with Port
 
 ## Ingredients
 

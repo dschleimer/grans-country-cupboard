@@ -4,7 +4,7 @@ page: "138"
 recipe: 138/rich_pumpkin_pie
 page_order: 2
 ---
-# rich pumpkin pie
+# Rich Pumpkin Pie
 
 ## Ingredients
 

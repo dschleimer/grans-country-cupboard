@@ -4,7 +4,7 @@ page: "152"
 recipe: 152/italian_cream_cake
 page_order: 1
 ---
-# italian cream cake
+# Italian Cream Cake
 
 ## Ingredients
 

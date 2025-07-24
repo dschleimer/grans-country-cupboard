@@ -4,7 +4,7 @@ page: "036"
 recipe: 036/evies_potato_salal_or_close_slaw_dressing
 page_order: 2
 ---
-# evies potato salal or close slaw dressing
+# Evies Potato Salal or Close Slaw Dressing
 
 ## Ingredients
 

@@ -4,7 +4,7 @@ page: "056"
 recipe: 056/candied_sweet_potatoes
 page_order: 1
 ---
-# candied sweet potatoes
+# Candied Sweet Potatoes
 
 ## Ingredients
 

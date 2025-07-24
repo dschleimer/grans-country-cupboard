@@ -4,7 +4,7 @@ page: "180"
 recipe: 180/pancakes
 page_order: 2
 ---
-# pancakes
+# Pancakes
 
 ## Ingredients
 

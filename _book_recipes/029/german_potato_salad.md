@@ -4,7 +4,7 @@ page: "029"
 recipe: 029/german_potato_salad
 page_order: 1
 ---
-# german potato salad
+# German Potato Salad
 
 ## Ingredients
 

@@ -4,7 +4,7 @@ page: "009"
 recipe: 009/beef_cream_cheese_log
 page_order: 1
 ---
-# Beef cream cheese log
+# Beef Cream Cheese Log
 
 ## Ingredients
 

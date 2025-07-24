@@ -4,7 +4,7 @@ page: "196"
 recipe: 196/2_-_4_-_6_molasses_candy
 page_order: 1
 ---
-# 2 - 4 - 6 molasses candy
+# 2 - 4 - 6 Molasses Candy
 
 ## Ingredients
 

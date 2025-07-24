@@ -4,7 +4,7 @@ page: "104"
 recipe: 104/hungraian_sauerbraten
 page_order: 1
 ---
-# hungraian sauerbraten
+# Hungraian Sauerbraten
 
 ## Ingredients
 

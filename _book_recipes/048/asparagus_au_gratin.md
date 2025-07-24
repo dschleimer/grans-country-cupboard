@@ -4,7 +4,7 @@ page: "048"
 recipe: 048/asparagus_au_gratin
 page_order: 1
 ---
-# asparagus au gratin
+# Asparagus Au Gratin
 
 ## Ingredients
 

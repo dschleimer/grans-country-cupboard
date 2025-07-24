@@ -4,7 +4,7 @@ page: "028"
 recipe: 028/chicken_salad
 page_order: 1
 ---
-# chicken salad
+# Chicken Salad
 
 ## Ingredients
 

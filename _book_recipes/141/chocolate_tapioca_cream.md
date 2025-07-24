@@ -4,7 +4,7 @@ page: "141"
 recipe: 141/chocolate_tapioca_cream
 page_order: 1
 ---
-# chocolate tapioca cream
+# Chocolate Tapioca Cream
 
 ## Ingredients
 

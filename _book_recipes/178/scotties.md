@@ -4,7 +4,7 @@ page: "178"
 recipe: 178/scotties
 page_order: 2
 ---
-# scotties
+# Scotties
 
 ## Ingredients
 

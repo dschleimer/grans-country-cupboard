@@ -4,7 +4,7 @@ page: "123"
 recipe: 123/cloud_biscuits
 page_order: 2
 ---
-# cloud biscuits
+# Cloud Biscuits
 
 ## Ingredients
 

@@ -4,7 +4,7 @@ page: "122"
 recipe: 122/cheese_biscuits
 page_order: 1
 ---
-# cheese biscuits
+# Cheese Biscuits
 
 ## Ingredients
 

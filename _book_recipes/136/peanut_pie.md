@@ -4,7 +4,7 @@ page: "136"
 recipe: 136/peanut_pie
 page_order: 2
 ---
-# peanut pie
+# Peanut Pie
 
 ## Ingredients
 

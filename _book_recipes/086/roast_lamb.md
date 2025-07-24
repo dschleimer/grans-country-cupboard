@@ -4,7 +4,7 @@ page: "086"
 recipe: 086/roast_lamb
 page_order: 2
 ---
-# roast lamb
+# Roast Lamb
 
 ## Ingredients
 

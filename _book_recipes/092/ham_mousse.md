@@ -4,7 +4,7 @@ page: "092"
 recipe: 092/ham_mousse
 page_order: 2
 ---
-# ham mousse
+# Ham Mousse
 
 ## Ingredients
 

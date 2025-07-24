@@ -4,7 +4,7 @@ page: "156"
 recipe: 156/crumb_cake
 page_order: 2
 ---
-# crumb cake
+# Crumb Cake
 
 ## Ingredients
 

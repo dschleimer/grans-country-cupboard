@@ -4,7 +4,7 @@ page: "082"
 recipe: 082/crab_lizzy
 page_order: 2
 ---
-# crab lizzy
+# Crab Lizzy
 
 ## Ingredients
 

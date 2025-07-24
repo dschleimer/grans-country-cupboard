@@ -4,7 +4,7 @@ page: "070"
 recipe: 070/tuna_cassarole
 page_order: 2
 ---
-# tuna cassarole
+# Tuna Cassarole
 
 ## Ingredients
 

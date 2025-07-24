@@ -4,7 +4,7 @@ page: "115"
 recipe: 115/roast_black_duck_or_wild_goose
 page_order: 1
 ---
-# roast black duck or wild goose
+# Roast Black Duck or Wild Goose
 
 ## Ingredients
 

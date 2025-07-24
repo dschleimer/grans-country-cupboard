@@ -4,7 +4,7 @@ page: "033"
 recipe: 033/molded_tuna_salad
 page_order: 2
 ---
-# molded tuna salad
+# Molded Tuna Salad
 
 ## Ingredients
 

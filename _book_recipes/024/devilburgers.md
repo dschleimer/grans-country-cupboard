@@ -4,7 +4,7 @@ page: "024"
 recipe: 024/devilburgers
 page_order: 1
 ---
-# devilburgers
+# Devilburgers
 
 ## Ingredients
 

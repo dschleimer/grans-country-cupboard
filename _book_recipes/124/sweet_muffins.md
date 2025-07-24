@@ -4,7 +4,7 @@ page: "124"
 recipe: 124/sweet_muffins
 page_order: 3
 ---
-# sweet muffins
+# Sweet Muffins
 
 ## Ingredients
 

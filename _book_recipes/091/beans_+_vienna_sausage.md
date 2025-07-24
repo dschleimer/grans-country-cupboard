@@ -4,7 +4,7 @@ page: "091"
 recipe: 091/beans_+_vienna_sausage
 page_order: 2
 ---
-# beans + vienna sausage
+# Beans + Vienna Sausage
 
 ## Ingredients
 

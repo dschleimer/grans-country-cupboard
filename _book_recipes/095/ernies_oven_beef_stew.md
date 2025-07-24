@@ -4,7 +4,7 @@ page: "095"
 recipe: 095/ernies_oven_beef_stew
 page_order: 1
 ---
-# ernies oven beef stew
+# Ernies Oven Beef Stew
 
 ## Ingredients
 

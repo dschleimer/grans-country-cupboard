@@ -4,7 +4,7 @@ page: "074"
 recipe: 074/eggs_a_la_maryland
 page_order: 2
 ---
-# eggs a la maryland
+# Eggs a La Maryland
 
 ## Ingredients
 

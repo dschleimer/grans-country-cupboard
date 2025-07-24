@@ -4,7 +4,7 @@ page: "102"
 recipe: 102/swedish_meat_balls
 page_order: 2
 ---
-# swedish meat balls
+# Swedish Meat Balls
 
 ## Ingredients
 

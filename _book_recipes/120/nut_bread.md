@@ -4,7 +4,7 @@ page: "120"
 recipe: 120/nut_bread
 page_order: 3
 ---
-# nut bread
+# Nut Bread
 
 ## Ingredients
 

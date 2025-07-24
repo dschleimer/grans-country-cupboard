@@ -4,7 +4,7 @@ page: "120"
 recipe: 120/date_and_nut_bread
 page_order: 2
 ---
-# date and nut bread
+# Date and Nut Bread
 
 ## Ingredients
 

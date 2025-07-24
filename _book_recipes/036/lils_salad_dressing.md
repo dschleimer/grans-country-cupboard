@@ -4,7 +4,7 @@ page: "036"
 recipe: 036/lils_salad_dressing
 page_order: 3
 ---
-# lils salad dressing
+# Lils Salad Dressing
 
 ## Ingredients
 

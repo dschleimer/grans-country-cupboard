@@ -4,7 +4,7 @@ page: "200"
 recipe: 200/pickling_note
 page_order: 3
 ---
-# pickling note
+# Pickling Note
 
 ## Ingredients
 

@@ -4,7 +4,7 @@ page: "021"
 recipe: 021/mai_-_tai
 page_order: 2
 ---
-# mai - tai
+# Mai - Tai
 
 ## Ingredients
 

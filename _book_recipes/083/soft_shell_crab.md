@@ -4,7 +4,7 @@ page: "083"
 recipe: 083/soft_shell_crab
 page_order: 3
 ---
-# soft shell crab
+# Soft Shell Crab
 
 ## Ingredients
 

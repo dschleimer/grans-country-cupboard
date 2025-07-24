@@ -4,7 +4,7 @@ page: "012"
 recipe: 012/crab_meat_spread
 page_order: 1
 ---
-# Crab meat spread
+# Crab Meat Spread
 
 ## Ingredients
 

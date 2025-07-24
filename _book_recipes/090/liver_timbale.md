@@ -4,7 +4,7 @@ page: "090"
 recipe: 090/liver_timbale
 page_order: 2
 ---
-# liver timbale
+# Liver Timbale
 
 ## Ingredients
 

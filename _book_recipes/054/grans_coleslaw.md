@@ -4,7 +4,7 @@ page: "054"
 recipe: 054/grans_coleslaw
 page_order: 2
 ---
-# grans coleslaw
+# Grans Coleslaw
 
 ## Ingredients
 

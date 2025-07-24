@@ -4,7 +4,7 @@ page: "175"
 recipe: 175/bonnys_ice_box_cookies
 page_order: 1
 ---
-# bonnys ice box cookies
+# Bonnys Ice Box Cookies
 
 ## Ingredients
 

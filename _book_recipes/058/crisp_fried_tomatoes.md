@@ -4,7 +4,7 @@ page: "058"
 recipe: 058/crisp_fried_tomatoes
 page_order: 1
 ---
-# crisp fried tomatoes
+# Crisp Fried Tomatoes
 
 ## Ingredients
 

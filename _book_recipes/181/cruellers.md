@@ -4,7 +4,7 @@ page: "181"
 recipe: 181/cruellers
 page_order: 2
 ---
-# cruellers
+# Cruellers
 
 ## Ingredients
 

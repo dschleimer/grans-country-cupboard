@@ -4,7 +4,7 @@ page: "117"
 recipe: 117/cinnamon_bread
 page_order: 2
 ---
-# cinnamon bread
+# Cinnamon Bread
 
 ## Ingredients
 

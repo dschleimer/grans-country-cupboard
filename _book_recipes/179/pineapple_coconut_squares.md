@@ -4,7 +4,7 @@ page: "179"
 recipe: 179/pineapple_coconut_squares
 page_order: 3
 ---
-# pineapple coconut squares
+# Pineapple Coconut Squares
 
 ## Ingredients
 

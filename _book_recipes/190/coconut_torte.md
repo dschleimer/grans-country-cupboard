@@ -4,7 +4,7 @@ page: "190"
 recipe: 190/coconut_torte
 page_order: 1
 ---
-# coconut torte
+# Coconut Torte
 
 ## Ingredients
 
