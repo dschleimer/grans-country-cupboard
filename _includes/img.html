@@ -1,4 +1,4 @@
-{%- if include.id == "cover" -%}
+{%- if include.id == "cover" and include.type != "homepage" -%}
     {%- assign type = "original" -%}
 {%- else -%}
     {%- assign type = include.type -%}
