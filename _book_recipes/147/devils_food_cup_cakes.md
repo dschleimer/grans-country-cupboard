@@ -3,6 +3,9 @@ layout: default
 page: "147"
 recipe: 147/devils_food_cup_cakes
 page_order: 2
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Devils Food Cup Cakes
 

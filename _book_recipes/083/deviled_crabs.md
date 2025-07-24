@@ -3,6 +3,9 @@ layout: default
 page: "083"
 recipe: 083/deviled_crabs
 page_order: 2
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Deviled Crabs
 

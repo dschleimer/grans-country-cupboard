@@ -3,6 +3,9 @@ layout: default
 page: "154"
 recipe: 154/jiffy_cake_dessert
 page_order: 2
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Jiffy Cake Dessert
 

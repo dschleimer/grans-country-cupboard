@@ -3,6 +3,9 @@ layout: default
 page: "058"
 recipe: 058/crisp_fried_tomatoes
 page_order: 1
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Crisp Fried Tomatoes
 

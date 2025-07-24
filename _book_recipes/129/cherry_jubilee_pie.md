@@ -3,6 +3,9 @@ layout: default
 page: "129"
 recipe: 129/cherry_jubilee_pie
 page_order: 1
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Cherry Jubilee Pie
 

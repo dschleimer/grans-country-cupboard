@@ -3,6 +3,9 @@ layout: default
 page: "167"
 recipe: 167/easy_pound_cake
 page_order: 3
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Easy Pound Cake
 

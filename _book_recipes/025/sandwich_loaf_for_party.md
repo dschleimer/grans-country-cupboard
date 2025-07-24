@@ -3,6 +3,9 @@ layout: default
 page: "025"
 recipe: 025/sandwich_loaf_for_party
 page_order: 1
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Sandwich Loaf for Party
 

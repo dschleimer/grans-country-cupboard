@@ -3,6 +3,9 @@ layout: default
 page: "112"
 recipe: 112/marinated_rabbit_-_oven_fried
 page_order: 2
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Marinated Rabbit - Oven Fried
 

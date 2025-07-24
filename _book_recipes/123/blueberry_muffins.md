@@ -3,6 +3,9 @@ layout: default
 page: "123"
 recipe: 123/blueberry_muffins
 page_order: 1
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Blueberry Muffins
 

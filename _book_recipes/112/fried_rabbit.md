@@ -3,6 +3,9 @@ layout: default
 page: "112"
 recipe: 112/fried_rabbit
 page_order: 1
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Fried Rabbit
 

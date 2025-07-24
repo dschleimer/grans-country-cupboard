@@ -3,6 +3,9 @@ layout: default
 page: "190"
 recipe: 190/coconut_torte
 page_order: 1
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Coconut Torte
 

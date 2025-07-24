@@ -3,6 +3,9 @@ layout: default
 page: "017"
 recipe: 017/mcginley_wedding_cold_duck
 page_order: 2
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # McGinley Wedding Cold Duck
 

@@ -3,6 +3,9 @@ layout: default
 page: "038"
 recipe: 038/fresh_fruit_salad_dressing
 page_order: 1
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Fresh Fruit Salad Dressing
 

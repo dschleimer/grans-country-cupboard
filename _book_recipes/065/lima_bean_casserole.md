@@ -3,6 +3,9 @@ layout: default
 page: "065"
 recipe: 065/lima_bean_casserole
 page_order: 2
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Lima Bean Casserole
 

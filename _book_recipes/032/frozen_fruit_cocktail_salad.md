@@ -3,6 +3,9 @@ layout: default
 page: "032"
 recipe: 032/frozen_fruit_cocktail_salad
 page_order: 1
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Frozen Fruit Cocktail Salad
 

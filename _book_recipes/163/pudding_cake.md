@@ -3,6 +3,9 @@ layout: default
 page: "163"
 recipe: 163/pudding_cake
 page_order: 2
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Pudding Cake
 

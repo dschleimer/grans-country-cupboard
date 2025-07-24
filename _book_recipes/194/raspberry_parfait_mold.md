@@ -3,6 +3,9 @@ layout: default
 page: "194"
 recipe: 194/raspberry_parfait_mold
 page_order: 2
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Raspberry Parfait Mold
 

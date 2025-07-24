@@ -3,6 +3,9 @@ layout: default
 page: "042"
 recipe: 042/connies_bean_soup
 page_order: 1
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Connies Bean Soup
 

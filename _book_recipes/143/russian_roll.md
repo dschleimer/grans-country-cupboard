@@ -3,6 +3,9 @@ layout: default
 page: "143"
 recipe: 143/russian_roll
 page_order: 1
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Russian Roll
 

@@ -3,6 +3,9 @@ layout: default
 page: "158"
 recipe: 158/carrot_cake
 page_order: 1
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Carrot Cake
 

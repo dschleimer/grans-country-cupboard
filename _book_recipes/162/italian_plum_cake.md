@@ -3,6 +3,9 @@ layout: default
 page: "162"
 recipe: 162/italian_plum_cake
 page_order: 2
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Italian Plum Cake
 

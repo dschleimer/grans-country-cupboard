@@ -3,6 +3,9 @@ layout: default
 page: "180"
 recipe: 180/pancakes
 page_order: 2
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Pancakes
 

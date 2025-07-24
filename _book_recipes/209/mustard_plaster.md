@@ -3,6 +3,9 @@ layout: default
 page: "209"
 recipe: 209/mustard_plaster
 page_order: 2
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Mustard Plaster
 

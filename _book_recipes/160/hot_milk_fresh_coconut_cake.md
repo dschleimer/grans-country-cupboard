@@ -3,6 +3,9 @@ layout: default
 page: "160"
 recipe: 160/hot_milk_fresh_coconut_cake
 page_order: 2
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Hot Milk Fresh Coconut Cake
 

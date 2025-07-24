@@ -3,6 +3,9 @@ layout: default
 page: "169"
 recipe: 169/grans_fruit_cake
 page_order: 2
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Grans Fruit Cake
 

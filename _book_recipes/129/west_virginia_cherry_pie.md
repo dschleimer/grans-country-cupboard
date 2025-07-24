@@ -3,6 +3,9 @@ layout: default
 page: "129"
 recipe: 129/west_virginia_cherry_pie
 page_order: 2
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # West Virginia Cherry Pie
 

@@ -3,6 +3,9 @@ layout: default
 page: "085"
 recipe: 085/devlied_clams
 page_order: 1
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Devlied Clams
 

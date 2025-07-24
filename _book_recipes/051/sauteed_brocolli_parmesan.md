@@ -3,6 +3,9 @@ layout: default
 page: "051"
 recipe: 051/sauteed_brocolli_parmesan
 page_order: 3
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Sauteed Brocolli Parmesan
 

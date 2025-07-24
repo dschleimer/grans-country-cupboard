@@ -3,6 +3,9 @@ layout: default
 page: "163"
 recipe: 163/english_tea_cake
 page_order: 1
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # English Tea Cake
 

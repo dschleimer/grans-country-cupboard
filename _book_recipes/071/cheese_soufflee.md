@@ -3,6 +3,9 @@ layout: default
 page: "071"
 recipe: 071/cheese_soufflee
 page_order: 1
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Cheese Soufflee
 

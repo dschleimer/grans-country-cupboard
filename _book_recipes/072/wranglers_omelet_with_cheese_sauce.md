@@ -3,6 +3,9 @@ layout: default
 page: "072"
 recipe: 072/wranglers_omelet_with_cheese_sauce
 page_order: 2
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Wranglers Omelet with Cheese Sauce
 

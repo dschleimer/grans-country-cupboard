@@ -3,6 +3,9 @@ layout: default
 page: "083"
 recipe: 083/soft_shell_crab
 page_order: 3
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Soft Shell Crab
 

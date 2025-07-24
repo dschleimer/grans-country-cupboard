@@ -3,6 +3,9 @@ layout: default
 page: "010"
 recipe: 010/dried_beef_ball
 page_order: 1
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Dried Beef Ball
 

@@ -3,6 +3,9 @@ layout: default
 page: "182"
 recipe: 182/blackberry_cobbler
 page_order: 1
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Blackberry Cobbler
 

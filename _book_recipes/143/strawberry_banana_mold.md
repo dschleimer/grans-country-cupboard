@@ -3,6 +3,9 @@ layout: default
 page: "143"
 recipe: 143/strawberry_banana_mold
 page_order: 2
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Strawberry Banana Mold
 

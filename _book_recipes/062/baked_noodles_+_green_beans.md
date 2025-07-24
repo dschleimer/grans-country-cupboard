@@ -3,6 +3,9 @@ layout: default
 page: "062"
 recipe: 062/baked_noodles_+_green_beans
 page_order: 1
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Baked Noodles + Green Beans
 

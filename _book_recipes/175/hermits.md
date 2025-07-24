@@ -3,6 +3,9 @@ layout: default
 page: "175"
 recipe: 175/hermits
 page_order: 2
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Hermits
 

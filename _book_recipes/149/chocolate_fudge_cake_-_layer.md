@@ -3,6 +3,9 @@ layout: default
 page: "149"
 recipe: 149/chocolate_fudge_cake_-_layer
 page_order: 1
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Chocolate Fudge Cake - Layer
 

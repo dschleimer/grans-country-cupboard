@@ -3,6 +3,9 @@ layout: default
 page: "198"
 recipe: 198/corn_canned
 page_order: 2
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Corn Canned
 

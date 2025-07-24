@@ -3,6 +3,9 @@ layout: default
 page: "110"
 recipe: 110/hawaiian_chicken_wings
 page_order: 2
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Hawaiian Chicken Wings
 

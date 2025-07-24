@@ -3,6 +3,9 @@ layout: default
 page: "200"
 recipe: 200/chili_sauce
 page_order: 1
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Chili Sauce
 

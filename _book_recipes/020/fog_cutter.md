@@ -3,6 +3,9 @@ layout: default
 page: "020"
 recipe: 020/fog_cutter
 page_order: 1
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Fog Cutter
 

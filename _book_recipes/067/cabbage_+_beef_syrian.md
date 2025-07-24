@@ -3,6 +3,9 @@ layout: default
 page: "067"
 recipe: 067/cabbage_+_beef_syrian
 page_order: 2
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Cabbage + Beef Syrian
 

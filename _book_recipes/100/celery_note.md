@@ -3,6 +3,9 @@ layout: default
 page: "100"
 recipe: 100/celery_note
 page_order: 1
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Celery Note
 

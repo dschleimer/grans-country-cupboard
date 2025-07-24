@@ -3,6 +3,9 @@ layout: default
 page: "200"
 recipe: 200/green_tomato_relish_or_pickle
 page_order: 2
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Green Tomato Relish or Pickle
 

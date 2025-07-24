@@ -3,6 +3,9 @@ layout: default
 page: "036"
 recipe: 036/lils_salad_dressing
 page_order: 3
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Lils Salad Dressing
 

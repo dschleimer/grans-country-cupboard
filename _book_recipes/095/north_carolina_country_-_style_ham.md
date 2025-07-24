@@ -3,6 +3,9 @@ layout: default
 page: "095"
 recipe: 095/north_carolina_country_-_style_ham
 page_order: 2
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # North Carolina Country - Style Ham
 

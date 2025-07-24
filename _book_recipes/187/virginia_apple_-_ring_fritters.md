@@ -3,6 +3,9 @@ layout: default
 page: "187"
 recipe: 187/virginia_apple_-_ring_fritters
 page_order: 3
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Virginia Apple - Ring Fritters
 

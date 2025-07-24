@@ -3,6 +3,9 @@ layout: default
 page: "202"
 recipe: 202/pickled_cherries
 page_order: 2
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Pickled Cherries
 

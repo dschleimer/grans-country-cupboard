@@ -3,6 +3,9 @@ layout: default
 page: "172"
 recipe: 172/bourbon_balls
 page_order: 1
+categories:
+    - Needs Transcription
+    - Needs Front Matter
 ---
 # Bourbon Balls
 
