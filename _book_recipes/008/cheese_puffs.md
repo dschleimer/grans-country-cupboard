@@ -3,6 +3,11 @@ layout: default
 page: "008"
 recipe: 008/cheese_puffs
 page_order: 2
+categories:
+    - Appetizers
+    - Snacks
+    - Party Food
+    - Cheese
 ---
 # Cheese Puffs
 
