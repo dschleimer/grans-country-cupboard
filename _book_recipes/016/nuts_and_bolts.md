@@ -5,7 +5,10 @@ recipe: 016/nuts_and_bolts
 page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Appetizers
+    - Snacks
+    - Party Food
+    - Finger Food
 ---
 # Nuts and Bolts
 

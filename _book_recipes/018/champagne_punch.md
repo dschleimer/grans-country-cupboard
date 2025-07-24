@@ -2,10 +2,15 @@
 layout: default
 page: "018"
 recipe: 018/champagne_punch
-page_order: 2
+page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Alcohol
+    - Drinks
+    - Punch
+    - Cocktail
+    - Mixed Drink
+    - Batch Drink
 ---
 # Champagne Punch
 

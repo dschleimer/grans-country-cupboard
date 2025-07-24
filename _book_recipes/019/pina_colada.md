@@ -2,10 +2,13 @@
 layout: default
 page: "019"
 recipe: 019/pina_colada
-page_order: 3
+page_order: 4
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Alcohol
+    - Drinks
+    - Cocktail
+    - Mixed Drink
 ---
 # Pina Colada
 

@@ -2,10 +2,13 @@
 layout: default
 page: "017"
 recipe: 017/easter_eggnog
-page_order: 1
+page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Alcohol
+    - Drinks
+    - Mixed Drink
+    - Batch Drink
 ---
 # Easter Eggnog
 

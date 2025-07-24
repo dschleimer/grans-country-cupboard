@@ -2,10 +2,15 @@
 layout: default
 page: "018"
 recipe: 018/mcginley_punch
-page_order: 3
+page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Alcohol
+    - Drinks
+    - Punch
+    - Cocktail
+    - Mixed Drink
+    - Batch Drink
 ---
 # McGinley Punch
 

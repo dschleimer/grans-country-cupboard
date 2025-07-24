@@ -2,12 +2,15 @@
 layout: default
 page: "019"
 recipe: 019/toms_irish_coffee
-page_order: 4
+page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Alcohol
+    - Drinks
+    - Cocktail
+    - Mixed Drink
 ---
-# Toms Irish Coffee
+# Tom's Irish Coffee
 
 ## Ingredients
 

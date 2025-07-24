@@ -5,7 +5,10 @@ recipe: 019/cafe_brulot
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Alcohol
+    - Drinks
+    - Cocktail
+    - Mixed Drink
 ---
 # Cafe Brulot
 

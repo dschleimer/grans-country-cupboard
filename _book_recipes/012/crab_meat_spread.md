@@ -2,10 +2,14 @@
 layout: default
 page: "012"
 recipe: 012/crab_meat_spread
-page_order: 1
+page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Appetizers
+    - Snacks
+    - Party Food
+    - Dips
+    - Spreads
 ---
 # Crab Meat Spread
 

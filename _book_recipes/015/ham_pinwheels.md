@@ -2,10 +2,13 @@
 layout: default
 page: "015"
 recipe: 015/ham_pinwheels
-page_order: 3
+page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Appetizers
+    - Snacks
+    - Party Food
+    - Finger Food
 ---
 # Ham Pinwheels
 

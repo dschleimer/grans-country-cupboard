@@ -5,7 +5,10 @@ recipe: 014/rye_niblets
 page_order: 3
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Appetizers
+    - Snacks
+    - Party Food
+    - Finger Food
 ---
 # Rye Niblets
 

@@ -5,7 +5,11 @@ recipe: 011/guacamole
 page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Appetizers
+    - Snacks
+    - Party Food
+    - Dips
+    - Spreads
 ---
 # Guacamole
 

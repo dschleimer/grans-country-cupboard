@@ -5,7 +5,10 @@ recipe: 016/cream_puffs_with_ham
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Appetizers
+    - Snacks
+    - Party Food
+    - Finger Food
 ---
 # Cream Puffs with Ham
 

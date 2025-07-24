@@ -5,7 +5,10 @@ recipe: 011/cheese_+_bread_puffs
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Appetizers
+    - Snacks
+    - Party Food
+    - Finger Food
 ---
 # Cheese + Bread Puffs
 

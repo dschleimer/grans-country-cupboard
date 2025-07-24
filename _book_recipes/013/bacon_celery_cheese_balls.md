@@ -2,12 +2,14 @@
 layout: default
 page: "013"
 recipe: 013/bacon_celery_cheese_balls
-page_order: 1
+page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Appetizers
+    - Snacks
+    - Party Food
 ---
-# Bacon Celery Cheese Balls
+# Bacon, Celery, Cheese Balls
 
 ## Ingredients
 

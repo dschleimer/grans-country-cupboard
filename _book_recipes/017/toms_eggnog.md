@@ -5,9 +5,12 @@ recipe: 017/toms_eggnog
 page_order: 3
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Alcohol
+    - Drinks
+    - Mixed Drink
+    - Batch Drink
 ---
-# Toms Eggnog
+# Tom's Eggnog
 
 ## Ingredients
 

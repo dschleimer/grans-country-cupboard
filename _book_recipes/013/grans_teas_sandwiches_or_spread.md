@@ -2,12 +2,16 @@
 layout: default
 page: "013"
 recipe: 013/grans_teas_sandwiches_or_spread
-page_order: 2
+page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Appetizers
+    - Party Food
+    - Finger Food
+    - Spread
+    - Sandwiches
 ---
-# Grans Teas Sandwiches or Spread
+# Gran's Teas Sandwiches or Spread
 
 ## Ingredients
 

@@ -2,10 +2,13 @@
 layout: default
 page: "012"
 recipe: 012/shrimp_dip
-page_order: 2
+page_order: 3
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Appetizers
+    - Snacks
+    - Party Food
+    - Dips
 ---
 # Shrimp Dip
 
