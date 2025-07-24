@@ -29,6 +29,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dschleimer
 repository: dschleimer/grans-country-cupboard
+github:
+  source:
+    branch: main
 
 # Build settings
 remote_theme: jekyll/minima@v2.5.2
@@ -37,6 +40,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - jekyll-remote-theme
+  - jekyll-github-metadata
+
 
 titles_from_headings:
   collections: true

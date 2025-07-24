@@ -20,6 +20,7 @@ group :jekyll_plugins do
   gem 'jekyll-titles-from-headings', '~> 0.5.3'
   gem 'jekyll-remote-theme', '~> 0.4.3'
   gem 'jekyll-feed', '~> 0.17.0'
+  gem 'jekyll-github-metadata'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
