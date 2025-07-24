@@ -2,10 +2,13 @@
 layout: default
 page: "009"
 recipe: 009/chedder_cheese_log
-page_order: 3
+page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Appetizers
+    - Snacks
+    - Party Food
+    - Cheese
 ---
 # Chedder Cheese Log
 

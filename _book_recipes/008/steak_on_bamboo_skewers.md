@@ -8,6 +8,7 @@ categories:
     - Snacks
     - Party Food
     - Kebab
+    - Finger Food
 ---
 # Steak on Bamboo Skewers
 
