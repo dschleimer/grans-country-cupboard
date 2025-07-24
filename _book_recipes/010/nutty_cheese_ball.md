@@ -5,7 +5,10 @@ recipe: 010/nutty_cheese_ball
 page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Appetizers
+    - Snacks
+    - Party Food
+    - Finger Food
 ---
 # Nutty Cheese Ball
 

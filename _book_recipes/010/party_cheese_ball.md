@@ -5,7 +5,10 @@ recipe: 010/party_cheese_ball
 page_order: 3
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Appetizers
+    - Snacks
+    - Party Food
+    - Finger Food
 ---
 # Party Cheese Ball
 

@@ -5,7 +5,10 @@ recipe: 010/dried_beef_ball
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Appetizers
+    - Snacks
+    - Party Food
+    - Finger Food
 ---
 # Dried Beef Ball
 
