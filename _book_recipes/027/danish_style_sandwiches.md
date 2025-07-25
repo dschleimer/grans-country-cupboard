@@ -5,7 +5,10 @@ recipe: 027/danish_style_sandwiches
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Sandwich
+    - Cold Sandwich
+    - Party Food
+    - Finger Food
 ---
 # Danish Style Sandwiches
 

@@ -5,7 +5,10 @@ recipe: 028/ham_salad_sandwiches
 page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Salad
+    - Sandwich
+    - Cold Sandwich
+    - Finger Food
 ---
 # Ham Salad Sandwiches
 

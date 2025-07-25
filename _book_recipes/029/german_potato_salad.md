@@ -5,7 +5,9 @@ recipe: 029/german_potato_salad
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Salad
+    - Hot Salad
+    - Cold Salad
 ---
 # German Potato Salad
 

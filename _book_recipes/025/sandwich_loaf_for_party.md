@@ -5,7 +5,10 @@ recipe: 025/sandwich_loaf_for_party
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Sandwich
+    - Cold Sandwich
+    - Party Food
+    - Finger Food
 ---
 # Sandwich Loaf for Party
 

@@ -2,10 +2,13 @@
 layout: page
 page: "021"
 recipe: 021/mai_-_tai
-page_order: 2
+page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Alcohol
+    - Drinks
+    - Cocktail
+    - Mixed Drink
 ---
 # Mai - Tai
 

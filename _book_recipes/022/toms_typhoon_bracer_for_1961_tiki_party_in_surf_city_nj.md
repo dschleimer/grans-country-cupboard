@@ -2,12 +2,16 @@
 layout: page
 page: "022"
 recipe: 022/toms_typhoon_bracer_for_1961_tiki_party_in_surf_city_nj
-page_order: 2
+page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Alcohol
+    - Drinks
+    - Cocktail
+    - Mixed Drink
+    - Batch Drink
 ---
-# Toms Typhoon Bracer for 1961 Tiki Party in Surf City NJ
+# Tom's Typhoon Bracer for 1961 Tiki Party in Surf City NJ
 
 ## Ingredients
 

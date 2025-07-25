@@ -2,10 +2,13 @@
 layout: page
 page: "020"
 recipe: 020/fog_cutter
-page_order: 1
+page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Alcohol
+    - Drinks
+    - Cocktail
+    - Mixed Drink
 ---
 # Fog Cutter
 

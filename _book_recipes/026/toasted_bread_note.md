@@ -5,7 +5,7 @@ recipe: 026/toasted_bread_note
 page_order: 4
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Notes from Gran
 ---
 # Toasted Bread Note
 

@@ -2,10 +2,13 @@
 layout: page
 page: "021"
 recipe: 021/typhoon_bracer
-page_order: 3
+page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Alcohol
+    - Drinks
+    - Cocktail
+    - Mixed Drink
 ---
 # Typhoon Bracer
 

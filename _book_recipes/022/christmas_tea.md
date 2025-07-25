@@ -2,10 +2,12 @@
 layout: page
 page: "022"
 recipe: 022/christmas_tea
-page_order: 1
+page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+    - Beverages
+    - Drinks
+    - Mixed Drink
+    - Batch Drink
 ---
 # Christmas Tea
 

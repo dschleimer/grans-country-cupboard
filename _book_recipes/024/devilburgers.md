@@ -5,7 +5,11 @@ recipe: 024/devilburgers
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Sandwich
+    - Hot Sandwich
+    - Burger
+    - Spicy
+    - Finger Food
 ---
 # Devilburgers
 

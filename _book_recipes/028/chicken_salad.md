@@ -5,7 +5,8 @@ recipe: 028/chicken_salad
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Salad
+
 ---
 # Chicken Salad
 

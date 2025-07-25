@@ -5,7 +5,9 @@ recipe: 026/egg_and_olive_sandwiches
 page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Sandwich
+    - Cold Sandwich
+    - Finger Food
 ---
 # Egg and Olive Sandwiches
 
