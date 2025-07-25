@@ -12,7 +12,14 @@
 
 {% include nav_links.md parent=parent_chapter %}<br/>
 {%- for recipe in recipes -%}
-    [{%- include img.html res="thumbs" type="recipe_crops" id=recipe.recipe -%}]({{recipe.url | relative_url}})
+    <span style="display:inline-block;padding: 10px">
+      <span style="display:block;text-align: center">
+        [{%- include img.html res="thumbs" type="recipe_crops" id=recipe.recipe -%}]({{recipe.url}})
+      </span>
+      <span style="display:block;text-align: center">
+        [{{recipe.title}}]({{recipe.url}})
+      </span>
+    </span>
 {%- endfor -%}
 <br />
 {% include img.html res="web" type="enhanced" id=page.number %}

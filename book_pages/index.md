@@ -10,7 +10,7 @@ layout: page
   {%assign chapter = site.book_chapters | find: "number", page_group.name %}
 ### Chapter {{chapter.number}} - [{{chapter.title}}]({{chapter.url}})
 {% for page in page_group.items -%}
-    <span style="display:inline-block">
+    <span style="display:inline-block;padding: 10px">
       <span style="display:block">
         [{%- include img.html res="thumbs" type="enhanced" id=page.number -%}]({{page.url}})
       </span>
