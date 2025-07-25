@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "127"
 recipe: 127/pie_crust
 page_order: 2

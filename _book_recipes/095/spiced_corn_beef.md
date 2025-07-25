@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "095"
 recipe: 095/spiced_corn_beef
 page_order: 3

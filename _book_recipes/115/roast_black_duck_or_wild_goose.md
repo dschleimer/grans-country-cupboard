@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "115"
 recipe: 115/roast_black_duck_or_wild_goose
 page_order: 1

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "040"
 recipe: 040/asparagus_soup_+_dumplings
 page_order: 1

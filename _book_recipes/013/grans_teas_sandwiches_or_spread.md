@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "013"
 recipe: 013/grans_teas_sandwiches_or_spread
 page_order: 1

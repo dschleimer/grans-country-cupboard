@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "180"
 recipe: 180/potato_pancakes
 page_order: 3

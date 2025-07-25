@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "201"
 recipe: 201/tomato_soy
 page_order: 1

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "016"
 recipe: 016/cream_puffs_with_ham
 page_order: 1

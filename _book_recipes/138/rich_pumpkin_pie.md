@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "138"
 recipe: 138/rich_pumpkin_pie
 page_order: 2

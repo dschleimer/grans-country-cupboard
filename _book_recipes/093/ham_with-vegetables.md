@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "093"
 recipe: 093/ham_with-vegetables
 page_order: 2

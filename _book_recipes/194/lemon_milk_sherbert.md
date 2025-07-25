@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "194"
 recipe: 194/lemon_milk_sherbert
 page_order: 1

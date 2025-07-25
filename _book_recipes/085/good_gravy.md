@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "085"
 recipe: 085/good_gravy
 page_order: 3

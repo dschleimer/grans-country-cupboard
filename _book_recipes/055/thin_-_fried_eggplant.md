@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "055"
 recipe: 055/thin_-_fried_eggplant
 page_order: 3

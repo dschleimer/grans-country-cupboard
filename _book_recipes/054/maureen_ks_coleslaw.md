@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "054"
 recipe: 054/maureen_ks_coleslaw
 page_order: 3

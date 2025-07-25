@@ -1,6 +1,6 @@
 ---
 title: Pages
-layout: default
+layout: page
 ---
 
 # Browse by Page

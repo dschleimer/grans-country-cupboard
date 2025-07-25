@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "137"
 recipe: 137/mary_janes_pumpkin_pie
 page_order: 2

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "015"
 recipe: 015/deviled_ham_+_cheese_spread
 page_order: 3

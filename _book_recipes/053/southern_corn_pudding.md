@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "053"
 recipe: 053/southern_corn_pudding
 page_order: 2

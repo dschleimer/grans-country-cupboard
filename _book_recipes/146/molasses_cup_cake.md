@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "146"
 recipe: 146/molasses_cup_cake
 page_order: 3

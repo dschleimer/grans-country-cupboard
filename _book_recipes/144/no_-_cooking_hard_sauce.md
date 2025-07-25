@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "144"
 recipe: 144/no_-_cooking_hard_sauce
 page_order: 1

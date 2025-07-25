@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "058"
 recipe: 058/italian_fried_green_tomatoes_or_eggplant
 page_order: 2

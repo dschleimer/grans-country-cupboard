@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "007"
 recipe: 007/sausage_balls
 page_order: 1

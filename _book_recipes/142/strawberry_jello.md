@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "142"
 recipe: 142/strawberry_jello
 page_order: 3

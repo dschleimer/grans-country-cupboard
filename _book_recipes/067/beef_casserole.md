@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "067"
 recipe: 067/beef_casserole
 page_order: 1

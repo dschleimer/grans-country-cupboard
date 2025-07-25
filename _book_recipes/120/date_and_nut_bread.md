@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "120"
 recipe: 120/date_and_nut_bread
 page_order: 2

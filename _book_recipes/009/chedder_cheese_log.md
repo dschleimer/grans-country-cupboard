@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "009"
 recipe: 009/chedder_cheese_log
 page_order: 2

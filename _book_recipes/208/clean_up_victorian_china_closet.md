@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "208"
 recipe: 208/clean_up_victorian_china_closet
 page_order: 1

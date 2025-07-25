@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "017"
 recipe: 017/mcginley_wedding_cold_duck
 page_order: 1

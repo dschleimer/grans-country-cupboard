@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "119"
 recipe: 119/mauries_bread
 page_order: 2

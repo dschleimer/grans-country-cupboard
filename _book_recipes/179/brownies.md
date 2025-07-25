@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "179"
 recipe: 179/brownies
 page_order: 1

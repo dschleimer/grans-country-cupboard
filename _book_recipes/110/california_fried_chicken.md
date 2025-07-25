@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "110"
 recipe: 110/california_fried_chicken
 page_order: 1

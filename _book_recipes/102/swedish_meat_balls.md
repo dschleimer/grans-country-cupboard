@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "102"
 recipe: 102/swedish_meat_balls
 page_order: 2

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "190"
 recipe: 190/sara_lee_torte
 page_order: 2

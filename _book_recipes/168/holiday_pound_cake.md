@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "168"
 recipe: 168/holiday_pound_cake
 page_order: 2

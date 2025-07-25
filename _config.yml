@@ -34,7 +34,8 @@ github:
     branch: main
 
 # Build settings
-remote_theme: jekyll/minima@v2.5.2
+# I really wanted a custom-head.html include that wasn't available in the latest release, hence the commit hash
+remote_theme: jekyll/minima@1fe0fbf
 plugins:
   - jekyll-relative-links
   - jekyll-sitemap

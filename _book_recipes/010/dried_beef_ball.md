@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "010"
 recipe: 010/dried_beef_ball
 page_order: 1

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "142"
 recipe: 142/ice_-_box_pudding
 page_order: 2

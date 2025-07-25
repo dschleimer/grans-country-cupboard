@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "058"
 recipe: 058/yellow_squash
 page_order: 3

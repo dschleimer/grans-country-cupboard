@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "151"
 recipe: 151/peanut_pecan_note
 page_order: 2

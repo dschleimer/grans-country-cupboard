@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "199"
 recipe: 199/cucumber_relish
 page_order: 2

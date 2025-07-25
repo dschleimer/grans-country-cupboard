@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "198"
 recipe: 198/corn_canned
 page_order: 2

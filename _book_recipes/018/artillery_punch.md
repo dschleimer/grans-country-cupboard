@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "018"
 recipe: 018/artillery_punch
 page_order: 3

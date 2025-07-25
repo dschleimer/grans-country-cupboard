@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 number: "title"
 chapter: 0
 ---

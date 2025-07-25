@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "098"
 recipe: 098/roast_beef_hash
 page_order: 1

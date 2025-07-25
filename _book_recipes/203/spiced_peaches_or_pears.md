@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "203"
 recipe: 203/spiced_peaches_or_pears
 page_order: 2

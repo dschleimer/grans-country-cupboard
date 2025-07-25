@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "199"
 recipe: 199/christmas_marmelade
 page_order: 1

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "067"
 recipe: 067/cabbage_+_beef_syrian
 page_order: 2

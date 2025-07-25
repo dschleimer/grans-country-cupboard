@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "081"
 recipe: 081/tartar_sauce
 page_order: 3

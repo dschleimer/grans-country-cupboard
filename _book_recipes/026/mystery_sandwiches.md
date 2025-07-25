@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "026"
 recipe: 026/mystery_sandwiches
 page_order: 3

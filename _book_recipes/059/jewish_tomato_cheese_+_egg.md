@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "059"
 recipe: 059/jewish_tomato_cheese_+_egg
 page_order: 2

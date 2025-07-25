@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "086"
 recipe: 086/greek_leg_of_lamb_-_6_-_7_lbs
 page_order: 1

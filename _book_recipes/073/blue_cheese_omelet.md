@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "073"
 recipe: 073/blue_cheese_omelet
 page_order: 1

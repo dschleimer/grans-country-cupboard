@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "200"
 recipe: 200/chili_sauce
 page_order: 1

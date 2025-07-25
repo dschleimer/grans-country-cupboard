@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "123"
 recipe: 123/strawberry_shortcake
 page_order: 3

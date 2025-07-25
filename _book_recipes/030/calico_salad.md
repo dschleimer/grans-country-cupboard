@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "030"
 recipe: 030/calico_salad
 page_order: 1

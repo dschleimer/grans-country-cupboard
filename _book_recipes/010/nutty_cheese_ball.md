@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "010"
 recipe: 010/nutty_cheese_ball
 page_order: 2

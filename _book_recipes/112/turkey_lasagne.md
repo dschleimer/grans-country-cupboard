@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "112"
 recipe: 112/turkey_lasagne
 page_order: 3

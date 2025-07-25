@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "196"
 recipe: 196/rice_crispie_crunch
 page_order: 2

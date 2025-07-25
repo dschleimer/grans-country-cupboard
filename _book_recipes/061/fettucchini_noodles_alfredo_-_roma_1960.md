@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "061"
 recipe: 061/fettucchini_noodles_alfredo_-_roma_1960
 page_order: 1

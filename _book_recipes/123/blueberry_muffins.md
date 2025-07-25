@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "123"
 recipe: 123/blueberry_muffins
 page_order: 1

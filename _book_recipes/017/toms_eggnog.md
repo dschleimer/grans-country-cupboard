@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "017"
 recipe: 017/toms_eggnog
 page_order: 3

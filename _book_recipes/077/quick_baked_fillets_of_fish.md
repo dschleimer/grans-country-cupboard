@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "077"
 recipe: 077/quick_baked_fillets_of_fish
 page_order: 2

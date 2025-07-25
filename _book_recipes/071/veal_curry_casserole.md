@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "071"
 recipe: 071/veal_curry_casserole
 page_order: 2

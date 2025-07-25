@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "208"
 recipe: 208/removing_dirt_and_old_wax_from_furniture
 page_order: 4

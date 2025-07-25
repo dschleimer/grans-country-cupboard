@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "042"
 recipe: 042/connies_bean_soup
 page_order: 1

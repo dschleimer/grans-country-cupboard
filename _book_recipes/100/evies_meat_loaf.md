@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "100"
 recipe: 100/evies_meat_loaf
 page_order: 2

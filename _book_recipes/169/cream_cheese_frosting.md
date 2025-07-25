@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "169"
 recipe: 169/cream_cheese_frosting
 page_order: 1

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "171"
 recipe: 171/vanilla_icing
 page_order: 4

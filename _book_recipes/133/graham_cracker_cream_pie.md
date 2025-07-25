@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "133"
 recipe: 133/graham_cracker_cream_pie
 page_order: 1

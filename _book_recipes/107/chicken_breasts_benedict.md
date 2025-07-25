@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "107"
 recipe: 107/chicken_breasts_benedict
 page_order: 2

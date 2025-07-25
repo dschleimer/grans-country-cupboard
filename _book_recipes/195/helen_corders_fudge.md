@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "195"
 recipe: 195/helen_corders_fudge
 page_order: 3

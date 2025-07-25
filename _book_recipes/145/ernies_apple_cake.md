@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "145"
 recipe: 145/ernies_apple_cake
 page_order: 1

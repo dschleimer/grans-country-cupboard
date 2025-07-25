@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "184"
 recipe: 184/jelly_roll
 page_order: 2

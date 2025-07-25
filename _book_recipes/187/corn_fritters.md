@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "187"
 recipe: 187/corn_fritters
 page_order: 1

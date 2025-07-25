@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "123"
 recipe: 123/cloud_biscuits
 page_order: 2

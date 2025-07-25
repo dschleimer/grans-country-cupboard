@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "024"
 recipe: 024/devilburgers
 page_order: 1

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "153"
 recipe: 153/osborn_birthday_layer_cake
 page_order: 1

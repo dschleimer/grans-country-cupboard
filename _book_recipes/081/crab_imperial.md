@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "081"
 recipe: 081/crab_imperial
 page_order: 2

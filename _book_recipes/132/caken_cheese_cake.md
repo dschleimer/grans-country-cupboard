@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "132"
 recipe: 132/caken_cheese_cake
 page_order: 1

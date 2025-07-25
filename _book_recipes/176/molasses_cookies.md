@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "176"
 recipe: 176/molasses_cookies
 page_order: 1

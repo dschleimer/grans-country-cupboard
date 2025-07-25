@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "156"
 recipe: 156/crumb_cake
 page_order: 2

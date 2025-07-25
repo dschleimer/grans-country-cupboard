@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "021"
 recipe: 021/typhoon_bracer
 page_order: 3

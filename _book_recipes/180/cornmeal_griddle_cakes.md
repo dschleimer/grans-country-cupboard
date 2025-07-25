@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "180"
 recipe: 180/cornmeal_griddle_cakes
 page_order: 1

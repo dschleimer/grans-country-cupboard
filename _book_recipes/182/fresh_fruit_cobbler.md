@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "182"
 recipe: 182/fresh_fruit_cobbler
 page_order: 2

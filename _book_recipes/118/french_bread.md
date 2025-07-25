@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "118"
 recipe: 118/french_bread
 page_order: 2

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "075"
 recipe: 075/pickled_eggs
 page_order: 1

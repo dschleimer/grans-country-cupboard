@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "127"
 recipe: 127/angel_pie
 page_order: 1

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "009"
 recipe: 009/cheddar_cheese_balls
 page_order: 2

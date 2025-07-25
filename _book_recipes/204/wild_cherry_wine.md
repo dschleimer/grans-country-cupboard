@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "204"
 recipe: 204/wild_cherry_wine
 page_order: 3

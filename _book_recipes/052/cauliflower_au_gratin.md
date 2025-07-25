@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "052"
 recipe: 052/cauliflower_au_gratin
 page_order: 1

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "162"
 recipe: 162/italian_plum_cake
 page_order: 2

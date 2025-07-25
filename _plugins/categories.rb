@@ -28,7 +28,7 @@ module Categories
                 doc.merge_data!({
                     "title" => category.split().map {|w| w.capitalize}.join(" "),
                     "category" => category,
-                    "layout" => "default",
+                    "layout" => "page",
                     "recipes" => recipes,
                 })
                 doc.content = '{% include category.md %}'

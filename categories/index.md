@@ -1,6 +1,6 @@
 ---
 title: Categories
-layout: default
+layout: page
 ---
 
 # Browse by Category

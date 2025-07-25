@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "020"
 recipe: 020/harpoon
 page_order: 2

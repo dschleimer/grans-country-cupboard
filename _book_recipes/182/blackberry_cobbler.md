@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "182"
 recipe: 182/blackberry_cobbler
 page_order: 1

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "018"
 recipe: 018/mcginley_punch
 page_order: 2

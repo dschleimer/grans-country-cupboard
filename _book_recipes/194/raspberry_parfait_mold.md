@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "194"
 recipe: 194/raspberry_parfait_mold
 page_order: 2

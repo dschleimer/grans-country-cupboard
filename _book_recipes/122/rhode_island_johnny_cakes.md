@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "122"
 recipe: 122/rhode_island_johnny_cakes
 page_order: 2

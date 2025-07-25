@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "051"
 recipe: 051/lady_cabbage
 page_order: 2

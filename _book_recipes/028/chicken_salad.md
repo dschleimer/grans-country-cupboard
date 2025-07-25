@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "028"
 recipe: 028/chicken_salad
 page_order: 1

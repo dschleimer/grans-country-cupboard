@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "070"
 recipe: 070/tuna_cassarole
 page_order: 2

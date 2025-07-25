@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "079"
 recipe: 079/shrim_newburg
 page_order: 2

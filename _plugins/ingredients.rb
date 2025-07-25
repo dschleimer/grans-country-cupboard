@@ -61,7 +61,7 @@ module Ingredients
                 doc.merge_data!({
                     "title" => ingredient.split().map {|w| w.capitalize}.join(" "),
                     "ingredient" => ingredient,
-                    "layout" => "default",
+                    "layout" => "page",
                     "recipes" => recipes,
                 })
                 doc.content = '{% include ingredient.md %}'

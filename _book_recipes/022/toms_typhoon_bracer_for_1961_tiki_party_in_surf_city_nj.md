@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "022"
 recipe: 022/toms_typhoon_bracer_for_1961_tiki_party_in_surf_city_nj
 page_order: 2

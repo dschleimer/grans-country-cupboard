@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "132"
 recipe: 132/sweetened_whipped_cream_note
 page_order: 2

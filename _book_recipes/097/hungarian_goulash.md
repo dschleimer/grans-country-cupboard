@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "097"
 recipe: 097/hungarian_goulash
 page_order: 2

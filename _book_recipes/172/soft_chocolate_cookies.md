@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "172"
 recipe: 172/soft_chocolate_cookies
 page_order: 3

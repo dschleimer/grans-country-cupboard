@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "062"
 recipe: 062/baked_noodles_+_green_beans
 page_order: 1

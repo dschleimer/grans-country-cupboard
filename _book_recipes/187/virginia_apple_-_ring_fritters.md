@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "187"
 recipe: 187/virginia_apple_-_ring_fritters
 page_order: 3

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "061"
 recipe: 061/spanish_rice
 page_order: 2

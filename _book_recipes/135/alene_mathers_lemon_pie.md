@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "135"
 recipe: 135/alene_mathers_lemon_pie
 page_order: 1

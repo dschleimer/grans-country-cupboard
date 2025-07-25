@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "193"
 recipe: 193/orange_ice
 page_order: 3

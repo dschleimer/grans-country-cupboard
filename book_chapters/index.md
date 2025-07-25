@@ -1,6 +1,6 @@
 ---
 title: Chapters
-layout: default
+layout: page
 ---
 
 # Browse by Chapter

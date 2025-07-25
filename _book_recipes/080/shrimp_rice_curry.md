@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "080"
 recipe: 080/shrimp_rice_curry
 page_order: 2

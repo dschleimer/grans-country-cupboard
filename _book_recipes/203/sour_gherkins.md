@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "203"
 recipe: 203/sour_gherkins
 page_order: 1

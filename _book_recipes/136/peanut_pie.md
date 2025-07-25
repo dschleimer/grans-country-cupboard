@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "136"
 recipe: 136/peanut_pie
 page_order: 2

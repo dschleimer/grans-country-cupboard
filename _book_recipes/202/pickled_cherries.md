@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "202"
 recipe: 202/pickled_cherries
 page_order: 2

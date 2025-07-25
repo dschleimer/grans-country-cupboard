@@ -1,6 +1,6 @@
 ---
 title: Recipes
-layout: default
+layout: page
 ---
 
 # Browse by Recipe

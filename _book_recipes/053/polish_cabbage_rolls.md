@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "053"
 recipe: 053/polish_cabbage_rolls
 page_order: 1

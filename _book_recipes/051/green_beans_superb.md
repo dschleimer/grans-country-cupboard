@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "051"
 recipe: 051/green_beans_superb
 page_order: 1

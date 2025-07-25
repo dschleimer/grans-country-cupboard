@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "094"
 recipe: 094/ham_and_eggs_in_cheese_sauce
 page_order: 1

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "165"
 recipe: 165/white_cake
 page_order: 3

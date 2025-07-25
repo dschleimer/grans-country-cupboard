@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "204"
 recipe: 204/grape_wine_referring_to_cherry_wine
 page_order: 2

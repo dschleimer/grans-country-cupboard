@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "054"
 recipe: 054/coleslaw_with_sour_cream
 page_order: 1

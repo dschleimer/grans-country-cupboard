@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-layout: default
+layout: page
 ---
 
 # Browse by Ingredient

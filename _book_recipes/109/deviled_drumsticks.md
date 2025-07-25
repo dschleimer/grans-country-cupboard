@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "109"
 recipe: 109/deviled_drumsticks
 page_order: 2

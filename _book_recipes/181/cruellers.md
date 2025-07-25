@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "181"
 recipe: 181/cruellers
 page_order: 2

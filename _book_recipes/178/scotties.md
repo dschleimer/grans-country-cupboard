@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "178"
 recipe: 178/scotties
 page_order: 2

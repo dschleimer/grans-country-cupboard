@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "021"
 recipe: 021/iced_tea
 page_order: 1

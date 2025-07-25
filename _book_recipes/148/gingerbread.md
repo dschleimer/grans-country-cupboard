@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "148"
 recipe: 148/gingerbread
 page_order: 1

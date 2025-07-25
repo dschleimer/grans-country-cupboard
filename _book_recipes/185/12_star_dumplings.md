@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "185"
 recipe: 185/12_star_dumplings
 page_order: 1

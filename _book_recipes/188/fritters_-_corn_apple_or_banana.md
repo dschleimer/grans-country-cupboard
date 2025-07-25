@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "188"
 recipe: 188/fritters_-_corn_apple_or_banana
 page_order: 2

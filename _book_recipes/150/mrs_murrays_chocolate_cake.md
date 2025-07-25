@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "150"
 recipe: 150/mrs_murrays_chocolate_cake
 page_order: 2

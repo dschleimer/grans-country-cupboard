@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "088"
 recipe: 088/22_lb_roast_suckling_pig
 page_order: 1

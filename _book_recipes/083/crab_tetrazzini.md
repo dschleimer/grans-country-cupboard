@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "083"
 recipe: 083/crab_tetrazzini
 page_order: 1

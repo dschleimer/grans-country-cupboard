@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 page: "193"
 recipe: 193/frozen_custard
 page_order: 1
