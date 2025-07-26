@@ -2,10 +2,10 @@
 layout: page
 page: "037"
 recipe: 037/tossed_salad_dressing
-page_order: 3
+page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Salad Dressing
 ---
 # Tossed Salad Dressing
 

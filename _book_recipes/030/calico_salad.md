@@ -2,10 +2,11 @@
 layout: page
 page: "030"
 recipe: 030/calico_salad
-page_order: 1
+page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Salad
+    - Cold Salad
 ---
 # Calico Salad
 

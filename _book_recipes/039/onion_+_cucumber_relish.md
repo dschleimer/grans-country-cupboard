@@ -5,9 +5,9 @@ recipe: 039/onion_+_cucumber_relish
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Condiments
 ---
-# Onion + Cucumber Relish
+# Onion & Cucumber Relish
 
 ## Ingredients
 

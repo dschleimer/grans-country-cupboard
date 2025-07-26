@@ -5,7 +5,10 @@ recipe: 033/molded_bing_cherry_salad
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Jelly
+    - Salad
+    - Cold Salad
+    - Molded
 ---
 # Molded Bing Cherry Salad
 

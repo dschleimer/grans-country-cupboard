@@ -5,7 +5,11 @@ recipe: 035/seafood_salad_mold_for_16
 page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Aspic
+    - Salad
+    - Cold Salad
+    - Molded
+    - Party Food
 ---
 # Seafood Salad Mold for 16
 

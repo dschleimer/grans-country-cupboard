@@ -5,7 +5,9 @@ recipe: 032/strawberry_jello_salad
 page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Salad
+    - Molded
+    - Cold Sandwich
 ---
 # Strawberry Jello Salad
 

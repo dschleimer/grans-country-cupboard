@@ -2,10 +2,10 @@
 layout: page
 page: "037"
 recipe: 037/dressing_for_molded_fruit_salad
-page_order: 2
+page_order: 3
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Salad Dressing
 ---
 # Dressing for Molded Fruit Salad
 

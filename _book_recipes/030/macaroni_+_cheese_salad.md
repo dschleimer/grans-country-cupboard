@@ -2,12 +2,13 @@
 layout: page
 page: "030"
 recipe: 030/macaroni_+_cheese_salad
-page_order: 2
+page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Salad
+    - Cold Salad
 ---
-# Macaroni + Cheese Salad
+# Macaroni & Cheese Salad
 
 ## Ingredients
 

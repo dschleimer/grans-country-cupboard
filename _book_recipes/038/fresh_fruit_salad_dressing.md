@@ -5,7 +5,7 @@ recipe: 038/fresh_fruit_salad_dressing
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Salad Dressing
 ---
 # Fresh Fruit Salad Dressing
 

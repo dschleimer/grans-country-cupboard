@@ -5,7 +5,8 @@ recipe: 032/frozen_fruit_cocktail_salad
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Salad
+    - Cold Salad
 ---
 # Frozen Fruit Cocktail Salad
 

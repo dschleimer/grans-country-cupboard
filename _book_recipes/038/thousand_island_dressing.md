@@ -5,7 +5,7 @@ recipe: 038/thousand_island_dressing
 page_order: 3
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Salad Dressing
 ---
 # Thousand Island Dressing
 

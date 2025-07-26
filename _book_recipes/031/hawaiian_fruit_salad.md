@@ -5,7 +5,9 @@ recipe: 031/hawaiian_fruit_salad
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Salad
+    - Cold Salad
+    - Party Food
 ---
 # Hawaiian Fruit Salad
 

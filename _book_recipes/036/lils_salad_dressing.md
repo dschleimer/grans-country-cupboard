@@ -2,12 +2,12 @@
 layout: page
 page: "036"
 recipe: 036/lils_salad_dressing
-page_order: 3
+page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Salad Dressing
 ---
-# Lils Salad Dressing
+# Lil's Salad Dressing
 
 ## Ingredients
 
