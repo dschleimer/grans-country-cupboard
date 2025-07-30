@@ -13,10 +13,15 @@ categories:
 
 | Ingredient   | Amount  | Notes |
 | ------------ | ------- | ----- |
+|cream cheese |8 oz. |softened |
+| | | |
+| | | |
+| | | |
 | | | |
 
 ## Method
-
+1. At room temperature, cut cheddar into small pieces.
+1. Beat with cream cheese. 
 ## Notes
 
 {% include recipe.md %}
