@@ -11,4 +11,5 @@ Know what course you're looking for and want to find a dish?  [Browse by categor
 Want to find a recipe by name?  [Browse Recipes alphabetically](/book_recipes/)<br/>
 
 Just want to look around? Browse by [Chapter](/book_chapters), [Page](/book_pages/), or [Recipe](/book_recipes/). <br/>
-Go to the [First Page](/book_pages/cover.html), or a Random Recipe (TODO).
+Go to the [First Chapter](/book_chapters/001.html), [First Page](/book_pages/cover.html), or [First Recipe](/book_recipes/007/sausage_balls.html).
+Alternately, check out a random recipe (TODO).
