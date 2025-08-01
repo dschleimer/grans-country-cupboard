@@ -7,6 +7,7 @@ categories:
     - Needs Transcription
     - Salad
     - Cold Salad
+    - Vegetarian
 ---
 # Calico Salad
 

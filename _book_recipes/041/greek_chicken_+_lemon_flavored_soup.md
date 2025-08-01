@@ -2,10 +2,11 @@
 layout: page
 page: "041"
 recipe: 041/greek_chicken_+_lemon_flavored_soup
-page_order: 1
+page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Appetizers
+    - Soup
 ---
 # Greek Chicken + Lemon Flavored Soup
 

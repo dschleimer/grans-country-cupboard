@@ -1,13 +1,15 @@
 ---
 layout: page
 page: "040"
-recipe: 040/corn_dhowder
+recipe: 040/corn_chowder
 page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Appetizers
+    - Soup
+    - Chowder
 ---
-# Corn Dhowder
+# Corn Chowder
 
 ## Ingredients
 

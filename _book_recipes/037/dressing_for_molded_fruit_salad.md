@@ -6,6 +6,7 @@ page_order: 3
 categories:
     - Needs Transcription
     - Salad Dressing
+    - Vegetarian
 ---
 # Dressing for Molded Fruit Salad
 

@@ -6,6 +6,7 @@ page_order: 2
 categories:
     - Needs Transcription
     - Condiment
+    - Vegetarian
 ---
 # Ripe Tomato Relish
 

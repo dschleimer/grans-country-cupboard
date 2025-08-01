@@ -9,6 +9,7 @@ categories:
     - Snacks
     - Party Food
     - Finger Food
+    - Vegetarian
 ---
 # Cheese + Bread Puffs
 

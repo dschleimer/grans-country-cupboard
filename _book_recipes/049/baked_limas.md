@@ -2,10 +2,11 @@
 layout: page
 page: "049"
 recipe: 049/baked_limas
-page_order: 1
+page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Side Dish
 ---
 # Baked Limas
 

@@ -5,7 +5,8 @@ recipe: 046/turkey_soup
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Appetizers
+    - Soup
 ---
 # Turkey Soup
 

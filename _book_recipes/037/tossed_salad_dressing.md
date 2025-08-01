@@ -6,6 +6,7 @@ page_order: 2
 categories:
     - Needs Transcription
     - Salad Dressing
+    - Vegetarian
 ---
 # Tossed Salad Dressing
 

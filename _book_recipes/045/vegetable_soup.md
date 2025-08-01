@@ -5,7 +5,8 @@ recipe: 045/vegetable_soup
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Appetizers
+    - Soup
 ---
 # Vegetable Soup
 

@@ -5,7 +5,9 @@ recipe: 042/lentil_soup
 page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Appetizers
+    - Soup
+    - Vegetarian
 ---
 # Lentil Soup
 

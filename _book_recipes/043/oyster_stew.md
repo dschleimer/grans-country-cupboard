@@ -5,7 +5,11 @@ recipe: 043/oyster_stew
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Appetizers
+    - Soup
+    - Stew
+    - Seafood
+    - Seafood Soup
 ---
 # Oyster Stew
 
