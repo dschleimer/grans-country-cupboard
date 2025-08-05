@@ -1,13 +1,13 @@
 ---
 layout: page
 page: "185"
-recipe: 185/12_star_dumplings
+recipe: 185/12_stew_dumplings
 page_order: 1
 from: Nanna Marter
 categories:
     - Needs Front Matter
 ---
-# 12 Star Dumplings
+# 12 Stew Dumplings
 
 ## Ingredients
 
