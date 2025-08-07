@@ -5,7 +5,9 @@ recipe: 050/maine_baked_beans
 page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Vegetarian
+    - Side Dish
 ---
 # Maine Baked Beans
 

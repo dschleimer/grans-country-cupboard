@@ -2,10 +2,12 @@
 layout: page
 page: "057"
 recipe: 057/sweet_potato_pudding
-page_order: 2
+page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Side Dish
+    - Thanksgiving
 ---
 # Sweet Potato Pudding
 

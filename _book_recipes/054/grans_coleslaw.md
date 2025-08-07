@@ -5,9 +5,10 @@ recipe: 054/grans_coleslaw
 page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Side Dish
 ---
-# Grans Coleslaw
+# Gran's Coleslaw
 
 ## Ingredients
 

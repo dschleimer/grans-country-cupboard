@@ -2,12 +2,15 @@
 layout: page
 page: "052"
 recipe: 052/cauliflower_au_gratin
-page_order: 1
+page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Vegetarian
+    - Side Dish
+    - Casserole
 ---
-# Cauliflower Au Gratin
+# Cauliflower au Gratin
 
 ## Ingredients
 

@@ -5,9 +5,11 @@ recipe: 059/fried_red_tomatoes_+_milk_gravy
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Vegetarian
+    - Fried Foods
 ---
-# Fried Red Tomatoes + Milk Gravy
+# Fried Red Tomatoes & Milk Gravy
 
 ## Ingredients
 

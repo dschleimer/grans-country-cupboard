@@ -2,10 +2,12 @@
 layout: page
 page: "058"
 recipe: 058/crisp_fried_tomatoes
-page_order: 1
+page_order: 3
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Side Dish
+    - Fried Foods
 ---
 # Crisp Fried Tomatoes
 

@@ -2,12 +2,14 @@
 layout: page
 page: "052"
 recipe: 052/dorothy_descoffys_cabbage_rolls
-page_order: 2
+page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Vegetarian
+    - Side Dish
 ---
-# Dorothy Descoffys Cabbage Rolls
+# Dorothy Descoffy's Cabbage Rolls
 
 ## Ingredients
 

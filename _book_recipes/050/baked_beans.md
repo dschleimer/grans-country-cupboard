@@ -5,7 +5,8 @@ recipe: 050/baked_beans
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Side Dish
 ---
 # Baked Beans
 

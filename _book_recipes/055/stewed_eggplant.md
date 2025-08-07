@@ -5,7 +5,9 @@ recipe: 055/stewed_eggplant
 page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Vegetarian
+    - Stew
 ---
 # Stewed Eggplant
 

@@ -2,10 +2,11 @@
 layout: page
 page: "055"
 recipe: 055/eggplant_parmesan
-page_order: 1
+page_order: 3
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Side Dish
 ---
 # Eggplant Parmesan
 

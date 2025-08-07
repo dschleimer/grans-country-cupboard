@@ -2,10 +2,12 @@
 layout: page
 page: "056"
 recipe: 056/candied_sweet_potatoes
-page_order: 1
+page_order: 3
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Vegetarian
+    - Thanksgiving
 ---
 # Candied Sweet Potatoes
 

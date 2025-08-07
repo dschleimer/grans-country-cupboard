@@ -5,9 +5,10 @@ recipe: 059/jewish_tomato_cheese_+_egg
 page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Side Dish
 ---
-# Jewish Tomato Cheese + Egg
+# Jewish Tomato, Cheese, & Egg
 
 ## Ingredients
 

@@ -5,9 +5,10 @@ recipe: 054/maureen_ks_coleslaw
 page_order: 3
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Side Dish
 ---
-# Maureen Ks Coleslaw
+# Maureen K's Coleslaw
 
 ## Ingredients
 

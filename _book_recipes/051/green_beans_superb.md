@@ -5,7 +5,9 @@ recipe: 051/green_beans_superb
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Vegetarian
+    - Side Dish
 ---
 # Green Beans Superb
 

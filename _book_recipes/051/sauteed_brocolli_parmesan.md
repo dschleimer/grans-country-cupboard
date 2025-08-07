@@ -2,10 +2,11 @@
 layout: page
 page: "051"
 recipe: 051/sauteed_brocolli_parmesan
-page_order: 3
+page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Side Dish
 ---
 # Sauteed Brocolli Parmesan
 

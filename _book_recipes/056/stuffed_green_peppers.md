@@ -2,10 +2,11 @@
 layout: page
 page: "056"
 recipe: 056/stuffed_green_peppers
-page_order: 3
+page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Side Dish
 ---
 # Stuffed Green Peppers
 

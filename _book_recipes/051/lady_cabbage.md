@@ -2,10 +2,12 @@
 layout: page
 page: "051"
 recipe: 051/lady_cabbage
-page_order: 2
+page_order: 3
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Vegetarian
+    - Side Dish
 ---
 # Lady Cabbage
 

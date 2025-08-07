@@ -5,7 +5,8 @@ recipe: 053/polish_cabbage_rolls
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Wraps
 ---
 # Polish Cabbage Rolls
 

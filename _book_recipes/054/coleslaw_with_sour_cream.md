@@ -2,10 +2,11 @@
 layout: page
 page: "054"
 recipe: 054/coleslaw_with_sour_cream
-page_order: 1
+page_order: 3
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Side Dish
 ---
 # Coleslaw with Sour Cream
 
