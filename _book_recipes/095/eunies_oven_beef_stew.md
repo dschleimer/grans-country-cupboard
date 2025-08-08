@@ -1,13 +1,13 @@
 ---
 layout: page
-page: "145"
-recipe: 145/ernies_apple_cake
+page: "095"
+recipe: 095/eunies_oven_beef_stew
 page_order: 1
 categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Ernies Apple Cake
+# Eunies Oven Beef Stew
 
 ## Ingredients
 
