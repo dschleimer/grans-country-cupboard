@@ -1,13 +1,13 @@
 ---
 layout: page
 page: "082"
-recipe: 082/marylan_crabcakes
+recipe: 082/maryland_crabcakes
 page_order: 3
 categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Marylan Crabcakes
+# Maryland Crabcakes
 
 ## Ingredients
 

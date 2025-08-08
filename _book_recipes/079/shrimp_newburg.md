@@ -1,7 +1,7 @@
 ---
 layout: page
 page: "079"
-recipe: 079/shrim_newburg
+recipe: 079/shrimp_newburg
 page_order: 2
 categories:
     - Needs Transcription
@@ -9,7 +9,7 @@ categories:
     - Mains
     - Sauteed
 ---
-# Shrim Newburg
+# Shrimp Newburg
 
 ## Ingredients
 
