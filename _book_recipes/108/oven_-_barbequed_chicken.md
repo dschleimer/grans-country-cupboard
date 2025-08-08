@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Oven - Barbequed Chicken
+# Oven-Barbequed Chicken
 
 ## Ingredients
 

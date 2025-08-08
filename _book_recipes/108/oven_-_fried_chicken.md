@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Oven - Fried Chicken
+# Oven-Fried Chicken
 
 ## Ingredients
 
