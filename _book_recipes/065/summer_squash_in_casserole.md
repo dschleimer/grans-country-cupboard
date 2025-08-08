@@ -5,7 +5,9 @@ recipe: 065/summer_squash_in_casserole
 page_order: 3
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Vegetarian
+    - Casserole
 ---
 # Summer Squash in Casserole
 

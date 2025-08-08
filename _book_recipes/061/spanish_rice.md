@@ -5,7 +5,8 @@ recipe: 061/spanish_rice
 page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Side Dish
+    - Spanish
 ---
 # Spanish Rice
 

@@ -5,9 +5,11 @@ recipe: 060/jewish_spaghetti
 page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetarian
+    - Italian
+    - Noodles
 ---
-# Jewish Spaghetti
+# Quick Spaghetti
 
 ## Ingredients
 

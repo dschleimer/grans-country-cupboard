@@ -5,7 +5,10 @@ recipe: 062/baked_stuffed_tomatoes
 page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Stuffed Vegetables
+    - Vegetarian
+    - Side Dish
 ---
 # Baked Stuffed Tomatoes
 

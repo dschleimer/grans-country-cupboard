@@ -1,13 +1,14 @@
 ---
 layout: page
 page: "061"
-recipe: 061/fettucchini_noodles_alfredo_-_roma_1960
+recipe: 061/fettucchini_noodles_alfredo_-_rome_1960
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Italian
+    - Noodles
 ---
-# Fettucchini Noodles Alfredo - Roma 1960
+# Fettucchini Noodles Alfredo - Rome 1960
 
 ## Ingredients
 

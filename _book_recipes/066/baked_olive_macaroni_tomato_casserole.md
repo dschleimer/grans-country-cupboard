@@ -2,12 +2,15 @@
 layout: page
 page: "066"
 recipe: 066/baked_olive_macaroni_tomato_casserole
-page_order: 1
+page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Vegetarian
+    - Casserole
+    - Noodles
 ---
-# Baked Olive Macaroni Tomato Casserole
+# Baked Olive, Macaroni, Tomato Casserole
 
 ## Ingredients
 

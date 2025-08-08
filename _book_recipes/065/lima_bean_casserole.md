@@ -5,7 +5,9 @@ recipe: 065/lima_bean_casserole
 page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Vegetarian
+    - Casserole
 ---
 # Lima Bean Casserole
 

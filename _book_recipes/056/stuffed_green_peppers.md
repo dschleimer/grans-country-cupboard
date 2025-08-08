@@ -6,6 +6,7 @@ page_order: 2
 categories:
     - Needs Transcription
     - Vegetables
+    - Stuffed Vegetables
     - Side Dish
 ---
 # Stuffed Green Peppers

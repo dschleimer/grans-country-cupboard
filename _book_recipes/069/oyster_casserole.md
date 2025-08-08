@@ -5,7 +5,8 @@ recipe: 069/oyster_casserole
 page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Casserole
+    - Seafood
 ---
 # Oyster Casserole
 

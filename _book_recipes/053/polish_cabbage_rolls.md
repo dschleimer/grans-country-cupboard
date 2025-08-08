@@ -6,6 +6,7 @@ page_order: 1
 categories:
     - Needs Transcription
     - Vegetables
+    - Stuffed Vegetables
     - Wraps
 ---
 # Polish Cabbage Rolls

@@ -5,7 +5,9 @@ recipe: 065/green_bean_casserole
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Vegetarian
+    - Casserole
 ---
 # Green Bean Casserole
 

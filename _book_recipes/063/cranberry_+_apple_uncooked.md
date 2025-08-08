@@ -5,9 +5,11 @@ recipe: 063/cranberry_+_apple_uncooked
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetarian
+    - Fruit
+    - Uncooked
 ---
-# Cranberry + Apple Uncooked
+# Cranberry & Apple Uncooked
 
 ## Ingredients
 

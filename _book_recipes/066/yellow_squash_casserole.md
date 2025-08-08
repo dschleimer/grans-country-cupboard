@@ -2,10 +2,11 @@
 layout: page
 page: "066"
 recipe: 066/yellow_squash_casserole
-page_order: 2
+page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Casserole
 ---
 # Yellow Squash Casserole
 

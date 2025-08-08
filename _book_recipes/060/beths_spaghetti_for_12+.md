@@ -5,7 +5,8 @@ recipe: 060/beths_spaghetti_for_12+
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Italian
+    - Noodles
 ---
 # Beths Spaghetti for 12+
 

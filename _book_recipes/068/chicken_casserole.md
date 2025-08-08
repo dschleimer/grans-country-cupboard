@@ -2,10 +2,11 @@
 layout: page
 page: "068"
 recipe: 068/chicken_casserole
-page_order: 1
+page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Casserole
+    - Noodles
 ---
 # Chicken Casserole
 

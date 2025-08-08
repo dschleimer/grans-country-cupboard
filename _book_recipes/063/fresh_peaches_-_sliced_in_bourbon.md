@@ -5,7 +5,9 @@ recipe: 063/fresh_peaches_-_sliced_in_bourbon
 page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetarian
+    - Fruit
+    - Uncooked
 ---
 # Fresh Peaches - Sliced in Bourbon
 

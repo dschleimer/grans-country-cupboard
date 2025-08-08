@@ -5,9 +5,10 @@ recipe: 067/cabbage_+_beef_syrian
 page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Casserole
+    - Noodles
 ---
-# Cabbage + Beef Syrian
+# Cabbage & Beef Syrian
 
 ## Ingredients
 

@@ -5,9 +5,12 @@ recipe: 062/baked_noodles_+_green_beans
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Vegetarian
+    - Casserole
+    - Noodles
 ---
-# Baked Noodles + Green Beans
+# Baked Noodles & Green Beans
 
 ## Ingredients
 

@@ -6,8 +6,11 @@ page_order: 1
 categories:
     - Needs Transcription
     - Vegetables
+    - Stuffed Vegetables
     - Vegetarian
     - Side Dish
+    - Wraps
+
 ---
 # Dorothy Descoffy's Cabbage Rolls
 
