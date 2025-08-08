@@ -9,7 +9,7 @@ categories:
     - Fruit
     - Uncooked
 ---
-# Cranberry & Apple Uncooked
+# Cranberry + Apple Uncooked
 
 ## Ingredients
 

@@ -8,7 +8,7 @@ categories:
     - Casserole
     - Noodles
 ---
-# Cabbage & Beef Syrian
+# Cabbage + Beef Syrian
 
 ## Ingredients
 

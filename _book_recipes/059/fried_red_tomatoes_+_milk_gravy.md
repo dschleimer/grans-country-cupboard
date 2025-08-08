@@ -9,7 +9,7 @@ categories:
     - Vegetarian
     - Fried Foods
 ---
-# Fried Red Tomatoes & Milk Gravy
+# Fried Red Tomatoes + Milk Gravy
 
 ## Ingredients
 

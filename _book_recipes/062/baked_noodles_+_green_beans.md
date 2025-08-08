@@ -10,7 +10,7 @@ categories:
     - Casserole
     - Noodles
 ---
-# Baked Noodles & Green Beans
+# Baked Noodles + Green Beans
 
 ## Ingredients
 

@@ -8,7 +8,7 @@ categories:
     - Vegetables
     - Side Dish
 ---
-# Jewish Tomato, Cheese, & Egg
+# Jewish Tomato, Cheese + Egg
 
 ## Ingredients
 
