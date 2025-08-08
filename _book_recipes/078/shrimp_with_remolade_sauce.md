@@ -1,7 +1,7 @@
 ---
 layout: page
 page: "078"
-recipe: 078/shrimp_with_romolade_sauce
+recipe: 078/shrimp_with_remolade_sauce
 page_order: 1
 categories:
     - Needs Transcription
@@ -9,7 +9,7 @@ categories:
     - Appetizers
     - Finger Food
 ---
-# Shrimp with Romolade Sauce
+# Shrimp with Remolade Sauce
 
 ## Ingredients
 
