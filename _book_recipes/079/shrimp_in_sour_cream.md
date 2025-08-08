@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Seafood
     - Mains
-    - Sauteed
+    - Sautéed
 ---
 # Shrimp in Sour Cream
 
