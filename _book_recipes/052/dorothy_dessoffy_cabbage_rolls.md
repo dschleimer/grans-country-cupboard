@@ -1,7 +1,7 @@
 ---
 layout: page
 page: "052"
-recipe: 052/dorothy_descoffys_cabbage_rolls
+recipe: 052/dorothy_dessoffys_cabbage_rolls
 page_order: 1
 categories:
     - Needs Transcription
@@ -12,7 +12,7 @@ categories:
     - Wraps
 
 ---
-# Dorothy Descoffy's Cabbage Rolls
+# Dorothy Dessoffy's Cabbage Rolls
 
 ## Ingredients
 
