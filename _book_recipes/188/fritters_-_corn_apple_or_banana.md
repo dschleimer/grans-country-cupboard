@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Fritters - Corn Apple or Banana
+# Fritters - Corn, Apple or Banana
 
 ## Ingredients
 

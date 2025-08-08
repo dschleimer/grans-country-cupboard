@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Virginia Apple - Ring Fritters
+# Virginia Apple-Ring Fritters
 
 ## Ingredients
 

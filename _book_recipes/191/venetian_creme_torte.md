@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Venetian Creme Torte
+# Venetian Crème Torte
 
 ## Ingredients
 

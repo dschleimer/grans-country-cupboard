@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Helen Corders Fudge
+# Helen Corder's Fudge
 
 ## Ingredients
 

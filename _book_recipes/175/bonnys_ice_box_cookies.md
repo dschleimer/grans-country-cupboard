@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Bonnys Ice Box Cookies
+# Bonny's Ice Box Cookies
 
 ## Ingredients
 

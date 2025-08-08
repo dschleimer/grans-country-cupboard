@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# 2 - 4 - 6 Molasses Candy
+# 2-4-6 Molasses Candy
 
 ## Ingredients
 

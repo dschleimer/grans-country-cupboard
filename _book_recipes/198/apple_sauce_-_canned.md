@@ -1,13 +1,13 @@
 ---
 layout: page
 page: "198"
-recipe: 198/corn_canned
-page_order: 2
+recipe: 198/apple_sauce_-_canned
+page_order: 1
 categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Corn Canned
+# Apple Sauce - Canned
 
 ## Ingredients
 

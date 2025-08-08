@@ -1,13 +1,13 @@
 ---
 layout: page
 page: "198"
-recipe: 198/strawberries_freezing
+recipe: 198/strawberries_-_freezing
 page_order: 4
 categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Strawberries Freezing
+# Strawberries - Freezing
 
 ## Ingredients
 
