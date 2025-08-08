@@ -2,10 +2,15 @@
 layout: page
 page: "078"
 recipe: 078/meat_or_fish_newburg_for_12_or_25
-page_order: 1
+page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Seafood
+    - Meat
+    - Mains
+    - Sandwich
+    - Meat Sauce
+    - Seafood Sauce
 ---
 # Meat or Fish Newburg for 12 or 25
 

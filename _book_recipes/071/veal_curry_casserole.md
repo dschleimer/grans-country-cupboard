@@ -2,10 +2,10 @@
 layout: page
 page: "071"
 recipe: 071/veal_curry_casserole
-page_order: 2
+page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Casserole
 ---
 # Veal Curry Casserole
 

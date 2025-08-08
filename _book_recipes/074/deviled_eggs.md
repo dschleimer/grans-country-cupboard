@@ -6,6 +6,9 @@ page_order: 1
 categories:
     - Needs Transcription
     - Needs Front Matter
+    - Appetizers
+    - Finger Food
+    - Boiled Eggs
 ---
 # Deviled Eggs
 

@@ -2,10 +2,10 @@
 layout: page
 page: "072"
 recipe: 072/deviled_scrambled_eggs
-page_order: 1
+page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Scramble
 ---
 # Deviled Scrambled Eggs
 

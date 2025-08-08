@@ -2,12 +2,13 @@
 layout: page
 page: "072"
 recipe: 072/wranglers_omelet_with_cheese_sauce
-page_order: 2
+page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Omelet
+    - Baked Omelet
 ---
-# Wranglers Omelet with Cheese Sauce
+# Wrangler's Omelet with Cheese Sauce
 
 ## Ingredients
 

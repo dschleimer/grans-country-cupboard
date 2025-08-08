@@ -2,10 +2,12 @@
 layout: page
 page: "079"
 recipe: 079/shrimp_in_sour_cream
-page_order: 3
+page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Seafood
+    - Mains
+    - Sauteed
 ---
 # Shrimp in Sour Cream
 

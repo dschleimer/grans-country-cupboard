@@ -5,7 +5,8 @@ recipe: 070/tuna_cassarole
 page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Casserole
+    - Seafood
 ---
 # Tuna Cassarole
 

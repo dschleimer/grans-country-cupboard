@@ -5,7 +5,9 @@ recipe: 079/shrim_newburg
 page_order: 2
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Seafood
+    - Mains
+    - Sauteed
 ---
 # Shrim Newburg
 

@@ -5,7 +5,7 @@ recipe: 075/pickled_eggs
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Boiled Eggs
 ---
 # Pickled Eggs
 

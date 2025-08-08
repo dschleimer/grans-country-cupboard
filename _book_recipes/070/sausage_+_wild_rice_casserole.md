@@ -5,7 +5,7 @@ recipe: 070/sausage_+_wild_rice_casserole
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Casserole
 ---
 # Sausage + Wild Rice Casserole
 
