@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Grans Pumpkin Pie
+# Gran's Pumpkin Pie
 
 ## Ingredients
 

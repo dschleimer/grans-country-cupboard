@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Evies Goulash for 40 People
+# Evie's Goulash for 40 People
 
 ## Ingredients
 

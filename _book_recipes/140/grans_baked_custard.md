@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Grans Baked Custard
+# Gran's Baked Custard
 
 ## Ingredients
 

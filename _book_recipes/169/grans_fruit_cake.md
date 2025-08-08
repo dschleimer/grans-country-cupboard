@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Grans Fruit Cake
+# Gran's Fruit Cake
 
 ## Ingredients
 

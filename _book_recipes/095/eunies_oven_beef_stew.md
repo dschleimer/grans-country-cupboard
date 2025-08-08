@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Eunies Oven Beef Stew
+# Eunie's Oven Beef Stew
 
 ## Ingredients
 

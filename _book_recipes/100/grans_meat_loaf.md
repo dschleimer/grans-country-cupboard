@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Grans Meat Loaf
+# Gran's Meat Loaf
 
 ## Ingredients
 

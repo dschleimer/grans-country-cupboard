@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Grans Orange Blossom Bowl
+# Gran's Orange Blossom Bowl
 
 ## Ingredients
 

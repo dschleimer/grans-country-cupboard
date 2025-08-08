@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Connies Cottage Cheese Cake
+# Connie's Cottage Cheese Cake
 
 ## Ingredients
 

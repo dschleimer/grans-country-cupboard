@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# North Carolina Country - Style Ham
+# North Carolina Country-Style Ham
 
 ## Ingredients
 

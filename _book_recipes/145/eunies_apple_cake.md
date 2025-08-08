@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Eunies Apple Cake
+# Eunie's Apple Cake
 
 ## Ingredients
 

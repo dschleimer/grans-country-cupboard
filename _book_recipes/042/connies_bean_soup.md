@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Connies Bean Soup
+# Connie's Bean Soup
 
 ## Ingredients
 

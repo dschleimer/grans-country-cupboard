@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Connies Stroganoff
+# Connie's Stroganoff
 
 ## Ingredients
 
