@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Receipt for Seasoning Sausage
+# "Receipt" for Seasoning Sausage
 
 ## Ingredients
 
