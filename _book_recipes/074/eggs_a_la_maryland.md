@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Seafood
 ---
-# Eggs a la Maryland
+# Eggs à la Maryland
 
 ## Ingredients
 
