@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Greek Leg of Lamb - 6 - 7 Lbs
+# Greek Leg of Lamb - 6-7 Lbs
 
 ## Ingredients
 

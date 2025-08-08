@@ -1,13 +1,13 @@
 ---
 layout: page
 page: "093"
-recipe: 093/ham_with-vegetables
+recipe: 093/ham_with_vegetables
 page_order: 2
 categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Ham with-Vegetables
+# Ham with Vegetables
 
 ## Ingredients
 
