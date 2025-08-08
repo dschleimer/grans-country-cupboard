@@ -6,7 +6,7 @@ page_order: 1
 categories:
     - Needs Transcription
     - Salad
-
+    - Cold Salad
 ---
 # Chicken Salad
 

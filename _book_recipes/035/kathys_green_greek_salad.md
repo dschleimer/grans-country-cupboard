@@ -8,7 +8,7 @@ categories:
     - Salad
     - Cold Salad
 ---
-# Kathys Green Greek Salad
+# Kathy's Green Greek Salad
 
 ## Ingredients
 

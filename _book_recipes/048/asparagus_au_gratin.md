@@ -5,9 +5,11 @@ recipe: 048/asparagus_au_gratin
 page_order: 1
 categories:
     - Needs Transcription
-    - Needs Front Matter
+    - Vegetables
+    - Vegetarian
+    - Side Dish
 ---
-# Asparagus Au Gratin
+# Asparagus au Gratin
 
 ## Ingredients
 

@@ -8,7 +8,7 @@ categories:
     - Salad
     - Cold Salad
 ---
-# Macaroni & Cheese Salad
+# Macaroni + Cheese Salad
 
 ## Ingredients
 

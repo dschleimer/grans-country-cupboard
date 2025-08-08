@@ -1,7 +1,7 @@
 ---
 layout: page
 page: "013"
-recipe: 013/grans_teas_sandwiches_or_spread
+recipe: 013/grans_tea_sandwiches_or_spread
 page_order: 1
 categories:
     - Needs Transcription
@@ -11,7 +11,7 @@ categories:
     - Spread
     - Sandwiches
 ---
-# Gran's Teas Sandwiches or Spread
+# Gran's Tea Sandwiches or Spread
 
 ## Ingredients
 

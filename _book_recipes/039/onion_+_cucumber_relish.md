@@ -8,7 +8,7 @@ categories:
     - Condiment
     - Vegetarian
 ---
-# Onion & Cucumber Relish
+# Onion + Cucumber Relish
 
 ## Ingredients
 

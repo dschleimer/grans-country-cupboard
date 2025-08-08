@@ -1,7 +1,7 @@
 ---
 layout: page
 page: "036"
-recipe: 036/boiled_coleslaw_drassing_granny_van_scriver
+recipe: 036/boiled_coleslaw_dressing_granny_van_scriver
 page_order: 1
 categories:
     - Needs Transcription

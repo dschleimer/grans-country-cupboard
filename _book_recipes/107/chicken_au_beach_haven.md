@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Chicken Au Beach Haven
+# Chicken au Beach Haven
 
 ## Ingredients
 
