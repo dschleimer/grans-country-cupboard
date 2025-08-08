@@ -1,14 +1,14 @@
 ---
 layout: page
 page: "070"
-recipe: 070/tuna_cassarole
+recipe: 070/tuna_casserole
 page_order: 2
 categories:
     - Needs Transcription
     - Casserole
     - Seafood
 ---
-# Tuna Cassarole
+# Tuna Casserole
 
 ## Ingredients
 
