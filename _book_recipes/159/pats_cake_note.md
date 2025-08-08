@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Pats Cake Note
+# Pat's Cake Note
 
 ## Ingredients
 

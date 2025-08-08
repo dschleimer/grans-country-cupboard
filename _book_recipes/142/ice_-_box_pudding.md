@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Ice - Box Pudding
+# Ice-Box Pudding
 
 ## Ingredients
 

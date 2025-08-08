@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Mrs Murrays Chocolate Cake
+# Mrs Murray's Chocolate Cake
 
 ## Ingredients
 

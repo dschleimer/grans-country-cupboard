@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# a Mans Cake
+# A Man's Cake
 
 ## Ingredients
 

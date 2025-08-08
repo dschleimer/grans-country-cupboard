@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Mary Janes Pumpkin Pie
+# Mary Jane's Pumpkin Pie
 
 ## Ingredients
 

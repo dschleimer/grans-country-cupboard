@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Mauries Bread
+# Maurie's Bread
 
 ## Ingredients
 

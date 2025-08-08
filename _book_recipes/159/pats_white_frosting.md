@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Pats White Frosting
+# Pat's White Frosting
 
 ## Ingredients
 

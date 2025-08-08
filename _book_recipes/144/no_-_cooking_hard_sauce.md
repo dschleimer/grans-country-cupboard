@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# No - Cooking Hard Sauce
+# No-Cooking Hard Sauce
 
 ## Ingredients
 

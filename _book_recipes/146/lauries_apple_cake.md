@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Lauries Apple Cake
+# Laurie's Apple Cake
 
 ## Ingredients
 

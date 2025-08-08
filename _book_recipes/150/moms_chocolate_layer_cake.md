@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Moms Chocolate Layer Cake
+# Mom's Chocolate Layer Cake
 
 ## Ingredients
 

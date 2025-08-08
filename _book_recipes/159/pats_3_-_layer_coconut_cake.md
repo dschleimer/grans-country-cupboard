@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Pats 3 - Layer Coconut Cake
+# Pat's 3-Layer Coconut Cake
 
 ## Ingredients
 

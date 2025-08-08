@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Devils Food Cup Cakes
+# Devil's Food Cup Cakes
 
 ## Ingredients
 

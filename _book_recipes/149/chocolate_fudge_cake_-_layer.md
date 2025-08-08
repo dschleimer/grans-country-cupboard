@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Chocolate Fudge Cake - Layer
+# Chocolate Fudge Cake-Layer
 
 ## Ingredients
 

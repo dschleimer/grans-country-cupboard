@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Great Grandmothers Cup Cakes
+# Great Grandmother's Cup Cakes
 
 ## Ingredients
 

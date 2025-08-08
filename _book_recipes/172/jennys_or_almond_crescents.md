@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Jennys or Almond Crescents
+# Jenny's or Almond Crescents
 
 ## Ingredients
 
