@@ -1,13 +1,13 @@
 ---
 layout: page
 page: "101"
-recipe: 101/boilked_beef_tongue
+recipe: 101/boiled_beef_tongue
 page_order: 1
 categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Boilked Beef Tongue
+# Boiled Beef Tongue
 
 ## Ingredients
 
