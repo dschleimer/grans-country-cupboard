@@ -1,13 +1,13 @@
 ---
 layout: page
 page: "104"
-recipe: 104/hungraian_sauerbraten
+recipe: 104/hungarian_sauerbraten
 page_order: 1
 categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Hungraian Sauerbraten
+# Hungarian Sauerbraten
 
 ## Ingredients
 
