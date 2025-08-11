@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Pate de Foie Grasse
+# Paté de Foie Grásse
 
 ## Ingredients
 

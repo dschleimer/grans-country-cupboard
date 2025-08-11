@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Liver Pate
+# Liver Paté
 
 ## Ingredients
 
