@@ -2,7 +2,7 @@
 layout: page
 page: "176"
 recipe: 176/wyoming_ice_box_cookies
-page_order: 2
+page_order: 1
 categories:
     - Needs Transcription
     - Needs Front Matter

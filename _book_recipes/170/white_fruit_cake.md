@@ -2,7 +2,7 @@
 layout: page
 page: "170"
 recipe: 170/white_fruit_cake
-page_order: 2
+page_order: 1
 categories:
     - Needs Transcription
     - Needs Front Matter

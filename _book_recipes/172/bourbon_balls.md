@@ -2,7 +2,7 @@
 layout: page
 page: "172"
 recipe: 172/bourbon_balls
-page_order: 1
+page_order: 2
 categories:
     - Needs Transcription
     - Needs Front Matter

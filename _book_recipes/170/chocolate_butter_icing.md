@@ -2,7 +2,7 @@
 layout: page
 page: "170"
 recipe: 170/chocolate_butter_icing
-page_order: 1
+page_order: 2
 categories:
     - Needs Transcription
     - Needs Front Matter
