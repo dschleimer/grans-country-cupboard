@@ -6,7 +6,7 @@ page_order: 1
 categories:
     - Needs Transcription
     - Casserole
-    - Souffle
+    - Soufflé
     - Noodles
 ---
 # Beef Casserole

@@ -5,9 +5,9 @@ recipe: 071/cheese_soufflee
 page_order: 2
 categories:
     - Needs Transcription
-    - Souffle
+    - Soufflé
 ---
-# Cheese Soufflee
+# Cheese Soufflée
 
 ## Ingredients
 
