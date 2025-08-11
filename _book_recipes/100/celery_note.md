@@ -2,7 +2,7 @@
 layout: page
 page: "100"
 recipe: 100/celery_note
-page_order: 1
+page_order: 3
 categories:
     - Needs Transcription
     - Needs Front Matter

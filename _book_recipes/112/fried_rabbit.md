@@ -2,7 +2,7 @@
 layout: page
 page: "112"
 recipe: 112/fried_rabbit
-page_order: 1
+page_order: 2
 categories:
     - Needs Transcription
     - Needs Front Matter

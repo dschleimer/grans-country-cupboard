@@ -2,7 +2,7 @@
 layout: page
 page: "101"
 recipe: 101/spaghetti_meat_loaf
-page_order: 3
+page_order: 2
 categories:
     - Needs Transcription
     - Needs Front Matter

@@ -2,7 +2,7 @@
 layout: page
 page: "105"
 recipe: 105/connies_stroganoff
-page_order: 2
+page_order: 1
 categories:
     - Needs Transcription
     - Needs Front Matter

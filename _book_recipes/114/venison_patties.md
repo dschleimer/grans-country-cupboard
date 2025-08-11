@@ -2,7 +2,7 @@
 layout: page
 page: "114"
 recipe: 114/venison_patties
-page_order: 3
+page_order: 2
 categories:
     - Needs Transcription
     - Needs Front Matter
