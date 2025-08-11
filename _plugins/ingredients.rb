@@ -21,7 +21,6 @@ module Ingredients
                 recipe_ingredients = Set[]
                 for line in recipe.content.lines
                     unless line.start_with?('|')
-
                         new_content << line
                         next
                     end
@@ -36,6 +35,8 @@ module Ingredients
                         next
                     end
                     # TODO: add some normalization here, e.g. Soft Bread => Bread
+                    ingredient = ingredient.split.map{|word| word.capitalize}.join(" ")
+
                     recipe_ingredients << ingredient
                     slug = Jekyll::Utils.slugify(ingredient)
                     cells[1] = " [#{ingredient}](/ingredients/#{slug}.html) "
