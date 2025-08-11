@@ -2,7 +2,7 @@
 layout: page
 page: "085"
 recipe: 085/devlied_clams
-page_order: 1
+page_order: 2
 categories:
     - Needs Transcription
     - Needs Front Matter
