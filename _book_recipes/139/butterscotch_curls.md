@@ -2,7 +2,7 @@
 layout: page
 page: "139"
 recipe: 139/butterscotch_curls
-page_order: 1
+page_order: 2
 categories:
     - Needs Transcription
     - Needs Front Matter

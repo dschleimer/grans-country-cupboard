@@ -2,12 +2,12 @@
 layout: page
 page: "130"
 recipe: 130/7_inch_cheese_cake
-page_order: 1
+page_order: 2
 categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# 7 Inch Cheese Cake
+# 7" Cheese Cake
 
 ## Ingredients
 

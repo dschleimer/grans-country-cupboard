@@ -2,7 +2,7 @@
 layout: page
 page: "139"
 recipe: 139/strawberry_pie
-page_order: 2
+page_order: 1
 categories:
     - Needs Transcription
     - Needs Front Matter
