@@ -2,7 +2,7 @@
 layout: page
 page: "125"
 recipe: 125/waffles
-page_order: 2
+page_order: 1
 categories:
     - Needs Transcription
     - Needs Front Matter

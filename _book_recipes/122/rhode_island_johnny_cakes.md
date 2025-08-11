@@ -2,7 +2,7 @@
 layout: page
 page: "122"
 recipe: 122/rhode_island_johnny_cakes
-page_order: 2
+page_order: 1
 categories:
     - Needs Transcription
     - Needs Front Matter

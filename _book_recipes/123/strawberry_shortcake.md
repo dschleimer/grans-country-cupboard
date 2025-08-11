@@ -2,7 +2,7 @@
 layout: page
 page: "123"
 recipe: 123/strawberry_shortcake
-page_order: 3
+page_order: 2
 categories:
     - Needs Transcription
     - Needs Front Matter
