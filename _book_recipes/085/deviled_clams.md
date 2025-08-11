@@ -1,13 +1,13 @@
 ---
 layout: page
 page: "085"
-recipe: 085/devlied_clams
+recipe: 085/deviled_clams
 page_order: 2
 categories:
     - Needs Transcription
     - Needs Front Matter
 ---
-# Devlied Clams
+# Deviled Clams
 
 ## Ingredients
 
