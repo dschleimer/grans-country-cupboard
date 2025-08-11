@@ -2,7 +2,7 @@
 layout: page
 page: "098"
 recipe: 098/yorkshire_pudding
-page_order: 3
+page_order: 2
 categories:
     - Needs Transcription
     - Needs Front Matter

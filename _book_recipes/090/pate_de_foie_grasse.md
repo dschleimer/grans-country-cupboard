@@ -2,7 +2,7 @@
 layout: page
 page: "090"
 recipe: 090/pate_de_foie_grasse
-page_order: 3
+page_order: 1
 categories:
     - Needs Transcription
     - Needs Front Matter
