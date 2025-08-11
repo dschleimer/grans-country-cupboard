@@ -2,7 +2,7 @@
 layout: page
 page: "054"
 recipe: 054/mamma_ks_coleslaw
-page_order: 3
+page_order: 1
 categories:
     - Needs Transcription
     - Vegetables
