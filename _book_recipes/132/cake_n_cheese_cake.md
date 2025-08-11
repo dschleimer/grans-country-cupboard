@@ -11,7 +11,7 @@ categories:
 
 ## Ingredients
 
-### Cheese Filling
+#### Cheese Filling
 
 | Ingredient    | Amount        | Notes     |
 | ------------- | ------------- | --------- |
@@ -21,7 +21,7 @@ categories:
 | Vanilla       | 1 tsp         |           |
 | Eggs          | 2             | unbeaten  |
 
-### Cake Base
+#### Cake Base
 
 | Ingredient    | Amount        | Notes     |
 | ------------- | ------------- | --------- |
@@ -34,7 +34,7 @@ categories:
 | Milk          | 1 Tblsp       |           |
 | Vanilla       | 1 tsp         |           |
 
-### Sour Cream Topping
+#### Sour Cream Topping
 
 | Ingredient    | Amount        | Notes     |
 | ------------- | ------------- | --------- |
@@ -45,24 +45,28 @@ categories:
 ## Method
 1. Preheat oven to 325 F.
 2. Grease and flour 10" pie plate at least 2" deep.
-1. Prepare the Cheese Filling
-    3. Cream together 2/3 cup sugar and cream cheese.
-    4. Add 1/2 cup sour cream and 1 tsp vanilla.
-    5. Blend 2 unbeaten eggs into mix, one at a time.
-    6. Beat well and set aside.
-1. Prepare the Cake Base
-    7. Sift together flour, baking powder, and salt, and set aside.
-    8. Cream butter, 2/3 cup sugar, and remaining 2 eggs, one at a time.
-    9. Stir in milk and 1 tsp vanilla.
-    10. Add dry ingredients to this mix and blend well.
-1. Combine and Bake
-    11. Spread batter over bottom and sides of pie plate.
-    12. Spoon cheese mixture over batter.
-    13. Bake 40-45 minutes.
-1. Finish with topping
-    14. Make sour cream topping. Mix 1 cup sour cream, 2 Tblsp sugar, and 1 tsp vanilla.
-    15. Spread cheese portion with topping.
-    16. Bake 5 mins more.
+
+
+#### Prepare the Cheese Filling
+3. Cream together 2/3 cup sugar and cream cheese.
+4. Add 1/2 cup sour cream and 1 tsp vanilla.
+5. Blend 2 unbeaten eggs into mix, one at a time.
+6. Beat well and set aside.
+
+
+#### Prepare the Cake Base
+7. Sift together flour, baking powder, and salt, and set aside.
+8. Cream butter, 2/3 cup sugar, and remaining 2 eggs, one at a time.
+9. Stir in milk and 1 tsp vanilla.
+10. Add dry ingredients to this mix and blend well.
+
+#### Combine and Bake
+11. Spread batter over bottom and sides of pie plate.
+12. Spoon cheese mixture over batter.
+13. Bake 40-45 minutes.
+14. Make sour cream topping. Mix 1 cup sour cream, 2 Tblsp sugar, and 1 tsp vanilla.
+15. Spread cheese portion with topping.
+16. Bake 5 mins more.
 17. Cool and chill overnight, or at least 4 hours.
    
 
