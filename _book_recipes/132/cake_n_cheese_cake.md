@@ -1,7 +1,7 @@
 ---
 layout: page
 page: "132"
-recipe: 132/caken_cheese_cake
+recipe: 132/cake_n_cheese_cake
 page_order: 1
 from: Tracey L. Osborn in Tennessee
 categories:
