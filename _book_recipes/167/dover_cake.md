@@ -2,7 +2,7 @@
 layout: page
 page: "167"
 recipe: 167/dover_cake
-page_order: 2
+page_order: 1
 categories:
     - Needs Transcription
     - Needs Front Matter
