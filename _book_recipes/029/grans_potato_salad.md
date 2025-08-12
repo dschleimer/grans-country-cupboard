@@ -7,6 +7,7 @@ categories:
     - Needs Transcription
     - Salad
     - Cold Salad
+    - Chilled
 ---
 # Gran's Potato Salad
 

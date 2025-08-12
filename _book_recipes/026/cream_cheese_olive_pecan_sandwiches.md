@@ -9,6 +9,7 @@ categories:
     - Hot Sandwich
     - Finger Food
     - Vegetarian
+    - No Cook
 ---
 # Cream Cheese Olive Pecan Sandwiches
 

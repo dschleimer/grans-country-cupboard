@@ -8,6 +8,8 @@ categories:
     - Salad
     - Molded
     - Cold Sandwich
+    - Boiled
+    - Chilled
 ---
 # Strawberry Jello Salad
 

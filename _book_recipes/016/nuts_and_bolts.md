@@ -9,6 +9,8 @@ categories:
     - Snacks
     - Party Food
     - Finger Food
+    - Pan Cooked
+    - Baked
 ---
 # Nuts and Bolts
 

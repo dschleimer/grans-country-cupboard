@@ -8,6 +8,7 @@ categories:
     - Salad
     - Hot Salad
     - Cold Salad
+    - Pan Fried
 ---
 # German Potato Salad
 

@@ -9,6 +9,8 @@ categories:
     - Snacks
     - Party Food
     - Finger Food
+    - No Cook
+    - Chilled
 ---
 # Dried Beef Ball
 

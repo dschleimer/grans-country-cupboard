@@ -9,6 +9,7 @@ categories:
     - Cold Sandwich
     - Party Food
     - Finger Food
+    - No Cook
 ---
 # Danish Style Sandwiches
 

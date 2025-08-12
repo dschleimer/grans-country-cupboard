@@ -9,6 +9,7 @@ categories:
     - Salad
     - Cold Salad
     - Molded
+    - Chilled
 ---
 # Molded Salad - Tuna, Crab or Shrimp
 

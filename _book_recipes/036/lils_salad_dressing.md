@@ -6,6 +6,8 @@ page_order: 2
 categories:
     - Needs Transcription
     - Salad Dressing
+    - Double Boiler
+    - Chilled
 ---
 # Lil's Salad Dressing
 

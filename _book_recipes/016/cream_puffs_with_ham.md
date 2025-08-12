@@ -9,6 +9,8 @@ categories:
     - Snacks
     - Party Food
     - Finger Food
+    - Baked
+    - Served Hot
 ---
 # Cream Puffs with Ham
 

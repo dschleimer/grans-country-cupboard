@@ -8,6 +8,7 @@ categories:
     - Sandwich
     - Hot Sandwich
     - Finger Food
+    - Broiled
 ---
 # Open-Face Sandwiches
 

@@ -6,6 +6,8 @@ page_order: 3
 categories:
     - Needs Transcription
     - Salad Dressing
+    - No Cook
+    - Chilled
 ---
 # Thousand Island Dressing
 

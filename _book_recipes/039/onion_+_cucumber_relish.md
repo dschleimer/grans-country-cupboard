@@ -7,6 +7,8 @@ categories:
     - Needs Transcription
     - Condiment
     - Vegetarian
+    - No Cook
+    - Chilled
 ---
 # Onion + Cucumber Relish
 

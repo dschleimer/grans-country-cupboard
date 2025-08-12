@@ -8,6 +8,7 @@ categories:
     - Salad Dressing
     - Salad
     - Cold Salad
+    - Boiled
 ---
 # Evie's Potato Salad or Cole Slaw Dressing
 

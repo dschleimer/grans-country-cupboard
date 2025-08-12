@@ -8,6 +8,7 @@ categories:
     - Snacks
     - Party Food
     - Cheese
+    - Baked
 ---
 # Cheese Puffs
 

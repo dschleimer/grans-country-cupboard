@@ -6,6 +6,8 @@ page_order: 1
 categories:
     - Needs Transcription
     - Needs Front Matter
+    - No Cook
+    - Chilled
 ---
 # Cheddar Cheese Balls
 

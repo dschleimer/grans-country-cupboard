@@ -10,6 +10,7 @@ categories:
     - Burger
     - Spicy
     - Finger Food
+    - Broiled
 ---
 # Devilburgers
 

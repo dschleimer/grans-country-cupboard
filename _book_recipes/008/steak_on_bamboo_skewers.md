@@ -9,6 +9,7 @@ categories:
     - Party Food
     - Kebab
     - Finger Food
+    - Grilled
 ---
 # Steak on Bamboo Skewers
 

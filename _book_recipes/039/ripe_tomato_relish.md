@@ -7,6 +7,7 @@ categories:
     - Needs Transcription
     - Condiment
     - Vegetarian
+    - No Cook
 ---
 # Ripe Tomato Relish
 

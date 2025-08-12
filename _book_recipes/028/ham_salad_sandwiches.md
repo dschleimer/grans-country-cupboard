@@ -9,6 +9,7 @@ categories:
     - Sandwich
     - Cold Sandwich
     - Finger Food
+    - No Cook
 ---
 # Ham Salad Sandwiches
 

@@ -10,6 +10,8 @@ categories:
     - Party Food
     - Dips
     - Spreads
+    - No Cook
+    - Chilled
 ---
 # Guacamole
 

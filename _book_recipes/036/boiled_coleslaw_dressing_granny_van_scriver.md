@@ -8,6 +8,7 @@ categories:
     - Salad Dressing
     - Salad
     - Cold Salad
+    - Boiled
 ---
 # Boiled Coleslaw Dressing Granny Van Scriver
 

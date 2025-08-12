@@ -7,6 +7,8 @@ categories:
     - Needs Transcription
     - Salad
     - Cold Salad
+    - Frozen
+    - Chilled
 ---
 # Frozen Fruit Cocktail Salad
 

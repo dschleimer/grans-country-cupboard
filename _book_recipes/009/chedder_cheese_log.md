@@ -9,6 +9,8 @@ categories:
     - Snacks
     - Party Food
     - Cheese
+    - No Cook
+    - Chilled
 ---
 # Chedder Cheese Log
 

@@ -8,6 +8,7 @@ categories:
     - Appetizers
     - Party Food
     - Spread
+    - No Cook
 ---
 # Deviled Ham + Cheese Spread
 

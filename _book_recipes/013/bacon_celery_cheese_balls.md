@@ -8,6 +8,7 @@ categories:
     - Appetizers
     - Snacks
     - Party Food
+    - No Cook
 ---
 # Bacon, Celery, Cheese Balls
 

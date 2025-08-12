@@ -7,6 +7,7 @@ categories:
     - Needs Transcription
     - Salad
     - Cold Salad
+    - No Cook
 ---
 # Chicken Salad
 

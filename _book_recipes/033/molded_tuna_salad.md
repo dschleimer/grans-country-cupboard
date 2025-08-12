@@ -9,6 +9,7 @@ categories:
     - Salad
     - Cold Salad
     - Molded
+    - Chilled
 ---
 # Molded Tuna Salad
 

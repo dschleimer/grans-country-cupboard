@@ -9,6 +9,7 @@ categories:
     - Snacks
     - Party Food
     - Dips
+    - No Cook
 ---
 # Shrimp Dip
 

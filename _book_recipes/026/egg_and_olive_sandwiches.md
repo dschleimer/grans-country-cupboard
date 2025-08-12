@@ -8,6 +8,7 @@ categories:
     - Sandwich
     - Cold Sandwich
     - Finger Food
+    - No Cook
 ---
 # Egg and Olive Sandwiches
 

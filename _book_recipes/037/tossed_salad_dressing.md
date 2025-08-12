@@ -7,6 +7,7 @@ categories:
     - Needs Transcription
     - Salad Dressing
     - Vegetarian
+    - No Cook
 ---
 # Tossed Salad Dressing
 

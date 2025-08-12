@@ -8,6 +8,8 @@ categories:
     - Salad
     - Cold Salad
     - Vegetarian
+    - No Cook
+    - Chilled
 ---
 # Calico Salad
 

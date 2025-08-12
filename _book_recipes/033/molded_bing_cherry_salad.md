@@ -9,6 +9,8 @@ categories:
     - Salad
     - Cold Salad
     - Molded
+    - Boiled
+    - Chilled
 ---
 # Molded Bing Cherry Salad
 

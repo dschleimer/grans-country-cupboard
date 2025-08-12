@@ -10,6 +10,8 @@ categories:
     - Party Food
     - Finger Food
     - Vegetarian
+    - Double Boiler
+    - Chilled
 ---
 # Cheese + Bread Puffs
 

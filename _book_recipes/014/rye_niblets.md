@@ -9,6 +9,7 @@ categories:
     - Snacks
     - Party Food
     - Finger Food
+    - Baked
 ---
 # Rye Niblets
 

@@ -8,6 +8,8 @@ categories:
     - Appetizers
     - Snacks
     - Spreads
+    - No Cook
+    - Chilled
 ---
 # Shrimp Olive Spread
 

@@ -7,6 +7,8 @@ categories:
     - Needs Transcription
     - Appetizers
     - Party Food
+    - No Cook
+    - Chilled
 ---
 # Beef Cream Cheese Log
 

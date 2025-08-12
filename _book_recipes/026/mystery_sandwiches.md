@@ -8,6 +8,8 @@ categories:
     - Sandwich
     - Cold Sandwich
     - Finger Food
+    - No Cook
+    - Chilled
 ---
 # Mystery Sandwiches
 

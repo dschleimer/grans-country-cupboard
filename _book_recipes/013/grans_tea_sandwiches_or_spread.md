@@ -10,6 +10,8 @@ categories:
     - Finger Food
     - Spread
     - Sandwiches
+    - No Cook
+    - Chilled
 ---
 # Gran's Tea Sandwiches or Spread
 

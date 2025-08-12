@@ -8,6 +8,7 @@ categories:
     - Snacks
     - Party Food
     - Meat Balls
+    - Baked
 ---
 # Sausage Balls
 

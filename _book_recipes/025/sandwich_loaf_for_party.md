@@ -9,6 +9,8 @@ categories:
     - Cold Sandwich
     - Party Food
     - Finger Food
+    - Chilled
+    - No Cook
 ---
 # Sandwich Loaf for Party
 

@@ -6,6 +6,7 @@ page_order: 1
 categories:
     - Needs Transcription
     - Salad Dressing
+    - Boiled
 ---
 # Fresh Fruit Salad Dressing
 

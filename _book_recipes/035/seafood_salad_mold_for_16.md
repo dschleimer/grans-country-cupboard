@@ -10,6 +10,8 @@ categories:
     - Cold Salad
     - Molded
     - Party Food
+    - Boiled
+    - Chilled
 ---
 # Seafood Salad Mold for 16
 

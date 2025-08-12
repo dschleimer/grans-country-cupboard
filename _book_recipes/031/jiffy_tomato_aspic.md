@@ -6,6 +6,8 @@ page_order: 2
 categories:
     - Needs Transcription
     - Aspic
+    - Boiled
+    - Chilled
 ---
 # Jiffy Tomato Aspic
 
