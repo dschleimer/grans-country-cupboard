@@ -8,6 +8,8 @@ categories:
     - Appetizers
     - Soup
     - Chowder
+    - Boiled
+    - Pan Fried
 ---
 # Corn Chowder
 

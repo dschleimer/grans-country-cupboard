@@ -8,6 +8,7 @@ categories:
     - Appetizers
     - Soup
     - Vegetarian
+    - Boiled
 ---
 # Tomato Soup
 

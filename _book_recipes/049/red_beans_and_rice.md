@@ -7,6 +7,7 @@ categories:
     - Needs Transcription
     - Vegetables
     - Side Dish
+    - Boiled
 ---
 # Red Beans and Rice
 

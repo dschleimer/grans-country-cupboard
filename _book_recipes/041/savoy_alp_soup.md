@@ -7,6 +7,8 @@ categories:
     - Needs Transcription
     - Appetizers
     - Soup
+    - Double Boiled
+    - Boiled
 ---
 # Savoy Alp Soup
 

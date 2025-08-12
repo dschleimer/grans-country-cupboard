@@ -7,6 +7,7 @@ categories:
     - Needs Transcription
     - Appetizers
     - Soup
+    - Boiled
 ---
 # Greek Chicken + Lemon Flavored Soup
 

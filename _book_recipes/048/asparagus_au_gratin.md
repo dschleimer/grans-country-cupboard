@@ -8,6 +8,9 @@ categories:
     - Vegetables
     - Vegetarian
     - Side Dish
+    - Boiled
+    - Pan Fried
+    - Broiled
 ---
 # Asparagus au Gratin
 

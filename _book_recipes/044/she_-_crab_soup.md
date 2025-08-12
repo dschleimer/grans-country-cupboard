@@ -9,6 +9,7 @@ categories:
     - Soup
     - Seafood
     - Seafood Soup
+    - Boiled
 ---
 # She - Crab Soup
 

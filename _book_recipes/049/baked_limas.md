@@ -7,6 +7,10 @@ categories:
     - Needs Transcription
     - Vegetables
     - Side Dish
+    - Casserole
+    - Boiled
+    - Pan Fried
+    - Baked
 ---
 # Baked Limas
 

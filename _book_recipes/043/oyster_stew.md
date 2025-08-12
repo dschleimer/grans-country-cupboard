@@ -10,6 +10,7 @@ categories:
     - Stew
     - Seafood
     - Seafood Soup
+    - Boiled
 ---
 # Oyster Stew
 

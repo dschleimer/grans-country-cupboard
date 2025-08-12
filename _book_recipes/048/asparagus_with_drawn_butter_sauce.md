@@ -8,6 +8,7 @@ categories:
     - Vegetables
     - Vegetarian
     - Side Dish
+    - Boiled
 ---
 # Asparagus with Drawn Butter Sauce
 

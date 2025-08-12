@@ -7,6 +7,8 @@ categories:
     - Needs Transcription
     - Appetizers
     - Soup
+    - Baked
+    - Boiled
 ---
 # Turkey Soup
 
