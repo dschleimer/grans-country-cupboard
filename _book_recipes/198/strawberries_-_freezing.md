@@ -2,7 +2,7 @@
 layout: page
 page: "198"
 recipe: 198/strawberries_-_freezing
-page_order: 4
+page_order: 3
 categories:
     - Needs Transcription
     - Needs Front Matter
