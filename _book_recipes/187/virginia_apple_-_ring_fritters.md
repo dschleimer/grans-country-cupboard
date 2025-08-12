@@ -2,7 +2,7 @@
 layout: page
 page: "187"
 recipe: 187/virginia_apple_-_ring_fritters
-page_order: 3
+page_order: 2
 categories:
     - Needs Transcription
     - Needs Front Matter

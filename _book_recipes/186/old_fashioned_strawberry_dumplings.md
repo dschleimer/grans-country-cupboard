@@ -2,7 +2,7 @@
 layout: page
 page: "186"
 recipe: 186/old_fashioned_strawberry_dumplings
-page_order: 1
+page_order: 2
 categories:
     - Needs Transcription
     - Needs Front Matter
