@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Vegetarian
     - Fruit
-    - Uncooked
+    - No Cook
 ---
 # Fresh Peaches - Sliced in Bourbon
 

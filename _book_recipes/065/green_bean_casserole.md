@@ -8,6 +8,7 @@ categories:
     - Vegetables
     - Vegetarian
     - Casserole
+    - Baked
 ---
 # Green Bean Casserole
 

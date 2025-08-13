@@ -9,6 +9,8 @@ categories:
     - Stuffed Vegetables
     - Vegetarian
     - Side Dish
+    - Pan Fried
+    - Baked
 ---
 # Baked Stuffed Tomatoes
 

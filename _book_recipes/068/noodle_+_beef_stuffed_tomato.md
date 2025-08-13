@@ -8,6 +8,8 @@ categories:
     - Vegetables
     - Stuffed Vegetables
     - Noodles
+    - Boiled
+    - Baked
 ---
 # Noodle + Beef Stuffed Tomato
 

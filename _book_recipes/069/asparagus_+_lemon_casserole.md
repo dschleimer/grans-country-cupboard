@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Vegetables
     - Casserole
-    - Soufflé
+    - Baked
 ---
 # Asparagus + Lemon Casserole
 

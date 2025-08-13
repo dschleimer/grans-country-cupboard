@@ -7,6 +7,7 @@ categories:
     - Needs Transcription
     - Casserole
     - Seafood
+    - Baked
 ---
 # Oyster Casserole
 

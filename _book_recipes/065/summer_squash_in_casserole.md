@@ -8,6 +8,7 @@ categories:
     - Vegetables
     - Vegetarian
     - Casserole
+    - Baked
 ---
 # Summer Squash in Casserole
 

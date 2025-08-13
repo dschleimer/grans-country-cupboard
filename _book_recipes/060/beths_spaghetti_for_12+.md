@@ -7,6 +7,8 @@ categories:
     - Needs Transcription
     - Italian
     - Noodles
+    - Pan Fried
+    - Boiled
 ---
 # Beths Spaghetti for 12+
 

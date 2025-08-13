@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Vegetarian
     - Fruit
-    - Uncooked
+    - No Cook
 ---
 # Cranberry + Apple Uncooked
 

@@ -8,6 +8,8 @@ categories:
     - Casserole
     - Soufflé
     - Noodles
+    - Pan Fried
+    - Baked
 ---
 # Beef Casserole
 

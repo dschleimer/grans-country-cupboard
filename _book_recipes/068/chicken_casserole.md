@@ -7,6 +7,9 @@ categories:
     - Needs Transcription
     - Casserole
     - Noodles
+    - Boiled
+    - Chilled
+    - Baked
 ---
 # Chicken Casserole
 

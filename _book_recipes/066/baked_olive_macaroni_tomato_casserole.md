@@ -9,6 +9,8 @@ categories:
     - Vegetarian
     - Casserole
     - Noodles
+    - Boiled
+    - Baked
 ---
 # Baked Olive, Macaroni, Tomato Casserole
 

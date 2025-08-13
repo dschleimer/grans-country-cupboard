@@ -7,6 +7,8 @@ categories:
     - Needs Transcription
     - Side Dish
     - Spanish
+    - Casserole
+    - Baked
 ---
 # Spanish Rice
 

@@ -7,6 +7,8 @@ categories:
     - Needs Transcription
     - Vegetables
     - Casserole
+    - Boiled
+    - Baked
 ---
 # Yellow Squash Casserole
 

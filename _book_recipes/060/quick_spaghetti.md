@@ -8,6 +8,8 @@ categories:
     - Vegetarian
     - Italian
     - Noodles
+    - Boiled
+    - Pan Fried
 ---
 # Quick Spaghetti
 
