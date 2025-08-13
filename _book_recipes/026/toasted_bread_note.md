@@ -6,8 +6,6 @@ page_order: 4
 categories:
     - Needs Transcription
     - Notes from Gran
-    - No Cook
-    - Chilled
 ---
 # Toasted Bread Note
 
