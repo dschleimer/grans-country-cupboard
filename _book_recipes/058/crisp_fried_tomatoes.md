@@ -8,6 +8,8 @@ categories:
     - Vegetables
     - Side Dish
     - Fried Foods
+    - Battered
+    - Pan Fried
 ---
 # Crisp Fried Tomatoes
 

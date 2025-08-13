@@ -8,6 +8,7 @@ categories:
     - Vegetables
     - Side Dish
     - Thanksgiving
+    - Baked
 ---
 # Sweet Potato Pudding
 

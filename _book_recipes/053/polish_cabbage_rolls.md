@@ -8,6 +8,8 @@ categories:
     - Vegetables
     - Stuffed Vegetables
     - Wraps
+    - Boiled
+    - Baked
 ---
 # Polish Cabbage Rolls
 

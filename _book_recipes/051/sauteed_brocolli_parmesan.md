@@ -7,6 +7,8 @@ categories:
     - Needs Transcription
     - Vegetables
     - Side Dish
+    - Pan Fried
+    - Boiled
 ---
 # Sautéed Brocolli Parmesan
 

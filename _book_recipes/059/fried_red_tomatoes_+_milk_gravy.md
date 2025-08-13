@@ -8,6 +8,8 @@ categories:
     - Vegetables
     - Vegetarian
     - Fried Foods
+    - Pan Fried
+    - Boiled
 ---
 # Fried Red Tomatoes + Milk Gravy
 

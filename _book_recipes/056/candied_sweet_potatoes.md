@@ -8,6 +8,7 @@ categories:
     - Vegetables
     - Vegetarian
     - Thanksgiving
+    - Baked
 ---
 # Candied Sweet Potatoes
 

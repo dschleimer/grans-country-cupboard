@@ -8,6 +8,8 @@ categories:
     - Vegetables
     - Vegetarian
     - Side Dish
+    - Pan Fried
+    - Boiled
 ---
 # Lady Cabbage
 

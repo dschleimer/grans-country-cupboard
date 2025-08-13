@@ -8,6 +8,7 @@ categories:
     - Vegetables
     - Vegetarian
     - Stew
+    - Boiled
 ---
 # Stewed Eggplant
 

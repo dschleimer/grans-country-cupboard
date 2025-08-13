@@ -8,6 +8,7 @@ categories:
     - Vegetables
     - Vegetarian
     - Side Dish
+    - Boiled
 ---
 # New Jersey Corn-on-the-Cob
 

@@ -8,6 +8,8 @@ categories:
     - Vegetables
     - Side Dish
     - Fried Foods
+    - Breaded
+    - Pan Fried
 ---
 # Thin - Fried Eggplant
 

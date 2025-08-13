@@ -8,6 +8,7 @@ categories:
     - Vegetables
     - Vegetarian
     - Side Dish
+    - Pan Fried
 ---
 # Green Beans Superb
 

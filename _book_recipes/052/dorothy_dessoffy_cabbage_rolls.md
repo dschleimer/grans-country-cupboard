@@ -10,7 +10,7 @@ categories:
     - Vegetarian
     - Side Dish
     - Wraps
-
+    - Boiled
 ---
 # Dorothy Dessoffy's Cabbage Rolls
 

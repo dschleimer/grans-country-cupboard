@@ -8,6 +8,7 @@ categories:
     - Vegetables
     - Vegetarian
     - Side Dish
+    - Boiled
 ---
 # Yellow Squash
 

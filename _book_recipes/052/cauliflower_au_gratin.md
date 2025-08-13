@@ -9,6 +9,8 @@ categories:
     - Vegetarian
     - Side Dish
     - Casserole
+    - Boiled
+    - Baked
 ---
 # Cauliflower au Gratin
 

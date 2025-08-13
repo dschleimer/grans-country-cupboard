@@ -8,6 +8,8 @@ categories:
     - Vegetables
     - Vegetarian
     - Side Dish
+    - Boiled
+    - Baked
 ---
 # Maine Baked Beans
 

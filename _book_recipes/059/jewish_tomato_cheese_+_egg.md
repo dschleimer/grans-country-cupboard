@@ -7,6 +7,7 @@ categories:
     - Needs Transcription
     - Vegetables
     - Side Dish
+    - Pan Fried
 ---
 # Jewish Tomato, Cheese + Egg
 

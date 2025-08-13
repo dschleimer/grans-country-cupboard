@@ -8,6 +8,9 @@ categories:
     - Vegetables
     - Stuffed Vegetables
     - Side Dish
+    - Pan Fried
+    - Boiled
+    - Baked
 ---
 # Stuffed Green Peppers
 

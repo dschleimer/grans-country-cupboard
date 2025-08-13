@@ -8,6 +8,8 @@ categories:
     - Vegetables
     - Side Dish
     - Fried Foods
+    - Battered
+    - Deep Fried
 ---
 # Italian Fried Green Tomatoes or Eggplant
 

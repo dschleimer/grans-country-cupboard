@@ -6,12 +6,10 @@ page_order: 2
 categories:
     - Needs Transcription
     - Vegetables
-    - Vegetarian
     - Side Dish
-    - Casserole
-    - Wraps
     - Fried Foods
-    - Stew
+    - Battered
+    - Deep Fried
 ---
 # Crisp Onion Rings
 

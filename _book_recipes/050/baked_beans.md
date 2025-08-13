@@ -7,6 +7,8 @@ categories:
     - Needs Transcription
     - Vegetables
     - Side Dish
+    - Boiled
+    - Baked
 ---
 # Baked Beans
 
