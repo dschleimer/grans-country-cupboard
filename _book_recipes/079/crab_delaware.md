@@ -7,7 +7,6 @@ categories:
     - Needs Transcription
     - Seafood
     - Baked
-    - Breaded
 ---
 # Crab Delaware
 

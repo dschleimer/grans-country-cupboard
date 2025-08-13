@@ -6,6 +6,7 @@ page_order: 1
 categories:
     - Needs Transcription
     - Omelet
+    - Pan Fried
 ---
 # Blue Cheese Omelet
 

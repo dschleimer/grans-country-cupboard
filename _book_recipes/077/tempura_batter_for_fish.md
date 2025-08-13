@@ -9,6 +9,7 @@ categories:
     - Mains
     - Fried
     - Breaded
+    - Deep Fried
 ---
 # Tempura Batter for Fish
 

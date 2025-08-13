@@ -6,6 +6,7 @@ page_order: 2
 categories:
     - Needs Transcription
     - Boiled Eggs
+    - Boiled
 ---
 # Easy - Off Egg Shells
 

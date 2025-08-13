@@ -9,6 +9,7 @@ categories:
     - Appetizers
     - Finger Food
     - Boiled Eggs
+    - Boiled
 ---
 # Deviled Eggs
 

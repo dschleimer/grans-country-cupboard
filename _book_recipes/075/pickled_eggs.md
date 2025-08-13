@@ -6,6 +6,7 @@ page_order: 1
 categories:
     - Needs Transcription
     - Boiled Eggs
+    - Boiled
 ---
 # Pickled Eggs
 

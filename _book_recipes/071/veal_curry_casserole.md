@@ -6,6 +6,8 @@ page_order: 1
 categories:
     - Needs Transcription
     - Casserole
+    - Pan Fried
+    - Baked
 ---
 # Veal Curry Casserole
 

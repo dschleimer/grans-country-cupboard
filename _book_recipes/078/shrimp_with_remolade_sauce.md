@@ -8,6 +8,8 @@ categories:
     - Seafood
     - Appetizers
     - Finger Food
+    - Boiled
+    - Chilled
 ---
 # Shrimp with Remolade Sauce
 

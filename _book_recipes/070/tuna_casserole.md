@@ -7,6 +7,9 @@ categories:
     - Needs Transcription
     - Casserole
     - Seafood
+    - Pan Fried
+    - Boiled
+    - Baked
 ---
 # Tuna Casserole
 

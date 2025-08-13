@@ -7,6 +7,9 @@ categories:
     - Needs Transcription
     - Omelet
     - Baked Omelet
+    - Pan Fried
+    - Boiled
+    - Baked
 ---
 # Wrangler's Omelet with Cheese Sauce
 

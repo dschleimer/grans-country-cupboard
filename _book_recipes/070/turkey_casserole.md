@@ -6,6 +6,8 @@ page_order: 3
 categories:
     - Needs Transcription
     - Casserole
+    - Pan Fried
+    - Baked
 ---
 # Turkey Casserole
 

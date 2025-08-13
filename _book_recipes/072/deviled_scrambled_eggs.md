@@ -6,6 +6,7 @@ page_order: 2
 categories:
     - Needs Transcription
     - Scramble
+    - Pan Fried
 ---
 # Deviled Scrambled Eggs
 

@@ -7,7 +7,7 @@ categories:
     - Needs Transcription
     - Seafood
     - Mains
-    - Sautéed
+    - Pan Fried
 ---
 # Shrimp Newburg
 

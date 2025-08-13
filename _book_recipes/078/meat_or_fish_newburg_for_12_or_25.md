@@ -11,6 +11,8 @@ categories:
     - Sandwich
     - Meat Sauce
     - Seafood Sauce
+    - Chilled
+    - Boiled
 ---
 # Meat or Fish Newburg for 12 or 25
 

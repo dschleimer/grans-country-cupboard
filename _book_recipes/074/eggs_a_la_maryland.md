@@ -6,6 +6,7 @@ page_order: 2
 categories:
     - Needs Transcription
     - Seafood
+    - Pan Fried
 ---
 # Eggs à la Maryland
 
