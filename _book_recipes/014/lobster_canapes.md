@@ -3,6 +3,7 @@ layout: page
 page: "014"
 recipe: 014/lobster_canapes
 page_order: 1
+from: Connie
 categories:
     - Needs Transcription
     - Appetizers
@@ -17,10 +18,25 @@ categories:
 
 | Ingredient   | Amount  | Notes |
 | ------------ | ------- | ----- |
-| | | |
+| Lobster Meat | 3/4 lb | Cooked and Ground |
+| Onion | 2 Tbsp | Minced |
+| Eggs | 2 | Beaten |
+| Salt | 1/2 tsp | |
+| Black Pepper | | Freshly Ground |
+| Corn Meal | 3/4 cup | Yellow Cirn Meal |
 
 ## Method
+1. Heat Cooking oil to 375F in deep frier or in a large pot on stovetop
+1. Cook and grind lobster if making from fresh
+1. Mince onion
+1. Beat eggs
+1. Combine all ingredients and mix well
+1. Shape into balls
+1. Roll in corn meal
+1. Fry in a basket for 3 minutes
+1. Drain
 
 ## Notes
+* Makes 48 balls
 
 {% include recipe.md %}

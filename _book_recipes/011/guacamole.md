@@ -32,8 +32,7 @@ categories:
 | Mayonnaise           | 1/3 Cup   | |
 | Bacon                | 6 slices  | Optional - at serving time|
 | Sour Cream           | 3 Oz      | Optional - may substitute for Cream Cheese |
-| Roquefort            | 1/3 cup   | Optional |
-| Roquefort            | 1/3 cup   | Optional - Crumbled |
+| Roquefort Cheese     | 1/3 cup   | Optional - Crumbled |
 | Dry White Wine       | 1/4 cup   | Optional |
 | Garlic Powder        | 1/2 tsp   | Optional - may substitute for fresh garlic |
 
