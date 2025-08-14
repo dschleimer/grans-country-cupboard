@@ -6,6 +6,7 @@ page_order: 4
 categories:
     - Needs Transcription
     - Needs Front Matter
+    - Vegetarian
 ---
 # Preserved Strawberries
 

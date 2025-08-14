@@ -6,6 +6,7 @@ page_order: 1
 from: Nanna Marter
 categories:
     - Needs Front Matter
+    - Vegetarian
 ---
 # 12 Stew Dumplings
 

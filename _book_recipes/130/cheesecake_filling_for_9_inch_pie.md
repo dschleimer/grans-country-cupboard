@@ -6,6 +6,7 @@ page_order: 1
 categories:
     - Needs Transcription
     - Needs Front Matter
+    - Vegetarian
 ---
 # Cheesecake Filling for 9 Inch Pie
 

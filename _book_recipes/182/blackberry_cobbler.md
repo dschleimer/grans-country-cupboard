@@ -6,6 +6,7 @@ page_order: 1
 categories:
     - Needs Transcription
     - Needs Front Matter
+    - Vegetarian
 ---
 # Blackberry Cobbler
 
