@@ -16,17 +16,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Miniature Cream Puffs | 30 | |
-| Ham | 2 cups | Cooked and Ground |
-| Sharp Cheese | 1/2 cup | Grated |
-| Catsup | 1/2 cup | Use catsup OR chili sauce.  Not both |
-| Chili Sauce | 1/2 cup | Use catsup OR chili sauce.  Not both - recipe calls for homemade |
-| Green Pepper | 1/4 cup | Chopped |
-| Olives | 1/4 cup | Ripe - Chopped |
-| Garlic Salt | 1/8 tsp | |
-| Celery Seed | 1/2 tsp | |
+| Ingredient            | Amount  | Notes |
+| --------------------- | ------- | ----- |
+| Miniature Cream Puffs | 30      | |
+| Ham                   | 2 cups  | Cooked and Ground |
+| Sharp Cheese          | 1/2 cup | Grated |
+| Catsup                | 1/2 cup | Use catsup OR chili sauce.  Not both |
+| Chili Sauce           | 1/2 cup | Use catsup OR chili sauce.  Not both - recipe calls for homemade |
+| Green Pepper          | 1/4 cup | Chopped |
+| Olives                | 1/4 cup | Ripe - Chopped |
+| Garlic Salt           | 1/8 tsp | |
+| Celery Seed           | 1/2 tsp | |
 
 ## Method
 
