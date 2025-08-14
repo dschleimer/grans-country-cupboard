@@ -3,7 +3,7 @@ layout: page
 page: "011"
 recipe: 011/guacamole
 page_order: 2
-from: Elizabeth McKinley Barmeyer
+from: Elizabeth McGinley Barmeyer
 categories:
     - Needs Transcription
     - Appetizers

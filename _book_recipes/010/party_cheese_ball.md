@@ -3,7 +3,7 @@ layout: page
 page: "010"
 recipe: 010/party_cheese_ball
 page_order: 3
-from: Elizabeth McKinley Barmeyer
+from: Elizabeth McGinley Barmeyer
 categories:
     - Needs Transcription
     - Appetizers

@@ -3,7 +3,7 @@ layout: page
 page: "012"
 recipe: 012/crab_meat_spread
 page_order: 2
-from: Elizabeth McKinley Barmeyer
+from: Elizabeth McGinley Barmeyer
 categories:
     - Needs Transcription
     - Appetizers
