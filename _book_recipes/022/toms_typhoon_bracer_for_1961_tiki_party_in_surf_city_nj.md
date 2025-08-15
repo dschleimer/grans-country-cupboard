@@ -3,8 +3,8 @@ layout: page
 page: "022"
 recipe: 022/toms_typhoon_bracer_for_1961_tiki_party_in_surf_city_nj
 page_order: 1
+from: Tom McGinley - Surf City NJ - 1961 Tiki Party
 categories:
-    - Needs Transcription
     - Alcohol
     - Drinks
     - Cocktail
@@ -17,10 +17,22 @@ categories:
 
 | Ingredient   | Amount  | Notes |
 | ------------ | ------- | ----- |
-| | | |
+| Light Rum | 9 oz | |
+| Dark Rum | 9 oz | 151 proof |
+| Rum | 15 oz | Jamaican |
+| Orgeat | 15 oz | |
+| Lemon Juice | 30 oz | Fresh |
+| Lime Juice | 30 oz | Fresh |
+| Fruit Juice | 90 oz | Heart's Delight |
+| Papaya Juice | 30 oz | |
+| Grenadine | to color | Cherry Grenadine |
 
 ## Method
 
 ## Notes
+
+## Modern Notes
+
+This is a really big recipe.  About 1 3/4 gallons.  Make sure you have a really big container and a lot of people to serve before attempting.  -- David S
 
 {% include recipe.md %}
