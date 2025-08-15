@@ -14,12 +14,21 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| | | |
+| Ingredient    | Amount  | Notes |
+| ------------- | ------- | ----- |
+| Irish Whiskey | 1 Jigger | Bushmills recommended - likely 1.5 Oz |
+| Coffee        |          | Hot and black |
+| Sugar         | 1 tsp    | |
+| Whipped Cream |          | |
 
 ## Method
 
+1. Add Whiskey to Irish Coffee cup
+1. Add Hot Black Coffee to about 1/ inch of the top of the cup
+1. Add Sugar
+1. Add Whipped Cream to float on top of coffee
+
 ## Notes
+* Drink through the cream
 
 {% include recipe.md %}
