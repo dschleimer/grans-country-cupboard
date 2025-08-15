@@ -5,7 +5,6 @@ recipe: 019/pina_colada
 page_order: 4
 from: Mable Allen
 categories:
-    - Needs Transcription
     - Alcohol
     - Drinks
     - Cocktail

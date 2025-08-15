@@ -5,7 +5,6 @@ recipe: 017/easter_eggnog
 page_order: 2
 from: Grand Dad Marter
 categories:
-    - Needs Transcription
     - Alcohol
     - Drinks
     - Mixed Drink

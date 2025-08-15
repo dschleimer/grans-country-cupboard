@@ -5,7 +5,6 @@ recipe: 011/cheese_+_bread_puffs
 page_order: 1
 from: Martha Marter
 categories:
-    - Needs Transcription
     - Appetizers
     - Snacks
     - Party Food

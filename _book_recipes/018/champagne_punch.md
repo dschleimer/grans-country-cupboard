@@ -5,7 +5,6 @@ recipe: 018/champagne_punch
 page_order: 1
 from: Blanche Johnston
 categories:
-    - Needs Transcription
     - Alcohol
     - Drinks
     - Punch

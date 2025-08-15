@@ -4,7 +4,6 @@ page: "018"
 recipe: 018/artillery_punch
 page_order: 3
 categories:
-    - Needs Transcription
     - Alcohol
     - Drinks
     - Punch

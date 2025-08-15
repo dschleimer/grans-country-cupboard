@@ -5,7 +5,6 @@ recipe: 017/toms_eggnog
 page_order: 3
 from: Tom McGinley
 categories:
-    - Needs Transcription
     - Alcohol
     - Drinks
     - Mixed Drink

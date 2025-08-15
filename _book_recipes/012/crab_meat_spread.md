@@ -5,7 +5,6 @@ recipe: 012/crab_meat_spread
 page_order: 2
 from: Elizabeth McGinley Barmeyer
 categories:
-    - Needs Transcription
     - Appetizers
     - Snacks
     - Party Food

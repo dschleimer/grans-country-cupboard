@@ -5,7 +5,6 @@ recipe: 010/party_cheese_ball
 page_order: 3
 from: Elizabeth McGinley Barmeyer
 categories:
-    - Needs Transcription
     - Appetizers
     - Snacks
     - Party Food

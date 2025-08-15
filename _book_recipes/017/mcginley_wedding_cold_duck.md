@@ -5,7 +5,6 @@ recipe: 017/mcginley_wedding_cold_duck
 page_order: 1
 from: 
 categories:
-    - Needs Transcription
     - Alcohol
     - Drinks
     - Punch

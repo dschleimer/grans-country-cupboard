@@ -5,7 +5,6 @@ recipe: 016/nuts_and_bolts
 page_order: 2
 from: Margot Aicklen
 categories:
-    - Needs Transcription
     - Appetizers
     - Snacks
     - Party Food

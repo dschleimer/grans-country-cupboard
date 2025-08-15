@@ -5,7 +5,6 @@ recipe: 018/mcginley_punch
 page_order: 2
 from: Tom McGinley
 categories:
-    - Needs Transcription
     - Alcohol
     - Drinks
     - Punch

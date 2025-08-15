@@ -4,7 +4,6 @@ page: "019"
 recipe: 019/cafe_brulot
 page_order: 1
 categories:
-    - Needs Transcription
     - Alcohol
     - Drinks
     - Cocktail

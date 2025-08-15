@@ -5,7 +5,6 @@ recipe: 014/lobster_canapes
 page_order: 1
 from: Connie
 categories:
-    - Needs Transcription
     - Appetizers
     - Snacks
     - Party Food

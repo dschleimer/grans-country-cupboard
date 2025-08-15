@@ -5,7 +5,6 @@ recipe: 019/grand-dad_marters_applejack
 page_order: 3
 from: Garnd Dad Marter
 categories:
-    - Needs Transcription
     - Alcohol
     - Drinks
     - Batch Drink

@@ -5,7 +5,6 @@ recipe: 011/guacamole
 page_order: 2
 from: Elizabeth McGinley Barmeyer
 categories:
-    - Needs Transcription
     - Appetizers
     - Snacks
     - Party Food
