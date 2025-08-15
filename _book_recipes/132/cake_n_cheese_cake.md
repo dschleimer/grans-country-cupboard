@@ -39,7 +39,7 @@ categories:
 | Ingredient    | Amount        | Notes     |
 | ------------- | ------------- | --------- |
 | Sour Cream    | 1 cup         |           |
-| Sugar         | 1 Tblsp       |           |
+| Sugar         | 2 Tblsp       |           |
 | Vanilla       | 1 tsp         |           |
 
 ## Method
