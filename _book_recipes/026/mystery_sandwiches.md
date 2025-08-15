@@ -4,7 +4,6 @@ page: "026"
 recipe: 026/mystery_sandwiches
 page_order: 1
 categories:
-    - Needs Transcription
     - Sandwich
     - Cold Sandwich
     - Finger Food
@@ -15,12 +14,26 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| | | |
+| Ingredient      | Amount  | Notes |
+| --------------- | ------- | ----- |
+| Eggs            | 3       | Hard Boiled |
+| American Cheese | 1/2 lb  | |
+| Onion           | 1 small | |
+| Pimento         | 1       | |
+| Salt            | 1/2 tsp | |
+| Paprika         | 1/8 tsp | |
+| Mayonnaise      |         | |
 
 ## Method
 
+1. Hard boil eggs and allow to cool
+1. Combine all ingredients except for Mayonnaise
+1. Grind finely
+1. Add enough Mayonnaise to m ake it spreadable
+1. Refrigerate a couple hours to blend flavors
+
 ## Notes
+
+* Especially good on toasted bread
 
 {% include recipe.md %}
