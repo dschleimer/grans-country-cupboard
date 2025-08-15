@@ -3,6 +3,7 @@ layout: page
 page: "018"
 recipe: 018/mcginley_punch
 page_order: 2
+from: Tom McGinley
 categories:
     - Needs Transcription
     - Alcohol
@@ -18,10 +19,21 @@ categories:
 
 | Ingredient   | Amount  | Notes |
 | ------------ | ------- | ----- |
-| | | |
+| Applejack    | 4 parts | |
+| Gin          | 4 parts | |
+| Orange Juice | 8 parts | |
+| Lemon Juice  | 2 parts | |
+| Grenadine    | 2 parts | |
+| Club Soda    | 1 Quart | Optional - to reduce strength |
+| Giner Ale    | 1 Quart | Optional - to reduce strength |
 
 ## Method
 
+1. Pour in punch bowl over large cake of ice
+1. Stir
+
 ## Notes
+* This punch is potent
+* Strength can be reduced by adding 1 qt of club soda or ginger ale
 
 {% include recipe.md %}
