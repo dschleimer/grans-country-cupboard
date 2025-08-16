@@ -15,12 +15,25 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| | | |
+| Ingredient           | Amount  | Notes |
+| -------------------- | ------- | ----- |
+| Ham                  |         | |
+| Celery               | 1 cup   | |
+| Carrots              | 2       | |
+| Relish               | 1 Tbsp  | |
+| Mustard              | 1 Tbsp  | |
+| Worcestershire Sauce |         | |
+| Mayonnaise           |         | |
 
 ## Method
+1. Grind together ham, celery, carrots Relish, Mustard, several shakes Worcestershire Sauce
+1. Mayonnaise to spread
+1. Mix well
 
 ## Notes
+
+* Gran used what is left, after slicing, of a Gwaltney baked ham.
+* Good on toast with lettuce
+* For a change add 4 chopped eggs
 
 {% include recipe.md %}
