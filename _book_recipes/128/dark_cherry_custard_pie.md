@@ -26,7 +26,7 @@ categories:
 
 1. Preheat oven to 400F
 2. Butter 9 1/2 inch glass pie plate using 1 Tbsp butter
-3. Drain cherries if using frozen
+3. Drain cherries if using frozen, or pit fresh cherries
 4. Put cherries into buttered pie plate
 5. Sprinkle with 1/4 cup Granulated Sugar
 6. Mix Cherries and Sugar and Spread over pie plate
@@ -42,5 +42,9 @@ categories:
 
 ## Notes
 * Serve warm
+
+## Modern Notes
+* This pie is a *lot* better warm than cold.  The Instruction to serve warm is really important -- David S
+* I used fresh cherries that were relatively large, which I think was the cause of structural issues I had.  Consider using smaller cherries or cutting the cherries up before adding them to the pie dish.  -- David S
 
 {% include recipe.md %}
