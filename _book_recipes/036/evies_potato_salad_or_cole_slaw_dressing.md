@@ -4,7 +4,6 @@ page: "036"
 recipe: 036/evies_potato_salad_or_cole_slaw_dressing
 page_order: 3
 categories:
-    - Needs Transcription
     - Salad Dressing
     - Salad
     - Cold Salad
@@ -14,12 +13,24 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| | | |
+| Ingredient    | Amount   | Notes |
+| ------------- | -------- | ----- |
+| Egg           | 1        | Beaten |
+| Sugar         | 3 Tbsp   | |
+| Vinegar       | 3 Tbsp   | |
+| Dried Mustard | 1/2 Tsp  | |
+| Salt          | To taste | |
+| Pepper        | To taste | |
+| Mayonnaise    |          | For bulk
 
 ## Method
 
+1. Beat egg
+1. Mix together all ingredients except Mayonnaise and stir
+1. Cook
+1. Add mayonnaise for your bulk
+
 ## Notes
+* For potato salad add grated onion, celery cut fine, and 3 boiled eggs grated fine
 
 {% include recipe.md %}
