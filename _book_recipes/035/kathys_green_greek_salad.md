@@ -2,9 +2,9 @@
 layout: page
 page: "035"
 recipe: 035/kathys_green_greek_salad
-page_order: 2
+page_order: 2\
+from: Elizabeth McGinley Barmeyer
 categories:
-    - Needs Transcription
     - Salad
     - Cold Salad
     - No Cook
@@ -13,11 +13,33 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| | | |
+| Ingredient             | Amount  | Notes |
+| ---------------------- | ------- | ----- |
+| Lettuce                |         | |
+| Cucumber               | 1       | Sliced |
+| Red Onion              | 1       | Chopped |
+| Scallions              |         | Optional - May substitute for Onion |
+| Oil                    |         | |
+| Garlic Salt            |         | |
+| Wine Vinegar           |         | |
+| Artichoke Hearts       |         | |
+| Marinated Greek Olives |         | |
+| Croutons               |         | |
+| Egg                    |         | Chopped - \[presumably hard boiled first\]|
+| Ground Pepper          |         | |
 
 ## Method
+
+1. Tear lettuce into large bowl
+1. Slice cucumber and add to bowl
+1. Chop onion or scallions and add to bowl 
+1. Add oil, and garlic salt
+1. Add vinegar
+1. Add artichoke hearts and olives
+1. Add croutons
+1. Toss if desired
+1. Sprinkle chopped egg overall
+1. Grind pepper on top
 
 ## Notes
 
