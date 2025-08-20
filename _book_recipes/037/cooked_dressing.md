@@ -3,8 +3,8 @@ layout: page
 page: "037"
 recipe: 037/cooked_dressing
 page_order: 1
+from: Nanna Marter
 categories:
-    - Needs Transcription
     - Salad Dressing
     - Double Boiler
 ---
@@ -12,11 +12,27 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| | | |
+| Ingredient   | Amount     | Notes |
+| ------------ | ---------- | ----- |
+| Sugar        | 4 Tbsp     | |
+| Salt         | 2 tsp      | |
+| Flour        | 4 Tbsp     | |
+| Dry Mustard  | 3 tsp      | |
+| Cayenne      | Few grains | |
+| Eggs         | 4          | Yolks only - slightly beaten |
+| Milk         | 1 1/2 cups | |
+| Vinegar      | 1/2 cup    | Mild Vinegar |
+| Butter       | 1 Tbsp     | |
 
 ## Method
+
+1. Separate eggs and discard whites
+1. Slightly beat egg yolks
+1. Mix dry ingredients
+1. Add egg yolks and milk
+1. Cook while stirring constantly in double boiler until thick
+1. Add vinegar and butter
+1. Mix well and cool
 
 ## Notes
 
