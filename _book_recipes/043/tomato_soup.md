@@ -3,8 +3,8 @@ layout: page
 page: "043"
 recipe: 043/tomato_soup
 page_order: 2
+from: Ruth Jacobi
 categories:
-    - Needs Transcription
     - Appetizers
     - Soup
     - Vegetarian
@@ -16,10 +16,25 @@ categories:
 
 | Ingredient   | Amount  | Notes |
 | ------------ | ------- | ----- |
-| | | |
+| Tomatoes | 8 | |
+| Water | 1 pint | |
+| Salt | 1 tsp | |
+| Sugar | 1 Tbsp | |
+| Cloves | 5 | whole |
+| Peppercorns | 1/2 tsp | |
+| Parsley | 1 Tbsp | |
+| Onion | 1 Tbsp | Grated |
+| Flour | 1 Tbsp | |
+| Butter | 1 Tbsp | |
 
 ## Method
 
+1. Peel tomatoes
+1. Stew for 20 minutes
+1. Add remaining ingredients
+
 ## Notes
+
+* Hot - once Pop burned his gullet
 
 {% include recipe.md %}
