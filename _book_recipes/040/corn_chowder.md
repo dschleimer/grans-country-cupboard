@@ -3,8 +3,8 @@ layout: page
 page: "040"
 recipe: 040/corn_chowder
 page_order: 2
+from: Pat
 categories:
-    - Needs Transcription
     - Appetizers
     - Soup
     - Chowder
@@ -15,11 +15,34 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| | | |
+| Ingredient      | Amount     | Notes |
+| --------------- | ---------- | ----- |
+| Salt Pork       | 1/2 lb     | |
+| Onion           | 1 large    | Chopped |
+| Potatoes        | 2 med.     | Cubed |
+| Chicken Broth   | 2 cups     | |
+| Salt            | 1 tsp      | |
+| Corn            | 1 1/2 cups | Cut from the cob |
+| Seasoned Pepper | 1/2 tsp    | |
+| Half + Half     | 2 cups     | |
 
 ## Method
+
+1. Chop onion
+1. Cube potatoes
+1. Cut corn from cob
+1. Soak pork in boiling water for 5 minutes
+1. Cut soaked pork into 1 inch by 1/4 inch strips
+1. Fry pork strips until crisp
+1. Remove pork strips from heat and set aside
+1. Saute onions in the fat used to fry the pork
+1. Add potatoes and broth to sauteed onions
+1. Cover and simmer until potatoes are tender
+1. Add corn, salt, and pepper
+1. Cook 5 minutes
+1. Stir in Half + Half
+1. Bring to a boil
+1. Sprinkle top with pork strips
 
 ## Notes
 
