@@ -23,7 +23,7 @@ categories:
 | Lime Juice           | 1 Tbsp    | Use Lime OR Lemon Juice, not both |
 | Lemon Juice          | 1 Tbsp    | Use Lime OR Lemon Juice, not both |
 | Salt                 | 1 1/4 tsp | |
-| Tobasco              | 1/4 tsp   | |
+| Tabasco              | 1/4 tsp   | |
 | Worcestershire Sauce | 1/2 tsp   | |
 | Onion                | 1 tbsp    | Minced |
 | Garlic               | 1 Clove   | Minced |
@@ -43,7 +43,7 @@ categories:
   * Avocados
   * Lime Juice OR Lemon Juice
   * Salt
-  * Tobasco
+  * Tabasco
   * Worcestershire Sauce
   * Minced Garlic OR Garlic Powder
   * Cream Cheese

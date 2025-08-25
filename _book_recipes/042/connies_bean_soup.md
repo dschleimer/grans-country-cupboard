@@ -25,7 +25,7 @@ categories:
 | Ham bones                  |               | |
 | Parsley                    | 2 Tbsp        | Dried |
 | Worcestershire Sauce       | few shakes    | |
-| Tobasco                    | Couple shakes | |
+| Tabasco                    | Couple shakes | |
 | Seasoned Salt              | To taste      | |
 | Seasoned Pepper            | To taste      | |
 | Cayenne                    | 1-2 dashes    | |

@@ -32,7 +32,7 @@ categories:
 | Salt         | 3/4 Tsp | |
 | Sugar        | 1/2 Tsp | |
 | Lemon Juice  | 1 Tbsp  | |
-| Tobasco      | 1/2 tsp | |
+| Tabasco      | 1/2 tsp | |
 | Mayonnaise   | 1/2 cup | |
 | Sour Cream   | 1/2 cup | |
 

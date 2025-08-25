@@ -31,7 +31,7 @@ categories:
 | Grean Beans | 1 box | Frozen |
 | Salt | | |
 | Pepper | | |
-| Tobasco | Few dashes | |
+| Tabasco | Few dashes | |
 | Broad Noodles | 1 large bag | Pennsylvania Dutch |
 
 ## Method

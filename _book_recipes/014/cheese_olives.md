@@ -18,7 +18,7 @@ categories:
 | ------------ | ------- | ----- |
 | Bacon + Cheese | 1 small jar | Best guess is that this refers to commercial cheese spread with bacon in it |
 | Butter | 4 tbsp | |
-| Tobasco | | |
+| Tabasco | | |
 | Worcestershire Sauce | | |
 | Flour | 3/4 cup | |
 | Olives | | |
@@ -26,7 +26,7 @@ categories:
 ## Method
 1. Preheat oven to 400F
 1. Blend together Bacon + Cheese and butter
-1. Add a dash of Tobasco and a dash of Worcestershire Sauce
+1. Add a dash of Tabasco and a dash of Worcestershire Sauce
 1. Stir in Flour
 1. Form dough
 1. Shape about 1 tsp of dough around each olive
