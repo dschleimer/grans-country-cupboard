@@ -21,7 +21,7 @@ categories:
 | Onion          | 2 tsp      | Grated |
 | Salt           | 2 tsp      | |
 | Pepper         | To Taste   | |
-| Tabasco        | Dash       | |
+| Tabasco Sauce  | Dash       | |
 | Relish         | 2 Tbsp     | |
 | Mayonnaise     | 1 1/2 cups | |
 | Mustard        | 1 1/2 tsp  | |

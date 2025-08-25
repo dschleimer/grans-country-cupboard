@@ -21,7 +21,7 @@ categories:
 | Garlic               | 1 Clove  | May use powdered garlic |
 | Worcestershire Sauce | 2 Tbsp   | |
 | Lemon                | 1/2      | Juiced |
-| Tabasco              | Dash     | |
+| Tabasco Sauce        | Dash     | |
 
 ## Method
 

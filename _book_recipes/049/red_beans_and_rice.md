@@ -25,7 +25,7 @@ categories:
 | Garlic Powder        | Little Shake | |
 | Bay Leaves           | 2            | Remove Before Serving |
 | Parsley              | 1/2 tsp      | Dried |
-| Tabasco              | Shake        | |
+| Tabasco Sauce        | Shake        | |
 | Maggis               | Shake        | Probably this [seasoning sauce](https://en.wikipedia.org/wiki/Maggi) |
 | Seasoned Salt        | Shake        | |
 | Seasoned Pepper      | Shake        | |

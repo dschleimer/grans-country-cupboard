@@ -26,7 +26,7 @@ categories:
 | Bacon Grease         | 1/4 cup | |
 | Worcestershire Sauce | 2 Tbsp  | |
 | Garlic Salt          | 2 Tbsp  | |
-| Tabasco              | 1 Tbsp  | |
+| Tabasco Sauce        | 1 Tbsp  | |
 
 ## Method
 

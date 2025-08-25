@@ -25,7 +25,7 @@ categories:
 | Parsley              | 1/2 Tbsp       | Dried |
 | Rice                 | 1 cup          | raw |
 | Turkey Gravy         | 2 cups         | More if available |
-| Tabasco              | 3 good shakes  | |
+| Tabasco Sauce        | 3 good shakes  | |
 | Worcestershire Sauce | 1 Tbsp         | |
 | Salt                 | To taste       | |
 | Pepper               | To taste       | |

@@ -26,15 +26,15 @@ categories:
 | Melon        |         | Optional - Balls |
 
 #### For Dressing
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Orange Juice | 2 Tbsp  | Frozen Concentrate - thawed |
-| Salt         | 3/4 Tsp | |
-| Sugar        | 1/2 Tsp | |
-| Lemon Juice  | 1 Tbsp  | |
-| Tabasco      | 1/2 tsp | |
-| Mayonnaise   | 1/2 cup | |
-| Sour Cream   | 1/2 cup | |
+| Ingredient    | Amount  | Notes |
+| ------------- | ------- | ----- |
+| Orange Juice  | 2 Tbsp  | Frozen Concentrate - thawed |
+| Salt          | 3/4 Tsp | |
+| Sugar         | 1/2 Tsp | |
+| Lemon Juice   | 1 Tbsp  | |
+| Tabasco Sauce | 1/2 tsp | |
+| Mayonnaise    | 1/2 cup | |
+| Sour Cream    | 1/2 cup | |
 
 ## Method
 1. Section grapefruit and oranges
