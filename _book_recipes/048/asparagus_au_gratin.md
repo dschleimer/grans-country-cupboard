@@ -3,6 +3,7 @@ layout: page
 page: "048"
 recipe: 048/asparagus_au_gratin
 page_order: 1
+from: Joby McGinley
 categories:
     - Vegetables
     - Vegetarian
