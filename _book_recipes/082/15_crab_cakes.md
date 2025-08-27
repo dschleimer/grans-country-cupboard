@@ -12,18 +12,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
+| Ingredient   | Amount   | Notes |
+| ------------ | -------- | ----- |
 | Crab meat    | 1 lb.    | carefully picked free of all shell |
-| Butter       | 1/4 lb.  | ----- |
-| Flour        | 3 Tbsp.  | ----- |
-| Milk         | 2 cups   | ----- |
-| Nutmeg       | 1 dash   | ----- |
-| Red Pepper   | 1 dash   | ----- |
-| Parsley      | 1 dash   | chopped fine                       |
-| Salt         | to taste | ----- |
-| Bread crumbs | ------- | ----- |
-| Crisco       | ------- | all-vegetable shortening |
-| | | |
+| Butter       | 1/4 lb.  | |
+| Flour        | 3 Tbsp.  | |
+| Milk         | 2 cups   | |
+| Nutmeg       | 1 dash   | |
+| Red Pepper   | 1 dash   | |
+| Parsley      | 1 dash   | chopped fine |
+| Salt         | to taste | |
+| Bread crumbs |          | |
+| Crisco       |          | all-vegetable shortening |
 
 ## Method
 1. Cook butter, flour, and milk in a pot until very thick, stirring constantly.
