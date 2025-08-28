@@ -8,5 +8,10 @@ layout: page
         {%- assign category_page = site.categories | where_exp: "category_page", category_exp | first -%}
         <a href="{{category_page.url}}">{{category}}</a>{%- unless forloop.last %} - {% endunless -%}
     {%- endfor -%}
-</span>
+</span><br />
+{%if page.from %}
+    <span>From: {{page.from}}</span><br/>
+{%endif%}
+
+
 {{ content }}
