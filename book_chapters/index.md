@@ -1,9 +1,7 @@
 ---
-title: Chapters
 layout: page
 ---
-
-# Browse by Chapter
+# Chapters
 
 {% for chapter in site.book_chapters -%}
     ### Chapter {{chapter.number}} - [{{chapter.title}}]({{chapter.url}})

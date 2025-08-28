@@ -1,8 +1,7 @@
 ---
-title: Ingredients
 layout: page
 ---
 
-# Browse by Ingredient
+# Ingredients
 
 {% include alpha_group_docs.md docs=site.ingredients %}

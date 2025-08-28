@@ -1,9 +1,8 @@
 ---
-title: Pages
 layout: page
 ---
 
-# Browse by Page
+# Pages
 
 {%assign page_groups = site.book_pages | group_by: "chapter" %}
 {% for page_group in page_groups %}

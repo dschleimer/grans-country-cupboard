@@ -1,8 +1,7 @@
 ---
-title: Recipes
 layout: page
 ---
 
-# Browse by Recipe
+# Recipes
 
 {% include alpha_group_docs.md docs=site.book_recipes %}

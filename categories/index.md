@@ -1,8 +1,7 @@
 ---
-title: Categories
 layout: page
 ---
 
-# Browse by Category
+# Categories
 
 {% include alpha_group_docs.md docs=site.categories %}

@@ -48,7 +48,7 @@ plugins:
 
 titles_from_headings:
   collections: true
-  strip_title: false
+  strip_title: true
 
 collections:
   book_recipes:
