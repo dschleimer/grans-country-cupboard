@@ -40,4 +40,3 @@ categories:
 ## Notes
 * Guests spread their own on crackers
 
-{% include recipe.md %}

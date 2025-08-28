@@ -50,4 +50,3 @@ categories:
 * keep pot nearly full of juices
 * Serve or freeze
 
-{% include recipe.md %}

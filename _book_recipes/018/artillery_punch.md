@@ -44,4 +44,3 @@ categories:
 * The original recipe calls from "sugar for lemonade for 6 lemons".  Exact ratios of sugar to lemon juice in lemonade recipes vary, but not by all that much.  All of the recipes I checked called for around 1 cup of sugar.  --David S
 * The original recipe called for "cherries + some juice".  I interpret the "some juice" as Cherry juice to your flavor/color preference. --David S
 
-{% include recipe.md %}

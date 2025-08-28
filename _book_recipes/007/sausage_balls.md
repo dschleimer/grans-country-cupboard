@@ -39,4 +39,3 @@ categories:
 
 Is the 3 cups of biscuit mix measured before or after mixing it?  Presumably before but unclear --David S
 
-{% include recipe.md %}

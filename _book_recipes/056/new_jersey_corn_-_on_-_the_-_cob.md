@@ -35,4 +35,3 @@ categories:
 
 * Boiling corn in salted water will toughen the corn
 
-{% include recipe.md %}

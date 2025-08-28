@@ -41,4 +41,3 @@ categories:
 ## Modern Notes
 * The original recipe just says to prepare in the same manner as the previous recipe for balls.  I guessed some in writing this down as a complete recipe.  You may need to adjust the outer layer.  --David S
 
-{% include recipe.md %}

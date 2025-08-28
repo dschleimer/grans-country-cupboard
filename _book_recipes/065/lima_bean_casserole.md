@@ -36,4 +36,3 @@ categories:
 ## Notes
 * Good with Pork Chops
 
-{% include recipe.md %}

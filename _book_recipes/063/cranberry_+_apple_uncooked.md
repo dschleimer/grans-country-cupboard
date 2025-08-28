@@ -29,4 +29,3 @@ categories:
 ## Notes
 * Good
 
-{% include recipe.md %}

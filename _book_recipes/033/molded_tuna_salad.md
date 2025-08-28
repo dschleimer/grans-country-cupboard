@@ -47,4 +47,3 @@ categories:
 ## Notes
 * Serves 8-10
 
-{% include recipe.md %}

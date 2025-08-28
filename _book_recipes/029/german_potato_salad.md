@@ -45,4 +45,3 @@ categories:
 
 * Serve hot or cold
 
-{% include recipe.md %}

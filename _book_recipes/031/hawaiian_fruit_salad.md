@@ -53,4 +53,3 @@ categories:
 ## Notes
 * Makes 6 servings
 
-{% include recipe.md %}

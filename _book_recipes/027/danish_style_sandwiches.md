@@ -48,4 +48,3 @@ categories:
 
 * It's unclear if thin slice is meant to apply to the roast beef or Roquefort Cheese in the second toppings list.  The original is missing a comma and I could see it as either.  I assumed deli meat would always be sliced thin, whereas Cheese might not be able applied it to the cheese. --David S
 
-{% include recipe.md %}

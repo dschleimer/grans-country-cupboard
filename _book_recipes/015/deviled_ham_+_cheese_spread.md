@@ -27,4 +27,3 @@ categories:
 ## Notes
 * Try corn beef instead of ham
 
-{% include recipe.md %}

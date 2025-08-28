@@ -49,4 +49,3 @@ categories:
 ## Modern Notes
 * The original recipe did not explictly say to blend, but heavily implied it by saying "add \[rice\] to other ingredients in blender"  -- David S
 
-{% include recipe.md %}

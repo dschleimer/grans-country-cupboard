@@ -39,4 +39,3 @@ categories:
 ## Modern Notes
 * The original recipe appears to describe the dried beef as "finely snipped" which I interpret as chopped.  My assumption here is that Gran wrote down the recipe as she had it elsewhere.  -- David S
 
-{% include recipe.md %}

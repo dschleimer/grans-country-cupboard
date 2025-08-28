@@ -47,4 +47,3 @@ categories:
 ## Notes
 * Makes 45 tea sandwiches
 
-{% include recipe.md %}

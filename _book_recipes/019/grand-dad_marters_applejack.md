@@ -29,4 +29,3 @@ categories:
 ## Modern Notes
 * [Teaberries](https://en.wikipedia.org/wiki/Gaultheria_procumbens) appear to be a Berry native to parts of the East Coast.  It apparently tastes similar to mint.  I'd kind like to try some.  -- David S
 
-{% include recipe.md %}

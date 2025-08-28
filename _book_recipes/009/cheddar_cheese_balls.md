@@ -41,4 +41,3 @@ categories:
 ## Modern Notes
 * The Parsely, Ground nuts, and Dried Beef are for the outside of the balls.  It seems likely you could use only some of them, omit one of the options, and try out other options.  --David S
 
-{% include recipe.md %}

@@ -46,4 +46,3 @@ categories:
 ## Notes
 * A few buttered crumbs on top is very good
 
-{% include recipe.md %}

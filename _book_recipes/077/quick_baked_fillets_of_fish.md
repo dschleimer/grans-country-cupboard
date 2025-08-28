@@ -22,4 +22,3 @@ categories:
 
 ## Notes
 
-{% include recipe.md %}

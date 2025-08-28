@@ -45,4 +45,3 @@ categories:
 ## Notes
 * Serve with salad greens
 
-{% include recipe.md %}

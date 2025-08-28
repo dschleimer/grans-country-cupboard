@@ -39,4 +39,3 @@ categories:
 * Pre-heat serving dish and plate balls onto hot dish
 * Serve plain or with sauce
 
-{% include recipe.md %}

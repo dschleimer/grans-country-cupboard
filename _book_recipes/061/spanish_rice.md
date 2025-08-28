@@ -37,4 +37,3 @@ categories:
 
 * Good with fried chicken
 
-{% include recipe.md %}

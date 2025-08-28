@@ -35,4 +35,3 @@ categories:
 
 * Described as "for Bob" i.e. her husband Robert L Barmeyer, aka Gramps
 
-{% include recipe.md %}

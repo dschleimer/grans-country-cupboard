@@ -37,4 +37,3 @@ categories:
 
 * Hot - once Pop burned his gullet
 
-{% include recipe.md %}

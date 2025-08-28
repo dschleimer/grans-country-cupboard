@@ -37,4 +37,3 @@ categories:
 ## Modern Notes
 * The recipe calls for 2 tsp "ascorbic acid mixture for fruit".  From googling Ascorbic Acid (aka Vitamin C) is sold as a powder.  You are meant to combine  1 teaspoon of the powder with a full gallon of water to preserve fruit.  It's unclear to me if the 2 teaspoons means 2 teaspoons of the powder, or to mix the acid powder with the water and to use 2 teaspoons of the mixture?  Making 2 gallons of mixture seems out of scale with the rest of the recipe.  Maybe someone can try this and report back?  -- David S
 
-{% include recipe.md %}

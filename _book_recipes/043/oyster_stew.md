@@ -46,4 +46,3 @@ categories:
 * More oysters could be used
 * Grand-Dad Marter preferred Chincoteague oysters from his island there
 
-{% include recipe.md %}

@@ -51,4 +51,3 @@ categories:
 ## Modern notes
 * I replaced filling with stuffing, since this seems to me to be very obviously a recipe for thanksgiving leftovers and I can't find any other possible meaning for turkey filling.  -- David S
 
-{% include recipe.md %}

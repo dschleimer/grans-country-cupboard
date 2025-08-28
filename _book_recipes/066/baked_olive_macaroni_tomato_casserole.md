@@ -52,4 +52,3 @@ categories:
 
 * Good served with Parmesan
 
-{% include recipe.md %}

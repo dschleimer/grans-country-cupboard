@@ -40,4 +40,3 @@ categories:
 1. Makes 5 pints egg nog
 1. Served every Easter after morning church
 
-{% include recipe.md %}

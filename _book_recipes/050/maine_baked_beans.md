@@ -50,4 +50,3 @@ categories:
 ## Notes
 * Serve with steamed brown bread or hot Johnny cakes
 
-{% include recipe.md %}

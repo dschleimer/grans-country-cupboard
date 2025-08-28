@@ -52,4 +52,3 @@ categories:
 * Good with croutons
 * Serves 4
 
-{% include recipe.md %}

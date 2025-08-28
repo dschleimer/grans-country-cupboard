@@ -37,4 +37,3 @@ categories:
 ## Notes
 * Cut into squares for covered dish supper
 
-{% include recipe.md %}

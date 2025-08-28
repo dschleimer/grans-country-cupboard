@@ -39,4 +39,3 @@ categories:
 ## Notes
 * Tim likes this
 
-{% include recipe.md %}

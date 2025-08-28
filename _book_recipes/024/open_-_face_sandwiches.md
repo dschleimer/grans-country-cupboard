@@ -42,4 +42,3 @@ categories:
 
 1. Serve hot
 
-{% include recipe.md %}

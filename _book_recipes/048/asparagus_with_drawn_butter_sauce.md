@@ -42,4 +42,3 @@ categories:
 * Increase recipe to match amount of asparagus
 * Serve with Lemon
 
-{% include recipe.md %}

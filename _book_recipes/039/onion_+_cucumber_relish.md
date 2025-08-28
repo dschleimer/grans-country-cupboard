@@ -38,4 +38,3 @@ categories:
 ## Notes
 * Serve with slotted spoon
 
-{% include recipe.md %}

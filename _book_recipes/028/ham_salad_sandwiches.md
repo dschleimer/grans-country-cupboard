@@ -36,4 +36,3 @@ categories:
 * Good on toast with lettuce
 * For a change add 4 chopped eggs
 
-{% include recipe.md %}

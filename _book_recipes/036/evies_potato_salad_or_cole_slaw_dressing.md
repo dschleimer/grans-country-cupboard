@@ -33,4 +33,3 @@ categories:
 ## Notes
 * For potato salad add grated onion, celery cut fine, and 3 boiled eggs grated fine
 
-{% include recipe.md %}

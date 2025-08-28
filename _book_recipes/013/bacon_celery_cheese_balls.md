@@ -36,4 +36,3 @@ categories:
 ## Notes
 * serve on tooth picks 
 
-{% include recipe.md %}

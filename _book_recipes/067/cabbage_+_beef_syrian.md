@@ -41,4 +41,3 @@ categories:
 ## Modern Notes
 * The original recipe didn't call for browning the meat at all, which I preserved in the instructions, but it might have been implied.  I would likely brown the meat with the onions if I were to try making this recipe.  If anyone makes this, please let me know what you do and how it works out.  -- David S
 
-{% include recipe.md %}

@@ -60,4 +60,3 @@ categories:
 * I'm assuming Guacamole wasn't well known in the 70s to folks in the Mid-Atlantic compared to where she was living in SoCal.  Hence why Nana (or maybe Gran) felt the need to explain that it's a dip.  -- David S.
 * I'd expect the Roquefort can be added at serving time along with the bacon.  I would probably Crumble Queso Fresco or Cotija cheese over the top rather than mixing it in.  -- David S
 
-{% include recipe.md %}

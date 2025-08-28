@@ -38,4 +38,3 @@ categories:
 
 * THis may be prepared ahead of time
 
-{% include recipe.md %}

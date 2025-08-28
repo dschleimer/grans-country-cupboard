@@ -33,4 +33,3 @@ categories:
 ## Notes
 * Makes 2 servings
 
-{% include recipe.md %}

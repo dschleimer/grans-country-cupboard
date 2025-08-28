@@ -45,4 +45,3 @@ categories:
 ## Notes
 * Gran prefers to bake this 1 hour, then add the cheese and bake longer until cheese is light brown.
 
-{% include recipe.md %}

@@ -34,4 +34,3 @@ categories:
 *  May be frozen
 
 
-{% include recipe.md %}

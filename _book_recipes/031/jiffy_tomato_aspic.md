@@ -35,4 +35,3 @@ categories:
 ## Notes
 * Serve with Mayonnaise
 
-{% include recipe.md %}

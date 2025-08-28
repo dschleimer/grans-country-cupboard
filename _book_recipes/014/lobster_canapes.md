@@ -38,4 +38,3 @@ categories:
 ## Notes
 * Makes 48 balls
 
-{% include recipe.md %}

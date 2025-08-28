@@ -43,4 +43,3 @@ categories:
 * Melbas are a kind of twice-baked cracker made from thinly sliced bread.  You can find them as rounds or as "toast" in a rectangular shape.
 * Other recipes call for a 4.25 oz can of deviled ham so this may have been a mis-transcribed recipe in the original cookbook. -- David S
 
-{% include recipe.md %}

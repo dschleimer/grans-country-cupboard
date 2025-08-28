@@ -47,4 +47,3 @@ categories:
 ## Modern Notes
 * The original recipe called for two 3 Oz wedges of Roquefort, presumably because this is how it was sold.  However, the recipe calls for blenind the cheeses, so I wrote down the total amount rather than the original -- David S
 
-{% include recipe.md %}

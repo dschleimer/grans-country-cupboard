@@ -39,4 +39,3 @@ categories:
 * The recipe calls for "country style corn (creamed)".  Some googling suggests country style is a way of preparing corn rather than a brand name, and I beleive creamed corn is a more commonly used way of describing this food, so I went with that name for the ingredient.  -- David S
 * I assume Gran means that the prep work before it goes in the oven is quick, rather than the baking time.  I don't consider 45 minutes quick.  -- David S
 
-{% include recipe.md %}

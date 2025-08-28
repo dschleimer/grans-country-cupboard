@@ -49,4 +49,3 @@ categories:
 ## Modern Notes
 * There doesn't seem to be a place named Alene in Wyoming, though the use of the abbreviation for Wyoming suggests it is a reference to the state rather than a last name.  Best guess is this is referring to a person named Alene from Wyoming.  -- David S
 
-{% include recipe.md %}

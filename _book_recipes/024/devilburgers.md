@@ -43,4 +43,3 @@ categories:
 
 * Serves 6-8
 
-{% include recipe.md %}

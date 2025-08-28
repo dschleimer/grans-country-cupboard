@@ -57,4 +57,3 @@ categories:
 ## Modern Notes
 * The instructions around the broth are rather unclear in the original recipe.  "In 2 qts water cook \[ingredients\]" and then on a new line "Simmer 90 minutes - 1 1/2 quarts broth".  Given this appears to be a fairly elevated recipe, I assume everything is from scratch and that the broth references are to the broth made by cooking the ingredients rather than pre-made broth.  -- David S
 
-{% include recipe.md %}

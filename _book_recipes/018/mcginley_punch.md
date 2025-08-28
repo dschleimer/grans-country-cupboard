@@ -35,4 +35,3 @@ categories:
 * This punch is potent
 * Strength can be reduced by adding 1 qt of club soda or ginger ale
 
-{% include recipe.md %}

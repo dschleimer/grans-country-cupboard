@@ -36,4 +36,3 @@ categories:
 
 * Especially good on toasted bread
 
-{% include recipe.md %}

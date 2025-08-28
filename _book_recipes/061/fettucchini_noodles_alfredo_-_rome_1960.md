@@ -45,4 +45,3 @@ categories:
 
 * Makes 4-6 servings
 
-{% include recipe.md %}

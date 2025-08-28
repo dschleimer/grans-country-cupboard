@@ -50,4 +50,3 @@ categories:
 
 * This will work just fine with a rotisserie chicken, or other pre-cooked chicken
 
-{% include recipe.md %}

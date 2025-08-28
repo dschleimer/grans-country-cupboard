@@ -35,4 +35,3 @@ categories:
 ## Notes
 * No Cooking
 
-{% include recipe.md %}

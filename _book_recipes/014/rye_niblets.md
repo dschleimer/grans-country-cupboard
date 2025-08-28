@@ -37,4 +37,3 @@ categories:
 ## Modern Notes
 * "Party Rye Bread" appears to be a discontinued Pepperidge Farms product.  Articles about it being discontinued suggest cutting standard-sized Rye bread into quarters, or products by different brands referred to as cocktail rye bread.  Party Rye Bread appears to have been 2 inches by 2 inches and fairly thin.
 
-{% include recipe.md %}

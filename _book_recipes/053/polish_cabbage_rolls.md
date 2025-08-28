@@ -56,4 +56,3 @@ categories:
 
 *  I suspect this recipe is missing an ingredient.  It lists water twice in the ingredients mixed with the tomato sauce and stewed tomatoes.  First 2 cans (6oz) water, except cans and the 6oz bit uses dittos (i.e. ") to refer to the previous ingredient.  I went with the half cup, and noted to add more water as needed.  -- David S
 
-{% include recipe.md %}

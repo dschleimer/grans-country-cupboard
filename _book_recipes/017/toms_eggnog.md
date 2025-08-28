@@ -40,4 +40,3 @@ categories:
 ## Modern Notes
 * Recipe mostly refers to previous, Easter Egg Nog recipe , adn actually says "Same quantities".  I wrote down the full recipe as I understood that instruction.  -- David S.
 
-{% include recipe.md %}

@@ -35,4 +35,3 @@ categories:
 ## Notes
 * Use as dinner salad or dessert with crackers
 
-{% include recipe.md %}

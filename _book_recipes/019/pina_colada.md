@@ -29,4 +29,3 @@ categories:
 ## Notes
 * Recipe makes 1 drink
 
-{% include recipe.md %}

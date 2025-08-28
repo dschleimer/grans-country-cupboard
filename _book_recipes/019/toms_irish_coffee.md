@@ -30,4 +30,3 @@ categories:
 ## Notes
 * Drink through the cream
 
-{% include recipe.md %}

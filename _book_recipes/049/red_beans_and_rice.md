@@ -50,4 +50,3 @@ categories:
 
 * Serve with green salad
 
-{% include recipe.md %}

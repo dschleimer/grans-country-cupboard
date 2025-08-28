@@ -38,4 +38,3 @@ categories:
 * Good on a lettuce leaf
 
 
-{% include recipe.md %}

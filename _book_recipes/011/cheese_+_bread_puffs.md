@@ -38,4 +38,3 @@ categories:
 ## Notes
 * Serve hot
 
-{% include recipe.md %}

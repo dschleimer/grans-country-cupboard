@@ -47,4 +47,3 @@ categories:
 * This pie is a *lot* better warm than cold.  The Instruction to serve warm is really important -- David S
 * I used fresh cherries that were relatively large, which I think was the cause of structural issues I had.  Consider using smaller cherries or cutting the cherries up before adding them to the pie dish.  -- David S
 
-{% include recipe.md %}

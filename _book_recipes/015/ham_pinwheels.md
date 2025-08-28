@@ -35,4 +35,3 @@ categories:
 ## Notes
 * Serve one pinwheel on a cracker
 
-{% include recipe.md %}

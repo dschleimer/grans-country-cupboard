@@ -36,4 +36,3 @@ categories:
 * Do not cook in tin or iron as it will darken
 * "Like my mother made it" -- Grandad Marter
 
-{% include recipe.md %}

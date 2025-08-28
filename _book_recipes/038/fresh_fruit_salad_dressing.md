@@ -32,4 +32,3 @@ categories:
 ## Notes
 * Gran thinks it's delicious
 
-{% include recipe.md %}

@@ -34,4 +34,3 @@ categories:
 ## Modern Notes
 * 12 oz of chili sauce seems like a lot to me, the stroke of the 1 seems a little short and there's a larger gap than i would normally expect between the 1 and the 2.  It's possible the 1 is a mis-stroke, or even that there's a missing slash between the 1 and the 2.  Maybe try with 2 oz or even 1/2 oz and add more if it's too spicy?  -- David S
 
-{% include recipe.md %}
