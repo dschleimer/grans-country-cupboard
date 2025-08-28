@@ -13,4 +13,4 @@
 {%- else -%}
     {%- assign prefix = "/assets" -%}
 {%- endif -%}
-<img src="{{prefix}}/{{include.res}}/{{type}}/{{include.id}}.{{ext}}" />
+<img src="{{prefix}}/{{include.res}}/{{type}}/{{include.id}}.{{ext}}" {%- if include.width -%}width="{{include.width}}"{%-endif -%} />

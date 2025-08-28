@@ -18,16 +18,22 @@ layout: page
     <span>From: {{page.from}}</span><br/>
 {%endif%}
 
-<span style="display:flex; margin-top: 15px">
-    <div style="margin-right: 15px">
-        {% include img.html res="web" type="recipe_crops" id=page.recipe %}
-        <br />
+<div style="display:flex; margin-top: 10px">
+    <span style="margin-right: 15px">
+        {% include img.html res="web" type="recipe_crops" id=page.recipe width="395px" %}
+    </span>
+    <span>
+        {% include img.html res="full_res" type="recipe_photos" id=page.recipe width="395px" %}
+    </span>
+</div>
+<div style="display:flex; justify-content: space-between;">
+    <span style="text-align: left">
         {% include asset_link.html res="full_res" type="recipe_crops" id=page.recipe %}
-    </div>
-    <div>
-        TODO: photos of the recipe results
-    </div>
-</span>
+    </span>
+    <span>
+        <div style="text-align: right">Submit a Better Image (Coming Soon!)</div>
+    </span>
+</div>
 
 {{ content }}
 
