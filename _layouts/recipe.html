@@ -13,5 +13,15 @@ layout: page
     <span>From: {{page.from}}</span><br/>
 {%endif%}
 
+<span style="display:flex">
+    <div style="margin-right: 15px">
+        {% include img.html res="web" type="recipe_crops" id=page.recipe %}
+        <br />
+        {% include asset_link.html res="full_res" type="recipe_crops" id=page.recipe %}
+    </div>
+    <div>
+        TODO: photos of the recipe results
+    </div>
+</span>
 
 {{ content }}
