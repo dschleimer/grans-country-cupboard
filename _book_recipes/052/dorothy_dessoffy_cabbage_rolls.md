@@ -16,20 +16,20 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount       | Notes |
-| ------------ | ------------ | ----- |
-| Cabbage      | 2 heads      | |
-| Ground Beef  | 5 lbs        | |
-| Ground Pork  | 3 lbs        | |
-| Rice         | 1 lbs        | Uncooked |
-| Salt         |              | |
-| Pepper       |              | |
-| Onions       | 6 large      | |
-| Sauerkraut   | 2 large cans | |
-| Pork Loin    | 2            | |
-| Tomatoes     | 2 large cans | |
-| Flour        |              | For Gravy |
-| Sour Cream   |              | At serving time |
+| Ingredient  | Amount       | Notes |
+| ----------- | ------------ | ----- |
+| Cabbage     | 2 heads      | |
+| Ground Beef | 5 lbs        | |
+| Ground Pork | 3 lbs        | |
+| Rice        | 1 lbs        | Uncooked |
+| Salt        |              | |
+| Pepper      |              | |
+| Onions      | 6 large      | |
+| Sauerkraut  | 2 large cans | |
+| Pork Loin   | 2            | |
+| Tomatoes    | 2 large cans | |
+| Flour       |              | For Gravy |
+| Sour Cream  |              | At serving time |
 
 ## Method
 

@@ -13,13 +13,13 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount   | Notes |
-| ------------ | -------- | ----- |
-| Brocolli     | 1 head   | May substitute 1 package frozen |
-| Salt         | 2 tsp    | |
-| Bacon        | 3 strips | Fried in pieces |
-| Butter       | 1 Tbsp   | |
-| Parmesan     | 4 Tbsp   | |
+| Ingredient | Amount   | Notes |
+| ---------- | -------- | ----- |
+| Brocolli   | 1 head   | May substitute 1 package frozen |
+| Salt       | 2 tsp    | |
+| Bacon      | 3 strips | Fried in pieces |
+| Butter     | 1 Tbsp   | |
+| Parmesan   | 4 Tbsp   | |
 
 ## Method
 

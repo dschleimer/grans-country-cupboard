@@ -13,23 +13,23 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount   | Notes |
-| ------------ | -------- | ----- |
-| Chicken      | 1 Hen    | |
-| Onion        | 1        | |
-| Thyme        |          | |
-| Bay Leaf     |          | |
-| Parsley      |          | |
-| Pepper       |          | Whole |
-| Water        | 2 quarts | For chicken |
-| Butter       | 1/2 cup  | |
-| Flour        | 1/2 cup  | |
-| Salt         | to taste | |
-| Pepper       | to taste | |
-| Heavy Cream  | 3/4 cup  | |
-| Carrots      | 1        | |
-| Leeks        | 1        | |
-| Mushrooms    | 5        | |
+| Ingredient  | Amount   | Notes |
+| ----------- | -------- | ----- |
+| Chicken     | 1 Hen    | |
+| Onion       | 1        | |
+| Thyme       |          | |
+| Bay Leaf    |          | |
+| Parsley     |          | |
+| Pepper      |          | Whole |
+| Water       | 2 quarts | For chicken |
+| Butter      | 1/2 cup  | |
+| Flour       | 1/2 cup  | |
+| Salt        | to taste | |
+| Pepper      | to taste | |
+| Heavy Cream | 3/4 cup  | |
+| Carrots     | 1        | |
+| Leeks       | 1        | |
+| Mushrooms   | 5        | |
 
 ## Method
 1. Cut up onion as preferred

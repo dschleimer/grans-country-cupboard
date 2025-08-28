@@ -14,14 +14,14 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount   | Notes |
-| ------------ | -------- | ----- |
-| Cabbage      | 1 head   | |
-| Flour        | 3 Tbsp   | |
-| Butter       | 1/4 lb   | |
-| Salt         | To Taste | |
-| Pepper       | To Taste | |
-| Milk         | 2 cups   | |
+| Ingredient | Amount   | Notes |
+| ---------- | -------- | ----- |
+| Cabbage    | 1 head   | |
+| Flour      | 3 Tbsp   | |
+| Butter     | 1/4 lb   | |
+| Salt       | To Taste | |
+| Pepper     | To Taste | |
+| Milk       | 2 cups   | |
 
 ## Method
 1. Cut up cabbage iunto bite-sized pieces

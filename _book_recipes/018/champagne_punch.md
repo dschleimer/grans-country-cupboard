@@ -21,7 +21,7 @@ categories:
 | Maraschino Liquer | 2 Jiggers | |
 | Curacao           | 2 Jiggers | Orange Flavor - Corrected mis or variant spelling in original to current accepted spelling |
 | Hennessey Cognac  | 2 Jiggers | Original Recipe said "Hennessey's Brandy" but they brand thier stuff as Cognac in 2025.  Same product, I believe |
-| Sugar             | 2 tsp     | Fine sugar|
+| Sugar             | 2 tsp     | Fine sugar |
 | Champagne         | 1 quart   | Extra Dry |
 
 ## Method

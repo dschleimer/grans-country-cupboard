@@ -12,16 +12,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Cabbage | 1 med. head | Shredded |
-| Salt | | |
-| Pepper | | |
-| Cream of Mushroom Soup | 1 can | |
-| Tomato Soup | 1 can | |
-| Ground Chuck | 1 lb | |
-| Onion | 1 med. | Cut up fine |
-| Worcestershire Sauce | | |
+| Ingredient             | Amount      | Notes |
+| ---------------------- | ----------- | ----- |
+| Cabbage                | 1 med. head | Shredded |
+| Salt                   |             | |
+| Pepper                 |             | |
+| Cream of Mushroom Soup | 1 can       | |
+| Tomato Soup            | 1 can       | |
+| Ground Chuck           | 1 lb        | |
+| Onion                  | 1 med.      | Cut up fine |
+| Worcestershire Sauce   |             | |
 
 ## Method
 

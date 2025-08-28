@@ -13,18 +13,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Squash | 2 lbs | |
-| Eggs | 2 | Beaten |
-| Mayonnaise | 1 cup | Blue Ribbon Mayonnaise |
-| Onion | 1 | Chopped fine |
-| Green pepper | 1/4 cup | Chopped Fine |
-| Parmesan | 1 cup | |
-| Salt | To Taste | |
-| Pepper | To Taste | |
-| Butter | | |
-| Seasoned Bread Crumbs | | |
+| Ingredient            | Amount   | Notes |
+| --------------------- | -------- | ----- |
+| Squash                | 2 lbs    | |
+| Eggs                  | 2        | Beaten |
+| Mayonnaise            | 1 cup    | Blue Ribbon Mayonnaise |
+| Onion                 | 1        | Chopped fine |
+| Green pepper          | 1/4 cup  | Chopped Fine |
+| Parmesan              | 1 cup    | |
+| Salt                  | To Taste | |
+| Pepper                | To Taste | |
+| Butter                |          | |
+| Seasoned Bread Crumbs |          | |
 
 ## Method
 

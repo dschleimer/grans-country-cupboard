@@ -13,8 +13,8 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount  | Notes |
-| ------------- | ------- | ----- |
+| Ingredient    | Amount   | Notes |
+| ------------- | -------- | ----- |
 | Irish Whiskey | 1 Jigger | Bushmills recommended - likely 1.5 Oz |
 | Coffee        |          | Hot and black |
 | Sugar         | 1 tsp    | |

@@ -26,7 +26,7 @@ categories:
 | Salt           | 1/2 tsp | |
 | Brown Sugar    | 1 cup   | |
 | Eggs           | 2       | |
-| Pecans         | 1/2 cup | Optional - Pieces or meal|
+| Pecans         | 1/2 cup | Optional - Pieces or meal |
 
 ## Method
 

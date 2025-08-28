@@ -14,17 +14,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Bacon | 1/2 lb | |
-| Vinegar | 3/4 cup | |
-| Eggs | 2 | well beaten|
-| White Potatoes | 12 | |
-| Salt | To taste | |
-| Pepper | To Taste | |
-| Celery | | Finely sliced |
-| Celery Seed | | |
-| Onion | 1 large | cut very fine |
+| Ingredient     | Amount   | Notes |
+| -------------- | -------- | ----- |
+| Bacon          | 1/2 lb   | |
+| Vinegar        | 3/4 cup  | |
+| Eggs           | 2        | well beaten |
+| White Potatoes | 12       | |
+| Salt           | To taste | |
+| Pepper         | To Taste | |
+| Celery         |          | Finely sliced |
+| Celery Seed    |          | |
+| Onion          | 1 large  | cut very fine |
 
 ## Method
 

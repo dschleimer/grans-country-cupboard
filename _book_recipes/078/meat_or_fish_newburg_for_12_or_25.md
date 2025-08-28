@@ -18,9 +18,9 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| | | |
+| Ingredient | Amount | Notes |
+| ---------- | ------ | ----- |
+|            |        | |
 
 ## Method
 

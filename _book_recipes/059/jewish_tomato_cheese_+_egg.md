@@ -13,14 +13,14 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount        | Notes |
-| ------------ | ------------- | ----- |
-| Tomatoes     |               | |
-| Salt         |               | |
-| Pepper       |               | |
-| Butter       |               | |
-| Cheese       | 5 or 6 slices | |
-| Eggs         | 6             | |
+| Ingredient | Amount        | Notes |
+| ---------- | ------------- | ----- |
+| Tomatoes   |               | |
+| Salt       |               | |
+| Pepper     |               | |
+| Butter     |               | |
+| Cheese     | 5 or 6 slices | |
+| Eggs       | 6             | |
 
 ## Method
 

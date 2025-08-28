@@ -16,18 +16,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient                | Amount  | Notes |
-| ------------------------- | ------- | ----- |
-| Cream Cheese              | 16 oz   | |
-| Velveeta Cheese           | 16 Oz   | Original recipe says "equal amount of Velveeta or similar" |
-| Salad Olives with Pimento | 1 cup   | Finely cut |
-| Mayonnaise                | 4 Tbsp  | |
-| Worchestershire Sauce     |         | |
-| Onion Salt                |         | |
-| Prepared Mustard          | 1 Tbsp  | |
-| Peanuts                   | 4 Tbsp  | Chopped Roasted - Original recipe suggests "(N.C.)" - presumably North Carolina style |
-| Brown Bread               | 1 loaf  | Recipe suggests "Mary Jane's Country Western" which no longer exists |
-| Margerine                 |         | 100% Corn Oil |
+| Ingredient                | Amount | Notes |
+| ------------------------- | ------ | ----- |
+| Cream Cheese              | 16 oz  | |
+| Velveeta Cheese           | 16 Oz  | Original recipe says "equal amount of Velveeta or similar" |
+| Salad Olives with Pimento | 1 cup  | Finely cut |
+| Mayonnaise                | 4 Tbsp | |
+| Worchestershire Sauce     |        | |
+| Onion Salt                |        | |
+| Prepared Mustard          | 1 Tbsp | |
+| Peanuts                   | 4 Tbsp | Chopped Roasted - Original recipe suggests "(N.C.)" - presumably North Carolina style |
+| Brown Bread               | 1 loaf | Recipe suggests "Mary Jane's Country Western" which no longer exists |
+| Margerine                 |        | 100% Corn Oil |
 
 ## Method
 1. Cream together Cream Cheese and Velveeta cheese.

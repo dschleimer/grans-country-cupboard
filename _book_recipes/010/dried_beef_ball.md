@@ -17,12 +17,12 @@ categories:
 
 | Ingredient           | Amount     | Notes |
 | -------------------- | ---------- | ----- |
-| Dried Beef           | 3 packages | 1pkg for rolling|
+| Dried Beef           | 3 packages | 1pkg for rolling |
 | Shallots             | 2 bunches  | |
 | Cream Cheese         | 24 Oz      | |
 | Accent               | 1 Tbsp     | This is MSG, sold as [Ac'cent](https://accentflavor.com/) today |
 | Worcestershire Sauce | 2 tbsp     | |
-| Horseradish          | 1 tbsp     | Optional|
+| Horseradish          | 1 tbsp     | Optional |
 
 ## Method
 1. Let cheese and cream cheese come to room temperature

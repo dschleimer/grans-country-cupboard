@@ -13,14 +13,14 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Oysters | 1 pint | 24 oysters if small |
-| Creamed Corn | 1 can | Country Style Corn |
+| Ingredient               | Amount    | Notes |
+| ------------------------ | --------- | ----- |
+| Oysters                  | 1 pint    | 24 oysters if small |
+| Creamed Corn             | 1 can     | Country Style Corn |
 | Pepperidge Farm Dressing | 1 package | |
-| Mushrooms | 1 can | |
-| Cream of Celery Soup | 1 can | Optional - Use this or cream of mushroom or neithe but not both |
-| Cream of Mushroom Soup | 1 can | Optional - Use this or cream of mushroom or neithe but not both |
+| Mushrooms                | 1 can     | |
+| Cream of Celery Soup     | 1 can     | Optional - Use this or cream of mushroom or neithe but not both |
+| Cream of Mushroom Soup   | 1 can     | Optional - Use this or cream of mushroom or neithe but not both |
 
 ## Method
 

@@ -12,17 +12,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount     | Notes |
-| ------------ | ---------- | ----- |
-| Sugar        | 4 Tbsp     | |
-| Salt         | 2 tsp      | |
-| Flour        | 4 Tbsp     | |
-| Dry Mustard  | 3 tsp      | |
-| Cayenne      | Few grains | |
-| Eggs         | 4          | Yolks only - slightly beaten |
-| Milk         | 1 1/2 cups | |
-| Vinegar      | 1/2 cup    | Mild Vinegar |
-| Butter       | 1 Tbsp     | |
+| Ingredient  | Amount     | Notes |
+| ----------- | ---------- | ----- |
+| Sugar       | 4 Tbsp     | |
+| Salt        | 2 tsp      | |
+| Flour       | 4 Tbsp     | |
+| Dry Mustard | 3 tsp      | |
+| Cayenne     | Few grains | |
+| Eggs        | 4          | Yolks only - slightly beaten |
+| Milk        | 1 1/2 cups | |
+| Vinegar     | 1/2 cup    | Mild Vinegar |
+| Butter      | 1 Tbsp     | |
 
 ## Method
 

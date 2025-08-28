@@ -20,7 +20,7 @@ categories:
 | Sharp Cheddar          | 1/2     | Grated |
 | Salt                   | 1/2 tsp | |
 | Pepper                 | 1/8 tsp | |
-| Cream of Mushroom Soup | 1 can | |
+| Cream of Mushroom Soup | 1 can   | |
 | Milk                   | 1/2 cup | |
 | Butter                 |         | |
 

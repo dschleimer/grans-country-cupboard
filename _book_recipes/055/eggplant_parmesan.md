@@ -14,17 +14,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Bacon        | 4 strips | |
-| Onion        | 1 | |
-| Green Pepper | 1 | |
-| Eggplant     | 1 | |
-| Tomato Puree | 1 cup | |
+| Ingredient   | Amount     | Notes |
+| ------------ | ---------- | ----- |
+| Bacon        | 4 strips   | |
+| Onion        | 1          | |
+| Green Pepper | 1          | |
+| Eggplant     | 1          | |
+| Tomato Puree | 1 cup      | |
 | Cheese       | Few pieces | Recipes specifies "any" cheese |
 | Parmesan     | Few dashes | |
-| Salt         | To taste | |
-| Pepper       | To taste | |
+| Salt         | To taste   | |
+| Pepper       | To taste   | |
 
 ## Method
 

@@ -13,14 +13,14 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Sweet Potatoes | 6 | Cooked |
-| Butter | 1/4 cup | |
-| Corn Syrup | 1/2 cup | |
-| Maple Syrup | 1/2 cup | Optional - May subsitute for Corn Syrup |
-| Water | 2 Tbsp | |
-| Brown Sugar | 1/4 cup | |
+| Ingredient     | Amount  | Notes |
+| -------------- | ------- | ----- |
+| Sweet Potatoes | 6       | Cooked |
+| Butter         | 1/4 cup | |
+| Corn Syrup     | 1/2 cup | |
+| Maple Syrup    | 1/2 cup | Optional - May subsitute for Corn Syrup |
+| Water          | 2 Tbsp  | |
+| Brown Sugar    | 1/4 cup | |
 
 ## Method
 1. Preheat oven to 325F if baking

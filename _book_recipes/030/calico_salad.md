@@ -14,18 +14,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Green Beans | 1 lb | Drained - recipe calls for a 1 lb can |
-| Wax Beans | 1 lb | Drained - recipe calls for a 1 lb can |
-| Red Kidney Beans | 1 lb | Drained - recipe calls for a 1 lb can |
-| Green Pepper | 1/2 cup | Chopped |
-| Onion | 2 Tbsp | Chopped |
-| Sugar | 1/4 cup | |
-| Vinegar | 2/3 cup | |
-| Salad Oil | 1/3 cup | |
-| Salt | 1/2 tsp | |
-| Pepper | 1/2 tsp | Recipe specifies Black pepper |
+| Ingredient       | Amount  | Notes |
+| ---------------- | ------- | ----- |
+| Green Beans      | 1 lb    | Drained - recipe calls for a 1 lb can |
+| Wax Beans        | 1 lb    | Drained - recipe calls for a 1 lb can |
+| Red Kidney Beans | 1 lb    | Drained - recipe calls for a 1 lb can |
+| Green Pepper     | 1/2 cup | Chopped |
+| Onion            | 2 Tbsp  | Chopped |
+| Sugar            | 1/4 cup | |
+| Vinegar          | 2/3 cup | |
+| Salad Oil        | 1/3 cup | |
+| Salt             | 1/2 tsp | |
+| Pepper           | 1/2 tsp | Recipe specifies Black pepper |
 
 ## Method
 

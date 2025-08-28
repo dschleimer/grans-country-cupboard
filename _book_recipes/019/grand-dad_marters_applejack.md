@@ -13,10 +13,10 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Teaberries   |         | Fresh |
-| Applejack    |         | New Jersey Applejack (apple brandy) |
+| Ingredient | Amount | Notes |
+| ---------- | ------ | ----- |
+| Teaberries |        | Fresh |
+| Applejack  |        | New Jersey Applejack (apple brandy) |
 
 ## Method
 

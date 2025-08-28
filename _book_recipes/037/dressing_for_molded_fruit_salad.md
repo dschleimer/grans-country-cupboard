@@ -12,12 +12,12 @@ categories:
 
 ## Ingredients
 
-| Ingredient           | Amount  | Notes |
-| -------------------- | ------- | ----- |
-| Sour Cream           | 1 cup   | |
-| Fruit Syrup          | 2 Tbsp  | From canned fruit used in salad |
-| Salt                 | Dash    | |
-| Confectioner's Sugar |         | |
+| Ingredient           | Amount | Notes |
+| -------------------- | ------ | ----- |
+| Sour Cream           | 1 cup  | |
+| Fruit Syrup          | 2 Tbsp | From canned fruit used in salad |
+| Salt                 | Dash   | |
+| Confectioner's Sugar |        | |
 
 ## Method
 

@@ -15,15 +15,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient           | Amount  | Notes |
-| -------------------- | ------- | ----- |
-| Ham                  |         | |
-| Celery               | 1 cup   | |
-| Carrots              | 2       | |
-| Relish               | 1 Tbsp  | |
-| Mustard              | 1 Tbsp  | |
-| Worcestershire Sauce |         | |
-| Mayonnaise           |         | |
+| Ingredient           | Amount | Notes |
+| -------------------- | ------ | ----- |
+| Ham                  |        | |
+| Celery               | 1 cup  | |
+| Carrots              | 2      | |
+| Relish               | 1 Tbsp | |
+| Mustard              | 1 Tbsp | |
+| Worcestershire Sauce |        | |
+| Mayonnaise           |        | |
 
 ## Method
 1. Grind together ham, celery, carrots Relish, Mustard, several shakes Worcestershire Sauce

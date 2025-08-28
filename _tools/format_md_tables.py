@@ -25,7 +25,11 @@ def build_row(cells: List[str]) -> str:
     Assemble a row from a list of cell strings, inserting the required
     surrounding pipes and spaces.
     """
-    return "| " + " | ".join(cells) + " |"
+    res =  "| " + " | ".join(cells) + " |"
+    # if the last cell is empty, we only want 1 space in it, not two
+    if res.endswith('|  |'):
+        res = res[:-2] + '|'
+    return res
 
 def is_table_row(line: str) -> bool:
     """Return ``True`` if *line* appears to be a markdown table row.

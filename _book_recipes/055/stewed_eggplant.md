@@ -13,14 +13,14 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount      | Notes |
-| ------------ | ----------- | ----- |
-| Eggplant     | 1           | Pared - Sliced thin |
-| Salt         |             | |
-| Pepper       |             | |
-| Cream        | 1 cup       | |
-| Butter       | large piece | |
-| Flour        | a little   | |
+| Ingredient | Amount      | Notes |
+| ---------- | ----------- | ----- |
+| Eggplant   | 1           | Pared - Sliced thin |
+| Salt       |             | |
+| Pepper     |             | |
+| Cream      | 1 cup       | |
+| Butter     | large piece | |
+| Flour      | a little    | |
 
 ## Method
 

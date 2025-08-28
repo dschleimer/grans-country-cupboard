@@ -13,11 +13,11 @@ categories:
 
 ## Ingredients
 
-| Ingredient       | Amount  | Notes |
-| ---------------- | ------- | ----- |
-| Cranberries      | 1 lb    | |
-| Apples           | 4       | |
-| Granulated Sugar | 2 cups  | |
+| Ingredient       | Amount | Notes |
+| ---------------- | ------ | ----- |
+| Cranberries      | 1 lb   | |
+| Apples           | 4      | |
+| Granulated Sugar | 2 cups | |
 
 ## Method
 

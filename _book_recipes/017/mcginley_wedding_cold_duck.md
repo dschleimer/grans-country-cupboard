@@ -15,12 +15,12 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount       | Notes |
-| ------------ | ------------ | ----- |
-| Punch Bowl   | 1 large      | |
-| Ice          | 1 large cake | |
-| Champagne    |              | Extra dry |
-| Rhine Wine   |              | Finest quality |
+| Ingredient | Amount       | Notes |
+| ---------- | ------------ | ----- |
+| Punch Bowl | 1 large      | |
+| Ice        | 1 large cake | |
+| Champagne  |              | Extra dry |
+| Rhine Wine |              | Finest quality |
 
 ## Method
 1. Put ice in punch bowl

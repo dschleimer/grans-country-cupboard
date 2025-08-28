@@ -14,14 +14,14 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Bacon + Cheese | 1 small jar | Best guess is that this refers to commercial cheese spread with bacon in it |
-| Butter | 4 tbsp | |
-| Tabasco Sauce | | |
-| Worcestershire Sauce | | |
-| Flour | 3/4 cup | |
-| Olives | | |
+| Ingredient           | Amount      | Notes |
+| -------------------- | ----------- | ----- |
+| Bacon + Cheese       | 1 small jar | Best guess is that this refers to commercial cheese spread with bacon in it |
+| Butter               | 4 tbsp      | |
+| Tabasco Sauce        |             | |
+| Worcestershire Sauce |             | |
+| Flour                | 3/4 cup     | |
+| Olives               |             | |
 
 ## Method
 1. Preheat oven to 400F

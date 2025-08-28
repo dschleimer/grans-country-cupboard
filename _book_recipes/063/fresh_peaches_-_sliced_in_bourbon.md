@@ -12,7 +12,7 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount  | Notes |
+| Ingredient    | Amount   | Notes |
 | ------------- | -------- | ----- |
 | Peaches       | 6 medium | Peeled - Sliced |
 | Bourbon       | 1/3 cup  | |

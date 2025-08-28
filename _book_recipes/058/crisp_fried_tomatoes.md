@@ -13,15 +13,15 @@ page_order: 3
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Tomatoes     | 3 large | Firm - Either Red or Green |
-| Sugar        |         | |
-| Salt         |         | |
-| Pepper       |         | |
-| Eggs         | 2       | |
-| Milk         | 1/4 cup | |
-| Corn Meal    | 1/2 cup | |
+| Ingredient | Amount  | Notes |
+| ---------- | ------- | ----- |
+| Tomatoes   | 3 large | Firm - Either Red or Green |
+| Sugar      |         | |
+| Salt       |         | |
+| Pepper     |         | |
+| Eggs       | 2       | |
+| Milk       | 1/4 cup | |
+| Corn Meal  | 1/2 cup | |
 
 ## Method
 

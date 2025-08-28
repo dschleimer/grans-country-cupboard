@@ -29,7 +29,7 @@ categories:
 | Garlic               | 1 Clove   | Minced |
 | Cream Cheese         | 3 Oz      | |
 | Mayonnaise           | 1/3 Cup   | |
-| Bacon                | 6 slices  | Optional - at serving time|
+| Bacon                | 6 slices  | Optional - at serving time |
 | Sour Cream           | 3 Oz      | Optional - may substitute for Cream Cheese |
 | Roquefort Cheese     | 1/3 cup   | Optional - Crumbled |
 | Dry White Wine       | 1/4 cup   | Optional |

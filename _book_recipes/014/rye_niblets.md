@@ -14,14 +14,14 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Sharp Cheddar Cheese | 1/2 lb | Grated |
-| Green Pepper | 1 large | Chopped |
-| Onion | 1 Medium | Minced |
-| Bacon | 10 slices | Crisp - Crumbled |
-| Mayonnaise | 3 Tbsp | |
-| Rye Bread | | Recipe calls for "party rye bread" - see Modern note below | 
+| Ingredient           | Amount    | Notes |
+| -------------------- | --------- | ----- |
+| Sharp Cheddar Cheese | 1/2 lb    | Grated |
+| Green Pepper         | 1 large   | Chopped |
+| Onion                | 1 Medium  | Minced |
+| Bacon                | 10 slices | Crisp - Crumbled |
+| Mayonnaise           | 3 Tbsp    | |
+| Rye Bread            |           | Recipe calls for "party rye bread" - see Modern note below |
 
 ## Method
 1. Preheat oven to 475F

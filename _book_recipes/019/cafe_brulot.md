@@ -13,14 +13,14 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Sugar | 2 cubes | White sugar |
-| Lemon Peel | | Thin-sliced |
-| Cloves | 2 whole | |
-| Cinnamon | 1 small stick| |
-| Brandy | 1 Jigger | Likely 1.5 Oz |
-| Coffee | 2/3 cup | Strong, hot, and black |
+| Ingredient | Amount        | Notes |
+| ---------- | ------------- | ----- |
+| Sugar      | 2 cubes       | White sugar |
+| Lemon Peel |               | Thin-sliced |
+| Cloves     | 2 whole       | |
+| Cinnamon   | 1 small stick | |
+| Brandy     | 1 Jigger      | Likely 1.5 Oz |
+| Coffee     | 2/3 cup       | Strong, hot, and black |
 
 ## Method
 1. Blend all ingredients

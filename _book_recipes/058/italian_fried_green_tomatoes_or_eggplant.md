@@ -15,16 +15,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Tomatoes     |         | |
-| Eggplant     |         | Optional - may substitute for Tomatoes |
-| Flour        |         | |
-| Egg          |         | |
-| Milk         |         | |
-| Salt         |         | |
-| Olive Oil    |         | |
-| Salad Oil    |         | Optional - May substitute for Olive Oil |
+| Ingredient | Amount | Notes |
+| ---------- | ------ | ----- |
+| Tomatoes   |        | |
+| Eggplant   |        | Optional - may substitute for Tomatoes |
+| Flour      |        | |
+| Egg        |        | |
+| Milk       |        | |
+| Salt       |        | |
+| Olive Oil  |        | |
+| Salad Oil  |        | Optional - May substitute for Olive Oil |
 
 ## Method
 

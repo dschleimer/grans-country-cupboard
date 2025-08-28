@@ -14,21 +14,21 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Chicken      | 1 Hen   | |
-| Egg          | 4 yolks | |
-| Salt         | 1 Tbsp  | |
-| Butter       | 3 Tbsp  | |
-| Dry Mustard  | 1 Tbsp  | |
-| Vinegar      | 1/2 Cup | |
-| Milk         | 1/2 Cup | |
-| Red Pepper   | dash    | |
-| Sugar        | 1 Tbsp  | |
-| Flour        | 1 Tbsp  | |
-| Celery       | 6 ribs  | Cut fine |
-| Capers       | 20      | Optional |
-| Olives       | 1 dozen | Optional - Ripe - Cut Up |
+| Ingredient  | Amount  | Notes |
+| ----------- | ------- | ----- |
+| Chicken     | 1 Hen   | |
+| Egg         | 4 yolks | |
+| Salt        | 1 Tbsp  | |
+| Butter      | 3 Tbsp  | |
+| Dry Mustard | 1 Tbsp  | |
+| Vinegar     | 1/2 Cup | |
+| Milk        | 1/2 Cup | |
+| Red Pepper  | dash    | |
+| Sugar       | 1 Tbsp  | |
+| Flour       | 1 Tbsp  | |
+| Celery      | 6 ribs  | Cut fine |
+| Capers      | 20      | Optional |
+| Olives      | 1 dozen | Optional - Ripe - Cut Up |
 
 ## Method
 

@@ -13,34 +13,34 @@ categories:
 
 #### Cheese Filling
 
-| Ingredient    | Amount        | Notes     |
-| ------------- | ------------- | --------- |
-| Cream cheese  | 8 oz          | softened  |
-| Sugar         | 2/3 cup       |           |
-| Sour Cream    | 1/2 cup       |           |
-| Vanilla       | 1 tsp         |           |
-| Eggs          | 2             | unbeaten  |
+| Ingredient   | Amount  | Notes |
+| ------------ | ------- | ----- |
+| Cream cheese | 8 oz    | softened |
+| Sugar        | 2/3 cup | |
+| Sour Cream   | 1/2 cup | |
+| Vanilla      | 1 tsp   | |
+| Eggs         | 2       | unbeaten |
 
 #### Cake Base
 
-| Ingredient    | Amount        | Notes     |
-| ------------- | ------------- | --------- |
-| Flour         | 1 cup         |           |
-| Baking Powder | 1 tsp         |           |
-| Salt          | 1/2 tsp       |           |
-| Butter        | 1/2 cup       |           |
-| Sugar         | 2/3 cup       |           |
-| Eggs          | 2             |           |
-| Milk          | 1 Tblsp       |           |
-| Vanilla       | 1 tsp         |           |
+| Ingredient    | Amount  | Notes |
+| ------------- | ------- | ----- |
+| Flour         | 1 cup   | |
+| Baking Powder | 1 tsp   | |
+| Salt          | 1/2 tsp | |
+| Butter        | 1/2 cup | |
+| Sugar         | 2/3 cup | |
+| Eggs          | 2       | |
+| Milk          | 1 Tblsp | |
+| Vanilla       | 1 tsp   | |
 
 #### Sour Cream Topping
 
-| Ingredient    | Amount        | Notes     |
-| ------------- | ------------- | --------- |
-| Sour Cream    | 1 cup         |           |
-| Sugar         | 2 Tblsp       |           |
-| Vanilla       | 1 tsp         |           |
+| Ingredient | Amount  | Notes |
+| ---------- | ------- | ----- |
+| Sour Cream | 1 cup   | |
+| Sugar      | 2 Tblsp | |
+| Vanilla    | 1 tsp   | |
 
 ## Method
 1. Preheat oven to 325 F.

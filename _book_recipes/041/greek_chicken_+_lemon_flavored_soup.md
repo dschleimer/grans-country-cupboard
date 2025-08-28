@@ -13,16 +13,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount       | Notes |
-| ------------ | ------------ | ----- |
-| Chicken      | 1 baking hen | Cut in half |
-| Onion        | 1 large      | Quartered |
-| Celery       | 1 stalk      | Complete including leaves |
-| Salt         |              | |
-| Pepper       |              | |
-| Eggs         | 4            | Separated |
-| Lemons       | 2            | Juiced |
-| Rice         | 3 cups       | |
+| Ingredient | Amount       | Notes |
+| ---------- | ------------ | ----- |
+| Chicken    | 1 baking hen | Cut in half |
+| Onion      | 1 large      | Quartered |
+| Celery     | 1 stalk      | Complete including leaves |
+| Salt       |              | |
+| Pepper     |              | |
+| Eggs       | 4            | Separated |
+| Lemons     | 2            | Juiced |
+| Rice       | 3 cups       | |
 
 ## Method
 

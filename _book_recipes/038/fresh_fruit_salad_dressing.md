@@ -12,13 +12,13 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount  | Notes |
-| ------------- | ------- | ----- |
-| Vinegar       | 4 Tbsp  | |
-| Sugar         | 4 Tbsp  | |
-| Butter        | 2 Tbsp  | |
-| Eggs          | 2       | Well beaten |
-| Whipped cream | 1 cup   | |
+| Ingredient    | Amount | Notes |
+| ------------- | ------ | ----- |
+| Vinegar       | 4 Tbsp | |
+| Sugar         | 4 Tbsp | |
+| Butter        | 2 Tbsp | |
+| Eggs          | 2      | Well beaten |
+| Whipped cream | 1 cup  | |
 
 ## Method
 

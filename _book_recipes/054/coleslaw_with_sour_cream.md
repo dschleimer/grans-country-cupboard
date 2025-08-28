@@ -13,15 +13,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount     | Notes |
-| ------------ | ---------- | ----- |
-| Cabbage      | 1 head     | Finely shredded |
-| Sour Cream   | 1 cup      | |
-| Mayonnaise   | 1 Tbsp     | |
-| Pepper       | 1/4 tsp    | |
-| Salt         | 1/2 tsp    | |
-| Sugar        | 2 Tbsp     | |
-| Vinegar      | 1 1/2 Tbsp | |
+| Ingredient | Amount     | Notes |
+| ---------- | ---------- | ----- |
+| Cabbage    | 1 head     | Finely shredded |
+| Sour Cream | 1 cup      | |
+| Mayonnaise | 1 Tbsp     | |
+| Pepper     | 1/4 tsp    | |
+| Salt       | 1/2 tsp    | |
+| Sugar      | 2 Tbsp     | |
+| Vinegar    | 1 1/2 Tbsp | |
 
 ## Method
 

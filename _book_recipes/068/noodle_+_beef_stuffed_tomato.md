@@ -14,17 +14,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Noodles | 4 cups | Recipe calls for Fine Noodles |
-| Ground Chuck | 1 lb | |
-| Onion | 1 med. | Chopped |
-| Mazola Oil | 2 Tbsp | For frying pan |
-| Tomatoes | 6 large | |
-| Basil | 1/2 tsp | |
-| Pepper | 1/4 tsp | |
-| Salt | To taste | |
-| Sherry | 2 Tbsp | Dry Sherry |
+| Ingredient   | Amount   | Notes |
+| ------------ | -------- | ----- |
+| Noodles      | 4 cups   | Recipe calls for Fine Noodles |
+| Ground Chuck | 1 lb     | |
+| Onion        | 1 med.   | Chopped |
+| Mazola Oil   | 2 Tbsp   | For frying pan |
+| Tomatoes     | 6 large  | |
+| Basil        | 1/2 tsp  | |
+| Pepper       | 1/4 tsp  | |
+| Salt         | To taste | |
+| Sherry       | 2 Tbsp   | Dry Sherry |
 
 ## Method
 

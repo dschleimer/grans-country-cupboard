@@ -13,20 +13,20 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount         | Notes |
-| ------------ | -------------- | ----- |
-| Split Peas   | 2 lbs          | |
-| Water        | 4 quarts       | |
-| Ham hocks    | 2              | Skinned - Fat-trimmed - May substitute meaty ham bone |
-| Onion        | 1 large        | Halved and Sliced |
-| Garlic       | 2 large cloves | Smashed |
-| Parsley      |                | |
-| Ginger       | 1/4 tsp        | |
-| Marjoram     | 1 Tbsp         | |
-| Bay Leaves   | 2              | |
-| Salt         | To Taste       | |
-| Pepper       | To Taste       | |
-| Brandy       | To Taste       | At serving time|
+| Ingredient | Amount         | Notes |
+| ---------- | -------------- | ----- |
+| Split Peas | 2 lbs          | |
+| Water      | 4 quarts       | |
+| Ham hocks  | 2              | Skinned - Fat-trimmed - May substitute meaty ham bone |
+| Onion      | 1 large        | Halved and Sliced |
+| Garlic     | 2 large cloves | Smashed |
+| Parsley    |                | |
+| Ginger     | 1/4 tsp        | |
+| Marjoram   | 1 Tbsp         | |
+| Bay Leaves | 2              | |
+| Salt       | To Taste       | |
+| Pepper     | To Taste       | |
+| Brandy     | To Taste       | At serving time |
 
 ## Method
 

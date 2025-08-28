@@ -14,15 +14,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Bread        |         | |
-| Mayonnaise   |         | |
-| Tomatoes     |         | Sliced |
-| Salt         |         | |
-| Pepper       |         | |
-| Cheese       |         | such as Velveeta |
-| Bacon        |         | |
+| Ingredient | Amount | Notes |
+| ---------- | ------ | ----- |
+| Bread      |        | |
+| Mayonnaise |        | |
+| Tomatoes   |        | Sliced |
+| Salt       |        | |
+| Pepper     |        | |
+| Cheese     |        | such as Velveeta |
+| Bacon      |        | |
 
 ## Method
 

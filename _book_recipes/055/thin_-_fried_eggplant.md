@@ -15,13 +15,13 @@ categories:
 
 ## Ingredients
 
-| Ingredient            | Amount  | Notes |
-| --------------------- | ------- | ----- |
-| Eggplant              |         | |
-| Eggs                  | 2       | |
-| Water                 | 1 Tbsp  | |
-| Seasoned Bread Crumbs |         | |
-| Crisco                |         | |
+| Ingredient            | Amount | Notes |
+| --------------------- | ------ | ----- |
+| Eggplant              |        | |
+| Eggs                  | 2      | |
+| Water                 | 1 Tbsp | |
+| Seasoned Bread Crumbs |        | |
+| Crisco                |        | |
 
 ## Method
 

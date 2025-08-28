@@ -14,15 +14,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount       | Notes |
-| ------------ | ------------ | ----- |
-| Asparagus    |              | Fresh |
-| Sugar        | Pinch        | |
-| Butter       | 2 Tbsp       | |
-| Flour        | 1 Tbsp Flour | |
-| Milk         | 1/2 cup      | |
-| Salt         | To Taste     | |
-| Lemon        |              | For serving |
+| Ingredient | Amount       | Notes |
+| ---------- | ------------ | ----- |
+| Asparagus  |              | Fresh |
+| Sugar      | Pinch        | |
+| Butter     | 2 Tbsp       | |
+| Flour      | 1 Tbsp Flour | |
+| Milk       | 1/2 cup      | |
+| Salt       | To Taste     | |
+| Lemon      |              | For serving |
 
 ## Method
 

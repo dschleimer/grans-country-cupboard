@@ -25,7 +25,7 @@ categories:
 | Salt                     | 1 1/2 Tbsp | |
 | Onion                    | 1 large    | Quartered |
 | Maple syrup              | 1 cup      | Optional - Substitute for Molasses if making variant |
-| Catsup                   | 1 cup      | Optional - for Variation | 
+| Catsup                   | 1 cup      | Optional - for Variation |
 | Vinegar                  | 1 Tbsp     | Optional - for Variation |
 
 ## Method

@@ -15,19 +15,19 @@ categories:
 
 ## Ingredients
 
-| Ingredient          | Amount  | Notes |
-| ------------------- | ------- | ----- |
-| White Bread         | 1 loaf  | Unsliced |
-| Butter              |         | |
-| Stuffed Olives      |         | |
-| Cream Cheese        | 8 oz    | |
-| Mayonnaise          |         | |
-| Pimento-Nut Filling |         | |
-| Curried Egg Filling |         | |
-| Deviled Ham Filling |         | |
-| Marinated mushrooms |         | Optional - for garnish - sliced |
-| Cucumber            |         | Optional - for garnish - crisp green cucumber wheels |
-| Other Garnish       |         | Your choice of garnish |
+| Ingredient          | Amount | Notes |
+| ------------------- | ------ | ----- |
+| White Bread         | 1 loaf | Unsliced |
+| Butter              |        | |
+| Stuffed Olives      |        | |
+| Cream Cheese        | 8 oz   | |
+| Mayonnaise          |        | |
+| Pimento-Nut Filling |        | |
+| Curried Egg Filling |        | |
+| Deviled Ham Filling |        | |
+| Marinated mushrooms |        | Optional - for garnish - sliced |
+| Cucumber            |        | Optional - for garnish - crisp green cucumber wheels |
+| Other Garnish       |        | Your choice of garnish |
 
 #### Pimento-Nut Filling
 
@@ -52,12 +52,12 @@ categories:
 
 #### Deviled Ham Filling
 
-| Ingredient   | Amount   | Notes |
-| ------------ | -------- | ----- |
-| Deviled Ham  | 1 can    | Recipe calls 4.5 oz but it appears to be sold in 4.25 oz cans |
-| Mustard      | To Taste | |
-| Pepper       | Dash     | |
-| Mayonnaise   |          | To Moisten |
+| Ingredient  | Amount   | Notes |
+| ----------- | -------- | ----- |
+| Deviled Ham | 1 can    | Recipe calls 4.5 oz but it appears to be sold in 4.25 oz cans |
+| Mustard     | To Taste | |
+| Pepper      | Dash     | |
+| Mayonnaise  |          | To Moisten |
 
 ## Method
 

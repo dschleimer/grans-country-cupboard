@@ -13,13 +13,13 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Sweet Corn   |         | Freshly Cut |
-| Sugar        | 1 tsp   | |
-| Butter       |         | For serving |
-| Salt         |         | For serving |
-| Pepper       |         | For serving |
+| Ingredient | Amount | Notes |
+| ---------- | ------ | ----- |
+| Sweet Corn |        | Freshly Cut |
+| Sugar      | 1 tsp  | |
+| Butter     |        | For serving |
+| Salt       |        | For serving |
+| Pepper     |        | For serving |
 
 ## Method
 

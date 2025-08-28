@@ -26,7 +26,7 @@ categories:
 | Garlic            | 1 clove  | May substitute garlic powder |
 | Salt              | to taste | |
 | Pepper            | to taste | |
-| Beef Frankfurters | 5        | Optional - cut up|
+| Beef Frankfurters | 5        | Optional - cut up |
 
 ## Method
 

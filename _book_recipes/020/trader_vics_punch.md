@@ -21,7 +21,7 @@ categories:
 | Orange Juice | 1 oz    | |
 | Orgeat       | 1 oz    | |
 | Dark Rum     | 1 oz    | Jamaican |
-| Rum          | 1 oz    | Puerto Rican|
+| Rum          | 1 oz    | Puerto Rican |
 | Pineapple    | 1 stick | |
 | Cherry       | 1       | On stem |
 

@@ -13,10 +13,10 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Tea          | 6 bags  | |
-| Water        | 1 gal   | Cold |
+| Ingredient | Amount | Notes |
+| ---------- | ------ | ----- |
+| Tea        | 6 bags | |
+| Water      | 1 gal  | Cold |
 
 ## Method
 

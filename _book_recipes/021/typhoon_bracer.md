@@ -25,7 +25,7 @@ categories:
 | Fruit Juice  | 3 oz              | Recommended Heart's Delight - Have additional on hand for adjusting taste |
 | Papaya Juice | 1 oz              | |
 | Grenadine    |                   | For color |
-| Drambuie     | 2 tsp per serving | Float as served|
+| Drambuie     | 2 tsp per serving | Float as served |
 
 ## Method
 

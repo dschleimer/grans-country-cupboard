@@ -15,17 +15,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Margarine    | 1/2 lb  | Have extra on hand |
-| Butter       | 1/2 lb  | Optional - May substitute for Margerine |
-| Tomatoes     |         | Red |
-| Flour        | 3 Tbsp  | Have extra on hand |
-| Salt         |         | |
-| Pepper       |         | |
-| Onion Salt   |         | |
-| Sugar        |         | |
-| Milk         | 1 quart | |
+| Ingredient | Amount  | Notes |
+| ---------- | ------- | ----- |
+| Margarine  | 1/2 lb  | Have extra on hand |
+| Butter     | 1/2 lb  | Optional - May substitute for Margerine |
+| Tomatoes   |         | Red |
+| Flour      | 3 Tbsp  | Have extra on hand |
+| Salt       |         | |
+| Pepper     |         | |
+| Onion Salt |         | |
+| Sugar      |         | |
+| Milk       | 1 quart | |
 
 ## Method
 

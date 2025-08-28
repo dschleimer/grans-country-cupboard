@@ -11,16 +11,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Dark Cherries | 2 cups | Pitted |
-| Butter | 2 Tbsp | Separated into 1 Tbsp pats|
-| Granulated Sugar | 1/2 cup | Separated into 1/4 cups |
-| Milk | 1 1/2 cup | |
-| Eggs | 2 | |
-| Flour | 6 Tbsp | |
-| Confectioner's Sugar | | |
-| Heavy Cream | 1/2 Pint | |
+| Ingredient           | Amount    | Notes |
+| -------------------- | --------- | ----- |
+| Dark Cherries        | 2 cups    | Pitted |
+| Butter               | 2 Tbsp    | Separated into 1 Tbsp pats |
+| Granulated Sugar     | 1/2 cup   | Separated into 1/4 cups |
+| Milk                 | 1 1/2 cup | |
+| Eggs                 | 2         | |
+| Flour                | 6 Tbsp    | |
+| Confectioner's Sugar |           | |
+| Heavy Cream          | 1/2 Pint  | |
 
 ## Method
 
