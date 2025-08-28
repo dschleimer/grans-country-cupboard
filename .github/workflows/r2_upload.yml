@@ -88,6 +88,25 @@ jobs:
           source-dir: assets/full_res/recipe_crops
           destination-dir: full_res/recipe_crops
 
+  r2_upload_recipe_photos:
+    name: R2 Upload Full Res Recipe Photos
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: assets/full_res/recipe_photos
+        
+      - name: Upload Action
+        uses: ryand56/r2-upload-action@latest
+        with:
+          r2-account-id: ${{ secrets.R2_ACCOUNT_ID }}
+          r2-access-key-id: ${{ secrets.R2_ACCESS_KEY_ID }}
+          r2-secret-access-key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          r2-bucket: gran-assets
+          source-dir: assets/full_res/recipe_photos
+          destination-dir: full_res/recipe_photos
+
   r2_upload_homepage:
     name: R2 Upload Full Homepage
     runs-on: ubuntu-latest
