@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "113"
 recipe: 113/squab_pie
 page_order: 1

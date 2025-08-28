@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "129"
 recipe: 129/west_virginia_cherry_pie
 page_order: 1

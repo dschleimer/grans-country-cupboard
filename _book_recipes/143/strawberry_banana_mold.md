@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "143"
 recipe: 143/strawberry_banana_mold
 page_order: 1

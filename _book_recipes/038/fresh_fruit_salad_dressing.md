@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "038"
 recipe: 038/fresh_fruit_salad_dressing
 page_order: 1

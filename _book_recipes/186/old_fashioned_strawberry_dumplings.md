@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "186"
 recipe: 186/old_fashioned_strawberry_dumplings
 page_order: 2

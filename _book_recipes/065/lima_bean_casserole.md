@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "065"
 recipe: 065/lima_bean_casserole
 page_order: 2

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "113"
 recipe: 113/pheasant
 page_order: 2

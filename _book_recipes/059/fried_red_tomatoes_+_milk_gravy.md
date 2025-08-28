@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "059"
 recipe: 059/fried_red_tomatoes_+_milk_gravy
 page_order: 1

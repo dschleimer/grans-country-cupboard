@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "138"
 recipe: 138/frozen_raspberry_pie
 page_order: 2

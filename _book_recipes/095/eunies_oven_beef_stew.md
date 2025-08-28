@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "095"
 recipe: 095/eunies_oven_beef_stew
 page_order: 3

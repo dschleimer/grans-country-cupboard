@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "131"
 recipe: 131/eunies_pecan_pie
 page_order: 2

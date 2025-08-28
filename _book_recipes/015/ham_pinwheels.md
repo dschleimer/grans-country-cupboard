@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "015"
 recipe: 015/ham_pinwheels
 page_order: 2

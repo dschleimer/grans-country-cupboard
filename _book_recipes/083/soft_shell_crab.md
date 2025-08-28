@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "083"
 recipe: 083/soft_shell_crab
 page_order: 3

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "070"
 recipe: 070/tuna_casserole
 page_order: 2

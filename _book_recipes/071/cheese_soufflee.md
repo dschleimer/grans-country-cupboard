@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "071"
 recipe: 071/cheese_soufflee
 page_order: 2

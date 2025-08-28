@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "072"
 recipe: 072/deviled_scrambled_eggs
 page_order: 2

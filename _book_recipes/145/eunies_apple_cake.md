@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "145"
 recipe: 145/eunies_apple_cake
 page_order: 3

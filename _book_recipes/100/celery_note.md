@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "100"
 recipe: 100/celery_note
 page_order: 3

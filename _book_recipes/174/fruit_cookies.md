@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "174"
 recipe: 174/fruit_cookies
 page_order: 3

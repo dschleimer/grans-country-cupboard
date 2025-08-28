@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "069"
 recipe: 069/asparagus_+_lemon_casserole
 page_order: 1

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "179"
 recipe: 179/indians
 page_order: 2

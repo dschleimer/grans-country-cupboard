@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "096"
 recipe: 096/oven_beef_stew
 page_order: 2

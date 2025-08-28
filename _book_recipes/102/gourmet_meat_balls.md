@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "102"
 recipe: 102/gourmet_meat_balls
 page_order: 2

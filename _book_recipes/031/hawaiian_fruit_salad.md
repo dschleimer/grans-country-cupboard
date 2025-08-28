@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "031"
 recipe: 031/hawaiian_fruit_salad
 page_order: 1

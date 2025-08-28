@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "103"
 recipe: 103/baked_stuffed_hamburger
 page_order: 1

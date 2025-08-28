@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "013"
 recipe: 013/bacon_celery_cheese_balls
 page_order: 2

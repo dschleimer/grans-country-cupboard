@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "143"
 recipe: 143/russian_roll
 page_order: 2

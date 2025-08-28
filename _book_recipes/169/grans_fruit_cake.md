@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "169"
 recipe: 169/grans_fruit_cake
 page_order: 1

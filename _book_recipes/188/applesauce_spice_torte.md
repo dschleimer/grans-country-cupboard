@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "188"
 recipe: 188/applesauce_spice_torte
 page_order: 2

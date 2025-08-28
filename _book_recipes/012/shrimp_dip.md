@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "012"
 recipe: 012/shrimp_dip
 page_order: 3

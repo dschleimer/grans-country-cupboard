@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "111"
 recipe: 111/chicken_turkey_or_veal_croquettes
 page_order: 3

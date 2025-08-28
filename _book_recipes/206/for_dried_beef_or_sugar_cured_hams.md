@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "206"
 recipe: 206/for_dried_beef_or_sugar_cured_hams
 page_order: 1

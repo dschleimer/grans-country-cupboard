@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "135"
 recipe: 135/magic_lemon_pie
 page_order: 2

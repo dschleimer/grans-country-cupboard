@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "111"
 recipe: 111/cape_may_(nj)_barbeque_sauce
 page_order: 2

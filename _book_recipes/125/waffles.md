@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "125"
 recipe: 125/waffles
 page_order: 1

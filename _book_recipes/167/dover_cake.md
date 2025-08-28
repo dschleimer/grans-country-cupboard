@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "167"
 recipe: 167/dover_cake
 page_order: 1

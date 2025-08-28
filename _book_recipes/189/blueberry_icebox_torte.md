@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "189"
 recipe: 189/blueberry_icebox_torte
 page_order: 2

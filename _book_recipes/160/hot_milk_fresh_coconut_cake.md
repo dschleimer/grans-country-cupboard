@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "160"
 recipe: 160/hot_milk_fresh_coconut_cake
 page_order: 1

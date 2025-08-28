@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "017"
 recipe: 017/easter_eggnog
 page_order: 2

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "049"
 recipe: 049/baked_limas
 page_order: 2

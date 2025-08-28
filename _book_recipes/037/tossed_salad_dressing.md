@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "037"
 recipe: 037/tossed_salad_dressing
 page_order: 2

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "018"
 recipe: 018/champagne_punch
 page_order: 1

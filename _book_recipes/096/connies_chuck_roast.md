@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "096"
 recipe: 096/connies_chuck_roast
 page_order: 1

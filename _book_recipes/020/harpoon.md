@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "020"
 recipe: 020/harpoon
 page_order: 1

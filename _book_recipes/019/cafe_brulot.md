@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "019"
 recipe: 019/cafe_brulot
 page_order: 1

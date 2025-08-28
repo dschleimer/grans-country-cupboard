@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "060"
 recipe: 060/beths_spaghetti_for_12+
 page_order: 1

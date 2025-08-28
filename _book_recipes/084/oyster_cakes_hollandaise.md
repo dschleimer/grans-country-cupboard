@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "084"
 recipe: 084/oyster_cakes_hollandaise
 page_order: 1

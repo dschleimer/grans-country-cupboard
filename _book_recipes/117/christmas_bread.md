@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "117"
 recipe: 117/christmas_bread
 page_order: 1

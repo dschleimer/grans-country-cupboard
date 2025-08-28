@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "090"
 recipe: 090/pate_de_foie_grasse
 page_order: 1

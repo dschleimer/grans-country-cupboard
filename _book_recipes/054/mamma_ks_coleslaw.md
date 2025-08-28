@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "054"
 recipe: 054/mamma_ks_coleslaw
 page_order: 1

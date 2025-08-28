@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "130"
 recipe: 130/italian_cheese_cake
 page_order: 3

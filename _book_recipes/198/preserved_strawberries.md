@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "198"
 recipe: 198/preserved_strawberries
 page_order: 4

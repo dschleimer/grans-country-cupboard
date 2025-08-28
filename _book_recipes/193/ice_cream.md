@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "193"
 recipe: 193/ice_cream
 page_order: 1

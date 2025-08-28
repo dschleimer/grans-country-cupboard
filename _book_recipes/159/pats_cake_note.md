@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "159"
 recipe: 159/pats_cake_note
 page_order: 3

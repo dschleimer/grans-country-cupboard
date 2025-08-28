@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "176"
 recipe: 176/wyoming_ice_box_cookies
 page_order: 1

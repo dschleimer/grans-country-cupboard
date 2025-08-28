@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "068"
 recipe: 068/chicken_casserole
 page_order: 2

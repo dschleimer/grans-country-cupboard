@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "040"
 recipe: 040/corn_chowder
 page_order: 2

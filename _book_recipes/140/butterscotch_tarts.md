@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "140"
 recipe: 140/butterscotch_tarts
 page_order: 1

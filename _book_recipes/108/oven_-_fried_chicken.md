@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "108"
 recipe: 108/oven_-_fried_chicken
 page_order: 2

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "187"
 recipe: 187/large_eggs_note
 page_order: 3

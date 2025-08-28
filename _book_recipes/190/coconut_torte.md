@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "190"
 recipe: 190/coconut_torte
 page_order: 1

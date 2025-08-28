@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "140"
 recipe: 140/grans_baked_custard
 page_order: 2

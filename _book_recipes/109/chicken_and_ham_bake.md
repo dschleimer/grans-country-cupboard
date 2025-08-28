@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "109"
 recipe: 109/chicken_and_ham_bake
 page_order: 2

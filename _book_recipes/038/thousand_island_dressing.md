@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "038"
 recipe: 038/thousand_island_dressing
 page_order: 3

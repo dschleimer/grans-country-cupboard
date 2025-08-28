@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "078"
 recipe: 078/meat_or_fish_newburg_for_12_or_25
 page_order: 2

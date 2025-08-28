@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "196"
 recipe: 196/2_-_4_-_6_molasses_candy
 page_order: 1

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "062"
 recipe: 062/baked_stuffed_tomatoes
 page_order: 2

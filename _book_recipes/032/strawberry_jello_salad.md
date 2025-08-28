@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "032"
 recipe: 032/strawberry_jello_salad
 page_order: 2

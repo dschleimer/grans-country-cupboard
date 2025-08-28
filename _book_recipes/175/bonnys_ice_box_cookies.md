@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "175"
 recipe: 175/bonnys_ice_box_cookies
 page_order: 2

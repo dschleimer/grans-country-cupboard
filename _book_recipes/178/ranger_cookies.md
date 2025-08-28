@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "178"
 recipe: 178/ranger_cookies
 page_order: 1

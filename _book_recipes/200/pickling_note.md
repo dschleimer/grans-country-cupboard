@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "200"
 recipe: 200/pickling_note
 page_order: 3

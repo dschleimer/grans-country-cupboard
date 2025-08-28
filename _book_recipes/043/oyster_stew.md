@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "043"
 recipe: 043/oyster_stew
 page_order: 1

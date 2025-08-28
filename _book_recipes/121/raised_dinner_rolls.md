@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "121"
 recipe: 121/raised_dinner_rolls
 page_order: 2

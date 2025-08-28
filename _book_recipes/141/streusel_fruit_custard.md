@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "141"
 recipe: 141/streusel_fruit_custard
 page_order: 1

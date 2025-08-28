@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "101"
 recipe: 101/boiled_beef_tongue
 page_order: 3

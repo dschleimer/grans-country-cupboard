@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "033"
 recipe: 033/molded_tuna_salad
 page_order: 2

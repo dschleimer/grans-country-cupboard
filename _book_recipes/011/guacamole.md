@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "011"
 recipe: 011/guacamole
 page_order: 2

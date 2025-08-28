@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "106"
 recipe: 106/veal_scallops_with_port
 page_order: 2

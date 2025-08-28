@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "152"
 recipe: 152/rich_white_birthday_cake
 page_order: 2

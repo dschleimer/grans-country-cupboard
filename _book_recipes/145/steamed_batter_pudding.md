@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "145"
 recipe: 145/steamed_batter_pudding
 page_order: 1

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "112"
 recipe: 112/fried_rabbit
 page_order: 2

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "042"
 recipe: 042/lentil_soup
 page_order: 2

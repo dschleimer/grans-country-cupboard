@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "032"
 recipe: 032/frozen_fruit_cocktail_salad
 page_order: 1

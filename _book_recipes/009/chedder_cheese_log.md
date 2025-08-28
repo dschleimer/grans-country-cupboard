@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "009"
 recipe: 009/chedder_cheese_log
 page_order: 2

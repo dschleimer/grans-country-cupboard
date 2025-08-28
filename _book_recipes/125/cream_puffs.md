@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "125"
 recipe: 125/cream_puffs
 page_order: 2

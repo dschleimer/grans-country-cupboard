@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "029"
 recipe: 029/german_potato_salad
 page_order: 1

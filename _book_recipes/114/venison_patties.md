@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "114"
 recipe: 114/venison_patties
 page_order: 2

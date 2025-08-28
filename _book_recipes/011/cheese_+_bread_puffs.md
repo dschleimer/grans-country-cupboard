@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "011"
 recipe: 011/cheese_+_bread_puffs
 page_order: 1

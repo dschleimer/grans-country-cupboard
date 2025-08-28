@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "204"
 recipe: 204/grape_wine
 page_order: 1

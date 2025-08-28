@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "110"
 recipe: 110/hawaiian_chicken_wings
 page_order: 1

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "172"
 recipe: 172/jennys_or_almond_crescents
 page_order: 1

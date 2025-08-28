@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "058"
 recipe: 058/crisp_fried_tomatoes
 page_order: 3

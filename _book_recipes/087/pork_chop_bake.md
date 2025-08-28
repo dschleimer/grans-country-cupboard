@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "087"
 recipe: 087/pork_chop_bake
 page_order: 2

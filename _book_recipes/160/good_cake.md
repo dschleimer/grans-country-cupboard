@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "160"
 recipe: 160/good_cake
 page_order: 2

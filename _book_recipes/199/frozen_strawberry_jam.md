@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "199"
 recipe: 199/frozen_strawberry_jam
 page_order: 1

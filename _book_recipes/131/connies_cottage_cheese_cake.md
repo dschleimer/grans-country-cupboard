@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "131"
 recipe: 131/connies_cottage_cheese_cake
 page_order: 1

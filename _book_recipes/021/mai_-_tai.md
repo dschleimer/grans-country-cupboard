@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "021"
 recipe: 021/mai_-_tai
 page_order: 1

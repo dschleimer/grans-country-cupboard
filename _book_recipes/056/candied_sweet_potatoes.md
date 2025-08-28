@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "056"
 recipe: 056/candied_sweet_potatoes
 page_order: 3

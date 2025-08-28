@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "016"
 recipe: 016/nuts_and_bolts
 page_order: 2

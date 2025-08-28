@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "206"
 recipe: 206/receipt_for_seasoning_sausage
 page_order: 2

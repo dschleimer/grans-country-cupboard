@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "087"
 recipe: 087/salmon_loaf_-_egg_sauce
 page_order: 1

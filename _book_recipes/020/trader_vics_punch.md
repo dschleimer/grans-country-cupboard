@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "020"
 recipe: 020/trader_vics_punch
 page_order: 3

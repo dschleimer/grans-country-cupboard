@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "173"
 recipe: 173/christmas_cinnamon_snaps
 page_order: 1

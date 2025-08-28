@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "036"
 recipe: 036/lils_salad_dressing
 page_order: 2

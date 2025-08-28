@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "101"
 recipe: 101/spaghetti_meat_loaf
 page_order: 2

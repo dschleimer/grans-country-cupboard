@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "055"
 recipe: 055/stewed_eggplant
 page_order: 2

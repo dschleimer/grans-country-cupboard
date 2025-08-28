@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "119"
 recipe: 119/irish_bread
 page_order: 1

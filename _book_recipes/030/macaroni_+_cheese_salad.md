@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "030"
 recipe: 030/macaroni_+_cheese_salad
 page_order: 1

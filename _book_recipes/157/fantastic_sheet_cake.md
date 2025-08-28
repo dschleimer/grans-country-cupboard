@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "157"
 recipe: 157/fantastic_sheet_cake
 page_order: 2

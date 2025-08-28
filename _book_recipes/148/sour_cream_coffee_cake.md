@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "148"
 recipe: 148/sour_cream_coffee_cake
 page_order: 1

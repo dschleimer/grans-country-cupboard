@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "159"
 recipe: 159/pats_white_frosting
 page_order: 2

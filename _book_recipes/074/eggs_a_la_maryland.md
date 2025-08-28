@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "074"
 recipe: 074/eggs_a_la_maryland
 page_order: 2

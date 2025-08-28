@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "114"
 recipe: 114/dear_or_elk_roast
 page_order: 1

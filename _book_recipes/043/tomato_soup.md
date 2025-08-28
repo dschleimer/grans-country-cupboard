@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "043"
 recipe: 043/tomato_soup
 page_order: 2

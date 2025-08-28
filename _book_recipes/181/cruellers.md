@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "181"
 recipe: 181/cruellers
 page_order: 1

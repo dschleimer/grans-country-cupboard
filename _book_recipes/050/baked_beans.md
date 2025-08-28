@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "050"
 recipe: 050/baked_beans
 page_order: 1

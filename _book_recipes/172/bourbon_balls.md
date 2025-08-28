@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "172"
 recipe: 172/bourbon_balls
 page_order: 2

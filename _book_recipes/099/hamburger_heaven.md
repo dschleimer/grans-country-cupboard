@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "099"
 recipe: 099/hamburger_heaven
 page_order: 2

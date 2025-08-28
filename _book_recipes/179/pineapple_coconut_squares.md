@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "179"
 recipe: 179/pineapple_coconut_squares
 page_order: 3

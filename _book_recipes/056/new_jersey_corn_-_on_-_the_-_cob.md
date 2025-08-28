@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "056"
 recipe: 056/new_jersey_corn_-_on_-_the_-_cob
 page_order: 1

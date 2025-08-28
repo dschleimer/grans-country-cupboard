@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "039"
 recipe: 039/onion_+_cucumber_relish
 page_order: 1

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "079"
 recipe: 079/shrimp_in_sour_cream
 page_order: 1

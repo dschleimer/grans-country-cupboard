@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "019"
 recipe: 019/pina_colada
 page_order: 4

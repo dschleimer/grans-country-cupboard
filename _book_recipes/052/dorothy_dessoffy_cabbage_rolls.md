@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "052"
 recipe: 052/dorothy_dessoffys_cabbage_rolls
 page_order: 1

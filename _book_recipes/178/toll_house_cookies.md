@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "178"
 recipe: 178/toll_house_cookies
 page_order: 2

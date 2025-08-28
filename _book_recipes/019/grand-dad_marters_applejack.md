@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "019"
 recipe: 019/grand-dad_marters_applejack
 page_order: 3

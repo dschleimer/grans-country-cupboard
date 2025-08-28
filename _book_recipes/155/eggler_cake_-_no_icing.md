@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "155"
 recipe: 155/eggler_cake_-_no_icing
 page_order: 2

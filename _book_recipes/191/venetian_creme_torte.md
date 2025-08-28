@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "191"
 recipe: 191/venetian_creme_torte
 page_order: 1

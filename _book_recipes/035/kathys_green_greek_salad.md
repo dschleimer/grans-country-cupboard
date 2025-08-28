@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "035"
 recipe: 035/kathys_green_greek_salad
 page_order: 2\

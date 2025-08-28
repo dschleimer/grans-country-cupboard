@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "118"
 recipe: 118/corn_bread
 page_order: 1

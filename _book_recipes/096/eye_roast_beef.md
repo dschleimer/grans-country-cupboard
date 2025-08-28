@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "096"
 recipe: 096/eye_roast_beef
 page_order: 3

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "019"
 recipe: 019/toms_irish_coffee
 page_order: 2

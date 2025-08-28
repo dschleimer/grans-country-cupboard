@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "195"
 recipe: 195/famous_fudge
 page_order: 2

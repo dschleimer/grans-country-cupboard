@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "165"
 recipe: 165/white_cake
 page_order: 2

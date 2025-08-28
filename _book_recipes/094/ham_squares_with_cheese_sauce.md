@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "094"
 recipe: 094/ham_squares_with_cheese_sauce
 page_order: 2

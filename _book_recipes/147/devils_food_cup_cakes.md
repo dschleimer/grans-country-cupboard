@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "147"
 recipe: 147/devils_food_cup_cakes
 page_order: 2

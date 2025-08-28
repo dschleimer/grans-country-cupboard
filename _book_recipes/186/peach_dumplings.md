@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "186"
 recipe: 186/peach_dumplings
 page_order: 1

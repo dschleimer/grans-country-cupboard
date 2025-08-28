@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "085"
 recipe: 085/deviled_clams
 page_order: 2

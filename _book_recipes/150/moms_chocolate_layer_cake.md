@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "150"
 recipe: 150/moms_chocolate_layer_cake
 page_order: 1

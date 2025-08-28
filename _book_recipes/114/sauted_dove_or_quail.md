@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "114"
 recipe: 114/sautéd_dove_or_quail
 page_order: 3

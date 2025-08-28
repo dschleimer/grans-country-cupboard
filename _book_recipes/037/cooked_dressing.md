@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "037"
 recipe: 037/cooked_dressing
 page_order: 1

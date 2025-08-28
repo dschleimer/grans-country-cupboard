@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "163"
 recipe: 163/pudding_cake
 page_order: 1

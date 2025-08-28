@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "177"
 recipe: 177/orange_jambler_for_christmas
 page_order: 3

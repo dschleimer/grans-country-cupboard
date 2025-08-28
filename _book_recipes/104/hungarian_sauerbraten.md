@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "104"
 recipe: 104/hungarian_sauerbraten
 page_order: 1

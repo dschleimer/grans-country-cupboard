@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "056"
 recipe: 056/stuffed_green_peppers
 page_order: 2

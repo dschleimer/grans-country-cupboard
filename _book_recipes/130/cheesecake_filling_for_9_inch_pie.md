@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "130"
 recipe: 130/cheesecake_filling_for_9_inch_pie
 page_order: 1

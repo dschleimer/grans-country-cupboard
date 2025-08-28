@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "209"
 recipe: 209/mustard_plaster
 page_order: 1

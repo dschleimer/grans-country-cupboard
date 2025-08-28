@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "121"
 recipe: 121/italian_bread_sticks
 page_order: 1

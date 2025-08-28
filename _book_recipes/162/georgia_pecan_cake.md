@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "162"
 recipe: 162/georgia_pecan_cake
 page_order: 1

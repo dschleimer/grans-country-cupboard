@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "072"
 recipe: 072/wranglers_omelet_with_cheese_sauce
 page_order: 1

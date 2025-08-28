@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "100"
 recipe: 100/grans_meat_loaf
 page_order: 1

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 page: "177"
 recipe: 177/oatmeal_cookies
 page_order: 2
