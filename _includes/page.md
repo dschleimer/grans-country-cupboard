@@ -24,6 +24,6 @@
 <br />
 {% include img.html res="web" type="enhanced" id=page.number %}
 <br/>
-{% include asset_link.html res="full_res" type="original" id=page.number -%} | {%- include asset_link.html res="full_res" type="enhanced" id=page.number -%}
+{% include asset_link.html type="original" id=page.number -%} | {%- include asset_link.html res="full_res" type="enhanced" id=page.number -%}
 <br/>
 {% include nav_links.md parent=parent_chapter %}<br/>
