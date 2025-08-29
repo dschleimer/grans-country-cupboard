@@ -4,7 +4,7 @@
 layout: home
 ---
 
-{% include img.html res="web" type="homepage" id="cover" %}
+{% include img.html res="web" type="homepage" id="cover" width="800px" %}
 
 Have an ingredient and looking for something to make with it?  [Browse by ingredient](/ingredients/)<br/>
 Know what course you're looking for and want to find a dish?  [Browse by category](/categories/)<br/>

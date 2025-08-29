@@ -23,5 +23,8 @@
     {%- endif -%}
 {%- else -%}
     {%- assign prefix = "/assets" -%}
+    {%- if include.type == "recipe_photos" -%}
+        {%- assign res = "full_res" -%}
+    {%- endif -%}
 {%- endif -%}
-<img src="{{prefix}}/{{res}}/{{type}}/{{include.id}}.{{ext}}" {%- if include.width -%}width="{{include.width}}"{%-endif -%} />
+<img src="{{prefix}}/{{res}}/{{type}}/{{include.id}}.{{ext}}" width="{{include.width}}" />
