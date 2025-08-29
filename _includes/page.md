@@ -14,7 +14,7 @@
 {%- for recipe in recipes -%}
     <span style="display:inline-block;padding: 10px">
       <span style="display:block;text-align: center">
-        [{%- include img.html res="thumbs" type="recipe_crops" id=recipe.recipe width="100px" -%}]({{recipe.url}})
+        [{%- include img.html res="thumbs" type="recipe_crops" id=recipe.recipe width="100" -%}]({{recipe.url}})
       </span>
       <span style="display:block;text-align: center">
         [{{recipe.title}}]({{recipe.url}})
@@ -22,7 +22,7 @@
     </span>
 {%- endfor -%}
 <br />
-{% include img.html res="web" type="enhanced" id=page.number width="800px" %}
+{% include img.html res="web" type="enhanced" id=page.number width="800" %}
 <br/>
 {% include asset_link.html type="original" id=page.number -%} | {%- include asset_link.html res="full_res" type="enhanced" id=page.number -%}
 <br/>
