@@ -1,30 +1,22 @@
 {%- assign res = include.res -%}
+{%- assign ext = "jpg" -%}
 {%- if include.id == "cover" and include.type != "homepage" -%}
     {%- assign type = "original" -%}
 {%- else -%}
     {%- assign type = include.type -%}
 {%- endif -%}
-{%- if include.res == "thumbs" -%}
-    {%- assign ext = "png" -%}
-{%- else -%}
-    {%- assign ext = "jpg" -%}
-{%- endif -%}
 {%- if jekyll.environment == "production" -%}
-    {%- assign prefix = "https://assets.grans-country-cupboard.com" -%}
-    {%- if include.type == "recipe_photos" and include.res != "full_res" -%}
-        {%- assign prefix = prefix | append: "/cdn-cgi/image/fit=scale-down,format=auto" -%}
-        {%- case include.res -%}
-            {%- when "web" -%}
-                {%- assign prefix = prefix | append: ",width=395" -%}
-            {%- when "thumb" -%}
-                {%- assign prefix = prefix | append: ",width=100,height=100" -%}
-        {%- endcase -%}
-        {%- assign res = "full_res" -%}
-    {%- endif -%}
+    {%- assign prefix = "https://assets.grans-country-cupboard.com/cdn-cgi/image/fit=scale-down,format=auto,width=" | append: include.width -%}
+    {%- assign res = "full_res" -%}
 {%- else -%}
     {%- assign prefix = "/assets" -%}
     {%- if include.type == "recipe_photos" -%}
         {%- assign res = "full_res" -%}
+    {%- endif -%}
+    {%- if include.res == "thumbs" -%}
+        {%- assign ext = "png" -%}
+    {%- else -%}
+        {%- assign ext = "jpg" -%}
     {%- endif -%}
 {%- endif -%}
 <img src="{{prefix}}/{{res}}/{{type}}/{{include.id}}.{{ext}}" width="{{include.width}}px" />
