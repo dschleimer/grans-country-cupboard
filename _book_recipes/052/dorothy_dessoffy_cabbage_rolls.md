@@ -1,7 +1,7 @@
 ---
 layout: recipe
 page: "052"
-recipe: 052/dorothy_dessoffys_cabbage_rolls
+recipe: 052/dorothy_dessoffy_cabbage_rolls
 page_order: 1
 from: Dorothy Dessoffy
 categories:

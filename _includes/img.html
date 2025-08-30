@@ -1,5 +1,6 @@
 {%- assign res = include.res -%}
 {%- assign ext = "jpg" -%}
+{%- assign res = "full_res" -%}
 {%- if include.id == "cover" and include.type != "homepage" -%}
     {%- assign type = "original" -%}
 {%- else -%}
@@ -7,16 +8,10 @@
 {%- endif -%}
 {%- if jekyll.environment == "production" -%}
     {%- assign prefix = "https://assets.grans-country-cupboard.com/cdn-cgi/image/fit=scale-down,format=auto,width=" | append: include.width -%}
-    {%- assign res = "full_res" -%}
+    {%- capture src -%}{{prefix}}/full_res/{{type}}/{{include.id}}.jpg{%- endcapture -%}
 {%- else -%}
-    {%- assign prefix = "/assets" -%}
-    {%- if include.type == "recipe_photos" -%}
-        {%- assign res = "full_res" -%}
-    {%- endif -%}
-    {%- if include.res == "thumbs" -%}
-        {%- assign ext = "png" -%}
-    {%- else -%}
-        {%- assign ext = "jpg" -%}
-    {%- endif -%}
+    {%- capture src -%}/assets/full_res/{{type}}/{{include.id}}.jpg{%- endcapture -%}
+    {%- capture size -%}{{include.width}}x>{%- endcapture -%}
+    {%- assign src = src | resize: size %}
 {%- endif -%}
-<img src="{{prefix}}/{{res}}/{{type}}/{{include.id}}.{{ext}}" width="{{include.width}}px" />
+<img src="{{src}}" width="{{include.width}}px" />

@@ -1,7 +1,7 @@
 ---
 layout: recipe
 page: "060"
-recipe: 060/jewish_spaghetti
+recipe: 060/quick_spaghetti
 page_order: 2
 from: A Jewish dish - Mrs. Gilbert - 1925
 categories:

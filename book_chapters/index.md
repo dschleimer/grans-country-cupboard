@@ -7,4 +7,4 @@ layout: page
     ### Chapter {{chapter.number}} - [{{chapter.title}}]({{chapter.url}})
 {% endfor -%}
 
-{% include img.html res="web" type="enhanced" id="005" width="800px" %}
+{% include img.html res="web" type="enhanced" id="005" width="800" %}

@@ -11,7 +11,7 @@ layout: page
 {% for page in page_group.items -%}
     <span style="display:inline-block;padding: 10px">
       <span style="display:block">
-        [{%- include img.html res="thumbs" type="enhanced" id=page.number width = "100px" -%}]({{page.url}})
+        [{%- include img.html res="thumbs" type="enhanced" id=page.number width = "100" -%}]({{page.url}})
       </span>
       <span style="display:block;text-align: center">
         [{{page.number}}]({{page.url}})
