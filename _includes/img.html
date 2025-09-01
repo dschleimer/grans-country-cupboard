@@ -12,4 +12,4 @@
     {%- capture size -%}{{include.width}}x>{%- endcapture -%}
     {%- assign src = src | resize: size %}
 {%- endif -%}
-<img src="{{src}}" width="{{include.width}}px" />
+<img src="{{src}}" width="{{include.width}}px" {%if include.htmlid %}id="{{include.htmlid}}"{%endif%} />
