@@ -3,9 +3,8 @@ layout: recipe
 page: "135"
 recipe: 135/alene_mathers_lemon_pie
 page_order: 1
-categories:
 from: Wyoming
-
+categories:
     - Needs Front Matter
 ---
 # Alene Mather's Lemon Pie
@@ -36,4 +35,4 @@ from: Wyoming
 9. Cover the pie with meringue.
 
 ## Notes
-Make about 5 hours before serving.
+* Make about 5 hours before serving.
