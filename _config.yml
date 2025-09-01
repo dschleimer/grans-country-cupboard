@@ -102,3 +102,9 @@ minima:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+  - .wrangler/
+  - package-lock.json
+  - package.json
+  - wrangler.toml
+  - node_modules/

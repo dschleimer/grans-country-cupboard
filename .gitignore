@@ -7,3 +7,5 @@ _site/
 vendor/
 # this comes from the jekyll-resize plugin
 cache/resize
+# wrangler is the cloudflare dev tool
+.wrangler
