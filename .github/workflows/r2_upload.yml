@@ -30,7 +30,7 @@ jobs:
             env_auth = true
           disable_base64: true
 
-      - run: rclone sync --verbose assets/full_res/original/ r2:gran-assets/original/
+      - run: rclone sync --verbose --no-update-modtime assets/full_res/original/ r2:gran-assets/original/
         env:
           RCLONE_CONFIG_R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           RCLONE_CONFIG_R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
@@ -57,7 +57,7 @@ jobs:
             env_auth = true
           disable_base64: true
 
-      - run: rclone sync --verbose assets/full_res/enhanced/ r2:gran-assets/enhanced/
+      - run: rclone sync --verbose --no-update-modtime assets/full_res/enhanced/ r2:gran-assets/enhanced/
         env:
           RCLONE_CONFIG_R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           RCLONE_CONFIG_R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
@@ -83,7 +83,7 @@ jobs:
             env_auth = true
           disable_base64: true
 
-      - run: rclone sync --verbose assets/full_res/recipe_crops/ r2:gran-assets/recipe_crops/
+      - run: rclone sync --verbose --no-update-modtime assets/full_res/recipe_crops/ r2:gran-assets/recipe_crops/
         env:
           RCLONE_CONFIG_R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           RCLONE_CONFIG_R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
@@ -109,7 +109,7 @@ jobs:
             env_auth = true
           disable_base64: true
 
-      - run: rclone sync --verbose assets/full_res/recipe_photos/ r2:gran-assets/recipe_photos/
+      - run: rclone sync --verbose --no-update-modtime assets/full_res/recipe_photos/ r2:gran-assets/recipe_photos/
         env:
           RCLONE_CONFIG_R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           RCLONE_CONFIG_R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
@@ -135,7 +135,7 @@ jobs:
             env_auth = true
           disable_base64: true
 
-      - run: rclone sync --verbose assets/full_res/homepage/ r2:gran-assets/homepage/
+      - run: rclone sync --verbose --no-update-modtime assets/full_res/homepage/ r2:gran-assets/homepage/
         env:
           RCLONE_CONFIG_R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           RCLONE_CONFIG_R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
