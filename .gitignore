@@ -9,3 +9,5 @@ vendor/
 cache/resize
 # wrangler is the cloudflare dev tool
 .wrangler
+# sigh, gotta deal with js for functions
+node_modules/
