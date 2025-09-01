@@ -3,6 +3,6 @@
 {%- else -%}
     {%- assign prefix = "/assets" -%}
 {%- endif -%}
-<a href="{{prefix}}/full_res/{{include.type}}/{{include.id}}.jpg" >
+<a href="{{prefix}}/{{include.type}}/{{include.id}}.jpg" >
     {{include.type | split: "_" | first | capitalize }} Full Resolution
 </a>

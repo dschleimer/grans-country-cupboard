@@ -17,7 +17,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          sparse-checkout: assets/full_res/original
+          sparse-checkout: assets/original
         
       - name: Setup Rclone
         uses: AnimMouse/setup-rclone@v1
@@ -30,7 +30,7 @@ jobs:
             env_auth = true
           disable_base64: true
 
-      - run: rclone sync --verbose --no-update-modtime assets/full_res/original/ r2:gran-assets/original/
+      - run: rclone sync --verbose --no-update-modtime assets/original/ r2:gran-assets/original/
         env:
           RCLONE_CONFIG_R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           RCLONE_CONFIG_R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
@@ -44,7 +44,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          sparse-checkout: assets/full_res/enhanced
+          sparse-checkout: assets/enhanced
         
       - name: Setup Rclone
         uses: AnimMouse/setup-rclone@v1
@@ -57,7 +57,7 @@ jobs:
             env_auth = true
           disable_base64: true
 
-      - run: rclone sync --verbose --no-update-modtime assets/full_res/enhanced/ r2:gran-assets/enhanced/
+      - run: rclone sync --verbose --no-update-modtime assets/enhanced/ r2:gran-assets/enhanced/
         env:
           RCLONE_CONFIG_R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           RCLONE_CONFIG_R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
@@ -70,7 +70,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          sparse-checkout: assets/full_res/recipe_crops
+          sparse-checkout: assets/recipe_crops
 
       - name: Setup Rclone
         uses: AnimMouse/setup-rclone@v1
@@ -83,7 +83,7 @@ jobs:
             env_auth = true
           disable_base64: true
 
-      - run: rclone sync --verbose --no-update-modtime assets/full_res/recipe_crops/ r2:gran-assets/recipe_crops/
+      - run: rclone sync --verbose --no-update-modtime assets/recipe_crops/ r2:gran-assets/recipe_crops/
         env:
           RCLONE_CONFIG_R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           RCLONE_CONFIG_R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
@@ -96,7 +96,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          sparse-checkout: assets/full_res/recipe_photos
+          sparse-checkout: assets/recipe_photos
 
       - name: Setup Rclone
         uses: AnimMouse/setup-rclone@v1
@@ -109,7 +109,7 @@ jobs:
             env_auth = true
           disable_base64: true
 
-      - run: rclone sync --verbose --no-update-modtime assets/full_res/recipe_photos/ r2:gran-assets/recipe_photos/
+      - run: rclone sync --verbose --no-update-modtime assets/recipe_photos/ r2:gran-assets/recipe_photos/
         env:
           RCLONE_CONFIG_R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           RCLONE_CONFIG_R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
@@ -122,7 +122,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          sparse-checkout: assets/full_res/homepage
+          sparse-checkout: assets/homepage
 
       - name: Setup Rclone
         uses: AnimMouse/setup-rclone@v1
@@ -135,7 +135,7 @@ jobs:
             env_auth = true
           disable_base64: true
 
-      - run: rclone sync --verbose --no-update-modtime assets/full_res/homepage/ r2:gran-assets/homepage/
+      - run: rclone sync --verbose --no-update-modtime assets/homepage/ r2:gran-assets/homepage/
         env:
           RCLONE_CONFIG_R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           RCLONE_CONFIG_R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}

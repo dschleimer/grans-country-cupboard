@@ -1,5 +1,3 @@
-{%- assign res = include.res -%}
-{%- assign ext = "jpg" -%}
 {%- assign res = "full_res" -%}
 {%- if include.id == "cover" and include.type != "homepage" -%}
     {%- assign type = "original" -%}
@@ -8,9 +6,9 @@
 {%- endif -%}
 {%- if jekyll.environment == "production" -%}
     {%- assign prefix = "https://assets.grans-country-cupboard.com/cdn-cgi/image/fit=scale-down,format=auto,width=" | append: include.width -%}
-    {%- capture src -%}{{prefix}}/full_res/{{type}}/{{include.id}}.jpg{%- endcapture -%}
+    {%- capture src -%}{{prefix}}/{{type}}/{{include.id}}.jpg{%- endcapture -%}
 {%- else -%}
-    {%- capture src -%}/assets/full_res/{{type}}/{{include.id}}.jpg{%- endcapture -%}
+    {%- capture src -%}/assets/{{type}}/{{include.id}}.jpg{%- endcapture -%}
     {%- capture size -%}{{include.width}}x>{%- endcapture -%}
     {%- assign src = src | resize: size %}
 {%- endif -%}
