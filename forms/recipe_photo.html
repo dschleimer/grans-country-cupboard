@@ -1,0 +1,29 @@
+---
+layout: page
+title: Submit an Image of a Recipe
+---
+{%- assign docs = site.book_recipes | sort: "title" -%}
+<form action=""{{page.url}}" method="POST" rel="nofollow" enctype="multipart/form-data">
+    <div>
+        <label for="name">Your Name:</label>
+        <input type="text" name="name" id="name"/>
+    </div>
+    <div>
+        <label for="email">Your Email Address:</label>
+        <input type="email" name="email" id="email"/>
+    </div>
+    <div>
+        <label for="recipe">Recipe</label>
+        <select name="recipe">
+            <option value="">--Please select a recipe--</option>
+            {% for recipe in docs %}
+                <option value="{{recipe.recipe}}">{{recipe.title}}</option>
+            {% endfor %}
+        </select>
+    </div>
+    <div>
+        <label for="photo">Select a photo (Sorry, only JPEGs supported)</label>
+        <input type="file" name="photo" id="photo" accept=".jpg,.jpeg"/>
+    </div>
+    <input type="submit" value="Submit Photo" />
+</form>
