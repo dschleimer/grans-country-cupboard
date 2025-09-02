@@ -1,3 +1,10 @@
+import { Octokit } from "octokit";
+import {
+  createPullRequest,
+} from "octokit-plugin-create-pull-request";
+
+const MyOctokit = Octokit.plugin(createPullRequest);
+
 class ImgSourcePlaceholderRewriter {
 
     id: string;
@@ -63,7 +70,6 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
         }
     }
     if (recipe && recipe.ok) {
-        // TODO: validate id
         return new HTMLRewriter()
             .on("img#old", new ImgSourcePlaceholderRewriter(id))
             .on("option", new SelectOptionRewriter(id))
@@ -74,14 +80,37 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
     }
 };
 
+const REPO_OWNER = 'dschleimer';
+const REPO_NAME = 'grans-country-cupboard';
+const RECIPE_IMAGE_ROOT = '/assets/recipe_photos/';
+const IMAGE_EXTENSION = '.jpg';
+
 export const onRequestPost: PagesFunction<Env> = async (context) => {
     const formData = await context.request.formData();
     console.log(formData);
     const file = formData.get('photo');
     console.log(file);
     if (!(file instanceof File)) {
+        //TODO: some sort of error message, and preserve the form contents as best we can
         return Response.redirect(context.request.url, 303);
     }
-    console.log(await file.bytes());
-    return Response.redirect(context.request.url, 303);
+    //TODO: validate name/email/photo
+
+    const recipeId = formData.get('recipe')
+    const targetPath = RECIPE_IMAGE_ROOT +  recipeId + IMAGE_EXTENSION;
+
+    const github = new MyOctokit({
+        auth: context.env.GITHUB_API_TOKEN,
+    });
+    try {
+        var existing = await github.rest.repos.getContent({
+            owner: 'dschleimer',
+            repo: 'grans-country-cupboard',
+            path: targetPath,
+        });
+    } catch (e) {
+        //TODO: some sort of error message, and preserve the form contents as best we can
+        return Response.redirect(context.request.url, 303);
+    }
+    return new Response(JSON.stringify(existing, null, 4));
 };
