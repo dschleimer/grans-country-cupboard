@@ -36,7 +36,18 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
     var html = await context.env.ASSETS.fetch(context.request);
     var url = new URL(context.request.url);
     var id = url.searchParams.get("id");
+    var recipe = null;
     if (id) {
+        try {
+            recipe = await context.env.ASSETS.fetch(new URL("/book_recipes/" + id, url ))
+            if (!recipe.ok) {
+                console.log("Got status code %d (%s) while trying to lookup recipe id %s", recipe.status, recipe.statusText, id);
+            }
+        } catch (error) {
+            console.error("Error while generating recipe photo form for invalid recipe ID: %s", id, error);
+        }
+    }
+    if (recipe && recipe.ok) {
         // TODO: validate id
         return new HTMLRewriter()
             .on("img#old", new ImgSourcePlaceholderRewriter(id))
