@@ -3,6 +3,8 @@ import {
   createPullRequest,
 } from "octokit-plugin-create-pull-request";
 
+import { Buffer } from "node:buffer";
+
 const MyOctokit = Octokit.plugin(createPullRequest);
 
 class ImgSourcePlaceholderRewriter {
@@ -82,35 +84,81 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
 
 const REPO_OWNER = 'dschleimer';
 const REPO_NAME = 'grans-country-cupboard';
-const RECIPE_IMAGE_ROOT = '/assets/recipe_photos/';
+const RECIPE_IMAGE_ROOT = 'assets/recipe_photos/';
 const IMAGE_EXTENSION = '.jpg';
+const COMMITTER_NAME = 'David Schleimer';
+const COMMITTER_EMAIL = 'dschleimer@gmail.com';
 
 export const onRequestPost: PagesFunction<Env> = async (context) => {
     const formData = await context.request.formData();
-    console.log(formData);
+
+    //TODO: CAPTCHA
     const file = formData.get('photo');
-    console.log(file);
     if (!(file instanceof File)) {
         //TODO: some sort of error message, and preserve the form contents as best we can
         return Response.redirect(context.request.url, 303);
     }
     //TODO: validate name/email/photo
 
+    const fileBytes = await file.arrayBuffer();
+
+    const authorName = formData.get('name').toString();
+    const authorEmail = formData.get('email').toString();
+
     const recipeId = formData.get('recipe')
     const targetPath = RECIPE_IMAGE_ROOT +  recipeId + IMAGE_EXTENSION;
 
+    //TODO: rate-limiting
     const github = new MyOctokit({
         auth: context.env.GITHUB_API_TOKEN,
     });
     try {
         var existing = await github.rest.repos.getContent({
-            owner: 'dschleimer',
-            repo: 'grans-country-cupboard',
+            owner: REPO_OWNER,
+            repo: REPO_NAME,
             path: targetPath,
         });
     } catch (e) {
         //TODO: some sort of error message, and preserve the form contents as best we can
         return Response.redirect(context.request.url, 303);
     }
-    return new Response(JSON.stringify(existing, null, 4));
-};
+
+    const now = new Date().toISOString();
+    const title = "[contribution] new recipe photo for " + recipeId + " from " + authorName;
+    const files = {};
+    files[targetPath] = {
+        content: Buffer.from(fileBytes).toString('base64'),
+        encoding: "base64",
+    };
+    const changes = {
+        emptyCommit: false,
+        files: files,
+        commit: title,
+        author: {
+            name: authorName,
+            email: authorEmail,
+            date: now,
+        },
+        committer: {
+            name: COMMITTER_NAME,
+            email: COMMITTER_EMAIL,
+            date: now,
+        }
+    };
+
+    const authorUsername = authorEmail.split('@')[0]
+    const branch = 'recipe_photos-' + authorUsername + '-' + recipeId;
+
+    var pr = await github.createPullRequest({
+        owner: REPO_OWNER,
+        repo: REPO_NAME,
+        title: title,
+        body: "",
+        head: branch,
+        update: true,
+        createWhenEmpty: false,
+        changes:[changes],
+    });
+
+    return Response.redirect(pr.data.html_url, 303);
+}

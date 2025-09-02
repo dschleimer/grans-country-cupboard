@@ -2,6 +2,7 @@
 name = "grans-country-cupboard"
 pages_build_output_dir = "_site"
 compatibility_date = "2025-07-07"
+compatibility_flags = [ "nodejs_compat" ]
 
 [vars]
 JEKYLL_ENV = "production"
