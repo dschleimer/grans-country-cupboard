@@ -32,6 +32,21 @@ class SelectOptionRewriter {
     text(text) {}
 }
 
+class FormActionRewriter {
+    url: URL;
+
+    constructor(url) {
+        this.url = url;
+    }
+
+    element(element) {
+        element.setAttribute("action", this.url.href);
+    }
+
+    comments(comment) {}
+    text(text) {}
+}
+
 export const onRequestGet: PagesFunction<Env> = async (context) => {
     var html = await context.env.ASSETS.fetch(context.request);
     var url = new URL(context.request.url);
@@ -52,6 +67,7 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
         return new HTMLRewriter()
             .on("img#old", new ImgSourcePlaceholderRewriter(id))
             .on("option", new SelectOptionRewriter(id))
+            .on("form", new FormActionRewriter(url))
             .transform(html);
     } else {
         return html;

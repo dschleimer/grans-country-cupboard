@@ -3,7 +3,7 @@ layout: page
 title: Submit an Image of a Recipe
 ---
 {%- assign docs = site.book_recipes | sort: "title" -%}
-<form action="{{page.url}}" method="POST" rel="nofollow" enctype="multipart/form-data"></form>
+<form id="form" action="{{page.url}}" method="POST" rel="nofollow" enctype="multipart/form-data"></form>
     <div style="display:flex">
         <span style="margin-right: 10px">
             <div style="text-align: left">Current Image</div>
@@ -27,7 +27,7 @@ title: Submit an Image of a Recipe
     </div>
     <div>
         <label for="recipe">Recipe</label>
-        <select name="recipe" onchange="updateCurrent(event)">
+        <select name="recipe" onchange="updateRecipe(event)">
             <option value="">--Please select a recipe--</option>
             {% for recipe in docs %}
                 <option value="{{recipe.recipe}}">{{recipe.title}}</option>
@@ -37,9 +37,13 @@ title: Submit an Image of a Recipe
     <input type="submit" value="Submit Photo" />
 </form>
 <script>
-    var updateCurrent = function(event) {
+    var updateRecipe = function(event) {
         var currentImage = document.getElementById('old');
         currentImage.src = new URL("../" + event.target.value + ".jpg", currentImage.src );
+
+        var url = new URL(window.location.href);
+        url.searchParams.set("id", event.target.value);
+        document.getElementById("form").action = url;
     };
 
     var updateNew = function(event) {
@@ -49,4 +53,5 @@ title: Submit an Image of a Recipe
             URL.revokeObjectURL(newImage.src); // don't leak memory
         };
     };
+
 </script>
