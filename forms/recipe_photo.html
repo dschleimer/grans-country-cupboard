@@ -14,30 +14,52 @@ title: Submit an Image of a Recipe
             <div><img id="new" width="395px"/></div>
             <div>
                 <label for="photo">Select a photo (Sorry, only JPEGs supported)</label>
-                <input type="file" name="photo" id="photo" accept=".jpg,.jpeg" onchange="updateNew(event)"/>
+                <input required type="file" name="photo" id="photo" accept=".jpg,.jpeg" onchange="updateNew(event)" />
             </div>
     </div>
     <div>
         <label for="name">Your Name:</label>
-        <input type="text" name="name" id="name"/>
+        <input required type="text" name="name" id="name" autocomplete="on" />
     </div>
     <div>
         <label for="email">Your Email Address:</label>
-        <input type="email" name="email" id="email"/>
+        <input required type="email" name="email" id="email" autocomplete="on" />
     </div>
     <div>
         <label for="recipe">Recipe</label>
-        <select name="recipe" onchange="updateRecipe(event)">
+        <select required id="recipe" name="recipe" onchange="updateRecipe(event)">
             <option value="">--Please select a recipe--</option>
             {% for recipe in docs %}
                 <option value="{{recipe.recipe}}">{{recipe.title}}</option>
             {% endfor %}
         </select>
     </div>
-    <input type="submit" value="Submit Photo" />
+    <input id="submit" type="submit" value="Submit Photo" />
 </form>
 <script>
-    var updateRecipe = function(event) {
+
+
+    function checkImage() {
+        var currentImage = document.getElementById('photo');
+        if (currentImage.files.length > 1) {
+            // TODO - error messages
+            return false;
+        }
+        if (currentImage.files.length == 0 ) {
+            return false;
+        }
+        var file = currentImage.files[0];
+
+        if (file.type != "image/jpeg") {
+            //TODO: error messages
+            return false;
+        }
+
+        return true;
+
+    }
+
+    function updateRecipe(event) {
         var currentImage = document.getElementById('old');
         currentImage.src = new URL("../" + event.target.value + ".jpg", currentImage.src );
 
@@ -46,12 +68,21 @@ title: Submit an Image of a Recipe
         document.getElementById("form").action = url;
     };
 
-    var updateNew = function(event) {
+    function updateNew(event) {
         var newImage = document.getElementById('new');
         newImage.src = URL.createObjectURL(event.target.files[0]);
         newImage.onload = function() {
             URL.revokeObjectURL(newImage.src); // don't leak memory
         };
+        if (event.target.files.length > 1) {
+            event.target.setCustomValidity("Only one file may be selected");
+            return;
+        }
+        if (event.target.files[0].type != "image/jpeg") {
+            event.target.setCustomValidity("Invalid image type. Only JPEG files are allowed.");
+            return;
+        }
+        event.target.setCustomValidity("");
     };
 
 </script>
