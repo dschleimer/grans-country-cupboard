@@ -79,5 +79,9 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
     console.log(formData);
     const file = formData.get('photo');
     console.log(file);
+    if (!(file instanceof File)) {
+        return Response.redirect(context.request.url, 303);
+    }
+    console.log(await file.bytes());
     return Response.redirect(context.request.url, 303);
 };
