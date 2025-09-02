@@ -33,16 +33,16 @@ class SelectOptionRewriter {
 }
 
 export const onRequestGet: PagesFunction<Env> = async (context) => {
-  var html = await context.env.ASSETS.fetch(context.request);
-  var url = new URL(context.request.url);
-  var id = url.searchParams.get("id");
-  if (id) {
-    // TODO: validate id
-    return new HTMLRewriter()
-        .on("img#old", new ImgSourcePlaceholderRewriter(id))
-        .on("option", new SelectOptionRewriter(id))
-        .transform(html);
-  } else {
-    return html;
-  }
+    var html = await context.env.ASSETS.fetch(context.request);
+    var url = new URL(context.request.url);
+    var id = url.searchParams.get("id");
+    if (id) {
+        // TODO: validate id
+        return new HTMLRewriter()
+            .on("img#old", new ImgSourcePlaceholderRewriter(id))
+            .on("option", new SelectOptionRewriter(id))
+            .transform(html);
+    } else {
+        return html;
+    }
 };
