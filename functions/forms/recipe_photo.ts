@@ -73,3 +73,11 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
         return html;
     }
 };
+
+export const onRequestPost: PagesFunction<Env> = async (context) => {
+    const formData = await context.request.formData();
+    console.log(formData);
+    const file = formData.get('photo');
+    console.log(file);
+    return Response.redirect(context.request.url, 303);
+};
