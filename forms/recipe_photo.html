@@ -34,6 +34,15 @@ title: Submit an Image of a Recipe
             {% endfor %}
         </select>
     </div>
+    {% if jekyll.environment == "production" %}
+        <div class="cf-turnstile" data-sitekey="{{site.turnstile_site_key}}" ></div>
+    {% else %}
+        {% comment %} Testing - always passes {% endcomment %}
+        {% comment %} <div class="cf-turnstile" data-sitekey="1x00000000000000000000AA" ></div> {% endcomment %}
+        {% comment %} Testing - always blocks {% endcomment %}
+        <div class="cf-turnstile" data-sitekey="1x00000000000000000000AB" ></div>
+    {% endif %}
+        
     <input id="submit" type="submit" value="Submit Photo" />
 </form>
 <script>

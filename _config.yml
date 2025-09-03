@@ -35,6 +35,8 @@ github:
   source:
     branch: main
 
+turnstile_site_key: 0x4AAAAAAByHF4Zttbf5zPk1
+
 # Build settings
 # I really wanted a custom-head.html include that wasn't available in the latest release, hence the commit hash
 remote_theme: jekyll/minima@1fe0fbf

@@ -93,6 +93,7 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
     const formData = await context.request.formData();
 
     //TODO: CAPTCHA
+    
     const file = formData.get('photo');
     if (!(file instanceof File)) {
         //TODO: some sort of error message, and preserve the form contents as best we can
