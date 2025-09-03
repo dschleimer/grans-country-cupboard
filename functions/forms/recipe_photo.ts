@@ -17,7 +17,7 @@ class ImgSourcePlaceholderRewriter {
 
     element(element) {
         var placeholderUrl = element.getAttribute("src");
-        element.setAttribute("src", placeholderUrl.replace("$$RECIPE_PAGE/RECIPE_NAME$$", this.id));
+        element.setAttribute("src", placeholderUrl.replace("999/PLACEHOLDER", this.id));
     }
 
     comments(comment) {}
@@ -82,6 +82,10 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
     }
 };
 
+type TurnstileResponse = {
+    success: boolean
+}
+
 const REPO_OWNER = 'dschleimer';
 const REPO_NAME = 'grans-country-cupboard';
 const RECIPE_IMAGE_ROOT = 'assets/recipe_photos/';
@@ -92,7 +96,27 @@ const COMMITTER_EMAIL = 'dschleimer@gmail.com';
 export const onRequestPost: PagesFunction<Env> = async (context) => {
     const formData = await context.request.formData();
 
-    //TODO: CAPTCHA
+    const token = formData.get('cf-turnstile-response');
+    const ip = context.request.headers.get('CF-Connecting-IP');
+
+    let turnstileFormData = new FormData();
+        // `secret_key` here is the Turnstile Secret key, which should be set using Wrangler secrets
+    formData.append('secret', context.env.TURNSTILE_SECRET_KEY);
+    formData.append('response', token.toString());
+    formData.append('remoteip', ip);
+
+    const url = 'https://challenges.cloudflare.com/turnstile/v0/siteverify';
+    const result = await fetch(url, {
+        body: formData,
+        method: 'POST',
+    });
+
+    const outcome = await result.json() as TurnstileResponse;
+
+    if (!outcome.success) {
+        // TODO: redirect back to form with error message and contents preserved as best we can
+        return new Response('The provided Turnstile token was not valid!', { status: 401 });
+    }
     
     const file = formData.get('photo');
     if (!(file instanceof File)) {

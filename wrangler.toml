@@ -5,7 +5,6 @@ compatibility_date = "2025-07-07"
 compatibility_flags = [ "nodejs_compat" ]
 
 [vars]
-JEKYLL_ENV = "production"
 TURNSTILE_SITE_KEY = "0x4AAAAAAByHF4Zttbf5zPk1"
 
 [env.production.vars]
