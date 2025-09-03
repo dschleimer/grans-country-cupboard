@@ -117,23 +117,34 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
         // TODO: redirect back to form with error message and contents preserved as best we can
         return new Response('The provided Turnstile token was not valid!', { status: 401 });
     }
+
+    const authorName = formData.get('name').toString();
+    if (!authorName) {
+        //TODO: some sort of error message, and preserve the form contents as best we can
+        return Response.redirect(context.request.url, 303);
+    }
+
+    const authorEmail = formData.get('email').toString();
+        if (!authorEmail) {
+        //TODO: some sort of error message, and preserve the form contents as best we can
+        return Response.redirect(context.request.url, 303);
+    }
     
     const file = formData.get('photo');
     if (!(file instanceof File)) {
         //TODO: some sort of error message, and preserve the form contents as best we can
         return Response.redirect(context.request.url, 303);
     }
-    //TODO: validate name/email/photo
-
+    if(file.type != 'image/jpeg'){
+        //TODO: some sort of error message, and preserve the form contents as best we can
+        return Response.redirect(context.request.url, 303);
+    }
+    console.log(file);
     const fileBytes = await file.arrayBuffer();
-
-    const authorName = formData.get('name').toString();
-    const authorEmail = formData.get('email').toString();
 
     const recipeId = formData.get('recipe')
     const targetPath = RECIPE_IMAGE_ROOT +  recipeId + IMAGE_EXTENSION;
 
-    //TODO: rate-limiting
     const github = new MyOctokit({
         auth: context.env.GITHUB_API_TOKEN,
     });
