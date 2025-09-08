@@ -39,3 +39,5 @@ categories:
 * Pre-heat serving dish and plate balls onto hot dish
 * Serve plain or with sauce
 
+## Modern Notes
+* She suggests serving these with sauce, but does nto appear to have a suitable sauce in the cookbook.  I'd really like to know what kind of sauce she meant by that.  -- David S
