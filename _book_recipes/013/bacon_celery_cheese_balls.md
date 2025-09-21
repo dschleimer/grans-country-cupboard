@@ -36,3 +36,5 @@ categories:
 ## Notes
 * serve on tooth picks 
 
+## Modern Notes
+* My first attempt at this didn't really work.  The Celery and Apple was way too big, so the balls didn't really hold together.  You want to cut those as small, or smaller than the bacon bits, I think.  -- David S.
