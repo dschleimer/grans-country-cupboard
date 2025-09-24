@@ -12,4 +12,4 @@ Want to find a recipe by name?  [Browse Recipes alphabetically](/book_recipes/)<
 
 Just want to look around? Browse by [Chapter](/book_chapters), [Page](/book_pages/), or [Recipe](/book_recipes/). <br/>
 Go to the [First Chapter](/book_chapters/001.html), [First Page](/book_pages/cover.html), or [First Recipe](/book_recipes/007/sausage_balls.html).
-Alternately, check out a random recipe (TODO).
+Alternately, check out a {% include random_link.html collection="book_recipes" %}.

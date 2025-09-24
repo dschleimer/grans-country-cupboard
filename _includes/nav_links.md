@@ -18,4 +18,4 @@
 {%- assign index_url = page.url | split: '/' | slice: 0, 2 | join: '/'-%}
 {%- capture index_link -%}[{{category}} Index]({{index_url | relative_url }}){%- endcapture -%}
 
-{{prev_link}}{{parent_link}} &#124; {{index_link}}{{next_link}}
+{{prev_link}}{{parent_link}} &#124; {{index_link}} &#124; {%include random_link.html collection=page.collection %} {{next_link}}

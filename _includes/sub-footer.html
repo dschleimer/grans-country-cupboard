@@ -1,0 +1,21 @@
+<script>
+    {% for collection in site.collections %}
+        function updateRandomLinkForCollection_{{collection.label}}() {
+
+            const targets = [
+                {% for doc in collection.docs %}
+                    "{{doc.url | relative_url}}",
+                {% endfor %}
+            ];
+            var randomLinks = document.getElementsByClassName("random_{{collection.label}}");
+            for (var i = 0; i < randomLinks.length; i++) {
+                var link = randomLinks[i];
+                link.href = new URL(targets[Math.floor(Math.random() * targets.length)], document.documentURI);
+            }
+        }
+
+        updateRandomLinkForCollection_{{collection.label}}();
+
+    {% endfor %}
+
+</script>

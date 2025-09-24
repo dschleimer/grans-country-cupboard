@@ -1,0 +1,6 @@
+{%- if include.collection == "categories" -%}
+    {%- assign category = "Category" -%}
+{%- else -%}
+    {%- assign category = include.collection | remove_first: "book_" | remove: "s" | capitalize -%}
+{%- endif -%}
+<a class="random_{{include.collection}}" href="">Random {{category}}</a>
