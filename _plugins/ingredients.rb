@@ -15,7 +15,7 @@ module Ingredients
         end
 
         def extract_tag_and_link_recipes(book_recipes)
-            all_ingredients = Set[]
+              all_ingredients = Set[]
             for recipe in book_recipes do
                 new_content = []
                 recipe_ingredients = Set[]
@@ -74,6 +74,7 @@ module Ingredients
         def normalized_ingredient(ingredient)
             # TODO: add more normalization here, e.g. Soft Bread => Bread
             normalized = ingredient.gsub(/\([^)]+\)/, '')
+            normalized.strip!
             normalized
         end
 
