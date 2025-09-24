@@ -29,17 +29,38 @@ module Ingredients
                         new_content << line
                         next
                     end
-                    ingredient = cells[1].strip
-                    if ingredient.empty? || ingredient == 'Ingredient' || ingredient =~ /^-+$/
+                    if cells[1].empty? || cells[1].strip == 'Ingredient' || cells[1].strip =~ /^-+$/
                         new_content << line
                         next
                     end
-                    # TODO: add some normalization here, e.g. Soft Bread => Bread
-                    ingredient = ingredient.split.map{|word| word.capitalize}.join(" ")
+                    if recipe.relative_path == "_book_recipes/027/danish_style_sandwiches.md"
+                        if cells[1].strip == 'Bread'
+                            new_content << line
+                            next
+                        end
+                        ingredient_offsets = 1..(cells.size - 2) # the cells array has empty start and end cells
+                    else
+                        ingredient_offsets = 1..1
+                    end
+                    for i in ingredient_offsets do 
+                        ingredient = cells[i].strip
+                        if ingredient.empty?
+                            next
+                        end
+                        # we case-normalize first, because we want the pretty casing in the rendered html
+                        ingredient_parts = ingredient.split(/\W+/)
+                        for part in ingredient_parts do
+                            # this regex uses negative lookahead and lookbehind expressions to only
+                            # match a complete copy of word by only matching if that word is neither preceeded
+                            # nor followed by a word character
+                            ingredient.sub!(/(?<!\w)#{Regexp.escape(part)}(?!\w)/, part.capitalize)
+                        end
+                        normalized_ingredient = normalized_ingredient(ingredient)
 
-                    recipe_ingredients << ingredient
-                    slug = Jekyll::Utils.slugify(ingredient)
-                    cells[1] = " [#{ingredient}](/ingredients/#{slug}.html) "
+                        recipe_ingredients << normalized_ingredient
+                        slug = Jekyll::Utils.slugify(normalized_ingredient)
+                        cells[i] = " [#{ingredient}](/ingredients/#{slug}.html) "
+                    end
                     new_content.append(cells.join('|'))
                 end
                 tags = recipe_ingredients.map {|i| "__ingredient:#{i}"}.to_a
@@ -48,6 +69,12 @@ module Ingredients
                 all_ingredients |= recipe_ingredients
             end
             all_ingredients
+        end
+
+        def normalized_ingredient(ingredient)
+            # TODO: add more normalization here, e.g. Soft Bread => Bread
+            normalized = ingredient.gsub(/\([^)]+\)/, '')
+            normalized
         end
 
         def generate_ingredient_collection(site, all_ingredients)
