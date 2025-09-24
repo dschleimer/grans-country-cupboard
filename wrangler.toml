@@ -4,6 +4,9 @@ pages_build_output_dir = "_site"
 compatibility_date = "2025-07-07"
 compatibility_flags = [ "nodejs_compat" ]
 
+[vars]
+TURNSTILE_SITE_KEY = "0x4AAAAAAByHF4Zttbf5zPk1"
+
 [env.production.vars]
 TURNSTILE_SITE_KEY = "0x4AAAAAAByHF4Zttbf5zPk1"
 JEKYLL_ENV = "production"
@@ -11,14 +14,3 @@ JEKYLL_ENV = "production"
 [env.preview.vars]
 TURNSTILE_SITE_KEY = "0x4AAAAAAByHF4Zttbf5zPk1"
 JEKYLL_ENV = "production"
-MY_WRANGLER_ENV = "preview"
-
-[env.staging.vars]
-TURNSTILE_SITE_KEY = "0x4AAAAAAByHF4Zttbf5zPk1"
-JEKYLL_ENV = "production"
-MY_WRANGLER_ENV = "staging"
-
-[env.dev.vars]
-TURNSTILE_SITE_KEY = "0x4AAAAAAByHF4Zttbf5zPk1"
-JEKYLL_ENV = "production"
-MY_WRANGLER_ENV = "dev"
