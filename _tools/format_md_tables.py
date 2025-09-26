@@ -115,6 +115,8 @@ def normalize_table(rows: List[str]) -> List[str]:
                 # the header ("Notes")
                 dash_cells.append("-" * max(w, 5))
             new_rows.append(build_row(dash_cells))
+        elif all(cell.strip() == '' for cell in cells):
+            new_rows.append(build_row([cell.strip() for cell in cells]))
         else:
             padded_cells = []
             for i, cell in enumerate(cells):

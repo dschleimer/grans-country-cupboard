@@ -14,7 +14,7 @@ categories:
 
 | Ingredient | Amount | Notes |
 | ---------- | ------ | ----- |
-|            |        | |
+|  |  | |
 
 ## Method
 
