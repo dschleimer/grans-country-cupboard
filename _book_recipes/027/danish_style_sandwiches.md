@@ -26,20 +26,20 @@ categories:
 
 ## Ingredients
 
-| Bread              | Toppings               |                               |                       |
-| ------------------ | ---------------------- | ----------------------------- | --------------------- |
-| Rye Bread          | Ham Slice              | Liederkranz Cheese            | Onion (slice)         |
-| Rye Bread          | Roast Beef             | (thin slice) Roquefort Cheese | (Sliced) Olives       |
-| Rye Bread          | Cheese Spread          | Radish (sliced thin)          |                       |
-| Pumpernickel Bread | Cream Cheese           | (dab) Caviar                  |                       |
-| Pumpernickel Bread | Cream Cheese           | (slice) Smoked Salmon         | (a few) Capers        |
-| Whole Wheat Bread  | Cream Cheese           | Sardine                       | Watercress            |
-| Whole Wheat Bread  | Pimento Cheese (slice) | Shrimp                        | (bit of) Pimento      |
-| Whole Wheat Bread  | Cream Cheese           | (slice of) Cucumber           |                       |
-| White Bread        | American Cheese        | (slice of) Egg                | Paprika               |
-| White Bread        | American Cheese        | (silce of) Egg                |                       |
-| White Bread        | Pimento Cheese         | Anchovy (fillet)              |                       |
-| White Bread        | Marinated Mushroom     | Pimento (strips)              |                       |
+| Bread              | Toppings               |                               | |
+| ------------------ | ---------------------- | ----------------------------- | ----- |
+| Rye Bread          | Ham Slice              | Liederkranz Cheese            | Onion (slice) |
+| Rye Bread          | Roast Beef             | (thin slice) Roquefort Cheese | (Sliced) Olives |
+| Rye Bread          | Cheese Spread          | Radish (sliced thin)          | |
+| Pumpernickel Bread | Cream Cheese           | (dab) Caviar                  | |
+| Pumpernickel Bread | Cream Cheese           | (slice) Smoked Salmon         | (a few) Capers |
+| Whole Wheat Bread  | Cream Cheese           | Sardine                       | Watercress |
+| Whole Wheat Bread  | Pimento Cheese (slice) | Shrimp                        | (bit of) Pimento |
+| Whole Wheat Bread  | Cream Cheese           | (slice of) Cucumber           | |
+| White Bread        | American Cheese        | (slice of) Egg                | Paprika |
+| White Bread        | American Cheese        | (silce of) Egg                | |
+| White Bread        | Pimento Cheese         | Anchovy (fillet)              | |
+| White Bread        | Marinated Mushroom     | Pimento (strips)              | |
 | White Bread        | Pimento Cheese         | (slice of) Egg                | (ripe) Olive (strips) |
 
 ## Notes

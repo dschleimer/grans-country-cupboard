@@ -15,22 +15,22 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Eggs       |        | |
-| Salt       |        | |
-| Butter     |        | |
-| Mustard    |        | Prepared Mustard |
-| Worcestershire Sauce |        | |
-| Seasoned Salt |        | |
-| Pepper     |        | |
-| Onion Salt |        | |
-| Curry      | a little | |
-| Red Pepper | dash | |
-| Mayonnaise |        | For consistency |
-| Wine Vinegar | a little | |
-| Paprika    |        |  |
-| Pimento - Olive |        | Optional - may substitute for Paprika as garnish |
+| Ingredient           | Amount   | Notes |
+| -------------------- | -------- | ----- |
+| Eggs                 |          | |
+| Salt                 |          | |
+| Butter               |          | |
+| Mustard              |          | Prepared Mustard |
+| Worcestershire Sauce |          | |
+| Seasoned Salt        |          | |
+| Pepper               |          | |
+| Onion Salt           |          | |
+| Curry                | a little | |
+| Red Pepper           | dash     | |
+| Mayonnaise           |          | For consistency |
+| Wine Vinegar         | a little | |
+| Paprika              |          | |
+| Pimento - Olive      |          | Optional - may substitute for Paprika as garnish |
 
 ## Method
 1. Boil eggs for 10 minutes

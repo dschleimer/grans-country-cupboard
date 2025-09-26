@@ -11,17 +11,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Cornstarch      | 4 Tblsp                             |           |
-| Sugar           | 3/4 cup + 2 Tblsp                   |           |
-| Lemon           | 1/4 tsp grated rind & 3 Tblsp juice | tart      |
-| Water           | 1 & 1/3 cup                         |           |
-| Salt            | 1/3 tsp                             |           |
+| Ingredient      | Amount                              | Notes |
+| --------------- | ----------------------------------- | ----- |
+| Cornstarch      | 4 Tblsp                             | |
+| Sugar           | 3/4 cup + 2 Tblsp                   | |
+| Lemon           | 1/4 tsp grated rind & 3 Tblsp juice | tart |
+| Water           | 1 & 1/3 cup                         | |
+| Salt            | 1/3 tsp                             | |
 | Eggs            | 2                                   | separated |
-| Butter          | 1 Tblsp                             | softened  |
-| Cream of tartar | 1/4 tsp                             |           |
-| Baked pie shell | one 8" diameter                     |           |
+| Butter          | 1 Tblsp                             | softened |
+| Cream of tartar | 1/4 tsp                             | |
+| Baked pie shell | one 8" diameter                     | |
 
 ## Method
 1. Cook 3/4 cup sugar, cornstarch, water, and salt until clear, stirring often.

@@ -11,17 +11,17 @@ from: Wyoming
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-|  Shortening    | 1/2 cup |           |
-|  Sugar         | 1 cup   |           |
-|  Eggs          |   2     | separated |
-|  Salt          | 1/2 tsp |           |
-|  Flour         | 2 cups  |           |
-|  Baking powder | 2 tsp   |           |
-|  Strong coffee | 1 cup   | cold      |
-|  Nuts          | 3/4 cup | chopped   |
-|  Vanilla       | 1 tsp   |           |
+| Ingredient    | Amount  | Notes |
+| ------------- | ------- | ----- |
+| Shortening    | 1/2 cup | |
+| Sugar         | 1 cup   | |
+| Eggs          | 2       | separated |
+| Salt          | 1/2 tsp | |
+| Flour         | 2 cups  | |
+| Baking powder | 2 tsp   | |
+| Strong coffee | 1 cup   | cold |
+| Nuts          | 3/4 cup | chopped |
+| Vanilla       | 1 tsp   | |
 
 ## Method
 1. Preheat oven to 350 degrees F.
