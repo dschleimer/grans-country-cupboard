@@ -32,5 +32,8 @@ categories:
 6. Sprinkle with cinnamon.
 7. Bake 30-40 minutes.
 8. Serve with whipped cream.
+
 ## Notes
-Granny Smith apples mixed with softer, sweeter apples created a tasty, textured dessert. This should be served the same day it's baked, before the crisp topping becomes mushy.
+
+## Modern Notes
+Granny Smith apples mixed with softer, sweeter apples created a tasty, textured dessert. This should be served the same day it's baked, before the crisp topping becomes mushy. -- Robin S.
