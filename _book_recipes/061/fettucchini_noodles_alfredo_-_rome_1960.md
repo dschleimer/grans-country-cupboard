@@ -41,7 +41,7 @@ categories:
 1. Add cheese to noodles
 1. Serve immediately with additional grated Parmesan on the side
 
-## Notes
+## Notes From Gran
 
 * Makes 4-6 servings
 

@@ -32,7 +32,7 @@ categories:
 1. Add enough Mayonnaise to m ake it spreadable
 1. Refrigerate a couple hours to blend flavors
 
-## Notes
+## Notes From Gran
 
 * Especially good on toasted bread
 

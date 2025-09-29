@@ -48,7 +48,7 @@ categories:
 1. Heat 1 quart of milk without brining it to a boil
 1. Add hot milk to soup and serve immediately
 
-## Notes
+## Notes From Gran
 * Good with croutons
 * Serves 4
 

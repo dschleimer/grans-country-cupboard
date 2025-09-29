@@ -36,7 +36,7 @@ categories:
 1. Using an egg beater, beat in salt
 1. Beat until creamy
 
-## Notes
+## Notes From Gran
 * Store in an airtight container in refrigerator  until used
 * Thin with sweet or sour cream is needed
 

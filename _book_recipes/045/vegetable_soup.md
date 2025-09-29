@@ -46,7 +46,7 @@ categories:
 1. Simmer about 3 hours
 1. About 1/2 hour before serving add noodles
 
-## Notes
+## Notes From Gran
 * keep pot nearly full of juices
 * Serve or freeze
 

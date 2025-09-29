@@ -34,5 +34,5 @@ categories:
 8. Beat egg whites with 2 Tblsp sugar and cream of tartar until stiff.
 9. Cover the pie with meringue.
 
-## Notes
+## Notes From Gran
 * Make about 5 hours before serving.

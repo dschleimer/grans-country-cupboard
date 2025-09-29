@@ -36,7 +36,7 @@ categories:
 1. Broil 3 inches from heat until cheese bubbles
 1. Serve at once
 
-## Notes
+## Notes From Gran
 * This can be put on party rye too.  (See Modern Notes on [Rye Niblets](/book_recipes/014/rye_niblets.html) for explanation of what party rye.)
 
 ## Modern Notes

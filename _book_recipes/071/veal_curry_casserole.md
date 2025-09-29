@@ -43,5 +43,5 @@ categories:
 1. Pour over meat in casserole
 1. Bake 45 minutes
 
-## Notes
+## Notes From Gran
 * Serve with Brown Rice

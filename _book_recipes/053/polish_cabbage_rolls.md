@@ -50,7 +50,7 @@ categories:
 1. Cover with foil
 1. Bake for 1 hour
 
-## Notes
+## Notes From Gran
 
 ## Modern Notes
 

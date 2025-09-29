@@ -39,6 +39,6 @@ categories:
 1. Add beans and remaining ingredients to Onions and Green Peppers
 1. Stir until Cheese melts
 
-## Notes
+## Notes From Gran
 * Serves 6
 

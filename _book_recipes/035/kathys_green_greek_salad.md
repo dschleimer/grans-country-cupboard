@@ -41,5 +41,5 @@ categories:
 1. Sprinkle chopped egg overall
 1. Grind pepper on top
 
-## Notes
+## Notes From Gran
 

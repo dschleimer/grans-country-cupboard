@@ -26,6 +26,6 @@ categories:
 1. Mix for 10-20 seconds in blender
 1. Serve over ice cubes in a tall glass
 
-## Notes
+## Notes From Gran
 * Recipe makes 1 drink
 

@@ -26,5 +26,5 @@ categories:
 1. Keep in refrigerator until finished
 1. When finished, throw away tea bags and make a fresh gallon
 
-## Notes
+## Notes From Gran
 

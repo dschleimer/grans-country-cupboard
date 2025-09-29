@@ -36,5 +36,5 @@ categories:
 1. Toast in oven for 1 hour
 1. Cool and keep in airtight container
 
-## Notes
+## Notes From Gran
 

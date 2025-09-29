@@ -34,7 +34,7 @@ page_order: 3
 1. Fry Tomato slices about 2 minutes, turning once to brown each side
 1. Drain on paper
 
-## Notes
+## Notes From Gran
 * Serve hot
 * Good with steaks, chops, or hamburgers
 

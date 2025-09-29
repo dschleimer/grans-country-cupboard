@@ -30,5 +30,5 @@ categories:
 1. For 1 cup use 1 coffe scoop of mix and 1 cup hot water
 1. Store in artight container
 
-## Notes
+## Notes From Gran
 

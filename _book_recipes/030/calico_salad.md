@@ -35,5 +35,5 @@ categories:
 1. Mix and cover
 1. Chill several hours or overnight before serving
 
-## Notes
+## Notes From Gran
 

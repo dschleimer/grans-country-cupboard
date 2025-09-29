@@ -31,5 +31,5 @@ categories:
 6. Bake for 1/2 hour.
 7. Serve with sherry.
 
-## Notes
+## Notes From Gran
 

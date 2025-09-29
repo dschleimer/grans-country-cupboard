@@ -50,6 +50,6 @@ categories:
 1. Fold in sour cream
 1. Serve dressing with Fruit Salad
 
-## Notes
+## Notes From Gran
 * Makes 6 servings
 

@@ -27,6 +27,6 @@ categories:
 1. Add Sugar
 1. Add Whipped Cream to float on top of coffee
 
-## Notes
+## Notes From Gran
 * Drink through the cream
 

@@ -42,7 +42,7 @@ categories:
 1. Transfer soup to blender and add drained rice
 1. Blend
 
-## Notes
+## Notes From Gran
 * Warm to taste (about 15 minutes) before serving
 * Slice chicken for sandwiches if desired
 

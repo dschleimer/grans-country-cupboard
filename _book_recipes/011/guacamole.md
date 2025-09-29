@@ -53,7 +53,7 @@ categories:
 1. Chill
 1. Optionally stir in 6 slices of cooked, bacon at serving time
 
-## Notes
+## Notes From Gran
 * Use as dip for chips or crackers
 
 ## Modern Notes

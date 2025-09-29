@@ -29,7 +29,7 @@ categories:
 
 ## Method
 
-## Notes
+## Notes From Gran
 
 ## Modern Notes
 

@@ -35,6 +35,6 @@ from: Wyoming
 9. Fold egg whites into batter.
 10. Bake about one hour. 
 
-## Notes
+## Notes From Gran
 No icing. 
 

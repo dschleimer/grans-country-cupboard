@@ -37,6 +37,6 @@ categories:
 1. Combine
 1. Refrigerate 1 hour
 
-## Notes
+## Notes From Gran
 * Guests spread their own on crackers
 

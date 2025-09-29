@@ -42,5 +42,5 @@ categories:
 1. Puree rtemaining solids and add to soup
 1. Add brandy to taste before serving
 
-## Notes
+## Notes From Gran
 

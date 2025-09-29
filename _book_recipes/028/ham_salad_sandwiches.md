@@ -30,7 +30,7 @@ categories:
 1. Mayonnaise to spread
 1. Mix well
 
-## Notes
+## Notes From Gran
 
 * Gran used what is left, after slicing, of a Gwaltney baked ham.
 * Good on toast with lettuce

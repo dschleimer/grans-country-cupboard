@@ -48,5 +48,5 @@ categories:
 1. Bake for 1 hour
 1. If desired, place a little grated cheese on each pepper
 
-## Notes
+## Notes From Gran
 

@@ -69,7 +69,7 @@ Pick one protein
 1. Heat 10 minutes more
 1. Serve in patty shells or on toast
 
-## Notes
+## Notes From Gran
 * For a thinner sauce - add sherry
 * Double for 25
 

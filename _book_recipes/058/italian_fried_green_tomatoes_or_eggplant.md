@@ -37,5 +37,5 @@ categories:
 1. Turn only once to brown second side
 1. Lay on paper towel to drain
 
-## Notes
+## Notes From Gran
 

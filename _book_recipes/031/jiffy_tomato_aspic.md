@@ -32,6 +32,6 @@ categories:
 1. Stir in remaining ingredients except for Mayonaisse 
 1. Chill
 
-## Notes
+## Notes From Gran
 * Serve with Mayonnaise
 

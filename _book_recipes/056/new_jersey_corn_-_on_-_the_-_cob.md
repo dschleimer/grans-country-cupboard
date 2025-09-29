@@ -31,7 +31,7 @@ categories:
 1. Boil 2-3 minutes at most
 1. Serve with Butter, Salt, and Pepper
 
-## Notes
+## Notes From Gran
 
 * Boiling corn in salted water will toughen the corn
 

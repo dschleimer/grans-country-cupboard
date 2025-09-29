@@ -41,5 +41,5 @@ categories:
 1. Add corn, Worcestershire Sauce, and seasonings
 1. Add sherry just before serving
 
-## Notes
+## Notes From Gran
 

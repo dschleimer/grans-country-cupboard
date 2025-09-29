@@ -43,5 +43,5 @@ categories:
 14. Bake 40 minutes.
 15. Cool for 30 minutes before removing from pan.
 
-## Notes
+## Notes From Gran
 * Try dotting cake with butter before putting in oven.

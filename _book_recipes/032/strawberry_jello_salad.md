@@ -34,6 +34,6 @@ categories:
 1. Pour top layer of jello over sour cream
 1. Let second jello layer set
 
-## Notes
+## Notes From Gran
 * Cut into squares for covered dish supper
 

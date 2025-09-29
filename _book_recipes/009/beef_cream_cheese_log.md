@@ -33,7 +33,7 @@ categories:
 1. While chilling, finely chop Dried Beef
 1. Roll log in Chopped Dried Beef
 
-## Notes
+## Notes From Gran
 *  Serve with crackers
 
 ## Modern Notes

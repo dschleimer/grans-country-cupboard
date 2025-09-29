@@ -46,5 +46,5 @@ categories:
 1. Add Eggs, Celery, Parsely, Olives, Mustard, and a few dashes Worcestershire Sauce
 1. Add additional Mayonnaise if needed for consistency
 
-## Notes
+## Notes From Gran
 

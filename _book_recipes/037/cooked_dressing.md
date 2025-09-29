@@ -34,5 +34,5 @@ categories:
 1. Add vinegar and butter
 1. Mix well and cool
 
-## Notes
+## Notes From Gran
 

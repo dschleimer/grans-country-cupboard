@@ -54,7 +54,7 @@ categories:
 1. Add sour cream to gravy and add to Sauerkraut bowl
 1. Serve
 
-## Notes
+## Notes From Gran
 * Use 2 big kettles
 * Original recipe said "You *probably* need 2 heads of cabbage" - emphasis added
 

@@ -39,5 +39,5 @@ categories:
 1. Pour into greased baking pan
 1. Bake for 1 hour
 
-## Notes
+## Notes From Gran
 

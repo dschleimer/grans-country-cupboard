@@ -35,6 +35,6 @@ categories:
 1. Preheat oven to 450°F
 1. Bake for 10 minutes
 
-## Notes
+## Notes From Gran
 * Serve hot
 

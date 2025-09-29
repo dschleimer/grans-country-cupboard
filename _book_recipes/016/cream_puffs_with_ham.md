@@ -36,6 +36,6 @@ categories:
 1. Place on baking sheet
 1. Bake 10-15 minutes
 
-## Notes
+## Notes From Gran
 * Serve hot preferably
 

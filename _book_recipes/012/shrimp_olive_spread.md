@@ -27,7 +27,7 @@ categories:
 1. Mix well
 1. Chill
 
-## Notes
+## Notes From Gran
 * Spread on small party bread
 * "1 cup" - presumably the amount this recipe makes
 

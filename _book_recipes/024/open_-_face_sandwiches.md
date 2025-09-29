@@ -38,7 +38,7 @@ categories:
 1. Brown bacon
 1. Turn bacon pieces over and brown until done
 
-## Notes
+## Notes From Gran
 
 1. Serve hot
 

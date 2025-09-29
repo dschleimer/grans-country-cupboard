@@ -39,5 +39,5 @@ categories:
 1. Pour over tall glass of chopped ice
 1. Float 2 tsps Drambuie on top of each glass as served
 
-## Notes
+## Notes From Gran
 

@@ -35,7 +35,7 @@ categories:
 1. Cook about 6-8 minutes until eggs are thickened but still moist
 1. Sprinkle with Parsley
 
-## Notes
+## Notes From Gran
 
 * Serves 6
 

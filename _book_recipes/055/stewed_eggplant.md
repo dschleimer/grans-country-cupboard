@@ -32,7 +32,7 @@ categories:
 1. Bring to a boil
 1. When it reaches a boil, sift in a little flour to thicken
 
-## Notes
+## Notes From Gran
 * Do not cook in tin or iron as it will darken
 * "Like my mother made it" -- Grandad Marter
 

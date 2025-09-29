@@ -30,6 +30,6 @@ categories:
 1. Cook
 1. Add mayonnaise for your bulk
 
-## Notes
+## Notes From Gran
 * For potato salad add grated onion, celery cut fine, and 3 boiled eggs grated fine
 

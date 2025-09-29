@@ -23,7 +23,7 @@ categories:
 1. About 1/2 inch fresh teaberries in bottom of decanter
 1. Fill with Applejack
 
-## Notes
+## Notes From Gran
 * Grand Dad Marter always kept this on his sideboard
 
 ## Modern Notes

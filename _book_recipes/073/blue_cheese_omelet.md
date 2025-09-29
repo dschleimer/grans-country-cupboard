@@ -37,6 +37,6 @@ categories:
 1. Cover half the omelet with crumbled cheese and mushrooms
 1. Fold emelet and serve
 
-## Notes
+## Notes From Gran
 
 * Double for 4 servings

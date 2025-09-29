@@ -30,7 +30,7 @@ categories:
 1. Top each dish with some Sour Cream
 1. Optionally, sprinkle each serving lightly with brown sugar
 
-## Notes
+## Notes From Gran
 * Prepare at least 2 hours before serving
 * Makes 6 servings
 

@@ -33,7 +33,7 @@ categories:
 1. Shape into small balls
 1. Roll in chopped nuts
 
-## Notes
+## Notes From Gran
 * serve on tooth picks 
 
 ## Modern Notes

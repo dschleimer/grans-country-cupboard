@@ -29,5 +29,5 @@ categories:
 1. Combine all ingredients other than the Mayonnaise.  Mix well.
 1. Add mayonnaise as needed to achieve desired consistency
 
-## Notes
+## Notes From Gran
 

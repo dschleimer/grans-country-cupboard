@@ -35,7 +35,7 @@ categories:
 1. Roll some balls in Chopped Dried Beef
 1. Refrigerate until serving
 
-## Notes
+## Notes From Gran
 * Makes 50 balls
 
 ## Modern Notes

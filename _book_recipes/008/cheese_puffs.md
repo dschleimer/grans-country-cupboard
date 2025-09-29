@@ -29,7 +29,7 @@ categories:
 1. Roll into small balls about 1/2" diameter
 1. Bake 10 minutes
 
-## Notes
+## Notes From Gran
 *  Makes approximately 36 balls
 *  May be frozen
 

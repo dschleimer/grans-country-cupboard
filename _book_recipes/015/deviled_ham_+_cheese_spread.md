@@ -24,6 +24,6 @@ categories:
 1. Blend well
 1. Serve in a bowl with crackers
 
-## Notes
+## Notes From Gran
 * Try corn beef instead of ham
 

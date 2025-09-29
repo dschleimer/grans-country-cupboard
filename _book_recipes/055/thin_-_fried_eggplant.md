@@ -36,7 +36,7 @@ categories:
 1. Drain on paper towels
 1. Add more Crisco as needed and fry remaining eggplant in batches
 
-## Notes
+## Notes From Gran
 * Serve warm
 * Have catsup available on table for those who want it
 * We use this for meatless dinner

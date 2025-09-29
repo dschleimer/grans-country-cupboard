@@ -41,7 +41,7 @@ categories:
 1. Refrigerate overnight
 
 
-## Notes
+## Notes From Gran
 * Original recipe says "I like to use pecan meal" presumably in place of the chopped nuts.
 
 ## Modern Notes

@@ -42,5 +42,5 @@ categories:
 1. Pour into mold
 1. Chill several hours or overnight
 
-## Notes
+## Notes From Gran
 

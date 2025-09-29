@@ -32,5 +32,5 @@ categories:
 1. Add butter salt, and pepper to taste
 1. Serve
 
-## Notes
+## Notes From Gran
 

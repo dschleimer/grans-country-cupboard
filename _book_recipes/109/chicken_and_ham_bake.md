@@ -35,7 +35,7 @@ categories:
 8. Lay slices of cheese on center of ham rolls.
 9. Return to oven uncovered for 5 min or until cheese is melted.
     
-## Notes
+## Notes From Gran
 * Makes 6 servings.
 
 ## Modern Notes

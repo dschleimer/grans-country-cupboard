@@ -41,7 +41,7 @@ categories:
 1. Slice onion very fine and add to potatoes
 1. Add bacon mixture
 
-## Notes
+## Notes From Gran
 
 * Serve hot or cold
 

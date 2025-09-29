@@ -32,5 +32,5 @@ categories:
 1. Beat up eggs and add on top of tomatoes and cheese
 1. Cover and cook slowly until eggs are done
 
-## Notes
+## Notes From Gran
 

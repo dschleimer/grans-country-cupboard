@@ -42,7 +42,7 @@ categories:
 1. Mix together Chicken, Celery, and Dressing 
 1. Chill
 
-## Notes
+## Notes From Gran
 * Serve on lettuce leaf
 * Gran adds capers and olives
 

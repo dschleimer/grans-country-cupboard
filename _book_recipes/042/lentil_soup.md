@@ -37,5 +37,5 @@ categories:
 1. Cook until vegetables are soft
 1. Add salt and pepper to taste
 
-## Notes
+## Notes From Gran
 

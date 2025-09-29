@@ -33,6 +33,6 @@ categories:
 1. Rinse soup can with 1/2 cup milk and add to mixture
 1. Bake 35 to 45 minutes
 
-## Notes
+## Notes From Gran
 * Good with Pork Chops
 

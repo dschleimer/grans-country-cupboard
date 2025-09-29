@@ -42,6 +42,6 @@ categories:
 1. Chill until firm
 1. Unmold 
 
-## Notes
+## Notes From Gran
 * Serve with salad greens
 

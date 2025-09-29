@@ -46,5 +46,5 @@ categories:
 1. Sprinkle with Cheese and Paprika
 1. Bake 20 to 25 minutes until heated through
 
-## Notes
+## Notes From Gran
 

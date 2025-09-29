@@ -46,7 +46,7 @@ categories:
 1. Cook spaghetti according to box
 1. Serve with Sauce and Parmesan
 
-## Notes
+## Notes From Gran
 * French bread is good with this
 * Connie adds bacon
 

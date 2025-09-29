@@ -39,7 +39,7 @@ categories:
 1. Broil 6 inches from heat for 15 minutes or until done
 1. Cut into each halve into thirds or quarters for serving
 
-## Notes
+## Notes From Gran
 
 * Serves 6-8
 

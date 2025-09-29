@@ -26,6 +26,6 @@ categories:
 1. Stir frequently for a couple of hours
 1. Cover top with paraffin and keep until used
 
-## Notes
+## Notes From Gran
 * Good
 

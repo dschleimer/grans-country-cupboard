@@ -32,6 +32,6 @@ categories:
 1. In morning add remaining ingredients
 1. Jar tightly
 
-## Notes
+## Notes From Gran
 * No Cooking
 

@@ -29,5 +29,5 @@ categories:
 1. Bake for 1 1/4 hours, turning at times
 1. If using stovetop, cook on top of stone in skillet for 45 minutes
 
-## Notes
+## Notes From Gran
 

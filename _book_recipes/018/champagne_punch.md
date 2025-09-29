@@ -27,7 +27,7 @@ categories:
 ## Method
 1. Mix and pour over ice cubes 
 
-## Notes
+## Notes From Gran
 * Makes 24 servings
 * Served every Christmas Eve
 

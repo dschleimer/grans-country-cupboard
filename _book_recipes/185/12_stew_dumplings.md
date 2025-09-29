@@ -27,5 +27,5 @@ categories:
 4. Drop by spoonfuls on top of cooked stew that has lots of juice in it.
 5. Cook with lid on tight for 12-15 mins.
 
-## Notes
+## Notes From Gran
 

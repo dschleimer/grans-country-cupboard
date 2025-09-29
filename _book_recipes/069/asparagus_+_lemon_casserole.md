@@ -34,7 +34,7 @@ categories:
 1. Dot with butter
 1. Bake until bubbly - about 20 minutes
 
-## Notes
+## Notes From Gran
 
 * THis may be prepared ahead of time
 

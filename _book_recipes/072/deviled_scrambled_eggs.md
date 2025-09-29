@@ -28,5 +28,5 @@ categories:
 1. Pour in egg mixture
 1. Cook slowly until set, stirring frequently
 
-## Notes
+## Notes From Gran
 

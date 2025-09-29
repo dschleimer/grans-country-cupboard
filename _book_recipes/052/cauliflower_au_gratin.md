@@ -36,6 +36,6 @@ categories:
 1. Add Seasoned Salt and Pepper
 1. Bake until soup is hot
 
-## Notes
+## Notes From Gran
 * Tim likes this
 

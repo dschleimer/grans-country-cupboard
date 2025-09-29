@@ -36,5 +36,5 @@ categories:
 1. Add Slat and Pepper to taste
 1. Add Mayonnaise for consistency
 
-## Notes
+## Notes From Gran
 

@@ -32,6 +32,6 @@ categories:
 1. Refridgerate
 1. When chilled, slice
 
-## Notes
+## Notes From Gran
 * Serve one pinwheel on a cracker
 

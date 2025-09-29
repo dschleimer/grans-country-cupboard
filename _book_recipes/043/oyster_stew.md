@@ -42,7 +42,7 @@ categories:
 1. Pour soup over butter
 1. Sprinkle with paprika
 
-## Notes
+## Notes From Gran
 * More oysters could be used
 * Grand-Dad Marter preferred Chincoteague oysters from his island there
 

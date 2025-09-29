@@ -35,5 +35,5 @@ categories:
 7. Allow to set several hours in refrigerator.
 8. Fry in Crisco oil without further dipping in crumbs.
 
-## Notes
+## Notes From Gran
 

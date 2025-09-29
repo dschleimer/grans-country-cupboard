@@ -50,7 +50,7 @@ categories:
 1. Cut up leek and add only the white part to soup
 1. When mushrooms are cooked, add reserved broth and mushrooms to soup
 
-## Notes
+## Notes From Gran
 
 * Keep covered in double boiler for serving
 

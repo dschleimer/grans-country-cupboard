@@ -29,6 +29,6 @@ categories:
 1. Chill
 1. Add 1 cup whipped cream
 
-## Notes
+## Notes From Gran
 * Gran thinks it's delicious
 

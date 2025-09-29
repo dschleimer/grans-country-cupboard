@@ -38,5 +38,5 @@ categories:
 1. Chill for at elast 1 hour
 1. Serve chilled sauce with chilled shrimp
 
-## Notes
+## Notes From Gran
 

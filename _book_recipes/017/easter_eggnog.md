@@ -34,7 +34,7 @@ categories:
 1. Add Whiskey and Rum
 1. Stir thoroughly
 
-## Notes
+## Notes From Gran
 1. Serve from punbch bowl
 1. Serve with grated nutmeg on each glass
 1. Makes 5 pints egg nog

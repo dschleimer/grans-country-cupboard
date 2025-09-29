@@ -43,5 +43,5 @@ categories:
 1. Put the stuffed tomatoes on top of the tomato mixture in the dish
 1. Bake for 30 minutes or until tomatoes are tender
 
-## Notes
+## Notes From Gran
 

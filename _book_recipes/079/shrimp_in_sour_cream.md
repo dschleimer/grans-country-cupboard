@@ -37,5 +37,5 @@ categories:
 1. Remove from heat
 1. Stir in sherry
 
-## Notes
+## Notes From Gran
 

@@ -70,5 +70,5 @@ categories:
 17. Cool and chill overnight, or at least 4 hours.
    
 
-## Notes
+## Notes From Gran
 

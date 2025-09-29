@@ -41,5 +41,5 @@ categories:
 1. Put mold in oven over water
 1. Bake 20 minutes or until done
 
-## Notes
+## Notes From Gran
 * Best I ever ate!

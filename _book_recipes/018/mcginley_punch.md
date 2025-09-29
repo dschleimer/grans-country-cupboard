@@ -31,7 +31,7 @@ categories:
 1. Pour in punch bowl over large cake of ice
 1. Stir
 
-## Notes
+## Notes From Gran
 * This punch is potent
 * Strength can be reduced by adding 1 qt of club soda or ginger ale
 

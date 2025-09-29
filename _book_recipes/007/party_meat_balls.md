@@ -35,7 +35,7 @@ categories:
 1. Heat butter in skillet
 1. Brown balls evenly 8-10 minutes
 
-## Notes
+## Notes From Gran
 * Pre-heat serving dish and plate balls onto hot dish
 * Serve plain or with sauce
 

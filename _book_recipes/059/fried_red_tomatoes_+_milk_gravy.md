@@ -49,7 +49,7 @@ categories:
 1. Pour gravy over tomatoes and serve
 
 
-## Notes
+## Notes From Gran
 * We do not serve meat when we have this for dinner
 * Good with Macaroni and Cheese
 

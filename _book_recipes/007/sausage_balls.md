@@ -32,7 +32,7 @@ categories:
 1. Thaw 10 min
 1. Bake 20-25 minutes
 
-## Notes
+## Notes From Gran
 * Serve Hot
 
 ## Modern Notes

@@ -44,6 +44,6 @@ categories:
 1. Chill several hours
 1. Turn mold out onto lettuce
 
-## Notes
+## Notes From Gran
 * Serves 8-10
 

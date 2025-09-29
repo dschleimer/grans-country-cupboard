@@ -46,7 +46,7 @@ categories:
 1. Turn off heat and let cool for 2 hours before serving
 1. Cook rice by directions on box
 
-## Notes
+## Notes From Gran
 
 * Serve with green salad
 

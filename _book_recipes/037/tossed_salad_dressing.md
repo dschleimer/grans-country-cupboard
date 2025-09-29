@@ -30,5 +30,5 @@ categories:
 
 1. Mix and shake well before using
 
-## Notes
+## Notes From Gran
 

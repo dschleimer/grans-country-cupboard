@@ -32,5 +32,5 @@ categories:
 1. Serve in punch glass on chopped ice
 1. Garnish with pineapple stick and cherry
 
-## Notes
+## Notes From Gran
 

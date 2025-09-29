@@ -43,5 +43,5 @@ categories:
 1. Just before serving, add 1 more Tbsp sherry
 1. Serve on patty shells or rice
 
-## Notes
+## Notes From Gran
 

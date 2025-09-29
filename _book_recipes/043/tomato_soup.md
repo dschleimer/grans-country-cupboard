@@ -33,7 +33,7 @@ categories:
 1. Stew for 20 minutes
 1. Add remaining ingredients
 
-## Notes
+## Notes From Gran
 
 * Hot - once Pop burned his gullet
 

@@ -32,6 +32,6 @@ categories:
 1. Freeze overnight
 1. Cut into squares and arrange on crisp lettuce
 
-## Notes
+## Notes From Gran
 * Use as dinner salad or dessert with crackers
 

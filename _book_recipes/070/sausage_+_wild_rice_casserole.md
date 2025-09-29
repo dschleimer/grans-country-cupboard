@@ -30,5 +30,5 @@ categories:
 1. Put all ingredients together in Casserole dish
 1. Bake about 50 minutes
 
-## Notes
+## Notes From Gran
 

@@ -33,7 +33,7 @@ categories:
 1. Mix all ingredients well
 1. Spread
 
-## Notes
+## Notes From Gran
 
 * Good on a lettuce leaf
 

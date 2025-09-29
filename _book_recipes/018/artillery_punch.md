@@ -36,7 +36,7 @@ categories:
 1. Pour over large cake of ice into punch bowl
 1. Add orange slices and Cherries to punch bowl
 
-## Notes
+## Notes From Gran
 * Ceterers allow 3 or 4 punch cups per person
 
 ## Modern Notes

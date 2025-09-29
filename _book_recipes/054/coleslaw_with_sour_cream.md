@@ -29,5 +29,5 @@ categories:
 1. Mix all ingredients well
 1. Chill
 
-## Notes
+## Notes From Gran
 

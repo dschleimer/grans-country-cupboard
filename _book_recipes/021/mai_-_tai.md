@@ -29,5 +29,5 @@ categories:
 1. Serve in double old-fashion glass on chopped ice
 1. Float orchid on top
 
-## Notes
+## Notes From Gran
 

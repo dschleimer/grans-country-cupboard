@@ -43,6 +43,6 @@ categories:
 1. Add salt and pepper to tast
 1. Bake about 1 hour
 
-## Notes
+## Notes From Gran
 * A few buttered crumbs on top is very good
 

@@ -35,6 +35,6 @@ categories:
 1. Cover
 1. Chill at least 2 hours before serving
 
-## Notes
+## Notes From Gran
 * Serve with slotted spoon
 

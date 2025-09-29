@@ -27,7 +27,7 @@ categories:
 1. Boil
 1. Beat
 
-## Notes
+## Notes From Gran
 * Add to finely cut cabbage to make the slaw
 
 ## Modern notes

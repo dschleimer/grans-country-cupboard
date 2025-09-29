@@ -48,7 +48,7 @@ categories:
 1. Top with Italian Seasoned Bread crumbs
 1. Bake for 30 minutes
 
-## Notes
+## Notes From Gran
 
 * Good served with Parmesan
 

@@ -45,7 +45,7 @@ categories:
 1. Simmer for 2 hours.
 1. About 1/2 hour before serving add 3 big handfuls of noodles.
 
-## Notes
+## Notes From Gran
 * Serve hot with French bread cut, buttered, and heated in oven.
 
 ## Modern notes

@@ -33,5 +33,5 @@ categories:
 1. Add Accent, Coleslaw Dressing, Mayonnaise, and Lemon Juice
 1. Taste and add sugar if needed
 
-## Notes
+## Notes From Gran
 

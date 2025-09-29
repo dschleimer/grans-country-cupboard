@@ -40,7 +40,7 @@ categories:
 14. Reduce temperature to 325 and bake an additional 10 minutes
 15. Sprinkle with confectioner's sugar and whipped cream
 
-## Notes
+## Notes From Gran
 * Serve warm
 
 ## Modern Notes

@@ -35,5 +35,5 @@ categories:
 1. Add eggs and onion
 1. Cover and refrigerate several days
 
-## Notes
+## Notes From Gran
 

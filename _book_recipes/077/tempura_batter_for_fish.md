@@ -34,5 +34,5 @@ categories:
 1. Dip fish in mixture
 1. Fry until cooked through
 
-## Notes
+## Notes From Gran
 

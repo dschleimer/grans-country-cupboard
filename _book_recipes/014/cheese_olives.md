@@ -33,5 +33,5 @@ categories:
 1. Place on ungreased baking sheet
 1. Bake for 12 - 15 minutes
 
-## Notes
+## Notes From Gran
 

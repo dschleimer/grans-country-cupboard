@@ -26,6 +26,6 @@ categories:
 1. Turn off heat and allow to cool in own water
 1. Peel easily
 
-## Notes
+## Notes From Gran
 
 * A great help for deviled eggs

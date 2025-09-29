@@ -33,5 +33,5 @@ categories:
 1. Saute brocolli in bacon grease and butter until slightly browned
 1. Add bacon pieces and sprinkle with parmesan
 
-## Notes
+## Notes From Gran
 

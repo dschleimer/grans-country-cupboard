@@ -42,7 +42,7 @@ categories:
 | White Bread        | Marinated Mushroom     | Pimento (strips)              | |
 | White Bread        | Pimento Cheese         | (slice of) Egg                | (ripe) Olive (strips) |
 
-## Notes
+## Notes From Gran
 
 ## Modern Notes
 

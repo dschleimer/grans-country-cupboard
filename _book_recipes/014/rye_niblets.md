@@ -30,7 +30,7 @@ categories:
 1. Spread on bread
 1. Bake until bubbles form
 
-## Notes
+## Notes From Gran
 * Serve hot
 * Makes 40 
 

@@ -38,7 +38,7 @@ categories:
 1. Bring to a boil, stirring constantly
 1. Thin with water asparagus was cooked in
 
-## Notes
+## Notes From Gran
 * Increase recipe to match amount of asparagus
 * Serve with Lemon
 

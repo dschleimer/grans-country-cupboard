@@ -34,6 +34,6 @@ categories:
 1. Add chopped pecans if desired 
 1. let set until firm
 
-## Notes
+## Notes From Gran
 * Gran uses the juice from cherries in place of cold water \[when making the Jello\], and adds more water to make full amount
 

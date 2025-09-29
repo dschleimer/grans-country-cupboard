@@ -35,6 +35,6 @@ categories:
 1. Fry in a basket for 3 minutes
 1. Drain
 
-## Notes
+## Notes From Gran
 * Makes 48 balls
 

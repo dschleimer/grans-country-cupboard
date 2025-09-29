@@ -30,7 +30,7 @@ categories:
 1. Blend all ingredients well
 1. Spread
 
-## Notes
+## Notes From Gran
 
 * Especially good on toasted bread
 

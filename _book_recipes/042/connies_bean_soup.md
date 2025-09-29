@@ -45,5 +45,5 @@ categories:
 1. Cut up meat and return to coup
 1. Serve or freeze 
 
-## Notes
+## Notes From Gran
 

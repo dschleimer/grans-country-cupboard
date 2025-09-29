@@ -32,7 +32,7 @@ categories:
 1. Add soup if desired and mix
 1. Bake for 45 minutes
 
-## Notes
+## Notes From Gran
 * *Quick*
 
 ## Modern Notes

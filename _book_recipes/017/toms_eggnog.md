@@ -34,7 +34,7 @@ categories:
 1. Add 1/4 cup sugar to egg whites
 1. Fold in whites to other ingredients
 
-## Notes
+## Notes From Gran
 * Served in antique rose medallion bowl over large piece of ice
 
 ## Modern Notes

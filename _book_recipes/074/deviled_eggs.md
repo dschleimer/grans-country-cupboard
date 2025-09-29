@@ -46,5 +46,5 @@ categories:
 13. Allow to stand for 2 hours
 14. Garnish with a dash of Paprika or a thin slice of pimento-olive before serving
 
-## Notes
+## Notes From Gran
 

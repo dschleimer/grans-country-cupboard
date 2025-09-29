@@ -31,7 +31,7 @@ categories:
 1. Blend
 1. When blended, add Mayonnaise
 
-## Notes
+## Notes From Gran
 
 * Described as "for Bob" i.e. her husband Robert L Barmeyer, aka Gramps
 

@@ -44,6 +44,6 @@ categories:
 1. Cut each sandwich into 4 or 6 pieces
 1. Refrigerate covered until ready to serve
 
-## Notes
+## Notes From Gran
 * Makes 45 tea sandwiches
 

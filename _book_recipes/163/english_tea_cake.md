@@ -36,7 +36,7 @@ categories:
 8. Add White Raisins, Cherries, Cherry Juice, and Vanilla
 9. Bake about 1 1/4 hours or until "done with tester"
 
-## Notes
+## Notes From Gran
 * This is served at high tea in England - a very highly prixed receipe shared only in the family
 
 ## Modern Notes

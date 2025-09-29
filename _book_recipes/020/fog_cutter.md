@@ -30,5 +30,5 @@ categories:
 1. Serve in 14 oz glass over chopped ice
 1. Float sherry on top
 
-## Notes
+## Notes From Gran
 

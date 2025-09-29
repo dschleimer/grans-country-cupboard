@@ -33,6 +33,6 @@ categories:
 1. Bake until meat flakes; about 10 minutes for thin fillets and longer for thicker filters
 
 
-## Notes
+## Notes From Gran
 
 * Plan 1 fillet per person

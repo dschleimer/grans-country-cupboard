@@ -29,5 +29,5 @@ categories:
 1. strain into 2 heated demi-tasse cups
 1. Serve at once
 
-## Notes
+## Notes From Gran
 

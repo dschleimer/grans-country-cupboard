@@ -37,5 +37,5 @@ categories:
 1. Cover with water from beans
 1. Bake 6-8 hours, adding water as needed during cooking
 
-## Notes
+## Notes From Gran
 

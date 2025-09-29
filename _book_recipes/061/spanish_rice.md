@@ -33,7 +33,7 @@ categories:
 1. Bake 45 minutes, stirring several times
 1. Remove cover for last 15 minutes to brown and set
 
-## Notes
+## Notes From Gran
 
 * Good with fried chicken
 

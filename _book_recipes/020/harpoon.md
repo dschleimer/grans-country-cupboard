@@ -30,6 +30,6 @@ categories:
 1. Combine all ingredients in blender
 1. Mix 2-3 seconds
 
-## Notes
+## Notes From Gran
 * Makes 2 servings
 

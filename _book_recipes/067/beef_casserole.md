@@ -42,6 +42,6 @@ categories:
 1. Grate cheese if necessary and put on top of roasting pan
 1. Bake 15 to 20 minutes until cheese is light brown
 
-## Notes
+## Notes From Gran
 * Gran prefers to bake this 1 hour, then add the cheese and bake longer until cheese is light brown.
 

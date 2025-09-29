@@ -47,6 +47,6 @@ categories:
 1. Bake 6 hours or more
 1. Add more water as Beans cook
 
-## Notes
+## Notes From Gran
 * Serve with steamed brown bread or hot Johnny cakes
 
