@@ -46,3 +46,7 @@ categories:
 
 * Recipe calls for using tomatoes fresh from your garden.  It suggests you should select enough to fit into a large baking dish.  The tomatoes should be firm and ripe.
 
+## Modern Notes
+
+ *
+

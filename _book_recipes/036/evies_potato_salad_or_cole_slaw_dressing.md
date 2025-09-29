@@ -33,3 +33,7 @@ categories:
 ## Notes From Gran
 * For potato salad add grated onion, celery cut fine, and 3 boiled eggs grated fine
 
+## Modern Notes
+
+ *
+

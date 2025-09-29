@@ -36,5 +36,9 @@ categories:
 
 ## Notes From Gran
 
-* THis may be prepared ahead of time
+* This may be prepared ahead of time
+
+## Modern Notes
+
+ *
 

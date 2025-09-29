@@ -41,3 +41,7 @@ categories:
 * Have catsup available on table for those who want it
 * We use this for meatless dinner
 
+## Modern Notes
+
+ *
+

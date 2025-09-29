@@ -58,3 +58,7 @@ categories:
 * Use 2 big kettles
 * Original recipe said "You *probably* need 2 heads of cabbage" - emphasis added
 
+## Modern Notes
+
+ *
+

@@ -48,6 +48,6 @@ categories:
 ## Notes From Gran
 * Serve hot with French bread cut, buttered, and heated in oven.
 
-## Modern notes
+## Modern Notes
 * I replaced filling with stuffing, since this seems to me to be very obviously a recipe for thanksgiving leftovers and I can't find any other possible meaning for turkey filling.  -- David S
 

@@ -27,3 +27,7 @@ categories:
 ## Notes From Gran
 * Try corn beef instead of ham
 
+## Modern Notes
+
+ *
+
