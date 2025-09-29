@@ -12,7 +12,8 @@ categories:
 
 | Ingredient | Amount | Notes |
 | ---------- | ------ | ----- |
-| Pecans U Walnuts  | 1/2 cup         | chopped  |
+| Pecans             | 1/2 cup         | Chopped - Use Pecans or Walnuts, not both |
+| Walnuts            | 1/2 cup         | Chopped - Use Pecans or Walnuts, not both |
 | Cinnamon           | 2 tsp           |          |
 | Sugar              | 1/2 cup + 1 cup |          |
 | Butter             | 1/2 cup         | softened |
@@ -41,5 +42,6 @@ categories:
 13. Top with remaining nut mix.
 14. Bake 40 minutes.
 15. Cool for 30 minutes before removing from pan.
+
 ## Notes
-Try dotting cake with butter before putting in oven.
+* Try dotting cake with butter before putting in oven.
