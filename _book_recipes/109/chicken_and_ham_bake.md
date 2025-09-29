@@ -16,7 +16,7 @@ categories:
 | Margarine | 1/4 cup | or butter |
 | Parsley flakes | 2 Tbsp | |
 | Black pepper | 1/8 tsp | |
-| *Poultry seasoning | 1/2 tsp | |
+| Poultry seasoning | 1/2 tsp | See modern notes|
 | Cracker crumbs | 1 cup | |
 | Water | 1/4 cup | |
 | Egg | 1 | |
@@ -27,7 +27,7 @@ categories:
 ## Method
 1. Preheat oven to bake at 350 degrees F.
 2. Sauté onion in margarine or butter.
-3. Add parsley, pepper, *poultry seasoning, cracker crumbs, water, egg, chicken, and cubed cheese. Mix well.
+3. Add parsley, pepper, poultry seasoning, cracker crumbs, water, egg, chicken, and cubed cheese. Mix well.
 4. Place 1 large spoonful of mixture in center of each slice of ham and fold ham over mixture.
 5. Place stuffed and rolled ham in 6"x 10"x 2" pan.
 6. Cover with foil.
@@ -36,5 +36,8 @@ categories:
 9. Return to oven uncovered for 5 min or until cheese is melted.
     
 ## Notes
-*Poultry seasoning is a blend of sage, thyme, marjoram, rosemary, oregano, and nutmeg. 
-Makes 6 servings.
+* Makes 6 servings.
+
+## Modern Notes
+* Poultry seasoning is a blend of sage, thyme, marjoram, rosemary, oregano, and nutmeg. 
+
