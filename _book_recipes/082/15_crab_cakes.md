@@ -5,8 +5,10 @@ recipe: 082/15_crab_cakes
 page_order: 1
 from: Carrie, 1930, served in a bar on Friday nights
 categories:
-
-    - Needs Front Matter
+    - Seafood
+    - Crab
+    - Stovetop
+    - Fried
 ---
 # 15 Crab Cakes
 
