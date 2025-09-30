@@ -5,8 +5,9 @@ recipe: 083/soft_shell_crab
 page_order: 3
 from: Gran
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+    - Crab
+    - Seafood
+    - Fried
 ---
 # Soft Shell Crab
 
