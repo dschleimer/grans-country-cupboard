@@ -3,9 +3,10 @@ layout: recipe
 page: "081"
 recipe: 081/tartar_sauce
 page_order: 3
+from: Gran
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+    - No Cook
+    - Condiment
 ---
 # Tartar Sauce
 
@@ -13,13 +14,18 @@ categories:
 
 | Ingredient | Amount | Notes |
 | ---------- | ------ | ----- |
-|  |  | |
+| Mayonnaise | 1/2 cup | |
+| Lemon Juice | 1 Tbsp | |
+| Sweet Pickle Relish | 2 Tbsp | |
+| Worcestershire Sauce | 1/2 tsp | |
 
 ## Method
 
+1. Mix well
+
 ## Notes From Gran
 
- *
+ * Good for fish or soft shell crab
 
 ## Modern Notes
 
