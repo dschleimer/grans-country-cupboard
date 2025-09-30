@@ -3,6 +3,7 @@ layout: recipe
 page: "083"
 recipe: 083/soft_shell_crab
 page_order: 3
+from: Gran
 categories:
     - Needs Transcription
     - Needs Front Matter
@@ -13,15 +14,30 @@ categories:
 
 | Ingredient | Amount | Notes |
 | ---------- | ------ | ----- |
-|  |  | |
+| Crab |  | |
+| Eggs | 1 | |
+| Milk | little | |
+| Salt |  | |
+| Pepper |  | |
+| Flour |  | May substitute cornmeal |
+| Cornmeal |  | May substitute flour |
 
 ## Method
 
+1. Beat an egg
+1. Add a little milk, salt and pepper
+1. Marinate crab in egg mixture for a few minutes
+1. Roll marinated crab in flour or cornmeal
+1. Heat oil to 400F
+1. Fry fast
+
+
 ## Notes From Gran
 
- * 
+* Slow cooking makes crabs tough
+* Good if fried in half butter and half fried our salt pork. - Rhode Island Way
 
 ## Modern Notes
 
- * 
+* I enterpret the Note from Gran to mean that she would cook salt pork in a pan, leave the left over grease in the pan, add some butter, and use that as the frying oil.  -- David S
 
