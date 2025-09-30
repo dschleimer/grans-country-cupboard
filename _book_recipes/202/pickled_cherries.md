@@ -20,9 +20,9 @@ categories:
 
 ## Notes From Gran
 
- * 
+* 
 
 ## Modern Notes
 
- * 
+* 
 

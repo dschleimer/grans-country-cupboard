@@ -47,5 +47,5 @@ categories:
 
 ## Modern Notes
 
- * 
+* 
 

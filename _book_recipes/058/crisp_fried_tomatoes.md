@@ -40,5 +40,5 @@ page_order: 3
 
 ## Modern Notes
 
- * 
+* 
 

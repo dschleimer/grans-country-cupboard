@@ -32,5 +32,5 @@ categories:
 
 ## Modern Notes
 
- * 
+* 
 

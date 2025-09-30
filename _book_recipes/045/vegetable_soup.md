@@ -52,5 +52,5 @@ categories:
 
 ## Modern Notes
 
- * 
+* 
 
