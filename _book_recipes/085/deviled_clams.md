@@ -3,9 +3,12 @@ layout: recipe
 page: "085"
 recipe: 085/deviled_clams
 page_order: 2
+from: Lupe
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+    - Seafood
+    - Clams
+    - Appetizer
+    - Baked
 ---
 # Deviled Clams
 
@@ -13,9 +16,38 @@ categories:
 
 | Ingredient | Amount | Notes |
 | ---------- | ------ | ----- |
-|  |  | |
+| Clams | 2 cups | Finely minced |
+| Onion | 1/2 cup | minced |
+| Green Peppers | 1/3 cup | Chopped |
+| Celery | 1/3 cup | Chopped |
+| Bread Crumbs | 1 1/3 cup | Dry Bread Crumbs |
+| Heavy Cream | 1 cup | |
+| Eggs | 2 | Beaten |
+| Butter | 3 Tbsp | Melted |
+| Prepared Mustard | 2 tsp | |
+| Salt | 1 1/2 tsp | |
+| Pepper | 1 tsp | |
+| Parmesan |  | Grated |
+| Bacon | 1/2 inch per clam | |
 
 ## Method
+
+1. Preheat oven to 350F
+1. Shuck clams, preserving shells
+1. Finely mince clams
+1. Mince onion and add to clams 
+1. Chop Green Pepper and Celery and add to clams
+1. Add Bread crumbs
+1. Stir in heavy cream
+1. Beat eggs and stir in
+1. Melt butter and stir in
+1. Stir in mustard, salt and pepper
+1. Scoop mixture back into clam shells
+1. Bake 20 minutes
+1. Remove from oven
+1. Sprinkle heavily with Grated Parmesan
+1. Place 1/2 inch strip of bacon on top of each shell
+1. Heat until bacon is crisp
 
 ## Notes From Gran
 
