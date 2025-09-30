@@ -38,9 +38,9 @@ from: Wyoming
 ## Notes From Gran
 No icing. 
 
- *
+ * 
 
 ## Modern Notes
 
- *
+ * 
 

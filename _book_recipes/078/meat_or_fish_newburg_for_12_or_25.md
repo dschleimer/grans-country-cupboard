@@ -75,5 +75,5 @@ Pick one protein
 
 ## Modern Notes
 
- *
+ * 
 

@@ -33,7 +33,7 @@ categories:
 1. Bake for 45 minutes
 
 ## Notes From Gran
-* *Quick*
+* *Quick* 
 
 ## Modern Notes
 * The recipe calls for "country style corn (creamed)".  Some googling suggests country style is a way of preparing corn rather than a brand name, and I beleive creamed corn is a more commonly used way of describing this food, so I went with that name for the ingredient.  -- David S
