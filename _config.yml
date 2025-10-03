@@ -110,3 +110,4 @@ exclude:
   - package.json
   - wrangler.toml
   - node_modules/
+  - .recipe_stats/

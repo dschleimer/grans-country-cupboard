@@ -13,3 +13,5 @@ cache/resize
 node_modules/
 # cloudflare local-dev secrets and env variables
 .dev.vars
+# my own tooling dumps stuff here
+.recipe_stats/
