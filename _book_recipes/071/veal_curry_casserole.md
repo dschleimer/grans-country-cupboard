@@ -29,7 +29,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Cube Veal if not already
 1. Chop Onion
 1. Sauté Veal in Margerine

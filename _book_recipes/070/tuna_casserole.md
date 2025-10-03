@@ -30,7 +30,7 @@ categories:
 
 ## Method
 
-1. Preheat over to 450F
+1. Preheat over to 450 °F
 1. Grease baking dish and keep it warm
 1. Chop Onion and Green Pepper
 1. Brown together Onion and Green Pepper in Margerine
@@ -41,7 +41,7 @@ categories:
 1. Pour mixture into baking dish
 1. Sprinkle with Grated Cheese
 1. Bake 15 minutes
-1. Reduce temperature to 400F and bake another 15 minutes
+1. Reduce temperature to 400 °F and bake another 15 minutes
 
 ## Notes From Gran
 

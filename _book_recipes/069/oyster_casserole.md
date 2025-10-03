@@ -24,7 +24,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 350 F
+1. Preheat oven to 350 °F
 1. put Oysters into baking dish
 1. Add Corn and mix
 1. Add Dressing and mix

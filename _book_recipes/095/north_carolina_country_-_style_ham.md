@@ -29,7 +29,7 @@ categories:
 1. Cover with cold water
 1. Simmer (not boil) 25 minutes per pound
 1. Drain, preserving cooking water if desired (see note)
-1. Preheat over to 350F
+1. Preheat over to 350 °F
 1. Remove all skin
 1. Trim fat
 1. Place whole Cloves in fat side, about 1 inch apart

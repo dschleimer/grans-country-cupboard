@@ -39,7 +39,7 @@ categories:
 1. Mix together and put in greased baking dish
 1. Set in refrigerator overnight
 1. Add more milk if needed before baking
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Add salt and pepper to tast
 1. Bake about 1 hour
 

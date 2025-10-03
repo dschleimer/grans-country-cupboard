@@ -32,7 +32,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Grease crab shells
 1. Chop Green Pepper, Red Pepper, and Onion
 1. Sauté together with crab meat in butter

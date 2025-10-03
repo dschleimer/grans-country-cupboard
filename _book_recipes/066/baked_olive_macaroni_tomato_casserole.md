@@ -33,7 +33,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 375 F
+1. Preheat oven to 375 °F
 1. Butter baking dish
 1. Cook Macaroni and drain
 1. Pit olives if needed and cut them up 

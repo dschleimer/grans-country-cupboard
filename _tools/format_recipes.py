@@ -200,6 +200,72 @@ def normalize_fractions(lines: List[str]) -> List[str]:
     processed = [pattern_plain.sub(replace_plain, line) for line in processed]
     return processed
 
+def normalize_temperature(lines: List[str]) -> List[str]:
+    """
+    Normalise temperature literals.
+
+    Supports the following forms (case‑insensitive):
+
+    * ``DDDF``          – e.g. ``32F``
+    * ``DDD F``         – e.g. ``32 F``
+    * ``DDD degrees``   – e.g. ``32 degrees`` (assumed Celsius)
+    * ``DDD degrees F`` – e.g. ``32 degrees F``
+
+    If no unit is supplied but the word *degrees* is present, the value is
+    treated as Celsius.  If neither a unit nor *degrees* is present, the
+    token is left unchanged.  Kelvin is intentionally ignored.
+
+    The output format is ``DDD °F`` or ``DDD °C`` (e.g. ``32 °F`` or ``32 °C``).
+    """
+    # Match a number (1‑3 digits) optionally followed by the word “degrees”
+    # and an optional unit (F, C or “celsius”).  The unit and/or the word
+    # *degrees* must be present for the match to be meaningful; otherwise
+    # the replacement function will return the original text unchanged.
+    temp_re = re.compile(
+        r"""
+        \b
+        (?P<num>\d{1,3})          # numeric value
+        \s*
+        (?:                       # optional “degrees” keyword
+            (?P<degrees>degrees)
+            \s*
+        )?
+        (?P<unit>F|fahrenheit|C|celsius|K|kelvin|R|rankine)?    # optional unit
+        \b
+        """,
+        re.IGNORECASE | re.VERBOSE,
+    )
+
+    def repl(match: re.Match) -> str:
+        num = match.group("num")
+        unit = match.group("unit")
+        degrees = match.group("degrees")
+
+        # If neither unit nor “degrees” were provided, do not replace.
+        if unit is None and degrees is None:
+            return match.group(0)
+
+        # Decide the output unit symbol.
+        if unit:
+            unit_lower = unit.lower()
+            if unit_lower in ("c", "celsius"):
+                symbol = "°C"
+            elif unit_lower in ("f", "fahrenheit"):
+                symbol = "°F"
+            elif unit_lower in ("R", "rankine"):
+                symbol = "°R"
+            else:
+                # Unsupported unit – leave unchanged.
+                return match.group(0)
+        else:
+            # Only “degrees” was present → treat as Farenheit.
+            symbol = "°F"
+
+        return f"{num} {symbol}"
+
+    # Apply the transformation to every line.
+    return [temp_re.sub(repl, line) for line in lines]
+
 def process_file(path: Path) -> None:
     """
     Read *path*, reformat any markdown tables it contains, and write the
@@ -207,6 +273,11 @@ def process_file(path: Path) -> None:
     """
     with path.open("r", encoding="utf-8") as f:
         lines = f.readlines()
+
+    new_lines = normalize_temperature(lines)
+    if new_lines != lines:
+        print(f"Temperature was normalized in '{path}'.")
+        lines = new_lines
 
     # Normalize fractions before tables
     new_lines = normalize_fractions(lines)

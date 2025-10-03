@@ -25,7 +25,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 350 F
+1. Preheat oven to 350 °F
 1. Shred cabbage into Casserole dish
 1. Add soups to Casserole dish
 1. Rinse the two soup cans lightly and add rinse water to Casserole

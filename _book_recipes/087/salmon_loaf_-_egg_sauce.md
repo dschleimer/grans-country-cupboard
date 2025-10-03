@@ -32,7 +32,7 @@ categories:
 ## Method
 
 #### Make Salmon Loaf
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Butter baking dish
 1. Flake salmon if not pre-separated
 1. Add lemon juice

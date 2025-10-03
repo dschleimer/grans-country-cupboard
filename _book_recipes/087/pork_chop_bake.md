@@ -25,7 +25,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Peel and thinly slice potatoes
 1. Drain and slice mushrooms
 1. Brown pork chops in large skillet

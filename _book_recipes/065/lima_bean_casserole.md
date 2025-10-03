@@ -26,7 +26,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Butter Casserole Dish
 1. Chop Onions
 1. Mix together Limas, Onions, Chees, Salt, Pepper, and Soup

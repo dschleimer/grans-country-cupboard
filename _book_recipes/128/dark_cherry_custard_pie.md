@@ -24,7 +24,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 400F
+1. Preheat oven to 400 °F
 2. Butter 9½ inch glass pie plate using 1 Tbsp butter
 3. Drain cherries if using frozen, or pit fresh cherries
 4. Put cherries into buttered pie plate
@@ -36,8 +36,8 @@ categories:
 10. Add ¼ cup granulated sugar to batter
 11. Mix batter **well** in blender on low speed for a count of 20
 12. Pour batter over cherries
-13. Bake ½ hour at 400F
-14. Reduce temperature to 325 and bake an additional 10 minutes
+13. Bake ½ hour at 400 °F
+14. Reduce temperature to 325 °F and bake an additional 10 minutes
 15. Sprinkle with confectioner's sugar and whipped cream
 
 ## Notes From Gran

@@ -22,7 +22,7 @@ categories:
 | Stewed Tomatoes | 1 can       | |
 
 ## Method
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Cook Wild Rice
 1. Cut up onion
 1. Brown sausage in pan

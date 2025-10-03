@@ -26,7 +26,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Put chuck into roasting pan
 1. Add both cans of soup
 1. Rinse each can with a full can worth of water, adding the water to the pan

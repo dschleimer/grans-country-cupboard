@@ -24,7 +24,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 350 F.
+1. Preheat oven to 350 °F.
 2. Bury garlic cloves in lamb leg.
 3. Season with lots of salt and pepper.
 4. Roast uncovered for 6 hours.

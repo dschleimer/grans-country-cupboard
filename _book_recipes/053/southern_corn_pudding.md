@@ -28,7 +28,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Grease baking dish
 1. Melt butter
 1. Mix together all ingredients and pour into baking dish

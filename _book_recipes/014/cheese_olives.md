@@ -24,7 +24,7 @@ categories:
 | Olives               |             | |
 
 ## Method
-1. Preheat oven to 400F
+1. Preheat oven to 400 °F
 1. Blend together Bacon + Cheese and butter
 1. Add a dash of Tabasco Sauce and a dash of Worcestershire Sauce
 1. Stir in Flour

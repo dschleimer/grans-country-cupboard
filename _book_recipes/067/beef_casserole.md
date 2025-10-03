@@ -30,7 +30,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 350 F
+1. Preheat oven to 350 °F
 1. Cook noodles and drain
 1. Chop Green Peppers, and Onions
 1. Finely cut up Celery

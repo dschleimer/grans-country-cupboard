@@ -33,7 +33,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 325F
+1. Preheat oven to 325 °F
 1. Cover Limas and Salt Pork with water
 1. Cook until tender
 1. Chop Onion

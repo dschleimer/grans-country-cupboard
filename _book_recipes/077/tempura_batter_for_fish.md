@@ -30,7 +30,7 @@ categories:
 1. Refrigerate at least ½ hour
 1. Trim dark meat from filet
 1. Cut filet diagonally into pieces
-1. Heat deep oil to 305F - 370F
+1. Heat deep oil to 305 °F - 370 °F
 1. Dip fish in mixture
 1. Fry until cooked through
 

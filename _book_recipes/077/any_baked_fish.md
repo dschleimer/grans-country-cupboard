@@ -26,7 +26,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 375F
+1. Preheat oven to 375 °F
 1. Trim out any dark meat to avoid strong taste
 1. Chop shallots
 1. Arrange filets in a single layer in baking dish

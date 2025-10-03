@@ -24,7 +24,7 @@ categories:
 | Rye Bread            |           | Recipe calls for "party rye bread" - see Modern note below |
 
 ## Method
-1. Preheat oven to 475F
+1. Preheat oven to 475 °F
 1. Cook to crisp, cool, and crumble bacon if not using pre-made
 1. Combine all ingredients except bread and mix
 1. Spread on bread

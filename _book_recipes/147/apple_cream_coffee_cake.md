@@ -27,7 +27,7 @@ categories:
 | Apples        | 2 large       | |
 
 ## Method
-1. Preheat oven to 375 degrees.
+1. Preheat oven to 375 °F.
 2. Grease and flour 10" tube pan.
 3. Mix nuts, cinnamon, and ½ cup sugar. Set aside.
 4. Cream butter with 1 cup sugar.

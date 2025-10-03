@@ -32,7 +32,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Mix together all ingredients except for Bread Crumbs, Butter, and Sherry
 1. Put mixture into individual Pyrex baking dishes
 1. Put Italian Bread Crumbs on top

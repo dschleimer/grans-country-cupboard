@@ -24,7 +24,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Debone, deskin, cook, and cut chicken into bite-sized pieces, if needed
 1. Cook, drain, and cut up asparagus
 1. Grease Casserole dish

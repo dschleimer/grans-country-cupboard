@@ -32,7 +32,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Cut tops off green peppers, and cut peppers in half lengthwise
 1. Set aside peppers halves
 1. Cut up pepper tops

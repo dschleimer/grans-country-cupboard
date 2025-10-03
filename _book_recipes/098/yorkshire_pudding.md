@@ -27,7 +27,7 @@ categories:
 ## Method
 
 1. Remove roast from oven
-1. Increase oven to 475F
+1. Increase oven to 475 °F
 1. Transfer roast and any sides cooked in the raosting pan to serving platter, leaving drippings in the pan
 1. Mix egg, flour, milk, salt and baking powder
 1. Add mixture to drippings in the roasting pan

@@ -36,7 +36,7 @@ categories:
 1. Beat egg mixture until frothy
 1. Stir in dry ingredients to make a batter 
 1. Melt butter and add to batter
-1. Heat frying fat to 375F
+1. Heat frying fat to 375 °F
 1. Add all onion rings to batter at same time
 1. Stir until coated
 1. Sift out one by one

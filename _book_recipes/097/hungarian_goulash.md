@@ -31,12 +31,12 @@ categories:
 
 ## Method
 
-1. Preheat oven to 400F
+1. Preheat oven to 400 °F
 1. Brown Meat
 1. Cook pasta until tender
 1. Mix all ingredients in baking pan
 1. Bake until light brown
-1. Reduce to 275F
+1. Reduce to 275 °F
 1. Bake 3 hours uncovered, without stirring
 1. Add more water to keep it moist
 

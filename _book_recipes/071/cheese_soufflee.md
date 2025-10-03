@@ -27,7 +27,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 375F
+1. Preheat oven to 375 °F
 1. Butter mold
 1. Separate eggs whites from yolks
 1. Grate Cheese

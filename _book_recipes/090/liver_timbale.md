@@ -25,7 +25,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 325F
+1. Preheat oven to 325 °F
 1. Whip cream
 1. Cook onion in butter until soft
 1. Add liver

@@ -28,7 +28,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Butter baking dish
 1. Wash squash
 1. Cut into chunks

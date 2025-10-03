@@ -25,7 +25,7 @@ categories:
 ## Method
 
 1. Debone and roll leg of lamb, if your butcher has not done so
-1. Preheat oven to 325F
+1. Preheat oven to 325 °F
 1. Season with salt, pepper, rosemary, and garlic
 1. Slice onion and lay on top of lamb
 1. Cover lamb

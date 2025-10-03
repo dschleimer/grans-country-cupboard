@@ -24,7 +24,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 450F
+1. Preheat oven to 450 °F
 1. Grease cookie sheet
 1. Cut filets into individual portions
 1. Dip each piece into milk, then into bread crumbs

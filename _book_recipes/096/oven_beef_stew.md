@@ -31,7 +31,7 @@ categories:
 
 ## Method
 
-1. Preheat over to 375F
+1. Preheat over to 375 °F
 1. Cut chuck into 1 inch cubes
 1. Mix together Flour, salt, and pepper
 1. Coat beef cubes in flour mixture

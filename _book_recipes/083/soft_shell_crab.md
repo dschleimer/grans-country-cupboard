@@ -29,7 +29,7 @@ categories:
 1. Add a little milk, salt and pepper
 1. Marinate crab in egg mixture for a few minutes
 1. Roll marinated crab in flour or cornmeal
-1. Heat oil to 400F
+1. Heat oil to 400 °F
 1. Fry fast
 
 

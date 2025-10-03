@@ -26,7 +26,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 325F
+1. Preheat oven to 325 °F
 1. Butter Casserole dish
 1. Wash squash
 1. Cut squash into chunks and place in dish

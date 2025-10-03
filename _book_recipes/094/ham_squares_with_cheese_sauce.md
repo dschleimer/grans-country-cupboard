@@ -24,7 +24,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. grease 8 inch square pan
 1. Mince onion
 1. Beat eggs

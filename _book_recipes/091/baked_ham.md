@@ -28,7 +28,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 275F
+1. Preheat oven to 275 °F
 1. Place ham on rack in shallow uncovered baking pan, fat side up
 1. Place cloves in fat (i.e. top) side of the ham, about 1 inch apart
 1. Bake about 30 minutes per pound

@@ -28,7 +28,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 350 F
+1. Preheat oven to 350 °F
 1. Cut up turkey if not already
 1. Chop Celery and Onion
 1. Cook Celery and Onion in Butter for 10 minutes

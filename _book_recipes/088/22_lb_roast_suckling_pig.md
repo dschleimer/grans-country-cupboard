@@ -56,7 +56,7 @@ categories:
 1. Mix and allow to cool
 
 #### Prepare the pig
-1. Preheat oven to 550F
+1. Preheat oven to 550 °F
 1. Stuff pig with cooled stuffing
 1. Sew or skewer pig closed
 1. Press pig's feet forward and hind feet back
@@ -71,7 +71,7 @@ categories:
 #### Roast the pig
 1. Place pig in hot oven
 1. Sear 15 minutes
-1. Reduce to 300F
+1. Reduce to 300 °F
 1. Roast until very tender when tested with a fork.  About 30 minutes per pound
 1. Baste every 20 minutes
 1. Remove foil or paper from ears after 2½ hours

@@ -34,7 +34,7 @@ categories:
 1. Drop each spoonful into seasoned bread crumbs
 1. Shape into croquettes
 1. Freeze for later use, or continue at once
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Beat egg and add a little milk
 1. Dip croquettes into egg
 1. Dip croquettes into breadcrumbs again

@@ -32,7 +32,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Shuck clams, preserving shells
 1. Finely mince clams
 1. Mince onion and add to clams 

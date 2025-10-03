@@ -24,7 +24,7 @@ categories:
 | Whipped cream |           | |
 
 ## Method
-1. Preheat oven to 350 degrees.
+1. Preheat oven to 350 °F.
 2. Place sliced apples in bottom of greased baking dish.
 3. Mix flour, sugar, baking powder, salt, and unbeaten egg with a fork until crumbly.
 4. Place mixture on top of apples.

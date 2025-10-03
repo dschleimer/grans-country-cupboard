@@ -25,7 +25,7 @@ categories:
 | Ham               | 6 slices                 | boiled |
 
 ## Method
-1. Preheat oven to bake at 350 degrees F.
+1. Preheat oven to bake at 350 °F.
 2. Sauté onion in margarine or butter.
 3. Add parsley, pepper, poultry seasoning, cracker crumbs, water, egg, chicken, and cubed cheese. Mix well.
 4. Place 1 large spoonful of mixture in center of each slice of ham and fold ham over mixture.

@@ -19,7 +19,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 375F
+1. Preheat oven to 375 °F
 1. Sprinkle onion soup mix on roast
 1. Wrap tightly in foil
 1. Put in roasting pan

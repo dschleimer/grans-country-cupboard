@@ -31,7 +31,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 400F
+1. Preheat oven to 400 °F
 1. Cook pasta to tender
 1. Cut beef into lump size
 1. Heat 3 ungreased frying pans **<u>hot</u>**
@@ -44,8 +44,8 @@ categories:
 1. Mix up in the baking pans
 1. Sprinkle parmesan on top
 1. Do not stir
-1. Bake at 400F until tender
-1. Reduce to 300F and bake at least 2 hours more
+1. Bake at 400 °F until tender
+1. Reduce to 300 °F and bake at least 2 hours more
 1. If not wet when tested, add 1 cup boiling water
 
 ## Notes From Gran

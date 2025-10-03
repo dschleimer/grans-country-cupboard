@@ -28,7 +28,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 350 F
+1. Preheat oven to 350 °F
 1. Grease baking dish
 1. Cook noodles and drain
 1. Chop Onion

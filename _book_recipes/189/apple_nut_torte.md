@@ -25,7 +25,7 @@ categories:
 | Nuts           | ½ cup  | chopped |
 
 ## Method
-1. Preheat oven to 325 degrees F.
+1. Preheat oven to 325 °F.
 2. Grease and flour one pie pan.
 3. Mix beaten egg with sugar.
 4. Add flour, baking powder, salt, cinnamon, and nutmeg.

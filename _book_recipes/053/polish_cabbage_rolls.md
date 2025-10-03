@@ -33,7 +33,7 @@ categories:
 
 ## Method
 
-1. Preheat over to 350F
+1. Preheat over to 350 °F
 1. Cook cabbage until tender
 1. Pull off cabbage leaves
 1. Cook rice

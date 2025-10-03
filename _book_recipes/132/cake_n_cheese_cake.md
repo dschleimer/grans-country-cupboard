@@ -43,7 +43,7 @@ categories:
 | Vanilla    | 1 tsp   | |
 
 ## Method
-1. Preheat oven to 325 F.
+1. Preheat oven to 325 °F.
 2. Grease and flour 10" pie plate at least 2" deep.
 
 

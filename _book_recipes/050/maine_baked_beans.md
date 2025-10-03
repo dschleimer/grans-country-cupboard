@@ -33,7 +33,7 @@ categories:
 1. Pick over beans
 1. Soak overnight in cold water
 1. In the morning parboil beans until skins cracks when blown on
-1. Preheat oven to 300F
+1. Preheat oven to 300 °F
 1. Quarter Onion and put into bottom of a new pot
 1. Add beans to pot on top of onion
 1. Put Salt pork on top of beans

@@ -23,7 +23,7 @@ categories:
 | Butter               |        | |
 
 ## Method
-1. Preheat oven to 350 degrees.
+1. Preheat oven to 350 °F.
 2. Mix all ingredients except bread crumbs and butter.
 3. Put into glass baking dish.
 4. Sprinkle bread crumbs on top.

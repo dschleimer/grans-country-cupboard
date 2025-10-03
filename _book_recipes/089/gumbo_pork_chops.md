@@ -25,7 +25,7 @@ categories:
 
 ## Method
 
-1. Preheat Oven to 350F
+1. Preheat Oven to 350 °F
 2. Season chops with Salt and Pepper
 3. Brown chops in greased skillet
 4. Place chop in a shallow baking dish

@@ -26,7 +26,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Uncan and drain the beans
 1. Arrange beans in a 10 x 6 (inches) pan
 1. Uncan sausage

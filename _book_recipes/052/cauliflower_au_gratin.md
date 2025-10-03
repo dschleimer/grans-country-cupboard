@@ -26,7 +26,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Butter casserole dish
 1. Cover whole head of Cauliflower with salted water
 1. Boil until just tender

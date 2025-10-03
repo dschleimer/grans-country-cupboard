@@ -23,7 +23,7 @@ categories:
 | Brown Sugar    | ¼ cup  | |
 
 ## Method
-1. Preheat oven to 325F if baking
+1. Preheat oven to 325 °F if baking
 1. Cook sweet potatoes
 1. Combine ingredients
 1. Bake for 1¼ hours, turning at times

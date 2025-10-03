@@ -30,7 +30,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 350 F
+1. Preheat oven to 350 °F
 1. Slice off tops of tomatoes
 1. Scoop out the center of the tomatoes and save for stew, soup or freezing
 1. Drain tomatoes and salt lightly

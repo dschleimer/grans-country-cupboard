@@ -24,7 +24,7 @@ from: Wyoming
 | Vanilla       | 1 tsp  | |
 
 ## Method
-1. Preheat oven to 350 degrees F.
+1. Preheat oven to 350 °F.
 2. Grease and flour a tube pan.
 3. Cream shortening and sugar.
 4. Add egg yolks.

@@ -45,7 +45,7 @@ categories:
 1. Keep sauce warm until ready to serve omelet.
 
 #### Omelet
-1. Preheat Oven to 325F
+1. Preheat Oven to 325 °F
 1. Separate Egg whites from yolks
 1. Beat Egg Yolks with a dash pepper until brown colored
 1. Fold in ½ cup sour cream to egg yolks

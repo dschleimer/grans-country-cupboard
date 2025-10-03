@@ -29,7 +29,7 @@ categories:
 1. Soak beans overnight in cold water, using twice as much water as beans
 1. In morning heat to just below boiling point
 1. Cook 2 hours or until shin curls on beans when blown on
-1. Preheat oven to 250F
+1. Preheat oven to 250 °F
 1. Cut up Salt Pork
 1. Cut up Onions
 1. Drain beans reserving water

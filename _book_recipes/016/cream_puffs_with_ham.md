@@ -29,7 +29,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Slice off the tops of the cream puffs
 1. Mix well everything but the cream puffs
 1. Put 1 Tbsp of the ham mixture into each puff

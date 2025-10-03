@@ -30,7 +30,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Grease baking pan
 1. Grate Sweet Potatoes
 1. Melt butter and add to potatoes

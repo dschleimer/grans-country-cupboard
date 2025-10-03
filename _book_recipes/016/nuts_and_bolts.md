@@ -30,7 +30,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 250 F
+1. Preheat oven to 250 °F
 1. Mix together cereals and nuts
 1. Melt butter and pour over mixture
 1. Toast in oven for 1 hour

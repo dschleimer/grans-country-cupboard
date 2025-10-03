@@ -27,7 +27,7 @@ categories:
 ## Method
 
 1. Soften butter
-2. Preheat oven to 250F
+2. Preheat oven to 250 °F
 3. Cut up cherries
 4. Grease and flour small tube pan
 5. Cream together butter and sugar
