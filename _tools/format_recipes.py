@@ -13,6 +13,7 @@ Usage:
 
 import sys
 import re
+import argparse
 from pathlib import Path
 from typing import List, Tuple
 
@@ -127,15 +128,7 @@ def normalize_table(rows: List[str]) -> List[str]:
 
     return new_rows
 
-
-def process_file(path: Path) -> None:
-    """
-    Read *path*, reformat any markdown tables it contains, and write the
-    result back to the same file.
-    """
-    with path.open("r", encoding="utf-8") as f:
-        lines = f.readlines()
-
+def normalize_tables(lines: List[str]) -> List[str]:
     out_lines: List[str] = []
     i = 0
     while i < len(lines):
@@ -160,7 +153,20 @@ def process_file(path: Path) -> None:
             # Regular line – copy unchanged
             out_lines.append(lines[i])
             i += 1
+    return out_lines
 
+def process_file(path: Path) -> None:
+    """
+    Read *path*, reformat any markdown tables it contains, and write the
+    result back to the same file.
+    """
+    with path.open("r", encoding="utf-8") as f:
+        lines = f.readlines()
+
+    out_lines = normalize_tables(lines)
+
+    if lines != out_lines:
+        print(f"Formatted tables in '{path}'.")
     # Write back
     with path.open("w", encoding="utf-8") as f:
         f.writelines(out_lines)
@@ -170,21 +176,30 @@ def process_file(path: Path) -> None:
 # Main entry point
 # ------------------------------------------------------------------------
 def main() -> None:
-    if len(sys.argv) < 2:
-        print(
-            "Usage: python format_md_tables.py <markdown-file> [<markdown-file> ...]",
-            file=sys.stderr,
-        )
-        sys.exit(1)
+    """Parse command‑line arguments using argparse and format the provided files.
 
-    # Process each argument as a separate markdown file
-    for arg in sys.argv[1:]:
-        md_path = Path(arg)
+    The program accepts one or more positional arguments representing the
+    paths of markdown files to process.  Any invalid paths are reported to
+    ``stderr`` and skipped.
+    """
+    parser = argparse.ArgumentParser(
+        description="Normalise the layout of markdown tables in one or more files."
+    )
+    parser.add_argument(
+        "files",
+        nargs="+",
+        metavar="FILE",
+        help="Path(s) to markdown file(s) to format.",
+    )
+    args = parser.parse_args()
+
+    # Process each provided file
+    for file_path in args.files:
+        md_path = Path(file_path)
         if not md_path.is_file():
             print(f"Error: file not found – {md_path}", file=sys.stderr)
             continue
         process_file(md_path)
-        print(f"Formatted tables in '{md_path}'.")
 
 
 if __name__ == "__main__":
