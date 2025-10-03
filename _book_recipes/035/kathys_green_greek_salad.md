@@ -2,7 +2,7 @@
 layout: recipe
 page: "035"
 recipe: 035/kathys_green_greek_salad
-page_order: 2\
+page_order: 2
 from: Elizabeth McGinley Barmeyer
 categories:
     - Salad
