@@ -18,9 +18,9 @@ categories:
 
 | Ingredient       | Amount   | Notes |
 | ---------------- | -------- | ----- |
-| Roquefort Cheese | 1/4 lb   | |
-| Cream Cheese     | 1/4 cup  | |
-| Butter           | 1/4 cup  | |
+| Roquefort Cheese | ¼ lb     | |
+| Cream Cheese     | ¼ cup    | |
+| Butter           | ¼ cup    | |
 | Ham              | 4 slices | |
 
 ## Method

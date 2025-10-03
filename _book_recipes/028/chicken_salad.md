@@ -21,8 +21,8 @@ categories:
 | Salt        | 1 Tbsp  | |
 | Butter      | 3 Tbsp  | |
 | Dry Mustard | 1 Tbsp  | |
-| Vinegar     | 1/2 Cup | |
-| Milk        | 1/2 Cup | |
+| Vinegar     | ½ Cup   | |
+| Milk        | ½ Cup   | |
 | Red Pepper  | dash    | |
 | Sugar       | 1 Tbsp  | |
 | Flour       | 1 Tbsp  | |

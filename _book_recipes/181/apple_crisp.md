@@ -11,17 +11,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount      | Notes |
-| ------------- | ----------- | ----- |
-| Apples        | 5-7         | sliced |
-| Flour         | 1 cup       | |
-| Sugar         | 1/2 - 1 cup | |
-| Baking powder | 1 tsp       | |
-| Salt          | 3/4 tsp     | |
-| Egg           | 1           | unbeaten |
-| Butter        | 1/4 cup     | melted |
-| Cinnamon      | 1/2 tsp     | |
-| Whipped cream |             | |
+| Ingredient    | Amount    | Notes |
+| ------------- | --------- | ----- |
+| Apples        | 5-7       | sliced |
+| Flour         | 1 cup     | |
+| Sugar         | ½ - 1 cup | |
+| Baking powder | 1 tsp     | |
+| Salt          | ¾ tsp     | |
+| Egg           | 1         | unbeaten |
+| Butter        | ¼ cup     | melted |
+| Cinnamon      | ½ tsp     | |
+| Whipped cream |           | |
 
 ## Method
 1. Preheat oven to 350 degrees.

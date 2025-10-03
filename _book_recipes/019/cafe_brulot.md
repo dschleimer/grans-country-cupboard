@@ -20,7 +20,7 @@ categories:
 | Cloves     | 2 whole       | |
 | Cinnamon   | 1 small stick | |
 | Brandy     | 1 Jigger      | Likely 1.5 Oz |
-| Coffee     | 2/3 cup       | Strong, hot, and black |
+| Coffee     | ⅔ cup         | Strong, hot, and black |
 
 ## Method
 1. Blend all ingredients

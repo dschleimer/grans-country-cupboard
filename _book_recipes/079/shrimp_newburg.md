@@ -15,14 +15,14 @@ categories:
 
 | Ingredient           | Amount     | Notes |
 | -------------------- | ---------- | ----- |
-| Shrimp               | 1 1/2 lbs  | Cooked |
+| Shrimp               | 1½ lbs     | Cooked |
 | Butter               | 3 Tbsp     | |
-| Flour                | 2 1/2 Tbsp | |
-| Milk                 | 1 1/2 cups | Use Milk or Cream not both |
-| Cream                | 1 1/2 cups | Use Milk or Cream not both |
+| Flour                | 2½ Tbsp    | |
+| Milk                 | 1½ cups    | Use Milk or Cream not both |
+| Cream                | 1½ cups    | Use Milk or Cream not both |
 | Catsup               | 4 Tbsp     | |
 | Chili Sauce          | 2 Tbsp     | |
-| Worcestershire Sauce | 3/4 Tbsp   | |
+| Worcestershire Sauce | ¾ Tbsp     | |
 | Lemon Juice          | little     | |
 | Salt                 | Pinch      | |
 | Paprika              | Dash       | |

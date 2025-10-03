@@ -17,11 +17,11 @@ categories:
 | Ingredient      | Amount  | Notes |
 | --------------- | ------- | ----- |
 | Eggs            | 3       | Hard Boiled |
-| American Cheese | 1/2 lb  | |
+| American Cheese | ½ lb    | |
 | Onion           | 1 small | |
 | Pimento         | 1       | |
-| Salt            | 1/2 tsp | |
-| Paprika         | 1/8 tsp | |
+| Salt            | ½ tsp   | |
+| Paprika         | ⅛ tsp   | |
 | Mayonnaise      |         | |
 
 ## Method

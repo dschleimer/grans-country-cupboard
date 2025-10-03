@@ -33,8 +33,8 @@ categories:
 1. Finely cut up onions
 1. Mix beef and Onions
 1. Add Salt, Pepper, and a little Worcestershire Sauce to meat and mix again
-1. Put meat on top of Cabbage mix in Casserole dish.  The dish should be about 3/4 full
-1. Bake with the lid on for 1 1/2 to 2 hours
+1. Put meat on top of Cabbage mix in Casserole dish.  The dish should be about ¾ full
+1. Bake with the lid on for 1½ to 2 hours
 
 ## Notes From Gran
 

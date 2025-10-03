@@ -21,12 +21,12 @@ categories:
 | Butter       | 3 Tbsp   | |
 | Flour        | 2 Tbsp   | |
 | Salt         | 1 tsp    | |
-| Paprika      | 1/2 tsp  | |
+| Paprika      | ½ tsp    | |
 | Pepper       | To Taste | |
 | Milk         | 1 cup    | |
-| Bean Liquor  | 1/2 cup  | |
+| Bean Liquor  | ½ cup    | |
 | Pimento      | 1        | Chopped |
-| Cheese       | 1/4 cup  | Grated |
+| Cheese       | ¼ cup    | Grated |
 | Green Beans  | 2 cups   | Cooked and still Hot |
 
 ## Method

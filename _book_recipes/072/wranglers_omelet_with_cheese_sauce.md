@@ -22,12 +22,12 @@ categories:
 | Dry Mustard     | 1 tsp      | |
 | Milk            | 1 cup      | |
 | Cheddar Cheese  | 1 cup      | Shredded - Recipe calls for 1 cup (4 oz) shredded |
-| Green Pepper    | 1/4 cup    | Chopped |
+| Green Pepper    | ¼ cup      | Chopped |
 | Pimento         | 2 Tbsp     | Chopped |
 | Eggs            | 5          | Whites and yolks separated |
 | Pepper          | Dash       | |
-| Sour Cream      | 1/3 cup    | |
-| Cream of Tarter | 1/2 tsp    | |
+| Sour Cream      | ⅓ cup      | |
+| Cream of Tarter | ½ tsp      | |
 | Dried Beef      | 1 package  | Cut fine - 1 package is 3 or 4 oz, per recipe |
 
 ## Method
@@ -48,7 +48,7 @@ categories:
 1. Preheat Oven to 325F
 1. Separate Egg whites from yolks
 1. Beat Egg Yolks with a dash pepper until brown colored
-1. Fold in 1/2 cup sour cream to egg yolks
+1. Fold in ½ cup sour cream to egg yolks
 1. Beat egg whites with Cream of Tartar until stiff
 1. Fold Yolks into whites
 1. Fold in dried beef

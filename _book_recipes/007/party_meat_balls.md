@@ -14,18 +14,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Milk         | 1/4 Cup | |
-| Soft Bread   | 3/4 Cup | |
-| Eggs         | 1 Egg   | |
-| Sherry       | 1/4 Cup | |
-| Grated Onion | 1 Tbsp  | |
-| Ginger       | 1/4 tsp | |
-| Salt         | 1 tsp   | |
-| Pepper       | 1/8 ts  | |
-| Ground Chuck | 1 lb    | |
-| Butter       | 2 Tbsp  | For skillet |
+| Ingredient   | Amount | Notes |
+| ------------ | ------ | ----- |
+| Milk         | ¼ Cup  | |
+| Soft Bread   | ¾ Cup  | |
+| Eggs         | 1 Egg  | |
+| Sherry       | ¼ Cup  | |
+| Grated Onion | 1 Tbsp | |
+| Ginger       | ¼ tsp  | |
+| Salt         | 1 tsp  | |
+| Pepper       | ⅛ ts   | |
+| Ground Chuck | 1 lb   | |
+| Butter       | 2 Tbsp | For skillet |
 
 ## Method
 1. Soak Bread in Milk

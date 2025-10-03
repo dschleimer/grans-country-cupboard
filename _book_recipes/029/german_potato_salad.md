@@ -16,8 +16,8 @@ categories:
 
 | Ingredient     | Amount   | Notes |
 | -------------- | -------- | ----- |
-| Bacon          | 1/2 lb   | |
-| Vinegar        | 3/4 cup  | |
+| Bacon          | ½ lb     | |
+| Vinegar        | ¾ cup    | |
 | Eggs           | 2        | well beaten |
 | White Potatoes | 12       | |
 | Salt           | To taste | |

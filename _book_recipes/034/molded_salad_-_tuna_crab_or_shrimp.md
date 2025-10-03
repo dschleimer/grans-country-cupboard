@@ -23,11 +23,11 @@ categories:
 | Cream Cheese | 8 oz        | |
 | Onion        | 1 Tbsp      | Minced |
 | Green Pepper | 2 Tbsp      | Diced |
-| Celery       | 1/2 cup     | Diced |
-| Half + Half  | 1/2 cup     | |
-| Mayonnaise   | 1/4 cup     | |
+| Celery       | ½ cup       | Diced |
+| Half + Half  | ½ cup       | |
+| Mayonnaise   | ¼ cup       | |
 | Eggs         | 3           | Hard boiled - Cut up |
-| Salt         | 1/4 tsp     | |
+| Salt         | ¼ tsp       | |
 
 ## Method
 

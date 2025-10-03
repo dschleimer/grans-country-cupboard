@@ -20,7 +20,7 @@ categories:
 
 ## Method
 
-1. About 1/2 inch fresh teaberries in bottom of decanter
+1. About ½ inch fresh teaberries in bottom of decanter
 1. Fill with Applejack
 
 ## Notes From Gran

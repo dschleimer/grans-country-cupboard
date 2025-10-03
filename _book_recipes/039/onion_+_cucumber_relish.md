@@ -15,8 +15,8 @@ categories:
 
 | Ingredient    | Amount   | Notes |
 | ------------- | -------- | ----- |
-| White Vinegar | 1/3 cup  | |
-| Cold Water    | 1/3 cup  | |
+| White Vinegar | ⅓ cup    | |
+| Cold Water    | ⅓ cup    | |
 | Sugar         | 2 Tbsp   | |
 | Salt          | 1 tsp    | |
 | Cucumber      | 1        | 7-8 incehs long |

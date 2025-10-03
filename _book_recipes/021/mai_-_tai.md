@@ -17,8 +17,8 @@ categories:
 | Ingredient     | Amount  | Notes |
 | -------------- | ------- | ----- |
 | Orgeat         | dash    | |
-| Lime           | 1/2     | Squeezed |
-| Orange Curacao | 1/2 oz  | |
+| Lime           | ½       | Squeezed |
+| Orange Curacao | ½ oz    | |
 | Rum            | 1 shot  | Jamaican |
 | Dark Rum       | 1 shot  | |
 | Sugar Cane     | 1 stick | for stirring |

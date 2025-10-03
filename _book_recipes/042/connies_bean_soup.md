@@ -19,7 +19,7 @@ categories:
 | Onions                     | 6-10          | Cut up |
 | Carrots                    | 1 lb          | Cut up |
 | Bay Leaves                 | 2             | Remember when done |
-| Catsup                     | 1/2 cup       | |
+| Catsup                     | ½ cup         | |
 | Tomatoes                   | 1 large can   | Can also use peeled fresh tomatoes |
 | Ham Hocks                  | 3-6           | Meaty |
 | Ham bones                  |               | |

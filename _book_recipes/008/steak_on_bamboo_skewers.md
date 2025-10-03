@@ -18,8 +18,8 @@ categories:
 
 | Ingredient      | Amount  | Notes |
 | --------------- | ------- | ----- |
-| Soy Sauce       | 1/2 cup | |
-| Sherry          | 1/4 cup | |
+| Soy Sauce       | ½ cup   | |
+| Sherry          | ¼ cup   | |
 | Garlic          | 1 Clove | |
 | Ginger          | 1tbsp   | Powdered ginger per original recipe |
 | Top round steak |         | Should be a thin rather than thick cut of steak |

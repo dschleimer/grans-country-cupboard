@@ -16,17 +16,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient           | Amount  | Notes |
-| -------------------- | ------- | ----- |
-| Wheat Chex           | 1 box   | |
-| Rice Chex            | 1 box   | |
-| Cheerio Oats         | 2 cups  | |
-| Pecans               | 1 lb    | |
-| Butter               | 1/4 lbs | |
-| Bacon Grease         | 1/4 cup | |
-| Worcestershire Sauce | 2 Tbsp  | |
-| Garlic Salt          | 2 Tbsp  | |
-| Tabasco Sauce        | 1 Tbsp  | |
+| Ingredient           | Amount | Notes |
+| -------------------- | ------ | ----- |
+| Wheat Chex           | 1 box  | |
+| Rice Chex            | 1 box  | |
+| Cheerio Oats         | 2 cups | |
+| Pecans               | 1 lb   | |
+| Butter               | ¼ lbs  | |
+| Bacon Grease         | ¼ cup  | |
+| Worcestershire Sauce | 2 Tbsp | |
+| Garlic Salt          | 2 Tbsp | |
+| Tabasco Sauce        | 1 Tbsp | |
 
 ## Method
 

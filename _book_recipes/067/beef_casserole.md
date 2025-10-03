@@ -17,7 +17,7 @@ categories:
 
 | Ingredient                 | Amount      | Notes |
 | -------------------------- | ----------- | ----- |
-| Ground Beef                | 1 1/2 lbs   | |
+| Ground Beef                | 1½ lbs      | |
 | Green Peppers              | 1 lb        | Chopped |
 | Onions                     | 1 lb        | Chopped |
 | Celery                     | 6 ribs      | With leaves - Cut fine |
@@ -26,7 +26,7 @@ categories:
 | Tomato Sauce               | 1 large can | |
 | Stuffed Olives             | 1 small jar | |
 | Pennsylvania Dutch Noodles | 1 lb        | Cooked |
-| American Cheese            | 1/2 lb      | Grated |
+| American Cheese            | ½ lb        | Grated |
 
 ## Method
 

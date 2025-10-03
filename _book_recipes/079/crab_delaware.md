@@ -28,7 +28,7 @@ categories:
 3. Put into glass baking dish.
 4. Sprinkle bread crumbs on top.
 5. Dot with butter.
-6. Bake for 1/2 hour.
+6. Bake for ½ hour.
 7. Serve with sherry.
 
 ## Notes From Gran

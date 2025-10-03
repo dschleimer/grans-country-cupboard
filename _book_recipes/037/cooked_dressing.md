@@ -20,8 +20,8 @@ categories:
 | Dry Mustard | 3 tsp      | |
 | Cayenne     | Few grains | |
 | Eggs        | 4          | Yolks only - slightly beaten |
-| Milk        | 1 1/2 cups | |
-| Vinegar     | 1/2 cup    | Mild Vinegar |
+| Milk        | 1½ cups    | |
+| Vinegar     | ½ cup      | Mild Vinegar |
 | Butter      | 1 Tbsp     | |
 
 ## Method

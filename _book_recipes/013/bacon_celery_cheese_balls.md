@@ -14,14 +14,14 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount     | Notes |
-| ------------ | ---------- | ----- |
-| Bacon Bits   | 1/2 cup    | should be crisp |
-| Celery       | 1/2 cup    | finely chopped |
-| Apple        | 1/2 medium | Diced fine |
-| Cream Cheese | 3 oz       | 3 oz used to be a standard "small" brick of Cream Cheese |
-| Mayonnaise   |            | |
-| Chopped Nuts |            | |
+| Ingredient   | Amount   | Notes |
+| ------------ | -------- | ----- |
+| Bacon Bits   | ½ cup    | should be crisp |
+| Celery       | ½ cup    | finely chopped |
+| Apple        | ½ medium | Diced fine |
+| Cream Cheese | 3 oz     | 3 oz used to be a standard "small" brick of Cream Cheese |
+| Mayonnaise   |          | |
+| Chopped Nuts |          | |
 
 ## Method
 1. Cook to crisp, cool, and crumble bacon into bits if making bacon bits from scratch

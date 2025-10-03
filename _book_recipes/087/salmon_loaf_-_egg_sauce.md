@@ -19,7 +19,7 @@ categories:
 | Lemon Juice  | 1 Tbsp         | |
 | Salt         | 1 tsp          | |
 | Dry Mustard  | 1 tsp          | |
-| Celery       | 1/2 cup        | Chopped |
+| Celery       | ½ cup          | Chopped |
 | Onion        | 1 med          | Chopped |
 | Parsley      | 1 Tbsp         | Chopped |
 | Eggs         | 2 + 2          | 2 slightly beaten - 2 hard boiled |
@@ -27,7 +27,7 @@ categories:
 | Milk         | 1 + 1 cup      | |
 | Butter       | 2 Tbsp + Extra | |
 | Flour        | 2 Tbsp         | |
-| Salt         | 1/2 tsp        | |
+| Salt         | ½ tsp          | |
 
 ## Method
 

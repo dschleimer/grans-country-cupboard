@@ -21,8 +21,8 @@ categories:
 | Onion        | 1 med.   | Chopped |
 | Mazola Oil   | 2 Tbsp   | For frying pan |
 | Tomatoes     | 6 large  | |
-| Basil        | 1/2 tsp  | |
-| Pepper       | 1/4 tsp  | |
+| Basil        | ½ tsp    | |
+| Pepper       | ¼ tsp    | |
 | Salt         | To taste | |
 | Sherry       | 2 Tbsp   | Dry Sherry |
 
@@ -34,7 +34,7 @@ categories:
 1. Chop Onion
 1. Brown beef and onions in Mazola Oil
 1. Slice off tops of tomatoes
-1. Scoop out centers of tomatoes, leaving a 1/2 inch shell and preserving pulp
+1. Scoop out centers of tomatoes, leaving a ½ inch shell and preserving pulp
 1. Add to tomato pulp the noodles, basil, pepper and sherry
 1. Add salt to taste
 1. Combine beef and tomato mixture 

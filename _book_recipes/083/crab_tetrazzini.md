@@ -15,10 +15,10 @@ categories:
 
 | Ingredient  | Amount     | Notes |
 | ----------- | ---------- | ----- |
-| Crab Meat   | 1/2 lb     | Fresh, frozen, or canned |
-| Shallots    | 1/2 Tbsp   | Minced |
+| Crab Meat   | ½ lb       | Fresh, frozen, or canned |
+| Shallots    | ½ Tbsp     | Minced |
 | Butter      | 2 + 1 Tbsp | |
-| Paprika     | 1/2 tsp    | |
+| Paprika     | ½ tsp      | |
 | Flour       | 1 Tbsp     | |
 | Light Cream | 1 cup      | |
 | Sherry      | 1 Tbsp     | |

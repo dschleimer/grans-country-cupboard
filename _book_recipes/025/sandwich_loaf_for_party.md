@@ -33,7 +33,7 @@ categories:
 
 | Ingredient   | Amount   | Notes |
 | ------------ | -------- | ----- |
-| Nuts         | 1/3 cup  | Chopped |
+| Nuts         | ⅓ cup    | Chopped |
 | Pimentos     | 2        | Diced |
 | Cream Cheese | 3 oz     | |
 | Mayonnaise   | 2 Tbsp   | |
@@ -42,13 +42,13 @@ categories:
 
 #### Curried Egg Filling
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Eggs         | 4       | Hard boiled - Chopped |
-| Salt         | 1/2 tsp | |
-| Pepper       | Dash    | |
-| Curry Powder | 1/2 tsp | |
-| Mayonnaise   |         | To Moisten |
+| Ingredient   | Amount | Notes |
+| ------------ | ------ | ----- |
+| Eggs         | 4      | Hard boiled - Chopped |
+| Salt         | ½ tsp  | |
+| Pepper       | Dash   | |
+| Curry Powder | ½ tsp  | |
+| Mayonnaise   |        | To Moisten |
 
 #### Deviled Ham Filling
 

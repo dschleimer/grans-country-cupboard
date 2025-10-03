@@ -14,13 +14,13 @@ categories:
 
 ## Ingredients
 
-| Ingredient             | Amount  | Notes |
-| ---------------------- | ------- | ----- |
-| Shrimp                 | 1 can   | Recipe calls for a 5 oz can, though it appears to be sold as 6oz cans today |
-| Lemon Rind             | 3/4 tsp | Grated |
-| Mayonnaise             | 1/4 cup | |
-| Pimento Stuffed Olives | 1/4 cup | Chopped |
-| Dry Mustard            | 1/8 tsp | |
+| Ingredient             | Amount | Notes |
+| ---------------------- | ------ | ----- |
+| Shrimp                 | 1 can  | Recipe calls for a 5 oz can, though it appears to be sold as 6oz cans today |
+| Lemon Rind             | ¾ tsp  | Grated |
+| Mayonnaise             | ¼ cup  | |
+| Pimento Stuffed Olives | ¼ cup  | Chopped |
+| Dry Mustard            | ⅛ tsp  | |
 
 ## Method
 1. Combine

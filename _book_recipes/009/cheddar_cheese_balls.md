@@ -12,16 +12,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient           | Amount  | Notes |
-| -------------------- | ------- | ----- |
-| Cream Cheese         | 8 oz    | |
-| Sharp Cheddar        | 1 lb    | |
-| Onion                | 1 tsp   | Grated |
-| Worcestershire Sauce | 1 tsp   | |
-| Paprika              | 1/2 tsp | |
-| Parsely              |         | For outside of balls |
-| Ground Nuts          |         | For outside of balls |
-| Dried Beef           |         | For outside of balls |
+| Ingredient           | Amount | Notes |
+| -------------------- | ------ | ----- |
+| Cream Cheese         | 8 oz   | |
+| Sharp Cheddar        | 1 lb   | |
+| Onion                | 1 tsp  | Grated |
+| Worcestershire Sauce | 1 tsp  | |
+| Paprika              | ½ tsp  | |
+| Parsely              |        | For outside of balls |
+| Ground Nuts          |        | For outside of balls |
+| Dried Beef           |        | For outside of balls |
 
 ## Method
 1. Let cheddar and cream cheese come to room temperature

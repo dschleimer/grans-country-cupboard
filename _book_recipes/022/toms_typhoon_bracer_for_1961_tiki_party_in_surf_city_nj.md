@@ -33,5 +33,5 @@ categories:
 
 ## Modern Notes
 
-This is a really big recipe.  About 1 3/4 gallons.  Make sure you have a really big container and a lot of people to serve before attempting.  -- David S
+This is a really big recipe.  About 1¾ gallons.  Make sure you have a really big container and a lot of people to serve before attempting.  -- David S
 

@@ -28,7 +28,7 @@ categories:
 1. 1 cup chopped pecans and cheese.
 1. Add Accent, Worcershire Sauce, and horseradish (if using) to mixture
 1. Shape into one large ball
-1. Roll in remaining 1/2 cup of chopped pecans
+1. Roll in remaining ½ cup of chopped pecans
 1. Chill until ready to serve
 
 ## Modern Notes

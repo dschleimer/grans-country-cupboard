@@ -20,7 +20,7 @@ categories:
 | Pork + Beans in Tomato Sauce | 16 oz          | Cut - Canned - Drained |
 | Horseradish                  | 1 Tbsp         | |
 | Salt                         | 1 tsp          | |
-| Pepper                       | 1/4 tsp        | |
+| Pepper                       | ¼ tsp          | |
 | Vienna Sausage               | 10 oz (2 cans) | |
 | Onion                        |                | Slices |
 

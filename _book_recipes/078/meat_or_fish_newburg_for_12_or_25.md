@@ -18,14 +18,14 @@ categories:
 ## Ingredients
 
 #### Protein Options
-| Ingredient | Amount       | Notes |
-| ---------- | ------------ | ----- |
-| Lobster    | 1 1/2 Quarts | |
-| Shrimp     | 1 1/2 Quarts | |
-| Crab       | 1 1/2 Quarts | |
-| Chicken    | 1 1/2 Quarts | |
-| Turkey     | 1 1/2 Quarts | |
-| Ham        | 1 1/2 Quarts | |
+| Ingredient | Amount    | Notes |
+| ---------- | --------- | ----- |
+| Lobster    | 1½ Quarts | |
+| Shrimp     | 1½ Quarts | |
+| Crab       | 1½ Quarts | |
+| Chicken    | 1½ Quarts | |
+| Turkey     | 1½ Quarts | |
+| Ham        | 1½ Quarts | |
 
 Pick one protein
 
@@ -33,13 +33,13 @@ Pick one protein
 
 | Ingredient   | Amount  | Notes |
 | ------------ | ------- | ----- |
-| Sherry       | 1/2 cup | Dry Sherry |
+| Sherry       | ½ cup   | Dry Sherry |
 | Lemon Juice  | 1 Tbsp  | |
-| Curry Powder | 1/4 tsp | |
+| Curry Powder | ¼ tsp   | |
 | Nutmeg       | dash    | |
 | Protein      |         | |
-| Butter       | 3/4 Cup | |
-| Flour        | 1/2 cup | Sifted |
+| Butter       | ¾ Cup   | |
+| Flour        | ½ cup   | Sifted |
 | Light Cream  | 1 quart | Scalded - May use Half + Half instead |
 | Half + Half  | 1 quart | Scalded - May use Light Cream instead |
 | Salt         | 1 tsp   | |

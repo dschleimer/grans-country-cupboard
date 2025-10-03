@@ -19,13 +19,13 @@ categories:
 | Eggs              | 2                               | Beaten |
 | Bread Crumbs      | 3 cups                          | Soft - Crumble 4 slices soft bread |
 | Oysters           | 1 pint                          | Drained - Chopped - 2 cups after chopping |
-| Celery            | 1/2 cup                         | Finely chopped |
-| Milk              | 1/4 cup                         | |
+| Celery            | ½ cup                           | Finely chopped |
+| Milk              | ¼ cup                           | |
 | Parsley           | 2 Tbsp snipped OR 1 Tbsp flakes | |
 | Lemon Juice       | 1 Tbsp                          | |
-| Bread Crumbs      | 3/4 cup                         | Fine dry crumbs |
-| Salt              | 1/4 tsp                         | |
-| Paprika           | 1/2 tsp                         | |
+| Bread Crumbs      | ¾ cup                           | Fine dry crumbs |
+| Salt              | ¼ tsp                           | |
+| Paprika           | ½ tsp                           | |
 | Hollandaise sauce |                                 | |
 
 ## Method
@@ -37,7 +37,7 @@ categories:
 1. Saute onion in 2 Tbsp butter
 1. Beat eggs and combine with onion, soft bread crumbs, oysters, celery, milk, parsley, and lemon juice
 1. Chill 2 hours
-1. Shape in 8 cakes 1/2 inch thick
+1. Shape in 8 cakes ½ inch thick
 1. Coat with Dry Bread crumbs, salt, and paprika
 1. Melt 2 Tbsp Butter in skillet
 1. Brown cakes

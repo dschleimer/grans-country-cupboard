@@ -12,19 +12,19 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount     | Notes |
-| ------------- | ---------- | ----- |
-| Salt          | 2 1/2 tsp  | Separated as 2 tsp and 1/2 tsp |
-| Egss          | 2          | Well beaten |
-| Flour         | 1 1/2 cups | sifted - have additional on hand |
-| Boiling water | 2 quarts   | |
-| Parmesan      | 3/4 cups   | Freshly Grated |
-| Butter        | 1/2 cup    | Melted |
+| Ingredient    | Amount   | Notes |
+| ------------- | -------- | ----- |
+| Salt          | 2½ tsp   | Separated as 2 tsp and ½ tsp |
+| Egss          | 2        | Well beaten |
+| Flour         | 1½ cups  | sifted - have additional on hand |
+| Boiling water | 2 quarts | |
+| Parmesan      | ¾ cups   | Freshly Grated |
+| Butter        | ½ cup    | Melted |
 
 ## Method
 
 1. Beat eggs well 
-1. Add 1/2 tsp Salt to eggs
+1. Add ½ tsp Salt to eggs
 1. Gradually stir flour into eggs to make a stiff dough
 1. Knead until dough is stiff and elastic adding more flour if neeeded
 1. Cover with towel and let rest 15 minutes
@@ -32,7 +32,7 @@ categories:
 1. Roll out each part on a floured surface as thinly as possible
 1. Sprinkle sheets with a little flour
 1. Let pasta sheets dry an hour or until deep gold
-1. Cut into strips 8 inches or more in length and 1/8 inch in width
+1. Cut into strips 8 inches or more in length and ⅛ inch in width
 1. Pre-heat serving platter
 1. Drop into boiling salted water and cook 6 to 8 minutes.  Noodles should be tender but firm, not soft
 1. Drain noodles well

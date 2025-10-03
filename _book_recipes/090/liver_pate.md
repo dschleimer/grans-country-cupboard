@@ -14,13 +14,13 @@ categories:
 
 ## Ingredients
 
-| Ingredient                         | Amount           | Notes |
-| ---------------------------------- | ---------------- | ----- |
-| Gelatin                            | 1 envelope       | Unflavored |
-| Water                              | 1/4 cup          | Cold |
-| Condensed Consommé Madrilène (red) | 1 can (13 oz)    | See modern notes |
-| Cream Cheese                       | 3 oz             | 3oz was the standard "small" package |
-| Liver Paté                         | 4 1/2 oz (1 can) | See modern notes |
+| Ingredient                         | Amount        | Notes |
+| ---------------------------------- | ------------- | ----- |
+| Gelatin                            | 1 envelope    | Unflavored |
+| Water                              | ¼ cup         | Cold |
+| Condensed Consommé Madrilène (red) | 1 can (13 oz) | See modern notes |
+| Cream Cheese                       | 3 oz          | 3oz was the standard "small" package |
+| Liver Paté                         | 4½ oz (1 can) | See modern notes |
 
 ## Method
 
@@ -28,7 +28,7 @@ categories:
 1. Heat Consommé
 1. Add softened gelatin to Consommé
 1. Stir until gelatin is dissolved
-1. Pour about 1/2 cup of above mixture into 3 cup mold (heart mold)
+1. Pour about ½ cup of above mixture into 3 cup mold (heart mold)
 1. Chill until firm
 1. Add cream cheese and Pate to remaining Consommé mixture
 1. Beat lightly with rotary beater

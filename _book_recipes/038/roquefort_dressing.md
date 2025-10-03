@@ -12,16 +12,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient           | Amount   | Notes |
-| -------------------- | -------- | ----- |
-| Roquefort Cheese     | 1/4 lb   | |
-| Blue Cheese          | 1/4 lb   | Optional - may substitute for Roquefort |
-| Mayonnaise           | 1/2 pint | |
-| Sour Cream           | 1/2 pint | |
-| Garlic               | 1 Clove  | May use powdered garlic |
-| Worcestershire Sauce | 2 Tbsp   | |
-| Lemon                | 1/2      | Juiced |
-| Tabasco Sauce        | Dash     | |
+| Ingredient           | Amount  | Notes |
+| -------------------- | ------- | ----- |
+| Roquefort Cheese     | ¼ lb    | |
+| Blue Cheese          | ¼ lb    | Optional - may substitute for Roquefort |
+| Mayonnaise           | ½ pint  | |
+| Sour Cream           | ½ pint  | |
+| Garlic               | 1 Clove | May use powdered garlic |
+| Worcestershire Sauce | 2 Tbsp  | |
+| Lemon                | ½       | Juiced |
+| Tabasco Sauce        | Dash    | |
 
 ## Method
 

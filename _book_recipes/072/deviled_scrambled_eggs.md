@@ -11,14 +11,14 @@ categories:
 
 ## Ingredients
 
-| Ingredient  | Amount  | Notes |
-| ----------- | ------- | ----- |
-| Eggs        | 6       | Well-beaten |
-| Sour Cream  | 1/2 cup | |
-| Salt        | 1/2 tsp | |
-| Pepper      | 1/4 tsp | |
-| Dry Mustard | 1/2 tsp | |
-| Butter      | 2 Tbsp  | |
+| Ingredient  | Amount | Notes |
+| ----------- | ------ | ----- |
+| Eggs        | 6      | Well-beaten |
+| Sour Cream  | ½ cup  | |
+| Salt        | ½ tsp  | |
+| Pepper      | ¼ tsp  | |
+| Dry Mustard | ½ tsp  | |
+| Butter      | 2 Tbsp | |
 
 ## Method
 

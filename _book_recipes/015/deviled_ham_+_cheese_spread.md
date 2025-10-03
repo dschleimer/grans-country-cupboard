@@ -13,12 +13,12 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Deviled Ham  | 1 can   | This calls for a 5.25 oz can.  Other recipes call for 4.5 oz can.  In 2025 this is sold in 4.25 oz cans. |
-| Cream Cheese | 3 oz    | Cream cheese used to be sold in 3 oz "small" packages alongside the still-extant 8oz packages. |
-| Lemon Juice  | 1/2 tsp | |
-| Horseradish  | 1/2 tsp | |
+| Ingredient   | Amount | Notes |
+| ------------ | ------ | ----- |
+| Deviled Ham  | 1 can  | This calls for a 5.25 oz can.  Other recipes call for 4.5 oz can.  In 2025 this is sold in 4.25 oz cans. |
+| Cream Cheese | 3 oz   | Cream cheese used to be sold in 3 oz "small" packages alongside the still-extant 8oz packages. |
+| Lemon Juice  | ½ tsp  | |
+| Horseradish  | ½ tsp  | |
 
 ## Method
 1. Blend well

@@ -18,13 +18,13 @@ categories:
 | -------------------- | ------- | ----- |
 | Lemon Jello          | 3oz pkg | |
 | Hot Water            | 1 cup   | |
-| Mayonnaise           | 1/2 cup | |
+| Mayonnaise           | ½ cup   | |
 | Pimento Cream Cheese | 5 oz    | |
-| Milk                 | 1/2 cup | Recipe calls for "rich milk" presumably whole milk |
+| Milk                 | ½ cup   | Recipe calls for "rich milk" presumably whole milk |
 | Onion                | 1 Tbsp  | Grated |
-| Celery               | 1/2 cup | Finely cut |
-| Seasoned Salt        | 1/4 Tsp | |
-| Pepper               | 1/4 tsp | Black Pepper |
+| Celery               | ½ cup   | Finely cut |
+| Seasoned Salt        | ¼ Tsp   | |
+| Pepper               | ¼ tsp   | Black Pepper |
 | Green Pepper         | 2 Tbsp  | Diced |
 | Eggs                 | 3       | Hard Boiled - Diced |
 | Tuna                 | 14 oz   | Recipe calls for two 7oz size cans of tuna |

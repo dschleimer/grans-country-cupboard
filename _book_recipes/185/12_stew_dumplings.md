@@ -12,13 +12,13 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount  | Notes |
-| ------------- | ------- | ----- |
-| Flour         | 2 cups  | |
-| Baking Powder | 4 tsp   | |
-| Salt          | 1/2 tsp | |
-| Butter        | 1 Tbsp  | |
-| Milk          | 3/4 cup | |
+| Ingredient    | Amount | Notes |
+| ------------- | ------ | ----- |
+| Flour         | 2 cups | |
+| Baking Powder | 4 tsp  | |
+| Salt          | ½ tsp  | |
+| Butter        | 1 Tbsp | |
+| Milk          | ¾ cup  | |
 
 ## Method
 1. Sift together flour, baking powder, and salt.

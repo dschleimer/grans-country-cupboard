@@ -25,7 +25,7 @@ categories:
 | Mayonnaise           | 6 Tbsp     | |
 | Eggs                 | 3          | Hard Boiled - sliced |
 | Celery               | 1 cup      | Chopped  fine |
-| Parsley              | 1/8 cup    | minced |
+| Parsley              | ⅛ cup      | minced |
 | Pimento Olives       | 12         | sliced |
 | Prepared Mustard     | 1 tsp      | |
 | Worcestershire Sauce | Few dashes | |

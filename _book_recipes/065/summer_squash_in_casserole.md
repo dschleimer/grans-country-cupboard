@@ -14,15 +14,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient     | Amount    | Notes |
-| -------------- | --------- | ----- |
-| Squash         | 5 medium  | Yellow, white or Zuccini |
-| Onion          | 1/2 cup   | Chopped |
-| Butter         | 2 Tbsp    | Melted - More for Casserole dish |
-| Salt           | 1 1/2 tsp | |
-| Pepper         | To Taste  | |
-| Cheddar Cheese | 1/2 cup   | Grated |
-| Fried Onions   | 1 can     | |
+| Ingredient     | Amount   | Notes |
+| -------------- | -------- | ----- |
+| Squash         | 5 medium | Yellow, white or Zuccini |
+| Onion          | ½ cup    | Chopped |
+| Butter         | 2 Tbsp   | Melted - More for Casserole dish |
+| Salt           | 1½ tsp   | |
+| Pepper         | To Taste | |
+| Cheddar Cheese | ½ cup    | Grated |
+| Fried Onions   | 1 can    | |
 
 ## Method
 

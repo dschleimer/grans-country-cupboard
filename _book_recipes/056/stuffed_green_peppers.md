@@ -16,19 +16,19 @@ categories:
 
 ## Ingredients
 
-| Ingredient           | Amount    | Notes |
-| -------------------- | --------- | ----- |
-| Ground Beef          | 1 1/2 lbs | Recipe calls for Chuck |
-| Onions               | 4         | Cut up |
-| Green Peppers        | 6         | |
-| Worcestershire Sauce | To Taste  | |
-| Seasoned Salt        | To Taste  | |
-| Seasoned Pepper      | To Taste  | |
-| Garlic Powder        | To Taste  | |
-| Rice                 | 2 cups    | |
-| Sugar                | 1 tsp     | |
-| Ragu Sauce           | 2 cups    | |
-| Cheese               |           | Grated - Optional |
+| Ingredient           | Amount   | Notes |
+| -------------------- | -------- | ----- |
+| Ground Beef          | 1½ lbs   | Recipe calls for Chuck |
+| Onions               | 4        | Cut up |
+| Green Peppers        | 6        | |
+| Worcestershire Sauce | To Taste | |
+| Seasoned Salt        | To Taste | |
+| Seasoned Pepper      | To Taste | |
+| Garlic Powder        | To Taste | |
+| Rice                 | 2 cups   | |
+| Sugar                | 1 tsp    | |
+| Ragu Sauce           | 2 cups   | |
+| Cheese               |          | Grated - Optional |
 
 ## Method
 
@@ -44,7 +44,7 @@ categories:
 1. Add sugar and Ragu sauce
 1. Mix well and fill pepper halves
 1. Place stuffed peppers in oven-safe pan
-1. Add 1/2 inch of water
+1. Add ½ inch of water
 1. Bake for 1 hour
 1. If desired, place a little grated cheese on each pepper
 

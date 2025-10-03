@@ -21,7 +21,7 @@ categories:
 | Pepper            | To Taste   | |
 | Gumbo Creole Soup | 1 can      | |
 | Water             | 1 soup can | |
-| Catsup            | 1/2 cup    | |
+| Catsup            | ½ cup      | |
 
 ## Method
 

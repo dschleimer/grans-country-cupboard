@@ -19,7 +19,7 @@ categories:
 | Green Beans            | 2 cups | Canned - Preferably French Style |
 | Cream of Mushroom Soup | 1 can  | Undiluted |
 | Fried Onion            | 1 can  | |
-| Butter                 | 1/8 lb | |
+| Butter                 | ⅛ lb   | |
 
 ## Method
 

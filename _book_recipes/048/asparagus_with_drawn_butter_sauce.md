@@ -20,7 +20,7 @@ categories:
 | Sugar      | Pinch        | |
 | Butter     | 2 Tbsp       | |
 | Flour      | 1 Tbsp Flour | |
-| Milk       | 1/2 cup      | |
+| Milk       | ½ cup        | |
 | Salt       | To Taste     | |
 | Lemon      |              | For serving |
 

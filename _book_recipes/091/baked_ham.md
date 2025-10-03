@@ -15,16 +15,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient          | Amount  | Notes |
-| ------------------- | ------- | ----- |
-| Ham                 | 1       | Boned - Rolled - See modern notes |
-| Cloves              |         | |
-| Pickle Juice        |         | Use Pickle or Fruit Juice |
-| Fruit Juice         |         | Canned - Use Pickle or Fruit Juice |
-| Brown Sugar         | 1 cup   | |
-| Pineapple Preserves | 3/4 cup | |
-| Vinegar             | 3 Tbsp  | |
-| Mustard             | 1 tsp   | |
+| Ingredient          | Amount | Notes |
+| ------------------- | ------ | ----- |
+| Ham                 | 1      | Boned - Rolled - See modern notes |
+| Cloves              |        | |
+| Pickle Juice        |        | Use Pickle or Fruit Juice |
+| Fruit Juice         |        | Canned - Use Pickle or Fruit Juice |
+| Brown Sugar         | 1 cup  | |
+| Pineapple Preserves | ¾ cup  | |
+| Vinegar             | 3 Tbsp | |
+| Mustard             | 1 tsp  | |
 
 ## Method
 

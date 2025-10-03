@@ -15,16 +15,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient           | Amount  | Notes |
-| -------------------- | ------- | ----- |
-| Cream Cheese         | 8 oz    | |
-| Sharp Cheddar        | 1 lb    | |
-| Onion                | 1 tsp   | Grated |
-| Worcestershire Sauce | 1 tsp   | |
-| Paprika              | 1/2 tsp | |
-| Parsely              |         | For outside of log |
-| Ground Nuts          |         | For outside of log |
-| Dried Beef           |         | For outside of log |
+| Ingredient           | Amount | Notes |
+| -------------------- | ------ | ----- |
+| Cream Cheese         | 8 oz   | |
+| Sharp Cheddar        | 1 lb   | |
+| Onion                | 1 tsp  | Grated |
+| Worcestershire Sauce | 1 tsp  | |
+| Paprika              | ½ tsp  | |
+| Parsely              |        | For outside of log |
+| Ground Nuts          |        | For outside of log |
+| Dried Beef           |        | For outside of log |
 
 ## Method
 1. Let cheddar and cream cheese come to room temperature

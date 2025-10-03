@@ -20,10 +20,10 @@ categories:
 | -------------------- | ----------- | ----- |
 | Unflavored Gelatin   | 6 envelopes | |
 | Tomato Juice         | 6 cups      | Divided |
-| Lemon Juice          | 2/3 cups    | |
-| Salt                 | 1 1/2 tsp   | |
+| Lemon Juice          | ⅔ cups      | |
+| Salt                 | 1½ tsp      | |
 | Worcestershire Sauce | 1 Tbsp      | |
-| Horseradish          | 1/3 cup     | |
+| Horseradish          | ⅓ cup       | |
 | Mayonnaise           | 3 cups      | |
 | Cooked Seafood       | 6 cups      | Shrimp, Crab, or Lobster |
 | Celery               | 3 cups      | Chopped |

@@ -13,15 +13,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient     | Amount   | Notes |
-| -------------- | -------- | ----- |
-| Cream Cheese   | 16 oz    | |
-| Mayonnaise     | 1/2 cup  | |
-| Mustard        | 1 Tbsp   | |
-| Salt           | 1/4 Tbsp | |
-| Fruit Cocktail | 1 can    | Drained - Recipe suggests a can should be 3 1/2 cups |
-| Pineapple      | 1 cup    | Diced - Drained |
-| Lettuce        |          | Crisp - for serving |
+| Ingredient     | Amount | Notes |
+| -------------- | ------ | ----- |
+| Cream Cheese   | 16 oz  | |
+| Mayonnaise     | ½ cup  | |
+| Mustard        | 1 Tbsp | |
+| Salt           | ¼ Tbsp | |
+| Fruit Cocktail | 1 can  | Drained - Recipe suggests a can should be 3½ cups |
+| Pineapple      | 1 cup  | Diced - Drained |
+| Lettuce        |        | Crisp - for serving |
 
 ## Method
 

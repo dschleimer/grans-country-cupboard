@@ -10,19 +10,19 @@ categories:
 
 ## Ingredients
 
-| Ingredient        | Amount                       | Notes |
-| ----------------- | ---------------------------- | ----- |
-| Onion             | 1/4 cup                      | chopped |
-| Margarine         | 1/4 cup                      | or butter |
-| Parsley flakes    | 2 Tbsp                       | |
-| Black pepper      | 1/8 tsp                      | |
-| Poultry seasoning | 1/2 tsp                      | See modern notes |
-| Cracker crumbs    | 1 cup                        | |
-| Water             | 1/4 cup                      | |
-| Egg               | 1                            | |
-| Chicken           | 1 1/2 cup                    | cooked and chopped |
-| Cheese            | 1/4 lb cubed + 1/4 lb sliced | |
-| Ham               | 6 slices                     | boiled |
+| Ingredient        | Amount                   | Notes |
+| ----------------- | ------------------------ | ----- |
+| Onion             | ¼ cup                    | chopped |
+| Margarine         | ¼ cup                    | or butter |
+| Parsley flakes    | 2 Tbsp                   | |
+| Black pepper      | ⅛ tsp                    | |
+| Poultry seasoning | ½ tsp                    | See modern notes |
+| Cracker crumbs    | 1 cup                    | |
+| Water             | ¼ cup                    | |
+| Egg               | 1                        | |
+| Chicken           | 1½ cup                   | cooked and chopped |
+| Cheese            | ¼ lb cubed + ¼ lb sliced | |
+| Ham               | 6 slices                 | boiled |
 
 ## Method
 1. Preheat oven to bake at 350 degrees F.

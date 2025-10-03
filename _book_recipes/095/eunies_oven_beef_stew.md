@@ -13,14 +13,14 @@ categories:
 
 ## Ingredients
 
-| Ingredient             | Amount    | Notes |
-| ---------------------- | --------- | ----- |
-| Stew Beef              | 1 1/2 lbs | |
-| Stew Vegetables        | 2 bags    | |
-| Cream of Mushroom Soup | 1 can     | |
-| Salt                   |           | |
-| Pepper                 |           | |
-| Worcestershire Sauce   | Dash      | |
+| Ingredient             | Amount | Notes |
+| ---------------------- | ------ | ----- |
+| Stew Beef              | 1½ lbs | |
+| Stew Vegetables        | 2 bags | |
+| Cream of Mushroom Soup | 1 can  | |
+| Salt                   |        | |
+| Pepper                 |        | |
+| Worcestershire Sauce   | Dash   | |
 
 ## Method
 

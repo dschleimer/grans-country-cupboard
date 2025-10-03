@@ -14,20 +14,20 @@ categories:
 
 ## Ingredients
 
-| Ingredient  | Amount     | Notes |
-| ----------- | ---------- | ----- |
-| Flour       | 2 Tbsp     | |
-| Salt        | 1 1/2 tsp  | |
-| Pepper      | Dash       | |
-| Beef Chuck  | 1 1/2 lbs  | 1 inch cubes |
-| Shortening  | 2 Tbsp     | |
-| Tomato Soup | 2 cans     | |
-| Water       | 2 1/2 cups | |
-| Onion       | 1 1/2 cups | Chopped |
-| Basil       | 1/2 tsp    | |
-| Potatoes    | 6          | pared, quartered |
-| Carrots     | 6          | pared |
-| Red Wine    | 1/2 cup    | Dry Wine - May substitute with water |
+| Ingredient  | Amount  | Notes |
+| ----------- | ------- | ----- |
+| Flour       | 2 Tbsp  | |
+| Salt        | 1½ tsp  | |
+| Pepper      | Dash    | |
+| Beef Chuck  | 1½ lbs  | 1 inch cubes |
+| Shortening  | 2 Tbsp  | |
+| Tomato Soup | 2 cans  | |
+| Water       | 2½ cups | |
+| Onion       | 1½ cups | Chopped |
+| Basil       | ½ tsp   | |
+| Potatoes    | 6       | pared, quartered |
+| Carrots     | 6       | pared |
+| Red Wine    | ½ cup   | Dry Wine - May substitute with water |
 
 ## Method
 
@@ -37,7 +37,7 @@ categories:
 1. Coat beef cubes in flour mixture
 1. Brown beef in Shortening
 1. Add both cans of tomato soup
-1. Using 2 1/2 cups of water, rinse the soup cans adding rinse water to beef
+1. Using 2½ cups of water, rinse the soup cans adding rinse water to beef
 1. Chop onion and add
 1. add basil
 1. Cover

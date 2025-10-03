@@ -14,16 +14,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount     | Notes |
-| ------------ | ---------- | ----- |
-| Butter       | 3 Tbsp     | |
-| Flour        | 4 Tbsp     | White or Whole Wheat |
-| Milk         | 1 1/4 cups | |
-| Sharp Cheese | 3/4 cups   | Grated |
-| Eggs         | 3          | Whites and yolks separated |
-| Paprika      | Dash       | Use Paprika or Red Pepper, not both |
-| Red Pepper   | Dash       | Use Paprika or Red Pepper, not both |
-| Salt         | Pinch      | |
+| Ingredient   | Amount  | Notes |
+| ------------ | ------- | ----- |
+| Butter       | 3 Tbsp  | |
+| Flour        | 4 Tbsp  | White or Whole Wheat |
+| Milk         | 1¼ cups | |
+| Sharp Cheese | ¾ cups  | Grated |
+| Eggs         | 3       | Whites and yolks separated |
+| Paprika      | Dash    | Use Paprika or Red Pepper, not both |
+| Red Pepper   | Dash    | Use Paprika or Red Pepper, not both |
+| Salt         | Pinch   | |
 
 ## Method
 

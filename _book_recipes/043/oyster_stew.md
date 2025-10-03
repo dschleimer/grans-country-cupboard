@@ -16,17 +16,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient           | Amount       | Notes |
-| -------------------- | ------------ | ----- |
-| Oysters              | 1 pint       | shucked |
-| Butter               | 1 cup        | |
-| Salt                 | 1/2 tsp      | |
-| Cayenne              | Dash         | |
-| Pepper               | 1/8 tsp      | |
-| Worcestershire Sauce | 1 tsp        | |
-| Milk                 | 1 1/2 quarts | "Rich" Milk presumably meaning whole |
-| Cream                | 1 1/2 quarts | Optional - may suibstitute for milk |
-| Paprika              | 1/4 tsp      | |
+| Ingredient           | Amount    | Notes |
+| -------------------- | --------- | ----- |
+| Oysters              | 1 pint    | shucked |
+| Butter               | 1 cup     | |
+| Salt                 | ½ tsp     | |
+| Cayenne              | Dash      | |
+| Pepper               | ⅛ tsp     | |
+| Worcestershire Sauce | 1 tsp     | |
+| Milk                 | 1½ quarts | "Rich" Milk presumably meaning whole |
+| Cream                | 1½ quarts | Optional - may suibstitute for milk |
+| Paprika              | ¼ tsp     | |
 
 ## Method
 

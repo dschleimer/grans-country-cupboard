@@ -16,20 +16,20 @@ categories:
 
 ## Ingredients
 
-| Ingredient                   | Amount     | Notes |
-| ---------------------------- | ---------- | ----- |
-| Olives                       | 1 cup      | Ripe - Pitted - Cut up |
-| Tomatoes                     | 6 large    | More if more fit in Casserole |
-| Butter                       | 2 Tbsp     | More to coat baking dish |
-| Flour                        | 2 Tbsp     | |
-| Evaporated Milk              | 1 2/3 cups | Recipe specifies 1 tall can (1 2/3 cups) |
-| Salt                         | 1/2 tsp    | |
-| Pepper                       | 1/4 tsp    | |
-| Basil                        | 1/8 tsp    | |
-| Italian Seasoning            | 1/8 tsp    | Optional - May substitute for Basil |
-| Elbow Macaroni               | 2 cups     | Cooked - recipe calls for 2 cups (8 oz package) |
-| Parsley Flakes               | 1 tsp      | |
-| Italian Seasone Bread Crumbs |            | |
+| Ingredient                   | Amount  | Notes |
+| ---------------------------- | ------- | ----- |
+| Olives                       | 1 cup   | Ripe - Pitted - Cut up |
+| Tomatoes                     | 6 large | More if more fit in Casserole |
+| Butter                       | 2 Tbsp  | More to coat baking dish |
+| Flour                        | 2 Tbsp  | |
+| Evaporated Milk              | 1⅔ cups | Recipe specifies 1 tall can (1⅔ cups) |
+| Salt                         | ½ tsp   | |
+| Pepper                       | ¼ tsp   | |
+| Basil                        | ⅛ tsp   | |
+| Italian Seasoning            | ⅛ tsp   | Optional - May substitute for Basil |
+| Elbow Macaroni               | 2 cups  | Cooked - recipe calls for 2 cups (8 oz package) |
+| Parsley Flakes               | 1 tsp   | |
+| Italian Seasone Bread Crumbs |         | |
 
 ## Method
 

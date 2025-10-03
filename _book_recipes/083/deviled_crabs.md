@@ -23,7 +23,7 @@ categories:
 | Parsley      | litte     | |
 | Salt         | 1 tsp     | |
 | Onion Juice  | 1 tsp     | |
-| Pepper       | 1/4 tsp   | |
+| Pepper       | ¼ tsp     | |
 | Mayonnaise   | 1 Tbsp    | |
 | Bread Crumbs |           | |
 

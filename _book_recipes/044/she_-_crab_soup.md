@@ -17,7 +17,7 @@ categories:
 
 | Ingredient           | Amount   | Notes |
 | -------------------- | -------- | ----- |
-| Onions               | 1/4 cup  | Sliced |
+| Onions               | ¼ cup    | Sliced |
 | She-Crab Meat        | 2 cups   | with eggs |
 | Butter               | 2 Tbsp   | |
 | Flour                | 2 Tbsp   | |

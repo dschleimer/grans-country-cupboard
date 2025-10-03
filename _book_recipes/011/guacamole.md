@@ -17,23 +17,23 @@ categories:
 
 ## Ingredients
 
-| Ingredient           | Amount    | Notes |
-| -------------------- | --------- | ----- |
-| Avocados             | 2 Large   | |
-| Lime Juice           | 1 Tbsp    | Use Lime OR Lemon Juice, not both |
-| Lemon Juice          | 1 Tbsp    | Use Lime OR Lemon Juice, not both |
-| Salt                 | 1 1/4 tsp | |
-| Tabasco Sauce        | 1/4 tsp   | |
-| Worcestershire Sauce | 1/2 tsp   | |
-| Onion                | 1 tbsp    | Minced |
-| Garlic               | 1 Clove   | Minced |
-| Cream Cheese         | 3 Oz      | |
-| Mayonnaise           | 1/3 Cup   | |
-| Bacon                | 6 slices  | Optional - at serving time |
-| Sour Cream           | 3 Oz      | Optional - may substitute for Cream Cheese |
-| Roquefort Cheese     | 1/3 cup   | Optional - Crumbled |
-| Dry White Wine       | 1/4 cup   | Optional |
-| Garlic Powder        | 1/2 tsp   | Optional - may substitute for fresh garlic |
+| Ingredient           | Amount   | Notes |
+| -------------------- | -------- | ----- |
+| Avocados             | 2 Large  | |
+| Lime Juice           | 1 Tbsp   | Use Lime OR Lemon Juice, not both |
+| Lemon Juice          | 1 Tbsp   | Use Lime OR Lemon Juice, not both |
+| Salt                 | 1¼ tsp   | |
+| Tabasco Sauce        | ¼ tsp    | |
+| Worcestershire Sauce | ½ tsp    | |
+| Onion                | 1 tbsp   | Minced |
+| Garlic               | 1 Clove  | Minced |
+| Cream Cheese         | 3 Oz     | |
+| Mayonnaise           | ⅓ Cup    | |
+| Bacon                | 6 slices | Optional - at serving time |
+| Sour Cream           | 3 Oz     | Optional - may substitute for Cream Cheese |
+| Roquefort Cheese     | ⅓ cup    | Optional - Crumbled |
+| Dry White Wine       | ¼ cup    | Optional |
+| Garlic Powder        | ½ tsp    | Optional - may substitute for fresh garlic |
 
 ## Method
 

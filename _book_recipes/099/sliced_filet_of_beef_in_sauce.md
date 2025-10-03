@@ -15,15 +15,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount    | Notes |
-| ------------- | --------- | ----- |
-| Filet of Beef | 3 lb      | |
-| Shallots      | 1/2 cup   | Chopped |
-| Red Wine      | 1 1/2 cup | Dry |
-| Butter        | 1/4 lb    | |
-| Parsley       | 2 tsp     | Minced |
-| Salt          | 1 1/2 tsp | |
-| Black Pepper  | 1/4 tsp   | Fresh Ground |
+| Ingredient    | Amount | Notes |
+| ------------- | ------ | ----- |
+| Filet of Beef | 3 lb   | |
+| Shallots      | ½ cup  | Chopped |
+| Red Wine      | 1½ cup | Dry |
+| Butter        | ¼ lb   | |
+| Parsley       | 2 tsp  | Minced |
+| Salt          | 1½ tsp | |
+| Black Pepper  | ¼ tsp  | Fresh Ground |
 
 ## Method
 
@@ -31,7 +31,7 @@ categories:
 1. Preheat oven to 400F
 1. Trim the beef
 1. Roast 35 minutes or desired rareness
-1. Slice beaf 1/2 inch thick
+1. Slice beaf ½ inch thick
 1. Serve with Sauce
 
 #### Sauce
@@ -39,7 +39,7 @@ categories:
 1. Make Sauce while beef roasts
 1. Chop Shallots
 1. Mince Parsley
-1. Cook shallots in wine until reduced to 1/4 original size
+1. Cook shallots in wine until reduced to ¼ original size
 1. Let cool a little
 1. Cream butter, parsley, salt, and pepper
 1. Blend into wine mixture

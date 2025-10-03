@@ -17,7 +17,7 @@ categories:
 | Chicken Breasts       | 4       | Boneless - Skinless - Cooked - Cut bite size |
 | Cream of Chicken Soup | 2 cans  | |
 | Lemon Juice           | 2 tsp   | |
-| Mayonnaise            | 3/4 cup | Recipe specifies Hellman's Blue Ribbon Mayonnaise |
+| Mayonnaise            | ¾ cup   | Recipe specifies Hellman's Blue Ribbon Mayonnaise |
 | Asparagus             | 2 boxes | Cut - Cooked |
 | Bread Crumps          |         | |
 | Butter                |         | |

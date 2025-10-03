@@ -11,15 +11,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient  | Amount         | Notes |
-| ----------- | -------------- | ----- |
-| Blue Cheese | 2 oz (1/2 cup) | |
-| Mushrooms   | 1 can (3 oz)   | Drained |
-| Egss        | 3              | Whites and yolks separated |
-| Cream       | 1 Tbsp         | |
-| Pepper      | 1/4 tsp        | |
-| Salt        | to taste       | |
-| Butter      | 2 Tbsp         | |
+| Ingredient  | Amount       | Notes |
+| ----------- | ------------ | ----- |
+| Blue Cheese | 2 oz (½ cup) | |
+| Mushrooms   | 1 can (3 oz) | Drained |
+| Egss        | 3            | Whites and yolks separated |
+| Cream       | 1 Tbsp       | |
+| Pepper      | ¼ tsp        | |
+| Salt        | to taste     | |
+| Butter      | 2 Tbsp       | |
 
 ## Method
 

@@ -13,17 +13,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Crab Meat    | 3 cups  | Fresh |
-| Salt         | 1/2 tsp | |
-| Pepper       | 1/2 tsp | |
-| 2 eggs       | 2 + 2   | Beaten - See modern notes |
-| Onion        | 1/3 cup | Finely chopped |
-| Dry Mustard  | 2 tsp   | |
-| Mayonnaise   |         | |
-| Flour        |         | |
-| Bread Crumbs |         | Fine Dry Bread Crumbs |
+| Ingredient   | Amount | Notes |
+| ------------ | ------ | ----- |
+| Crab Meat    | 3 cups | Fresh |
+| Salt         | ½ tsp  | |
+| Pepper       | ½ tsp  | |
+| 2 eggs       | 2 + 2  | Beaten - See modern notes |
+| Onion        | ⅓ cup  | Finely chopped |
+| Dry Mustard  | 2 tsp  | |
+| Mayonnaise   |        | |
+| Flour        |        | |
+| Bread Crumbs |        | Fine Dry Bread Crumbs |
 
 ## Method
 

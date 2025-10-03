@@ -20,7 +20,7 @@ categories:
 | Butter               | 4 tbsp      | |
 | Tabasco Sauce        |             | |
 | Worcestershire Sauce |             | |
-| Flour                | 3/4 cup     | |
+| Flour                | ¾ cup       | |
 | Olives               |             | |
 
 ## Method

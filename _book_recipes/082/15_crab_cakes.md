@@ -17,7 +17,7 @@ categories:
 | Ingredient   | Amount   | Notes |
 | ------------ | -------- | ----- |
 | Crab meat    | 1 lb.    | carefully picked free of all shell |
-| Butter       | 1/4 lb.  | |
+| Butter       | ¼ lb.    | |
 | Flour        | 3 Tbsp.  | |
 | Milk         | 2 cups   | |
 | Nutmeg       | 1 dash   | |

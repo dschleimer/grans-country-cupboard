@@ -20,17 +20,17 @@ page_order: 3
 | Salt       |         | |
 | Pepper     |         | |
 | Eggs       | 2       | |
-| Milk       | 1/4 cup | |
-| Corn Meal  | 1/2 cup | |
+| Milk       | ¼ cup   | |
+| Corn Meal  | ½ cup   | |
 
 ## Method
 
-1. Slice tomatoes into 1/2 inch slices
+1. Slice tomatoes into ½ inch slices
 1. Sprinkle with sugar, salt, and pepper to taste
 1. Beat eggs
 1. Add milk and corn meal to eggs to make a batter
 1. Dip tomato slices into batter
-1. Heat 1/2 inch of fat
+1. Heat ½ inch of fat
 1. Fry Tomato slices about 2 minutes, turning once to brown each side
 1. Drain on paper
 

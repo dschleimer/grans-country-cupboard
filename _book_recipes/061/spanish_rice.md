@@ -16,10 +16,10 @@ categories:
 | Ingredient      | Amount         | Notes |
 | --------------- | -------------- | ----- |
 | Tomatoes        | 1 Large can    | |
-| Sharp Cheese    | 1/2 lb         | Cut fine |
+| Sharp Cheese    | ½ lb           | Cut fine |
 | Onions          | 5 med          | Sliced Thin |
 | Rice            | 6 Tbsp         | Uncooked |
-| Hot Water       | 1/2 cup        | |
+| Hot Water       | ½ cup          | |
 | Stuffed Olives  | 1 Small bottle | Including Juice |
 | Bacon Drippings | 1 Tbsp         | |
 

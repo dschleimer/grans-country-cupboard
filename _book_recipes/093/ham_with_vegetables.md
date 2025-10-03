@@ -14,7 +14,7 @@ categories:
 
 | Ingredient | Amount                      | Notes |
 | ---------- | --------------------------- | ----- |
-| Butter     | 1/4 cup                     | |
+| Butter     | ¼ cup                       | |
 | Mushrooms  | 12 oz fresh or 8oz can      | |
 | Flour      | 1 Tbsp                      | |
 | Sherry     | 1 Tbsp                      | |

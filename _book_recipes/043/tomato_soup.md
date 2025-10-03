@@ -14,18 +14,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient  | Amount  | Notes |
-| ----------- | ------- | ----- |
-| Tomatoes    | 8       | |
-| Water       | 1 pint  | |
-| Salt        | 1 tsp   | |
-| Sugar       | 1 Tbsp  | |
-| Cloves      | 5       | whole |
-| Peppercorns | 1/2 tsp | |
-| Parsley     | 1 Tbsp  | |
-| Onion       | 1 Tbsp  | Grated |
-| Flour       | 1 Tbsp  | |
-| Butter      | 1 Tbsp  | |
+| Ingredient  | Amount | Notes |
+| ----------- | ------ | ----- |
+| Tomatoes    | 8      | |
+| Water       | 1 pint | |
+| Salt        | 1 tsp  | |
+| Sugar       | 1 Tbsp | |
+| Cloves      | 5      | whole |
+| Peppercorns | ½ tsp  | |
+| Parsley     | 1 Tbsp | |
+| Onion       | 1 Tbsp | Grated |
+| Flour       | 1 Tbsp | |
+| Butter      | 1 Tbsp | |
 
 ## Method
 

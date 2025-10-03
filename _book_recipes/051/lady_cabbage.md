@@ -18,7 +18,7 @@ categories:
 | ---------- | -------- | ----- |
 | Cabbage    | 1 head   | |
 | Flour      | 3 Tbsp   | |
-| Butter     | 1/4 lb   | |
+| Butter     | ¼ lb     | |
 | Salt       | To Taste | |
 | Pepper     | To Taste | |
 | Milk       | 2 cups   | |

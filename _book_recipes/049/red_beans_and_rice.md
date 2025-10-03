@@ -16,7 +16,7 @@ categories:
 | Ingredient           | Amount       | Notes |
 | -------------------- | ------------ | ----- |
 | Red Beans            | 1 box        | |
-| Salt Pork            | 1/2 lb       | |
+| Salt Pork            | ½ lb         | |
 | Stewed Tomatoes      | 2 cans       | |
 | Worcestershire Sauce | few shakes   | |
 | Onions               | 4 medium     | Cut up |
@@ -24,7 +24,7 @@ categories:
 | Onion Powder         | Big shake    | |
 | Garlic Powder        | Little Shake | |
 | Bay Leaves           | 2            | Remove Before Serving |
-| Parsley              | 1/2 tsp      | Dried |
+| Parsley              | ½ tsp        | Dried |
 | Tabasco Sauce        | Shake        | |
 | Maggis               | Shake        | Probably this [seasoning sauce](https://en.wikipedia.org/wiki/Maggi) |
 | Seasoned Salt        | Shake        | |

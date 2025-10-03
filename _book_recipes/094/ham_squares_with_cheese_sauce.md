@@ -20,7 +20,7 @@ categories:
 | Onion                   | 1 small  | minced |
 | Prepared Mustard        | 2 Tbsp   | |
 | Processes Cheese Spread | 8 oz jar | |
-| White Wine              | 1/3 cup  | |
+| White Wine              | ⅓ cup    | |
 
 ## Method
 

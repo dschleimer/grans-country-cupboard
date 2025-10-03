@@ -18,7 +18,7 @@ categories:
 | Egg           | 1        | Beaten |
 | Sugar         | 3 Tbsp   | |
 | Vinegar       | 3 Tbsp   | |
-| Dried Mustard | 1/2 Tsp  | |
+| Dried Mustard | ½ Tsp    | |
 | Salt          | To taste | |
 | Pepper        | To taste | |
 | Mayonnaise    |          | For bulk

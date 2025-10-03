@@ -22,8 +22,8 @@ categories:
 | Celery           | 2 stalks    | Stalks, not ribs - Cut up |
 | Tomatoes         | 1 large can | |
 | Carrots          | 6           | Cut up |
-| Lentils          | 1/2 cup     | Dried |
-| Peas             | 1/2 cup     | Dried |
+| Lentils          | ½ cup       | Dried |
+| Peas             | ½ cup       | Dried |
 | Parsley          | 1 Tbsp      | Parsley Flakes |
 | Potatoes         | 2           | Cut up - White potatoes |
 | Turnip           | 1           | Optional - cut up |
@@ -36,7 +36,7 @@ categories:
 
 ## Method
 
-1. fill large pot 3/4 full with water
+1. fill large pot ¾ full with water
 1. Add bones and beef shank
 1. Simmer about 2 hours until meat falls off the bones
 1. While cooking cut up onions, celery, carrots, and turnip if desired
@@ -44,7 +44,7 @@ categories:
 1. Pick meat off bones and add meat to broth
 1. Add all remaining ingredients except Noodles
 1. Simmer about 3 hours
-1. About 1/2 hour before serving add noodles
+1. About ½ hour before serving add noodles
 
 ## Notes From Gran
 * keep pot nearly full of juices

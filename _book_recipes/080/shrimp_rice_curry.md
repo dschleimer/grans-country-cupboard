@@ -13,20 +13,20 @@ categories:
 
 ## Ingredients
 
-| Ingredient           | Amount            | Notes |
-| -------------------- | ----------------- | ----- |
-| Onions               | 1/2 cup           | Chopped |
-| Mushrooms            | 1 can (4oz)       | |
-| Butter               | 2 Tbsp            | |
-| Cream of Shrimp Soup | 1 can             | |
-| Sour Cream           | 1 cup             | |
-| Sherry               | 1/2 tsp or 2 Tbsp | Original recipe lists both amounts on the same line, with 2 Tbsp Sherry in parentheses |
-| Curry                | 1/4 tsp           | |
-| Seasoned Salt        |                   | |
-| Pepper               |                   | |
-| Mustard              | little            | |
-| Shrimp               | 1 cup             | Cooked or canned |
-| Rice                 | 3 cups            | Cooked - may substitute noodles or paddy shells for rice |
+| Ingredient           | Amount          | Notes |
+| -------------------- | --------------- | ----- |
+| Onions               | ½ cup           | Chopped |
+| Mushrooms            | 1 can (4oz)     | |
+| Butter               | 2 Tbsp          | |
+| Cream of Shrimp Soup | 1 can           | |
+| Sour Cream           | 1 cup           | |
+| Sherry               | ½ tsp or 2 Tbsp | Original recipe lists both amounts on the same line, with 2 Tbsp Sherry in parentheses |
+| Curry                | ¼ tsp           | |
+| Seasoned Salt        |                 | |
+| Pepper               |                 | |
+| Mustard              | little          | |
+| Shrimp               | 1 cup           | Cooked or canned |
+| Rice                 | 3 cups          | Cooked - may substitute noodles or paddy shells for rice |
 
 ## Method
 

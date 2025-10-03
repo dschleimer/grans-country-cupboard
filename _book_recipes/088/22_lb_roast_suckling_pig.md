@@ -19,16 +19,16 @@ categories:
 | Whole Pig   | 22 lbs                  | |
 | Salt        |                         | |
 | Brandy      | 1 oz                    | |
-| Mushrooms   | 1/2 lb                  | Chop - Saute |
-| Bread Cubes | 3 1/2 cups              | Soft |
-| Butter      | 1/3 cup                 | Melted |
+| Mushrooms   | ½ lb                    | Chop - Saute |
+| Bread Cubes | 3½ cups                 | Soft |
+| Butter      | ⅓ cup                   | Melted |
 | Garlic      | Touch                   | |
 | Apple       | 1 cup chopped + 1 whole | Whole apple should be shiny red |
 | Parsley     | 3 Tbsp                  | |
 | Salt        |                         | |
 | Pepper      |                         | |
 | Eggs        | 2                       | |
-| White Wine  | 1/2 cup                 | Dry |
+| White Wine  | ½ cup                   | Dry |
 | Peanut oil  |                         | |
 | Meat Stock  | 1 cup                   | "Strong Meat stock - Use Meat Stock or Bouillon |
 | Bouillon    |                         | Use Meat Stock or Bouillon |
@@ -74,7 +74,7 @@ categories:
 1. Reduce to 300F
 1. Roast until very tender when tested with a fork.  About 30 minutes per pound
 1. Baste every 20 minutes
-1. Remove foil or paper from ears after 2 1/2 hours
+1. Remove foil or paper from ears after 2½ hours
 1. After uncoveringb ears, brush surface of pig with very thick cream
 1. When tender and brown remove from oven and place on serving platter or large wooden plank
 1. If desired, preserve drippiongs in roasting pan for gravy
@@ -105,7 +105,7 @@ categories:
 
 ## Notes From Gran
 
-* Allow 3/4 to 1 lb per guest, including head and feet
+* Allow ¾ to 1 lb per guest, including head and feet
 * Complement with sweet + sour red cabbage, Apple Sauce, Black Bread and butter
 * Pig may be cut in half and done in 2 pans if too large for 1 pan
 * Beer is good served with the pig

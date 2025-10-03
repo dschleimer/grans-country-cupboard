@@ -12,19 +12,19 @@ categories:
 
 ## Ingredients
 
-| Ingredient      | Amount  | Notes |
-| --------------- | ------- | ----- |
-| Lemon Juice     | 2 Tbsp  | Fresh |
-| Lime Juice      | 2 Tbsp  | Fresh |
-| Wine Vinegar    | 2 Tbsp  | |
-| Cider Vinegar   | 2 Tbsp  | |
-| Seasoned Salt   | 1/4 tsp | |
-| Seasoned Pepper | 1/8 tsp | |
-| Paprika         | 1/4 tsp | |
-| Mustard         | 1/8 tsp | Presumably seed rather than prepared |
-| Accent          | 1/2 tsp | This is MSG, sold as [Ac'cent](https://accentflavor.com/) today |
-| Celery Salt     | 1/2 tsp | |
-| Mazola Oil      | 6 oz    | |
+| Ingredient      | Amount | Notes |
+| --------------- | ------ | ----- |
+| Lemon Juice     | 2 Tbsp | Fresh |
+| Lime Juice      | 2 Tbsp | Fresh |
+| Wine Vinegar    | 2 Tbsp | |
+| Cider Vinegar   | 2 Tbsp | |
+| Seasoned Salt   | ¼ tsp  | |
+| Seasoned Pepper | ⅛ tsp  | |
+| Paprika         | ¼ tsp  | |
+| Mustard         | ⅛ tsp  | Presumably seed rather than prepared |
+| Accent          | ½ tsp  | This is MSG, sold as [Ac'cent](https://accentflavor.com/) today |
+| Celery Salt     | ½ tsp  | |
+| Mazola Oil      | 6 oz   | |
 
 ## Method
 

@@ -13,16 +13,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient  | Amount  | Notes |
-| ----------- | ------- | ----- |
-| Butter      | 1/2 cup | |
-| Sugar       | 3/4 cup | |
-| Cornstarch  | 3 Tbsp  | |
-| Dry Mustard | 3 tsp   | |
-| Egg         | 5       | Yolks only |
-| Half + Half | 1 cup   | |
-| Vinegar     | 1 cup   | |
-| Salt        | 1 tsp   | |
+| Ingredient  | Amount | Notes |
+| ----------- | ------ | ----- |
+| Butter      | ½ cup  | |
+| Sugar       | ¾ cup  | |
+| Cornstarch  | 3 Tbsp | |
+| Dry Mustard | 3 tsp  | |
+| Egg         | 5      | Yolks only |
+| Half + Half | 1 cup  | |
+| Vinegar     | 1 cup  | |
+| Salt        | 1 tsp  | |
 
 ## Method
 

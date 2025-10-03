@@ -28,7 +28,7 @@ categories:
 | Tomato Sauce    | 6 oz          | Recipe called for 2 cans |
 | Stewed Tomatoes | 1 lb          | Recipe called for 1 can |
 | Ragu Sacue      |               | May be substituted for Tomato |
-| Water           | 1/2 cup       | See Modern notes below |
+| Water           | ½ cup         | See Modern notes below |
 | Butter          |               | |
 
 ## Method
@@ -43,7 +43,7 @@ categories:
 1. Heap spoonfuls of meat mixture in center of each cabbage leaf
 1. Fold over outer edges of cabbage leaves and secure
 1. Arrange in large roasting pan
-1. Mix together Tomato Sauce, Stewed Tomatoes and 1/2 cup water.  Add additional water as needed.
+1. Mix together Tomato Sauce, Stewed Tomatoes and ½ cup water.  Add additional water as needed.
 1. Pour Tomato mixture over cabbage rolls
 1. Dot top of cabbage rolls with butter
 1. Srinkle with Salt and Pepper

@@ -13,13 +13,13 @@ categories:
 
 #### Cheese Filling
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Cream cheese | 8 oz    | softened |
-| Sugar        | 2/3 cup | |
-| Sour Cream   | 1/2 cup | |
-| Vanilla      | 1 tsp   | |
-| Eggs         | 2       | unbeaten |
+| Ingredient   | Amount | Notes |
+| ------------ | ------ | ----- |
+| Cream cheese | 8 oz   | softened |
+| Sugar        | ⅔ cup  | |
+| Sour Cream   | ½ cup  | |
+| Vanilla      | 1 tsp  | |
+| Eggs         | 2      | unbeaten |
 
 #### Cake Base
 
@@ -27,9 +27,9 @@ categories:
 | ------------- | ------- | ----- |
 | Flour         | 1 cup   | |
 | Baking Powder | 1 tsp   | |
-| Salt          | 1/2 tsp | |
-| Butter        | 1/2 cup | |
-| Sugar         | 2/3 cup | |
+| Salt          | ½ tsp   | |
+| Butter        | ½ cup   | |
+| Sugar         | ⅔ cup   | |
 | Eggs          | 2       | |
 | Milk          | 1 Tblsp | |
 | Vanilla       | 1 tsp   | |
@@ -48,15 +48,15 @@ categories:
 
 
 #### Prepare the Cheese Filling
-3. Cream together 2/3 cup sugar and cream cheese.
-4. Add 1/2 cup sour cream and 1 tsp vanilla.
+3. Cream together ⅔ cup sugar and cream cheese.
+4. Add ½ cup sour cream and 1 tsp vanilla.
 5. Blend 2 unbeaten eggs into mix, one at a time.
 6. Beat well and set aside.
 
 
 #### Prepare the Cake Base
 7. Sift together flour, baking powder, and salt, and set aside.
-8. Cream butter, 2/3 cup sugar, and remaining 2 eggs, one at a time.
+8. Cream butter, ⅔ cup sugar, and remaining 2 eggs, one at a time.
 9. Stir in milk and 1 tsp vanilla.
 10. Add dry ingredients to this mix and blend well.
 

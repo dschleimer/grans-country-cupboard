@@ -15,19 +15,19 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount     | Notes |
-| ------------- | ---------- | ----- |
-| Flour         | 1 3/4 cups | |
-| Egg           | 1          | Well-beaten |
-| Water         | 1 3/4 cups | |
-| Salt          | dash       | |
-| Filet of Fish |            | |
+| Ingredient    | Amount  | Notes |
+| ------------- | ------- | ----- |
+| Flour         | 1¾ cups | |
+| Egg           | 1       | Well-beaten |
+| Water         | 1¾ cups | |
+| Salt          | dash    | |
+| Filet of Fish |         | |
 
 ## Method
 
 1. Beat egg well
 1. Mix egg, flour, water and salt
-1. Refrigerate at least 1/2 hour
+1. Refrigerate at least ½ hour
 1. Trim dark meat from filet
 1. Cut filet diagonally into pieces
 1. Heat deep oil to 305F - 370F

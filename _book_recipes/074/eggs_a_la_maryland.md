@@ -12,16 +12,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient  | Amount  | Notes |
-| ----------- | ------- | ----- |
-| Butter      | 1/4 cup | |
-| Light Cream | 1 cup   | |
-| Crab Meat   | 1 cup   | Flaked |
-| Salt        | 1/2 tsp | |
-| Pepper      | 1/4 tsp | |
-| Red Pepper  | Dash    | |
-| Eggs        | 12      | Lightly Beaten |
-| Parsley     | 2 Tbsp  | Chopped |
+| Ingredient  | Amount | Notes |
+| ----------- | ------ | ----- |
+| Butter      | ¼ cup  | |
+| Light Cream | 1 cup  | |
+| Crab Meat   | 1 cup  | Flaked |
+| Salt        | ½ tsp  | |
+| Pepper      | ¼ tsp  | |
+| Red Pepper  | Dash   | |
+| Eggs        | 12     | Lightly Beaten |
+| Parsley     | 2 Tbsp | Chopped |
 
 ## Method
 

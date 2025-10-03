@@ -38,7 +38,7 @@ categories:
 1. Add stew vegetables to pan
 1. Add more water if needed
 1. Cover
-1. Cook anither 1 1/2 hours
+1. Cook anither 1½ hours
 
 ## Notes From Gran
 

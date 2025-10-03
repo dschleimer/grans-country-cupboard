@@ -15,24 +15,24 @@ categories:
 
 ## Ingredients
 
-| Ingredient           | Amount                    | Notes |
-| -------------------- | ------------------------- | ----- |
-| Lobster              | 2 Tails                   | 1 1/2 to 2 lbs each |
-| Butter               | 1/4 cup + 2 Tbsp + 2 Tbsp | Butter goes in three separate times |
-| Flour                | 2 Tbsp                    | |
-| Prepared Mustard     | 1 tsp                     | |
-| Salt                 | 1/2 tsp                   | |
-| Paprika              | 1 tsp                     | |
-| Cayenne              | dash                      | |
-| Cream                | 1 1/2 cup                 | Use cream or Half+ Half, not both |
-| Half + Half          | 1 1/2 cup                 | Use cream or Half+ Half, not both |
-| Cheddar Cheese       | 2 cups                    | Shredded |
-| Worcestershire Sauce | 1 tsp                     | |
-| Green Peppers        | 1/4 cup                   | Diced |
-| Mushrooms            | 1/2 lb                    | Sliced - Fresh or Canned |
-| Cracker              | 2 Tbsp                    | Use Cracker or bread crumbs, not both |
-| Bread Crumbs         | 2 Tbsp                    | Use Cracker or bread crumbs, not both |
-| Parmesan             | 2 Tbsp                    | |
+| Ingredient           | Amount                  | Notes |
+| -------------------- | ----------------------- | ----- |
+| Lobster              | 2 Tails                 | 1½ to 2 lbs each |
+| Butter               | ¼ cup + 2 Tbsp + 2 Tbsp | Butter goes in three separate times |
+| Flour                | 2 Tbsp                  | |
+| Prepared Mustard     | 1 tsp                   | |
+| Salt                 | ½ tsp                   | |
+| Paprika              | 1 tsp                   | |
+| Cayenne              | dash                    | |
+| Cream                | 1½ cup                  | Use cream or Half+ Half, not both |
+| Half + Half          | 1½ cup                  | Use cream or Half+ Half, not both |
+| Cheddar Cheese       | 2 cups                  | Shredded |
+| Worcestershire Sauce | 1 tsp                   | |
+| Green Peppers        | ¼ cup                   | Diced |
+| Mushrooms            | ½ lb                    | Sliced - Fresh or Canned |
+| Cracker              | 2 Tbsp                  | Use Cracker or bread crumbs, not both |
+| Bread Crumbs         | 2 Tbsp                  | Use Cracker or bread crumbs, not both |
+| Parmesan             | 2 Tbsp                  | |
 
 ## Method
 
@@ -55,7 +55,7 @@ categories:
 #### Prepare Mushrooms and Peppers
 1. Slice Mushrooms if not pre-sliced
 1. Dice Green Peppers
-1. In a small fry pan, melt 1/4 cup butter
+1. In a small fry pan, melt ¼ cup butter
 1. Sauté Green Peppers and Mushrooms about 5 minutes
 
 #### Fill the Shells

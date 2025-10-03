@@ -19,7 +19,7 @@ categories:
 | Eggs                  | 2        | Beaten |
 | Mayonnaise            | 1 cup    | Blue Ribbon Mayonnaise |
 | Onion                 | 1        | Chopped fine |
-| Green pepper          | 1/4 cup  | Chopped Fine |
+| Green pepper          | ¼ cup    | Chopped Fine |
 | Parmesan              | 1 cup    | |
 | Salt                  | To Taste | |
 | Pepper                | To Taste | |

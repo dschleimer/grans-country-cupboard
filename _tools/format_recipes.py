@@ -155,6 +155,51 @@ def normalize_tables(lines: List[str]) -> List[str]:
             i += 1
     return out_lines
 
+def normalize_fractions(lines: List[str]) -> List[str]:
+    """
+    Replace ASCII fractions (e.g. "1/2") with Unicode fraction characters
+    in a list of strings.  Fractions that are preceded by a whole number
+    and a space (e.g. "1 1/2") are collapsed into a single token
+    (e.g. "1½").
+    """
+    # Mapping of common fraction strings to Unicode characters.
+    frac_map = {
+        ("1", "2"): "½",
+        ("1", "4"): "¼",
+        ("3", "4"): "¾",
+        ("1", "3"): "⅓",
+        ("2", "3"): "⅔",
+        ("1", "5"): "⅕",
+        ("2", "5"): "⅖",
+        ("3", "5"): "⅗",
+        ("4", "5"): "⅘",
+        ("1", "6"): "⅙",
+        ("5", "6"): "⅚",
+        ("1", "8"): "⅛",
+        ("3", "8"): "⅜",
+        ("5", "8"): "⅝",
+        ("7", "8"): "⅞",
+    }
+
+    # Pattern that matches a whole number followed by a space and a fraction.
+    pattern_with_whole = re.compile(r"\b(\d+)\s+(\d+)/(\d+)\b")
+    # Pattern that matches a plain fraction.
+    pattern_plain = re.compile(r"\b(\d+)/(\d+)\b")
+
+    def replace_with_whole(match: re.Match) -> str:
+        whole, num, den = match.group(1), match.group(2), match.group(3)
+        return whole + frac_map.get((num, den), f"{num}/{den}")
+
+    def replace_plain(match: re.Match) -> str:
+        num, den = match.group(1), match.group(2)
+        return frac_map.get((num, den), f"{num}/{den}")
+
+    # First handle fractions that follow a whole number (removing the space).
+    processed = [pattern_with_whole.sub(replace_with_whole, line) for line in lines]
+    # Then handle any remaining plain fractions.
+    processed = [pattern_plain.sub(replace_plain, line) for line in processed]
+    return processed
+
 def process_file(path: Path) -> None:
     """
     Read *path*, reformat any markdown tables it contains, and write the
@@ -163,13 +208,20 @@ def process_file(path: Path) -> None:
     with path.open("r", encoding="utf-8") as f:
         lines = f.readlines()
 
-    out_lines = normalize_tables(lines)
+    # Normalize fractions before tables
+    new_lines = normalize_fractions(lines)
+    if new_lines != lines:
+        print(f"Fractions were normalized in '{path}'.")
+        lines = new_lines
 
-    if lines != out_lines:
+    new_lines = normalize_tables(lines)
+    if lines != new_lines:
         print(f"Formatted tables in '{path}'.")
+        lines = new_lines
+
     # Write back
     with path.open("w", encoding="utf-8") as f:
-        f.writelines(out_lines)
+        f.writelines(lines)
 
 
 # ------------------------------------------------------------------------

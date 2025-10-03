@@ -17,8 +17,8 @@ categories:
 
 | Ingredient | Amount  | Notes |
 | ---------- | ------- | ----- |
-| Margarine  | 1/2 lb  | Have extra on hand |
-| Butter     | 1/2 lb  | Optional - May substitute for Margerine |
+| Margarine  | ½ lb    | Have extra on hand |
+| Butter     | ½ lb    | Optional - May substitute for Margerine |
 | Tomatoes   |         | Red |
 | Flour      | 3 Tbsp  | Have extra on hand |
 | Salt       |         | |
@@ -30,7 +30,7 @@ categories:
 ## Method
 
 1. Wash, stem and halve tomatoes
-1. Add 1/2 lb of Margerine to large, heavy skillet, adding more if needed
+1. Add ½ lb of Margerine to large, heavy skillet, adding more if needed
 1. Pre-warm serving platter
 1. Heat Margerine
 1. Roll tomatoes in flour

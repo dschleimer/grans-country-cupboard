@@ -14,15 +14,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient           | Amount    | Notes |
-| -------------------- | --------- | ----- |
-| Instant Lemonade Mix | 1/2 cup   | |
-| Instant Orange Mix   | 2 1/2 cup | |
-| Instant Tea          | 1 cup     | |
-| Sugar                | 1 1/2 cup | |
-| Cloves               | 1 tsp     | |
-| Allspice             | 1 tsp     | |
-| Cinnamon             | 1 tsp     | |
+| Ingredient           | Amount | Notes |
+| -------------------- | ------ | ----- |
+| Instant Lemonade Mix | ½ cup  | |
+| Instant Orange Mix   | 2½ cup | |
+| Instant Tea          | 1 cup  | |
+| Sugar                | 1½ cup | |
+| Cloves               | 1 tsp  | |
+| Allspice             | 1 tsp  | |
+| Cinnamon             | 1 tsp  | |
 
 ## Method
 

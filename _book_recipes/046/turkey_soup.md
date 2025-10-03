@@ -22,7 +22,7 @@ categories:
 | Potatoes             | 2 large        | |
 | Onions               | 6 large        | |
 | Bay Leaves           | 2              | Remove before serving |
-| Parsley              | 1/2 Tbsp       | Dried |
+| Parsley              | ½ Tbsp         | Dried |
 | Rice                 | 1 cup          | Uncooked |
 | Turkey Gravy         | 2 cups         | More if available |
 | Tabasco Sauce        | 3 good shakes  | |
@@ -35,7 +35,7 @@ categories:
 
 1. Roast 20-25 lb Turkey and use meat for some other purpose.
 1. Save Carcass, Bones, Skin, and some Stuffing.
-1. Simmer with lid on for about 1 1/2 hours.
+1. Simmer with lid on for about 1½ hours.
 1. Drain, saving juices.
 1. Pick off any pieces of turkey meat from bones and remove remaining stuffing from carcass.
 1. Return meat and stuffing to pot.
@@ -43,7 +43,7 @@ categories:
 1. Put back on stove, lid on pot, and bring to a boil.
 1. When boiling add all remaining ingredients except noodles.
 1. Simmer for 2 hours.
-1. About 1/2 hour before serving add 3 big handfuls of noodles.
+1. About ½ hour before serving add 3 big handfuls of noodles.
 
 ## Notes From Gran
 * Serve hot with French bread cut, buttered, and heated in oven.

@@ -19,7 +19,7 @@ categories:
 | Vinegar                                  | 1 cup   | |
 | Sugar                                    | 2 Tbsp  | |
 | Pickling Spices                          | 2 tsp   | |
-| Salt                                     | 1/2 tsp | |
+| Salt                                     | ½ tsp   | |
 | Garlic                                   | 1 clove | |
 | Bay Leaf                                 | 1       | |
 | Eggs                                     | 12      | Hard-Boiled - Shelled |

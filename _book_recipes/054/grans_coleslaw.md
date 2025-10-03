@@ -20,7 +20,7 @@ categories:
 | Salt              |            | |
 | Pepper            |            | |
 | Accent            | Few shakes | This is MSG, sold as [Ac'cent](https://accentflavor.com/) today |
-| Coleslaw Dressing | 1/2 bottle | Recipe calls for Kraft Dressing |
+| Coleslaw Dressing | ½ bottle   | Recipe calls for Kraft Dressing |
 | Mayonnaise        | 1 cup      | Recipe calls for Blue Ribbon dressing |
 | Lemon Juice       | 2 Tbsp     | |
 | Sugar             | Pinch      | Optional - if needed |

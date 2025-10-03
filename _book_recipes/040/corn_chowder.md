@@ -15,16 +15,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient      | Amount     | Notes |
-| --------------- | ---------- | ----- |
-| Salt Pork       | 1/2 lb     | |
-| Onion           | 1 large    | Chopped |
-| Potatoes        | 2 med.     | Cubed |
-| Chicken Broth   | 2 cups     | |
-| Salt            | 1 tsp      | |
-| Corn            | 1 1/2 cups | Cut from the cob |
-| Seasoned Pepper | 1/2 tsp    | |
-| Half + Half     | 2 cups     | |
+| Ingredient      | Amount  | Notes |
+| --------------- | ------- | ----- |
+| Salt Pork       | ½ lb    | |
+| Onion           | 1 large | Chopped |
+| Potatoes        | 2 med.  | Cubed |
+| Chicken Broth   | 2 cups  | |
+| Salt            | 1 tsp   | |
+| Corn            | 1½ cups | Cut from the cob |
+| Seasoned Pepper | ½ tsp   | |
+| Half + Half     | 2 cups  | |
 
 ## Method
 
@@ -32,7 +32,7 @@ categories:
 1. Cube potatoes
 1. Cut corn from cob
 1. Soak pork in boiling water for 5 minutes
-1. Cut soaked pork into 1 inch by 1/4 inch strips
+1. Cut soaked pork into 1 inch by ¼ inch strips
 1. Fry pork strips until crisp
 1. Remove pork strips from heat and set aside
 1. Saute onions in the fat used to fry the pork

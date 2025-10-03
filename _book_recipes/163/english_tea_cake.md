@@ -17,9 +17,9 @@ categories:
 | Sugar               | 1 cup           | |
 | Eggs                | 2               | |
 | Flour               | 2 cups (slight) | |
-| Baking Powder       | 1/2 tsp         | |
-| Salt                | 1/4 tsp         | |
-| White Raisins       | 1/2 cup         | |
+| Baking Powder       | ½ tsp           | |
+| Salt                | ¼ tsp           | |
+| White Raisins       | ½ cup           | |
 | Maraschino Cherries | 12              | Cut Up |
 | Cherry Juice        | 1 Tbsp          | |
 | Vanilla             | 1 tsp           | |
@@ -34,7 +34,7 @@ categories:
 6. Beat in eggs
 7. Add flour, baking powder and salt. Mix to combine
 8. Add White Raisins, Cherries, Cherry Juice, and Vanilla
-9. Bake about 1 1/4 hours or until "done with tester"
+9. Bake about 1¼ hours or until "done with tester"
 
 ## Notes From Gran
 * This is served at high tea in England - a very highly prixed receipe shared only in the family

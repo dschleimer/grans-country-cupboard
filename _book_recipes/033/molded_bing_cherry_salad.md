@@ -21,7 +21,7 @@ categories:
 | Cream Cheese         | 8 oz     | |
 | Cream                | a little | |
 | Sweet Black Cherries | 1 lg can | |
-| Pecans               | 1/2 cup  | Optional - Chopped |
+| Pecans               | ½ cup    | Optional - Chopped |
 
 ## Method
 1. Chop pecans if desired

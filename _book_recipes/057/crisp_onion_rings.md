@@ -15,21 +15,21 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount    | Notes |
-| ------------- | --------- | ----- |
-| Sweet Onions  | 3 or 4    | |
-| Flour         | 1 cup     | |
-| Baking Powder | 1 1/2 tsp | |
-| Salt          | 1/2 tsp   | |
-| Eggs          | 1         | |
-| Water         | 2/3 cup   | |
-| Lemon Juice   | 1/2 Tbsp  | |
-| Butter        | 1 Tbsp    | Melted |
+| Ingredient    | Amount | Notes |
+| ------------- | ------ | ----- |
+| Sweet Onions  | 3 or 4 | |
+| Flour         | 1 cup  | |
+| Baking Powder | 1½ tsp | |
+| Salt          | ½ tsp  | |
+| Eggs          | 1      | |
+| Water         | ⅔ cup  | |
+| Lemon Juice   | ½ Tbsp | |
+| Butter        | 1 Tbsp | Melted |
 
 ## Method
 
 1. Peel onions
-1. Cut into 1/4 inch slices
+1. Cut into ¼ inch slices
 1. Separate into rings
 1. Sift together flour, baking powder, and salt
 1. Beat egg and add water and lemon juice

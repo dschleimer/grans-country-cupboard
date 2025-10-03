@@ -20,15 +20,15 @@ categories:
 | Ingredient           | Amount  | Notes |
 | -------------------- | ------- | ----- |
 | Limas                | 2 cups  | Dried |
-| Salt Pork            | 1/2 lb  | |
+| Salt Pork            | ½ lb    | |
 | Onion                | 1 large | Chopped |
 | Garlic               | 1 clove | Minced |
 | Mazola oil           | 2 Tbsp  | |
 | Tomato Soup          | 1 can   | |
 | Worcestershire Sauce | 2 tsp   | |
 | Dry Mustard          | 2 tsp   | |
-| Brown Sugar          | 1/4 cup | |
-| Vinegar              | 1/4 cup | |
+| Brown Sugar          | ¼ cup   | |
+| Vinegar              | ¼ cup   | |
 | Salt                 | 1 tsp   | |
 
 ## Method

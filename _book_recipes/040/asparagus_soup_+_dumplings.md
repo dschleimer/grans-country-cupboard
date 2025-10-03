@@ -13,22 +13,22 @@ categories:
 
 #### For Dumplings
 
-| Ingredient    | Amount  | Notes |
-| ------------- | ------- | ----- |
-| Flour         | 1 cup   | |
-| Baking Powder | 1 tsp   | |
-| Salt          | 1/4 tsp | |
-| Milk          | 1/2 cup | |
-| Eggs          | 1       | Lightly beaten |
+| Ingredient    | Amount | Notes |
+| ------------- | ------ | ----- |
+| Flour         | 1 cup  | |
+| Baking Powder | 1 tsp  | |
+| Salt          | ¼ tsp  | |
+| Milk          | ½ cup  | |
+| Eggs          | 1      | Lightly beaten |
 
 #### For Soup
 
-| Ingredient | Amount     | Notes |
-| ---------- | ---------- | ----- |
-| Salt Pork  | 1/2 lb     | |
-| Potatoes   |            | Raw - diced |
-| Asparagus  | 1 1/2 cups | cooked - keep liquid |
-| Milk       | 1 quart    | Hot - not boiling |
+| Ingredient | Amount  | Notes |
+| ---------- | ------- | ----- |
+| Salt Pork  | ½ lb    | |
+| Potatoes   |         | Raw - diced |
+| Asparagus  | 1½ cups | cooked - keep liquid |
+| Milk       | 1 quart | Hot - not boiling |
 
 ## Method
 
@@ -38,7 +38,7 @@ categories:
 1. Drain asparagus preserving liquid
 1. Dice raw potatoes
 1. Lightly beat egg for dumplings
-1. Add 1/2 cup milk and dry dumpling ingredients to beaten egg
+1. Add ½ cup milk and dry dumpling ingredients to beaten egg
 1. Lightly mix dumpling batter with fork
 1. Once the salt pork is done cooking add potates and cooked asparagus
 1. Use the asparagus liquid to cover the pork, potatoes and asparagus

@@ -15,13 +15,13 @@ categories:
 
 ## Ingredients
 
-| Ingredient     | Amount  | Notes |
-| -------------- | ------- | ----- |
-| Cream Cheese   | 8 oz    | |
-| Milk           | 3 Tbsp  | |
-| Pinento Olives | 1/2 cup | Chopped |
-| Pecans         | 1/2 cup | Chopped |
-| Pecan Meal     | 1/2 cup | may substitute for Chopped Pecans |
+| Ingredient     | Amount | Notes |
+| -------------- | ------ | ----- |
+| Cream Cheese   | 8 oz   | |
+| Milk           | 3 Tbsp | |
+| Pinento Olives | ½ cup  | Chopped |
+| Pecans         | ½ cup  | Chopped |
+| Pecan Meal     | ½ cup  | may substitute for Chopped Pecans |
 
 ## Method
 

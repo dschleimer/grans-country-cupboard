@@ -37,5 +37,5 @@ categories:
 ## Notes From Gran
 
 ## Modern Notes
-* Based on the next recipe, a package of finely chopped dried beef is likely around 1/2 cup.  The next recipe calls for 1.5 cups of chopped pecans as a replacement for the dried beef.
+* Based on the next recipe, a package of finely chopped dried beef is likely around ½ cup.  The next recipe calls for 1½ cups of chopped pecans as a replacement for the dried beef.
 

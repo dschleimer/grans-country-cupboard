@@ -14,15 +14,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount   | Notes |
-| ------------ | -------- | ----- |
-| Lemon Juice  | 1 oz     | |
-| Orange Juice | 1 oz     | |
-| Gin          | 1/2 oz   | |
-| Brandy       | 1/2 oz   | |
-| Light Rum    | 1 1/2 oz | |
-| Orgeat       | 1/2 oz   | |
-| Sherry       |          | Float |
+| Ingredient   | Amount | Notes |
+| ------------ | ------ | ----- |
+| Lemon Juice  | 1 oz   | |
+| Orange Juice | 1 oz   | |
+| Gin          | ½ oz   | |
+| Brandy       | ½ oz   | |
+| Light Rum    | 1½ oz  | |
+| Orgeat       | ½ oz   | |
+| Sherry       |        | Float |
 
 ## Method
 

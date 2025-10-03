@@ -14,12 +14,12 @@ categories:
 
 ## Ingredients
 
-| Ingredient       | Amount   | Notes |
-| ---------------- | -------- | ----- |
-| Cream of Cocunut | 1 oz     | |
-| Pineapple Juice  | 4 oz     | Unsweetened |
-| White Rum        | 1 1/2 oz | |
-| Ice              | 1 cup    | Crushed |
+| Ingredient       | Amount | Notes |
+| ---------------- | ------ | ----- |
+| Cream of Cocunut | 1 oz   | |
+| Pineapple Juice  | 4 oz   | Unsweetened |
+| White Rum        | 1½ oz  | |
+| Ice              | 1 cup  | Crushed |
 
 ## Method
 

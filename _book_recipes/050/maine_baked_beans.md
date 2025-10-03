@@ -14,19 +14,19 @@ categories:
 
 ## Ingredients
 
-| Ingredient               | Amount     | Notes |
-| ------------------------ | ---------- | ----- |
-| State of Maine Dry Beans | 2 lbs      | |
-| Salt Pork                | 1/2 lb     | |
-| Sugar                    | 1/4 cup    | |
-| Molasses                 | 2/3 cup    | |
-| Dry Mustard              | 2 tsp      | |
-| Pepper                   | 1/2 tsp    | |
-| Salt                     | 1 1/2 Tbsp | |
-| Onion                    | 1 large    | Quartered |
-| Maple syrup              | 1 cup      | Optional - Substitute for Molasses if making variant |
-| Catsup                   | 1 cup      | Optional - for Variation |
-| Vinegar                  | 1 Tbsp     | Optional - for Variation |
+| Ingredient               | Amount  | Notes |
+| ------------------------ | ------- | ----- |
+| State of Maine Dry Beans | 2 lbs   | |
+| Salt Pork                | ½ lb    | |
+| Sugar                    | ¼ cup   | |
+| Molasses                 | ⅔ cup   | |
+| Dry Mustard              | 2 tsp   | |
+| Pepper                   | ½ tsp   | |
+| Salt                     | 1½ Tbsp | |
+| Onion                    | 1 large | Quartered |
+| Maple syrup              | 1 cup   | Optional - Substitute for Molasses if making variant |
+| Catsup                   | 1 cup   | Optional - for Variation |
+| Vinegar                  | 1 Tbsp  | Optional - for Variation |
 
 ## Method
 
@@ -40,7 +40,7 @@ categories:
 1. Boil 1 pint of water in a separate container
 1. Mix togther Sugar, Dry Mustard, Pepper and Salt with boiling water
 1. Add Molasses or Maple Syrup to Sugar Mixture
-1. Cut 1/2 inch through rind of pork
+1. Cut ½ inch through rind of pork
 1. Pour sugar mixture on top of Salt Pork
 1. If making variation add Catsup and Vinegar to top of pot
 1. Cover with boiling water

@@ -15,14 +15,14 @@ categories:
 
 ## Ingredients
 
-| Ingredient           | Amount   | Notes |
-| -------------------- | -------- | ----- |
-| Roast Beef           | 1 part   | Leftovers |
-| Potatoes             | 1/4 part | Raw - Ground |
-| Onion                | 1 small  | |
-| Salt                 |          | |
-| Pepper               |          | |
-| Worcestershire Sauce | little   | |
+| Ingredient           | Amount  | Notes |
+| -------------------- | ------- | ----- |
+| Roast Beef           | 1 part  | Leftovers |
+| Potatoes             | ¼ part  | Raw - Ground |
+| Onion                | 1 small | |
+| Salt                 |         | |
+| Pepper               |         | |
+| Worcestershire Sauce | little  | |
 
 ## Method
 

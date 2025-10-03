@@ -15,14 +15,14 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Lobster Meat | 3/4 lb  | Cooked and Ground |
-| Onion        | 2 Tbsp  | Minced |
-| Eggs         | 2       | Beaten |
-| Salt         | 1/2 tsp | |
-| Black Pepper |         | Freshly Ground |
-| Corn Meal    | 3/4 cup | Yellow Cirn Meal |
+| Ingredient   | Amount | Notes |
+| ------------ | ------ | ----- |
+| Lobster Meat | ¾ lb   | Cooked and Ground |
+| Onion        | 2 Tbsp | Minced |
+| Eggs         | 2      | Beaten |
+| Salt         | ½ tsp  | |
+| Black Pepper |        | Freshly Ground |
+| Corn Meal    | ¾ cup  | Yellow Cirn Meal |
 
 ## Method
 1. Heat Cooking oil to 375F in deep frier or in a large pot on stovetop

@@ -35,7 +35,7 @@ categories:
 1. Combine soup mix and water
 1. Pour soup mix over meat
 1. Cover with foil
-1. Bake 1 1/4 hour or until potatoes are tender
+1. Bake 1¼ hour or until potatoes are tender
 
 ## Notes From Gran
 

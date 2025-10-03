@@ -17,14 +17,14 @@ categories:
 
 | Ingredient           | Amount      | Notes |
 | -------------------- | ----------- | ----- |
-| Spaghetti            | 1/2 lb      | |
+| Spaghetti            | ½ lb        | |
 | Italian Tomato Paste | 1 small can | |
 | Salt                 |             | |
 | Pepper               |             | |
 | Red Pepper           | dash        | |
 | Sugar                |             | |
-| Butter               | 1/4 lb      | |
-| Cheese               | 1/4 lb      | |
+| Butter               | ¼ lb        | |
+| Cheese               | ¼ lb        | |
 | Onions               | a few       | |
 
 ## Method
@@ -32,7 +32,7 @@ categories:
 1. Drain Spaghetti
 1. Rinse in cold water
 1. Add Tomato Paste
-1. Fill paste can 3/4 full of water, to rinse and add to spaghetti
+1. Fill paste can ¾ full of water, to rinse and add to spaghetti
 1. Add salt, pepper, red pepper, and sugar to taste
 1. Add butter and cheese, heating until melted
 1. Brown onions in butter

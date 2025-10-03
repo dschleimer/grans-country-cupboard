@@ -21,7 +21,7 @@ categories:
 | Onion      | 1 large        | Halved and Sliced |
 | Garlic     | 2 large cloves | Smashed |
 | Parsley    |                | |
-| Ginger     | 1/4 tsp        | |
+| Ginger     | ¼ tsp          | |
 | Marjoram   | 1 Tbsp         | |
 | Bay Leaves | 2              | |
 | Salt       | To Taste       | |
