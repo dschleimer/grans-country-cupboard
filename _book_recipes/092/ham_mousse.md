@@ -13,21 +13,21 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Unflavored Gelatin | 1 envelope | |
-| Water | 1/2 + 1/4 cup | |
-| Sour Cream | 1 cup | |
-| Mayonnaise | 1/2 cup | Extra for serving |
-| Cream Cheese | 3 oz | Original recipe called for  a "small" package, which was 3 oz |
-| Vinegar | 2 Tbsp | |
-| Salt |  | |
-| Pepper |  | |
-| Horseradish | 2 Tbsp | |
-| Ground Ham | 1 1/2 cups | |
-| Celery | 1 cup | Chopped |
-| Parsley | 1/4 cup | Chopped |
-| Onion | 1 Tbsp | Chopped fine |
+| Ingredient         | Amount        | Notes |
+| ------------------ | ------------- | ----- |
+| Unflavored Gelatin | 1 envelope    | |
+| Water              | 1/2 + 1/4 cup | |
+| Sour Cream         | 1 cup         | |
+| Mayonnaise         | 1/2 cup       | Extra for serving |
+| Cream Cheese       | 3 oz          | Original recipe called for  a "small" package, which was 3 oz |
+| Vinegar            | 2 Tbsp        | |
+| Salt               |               | |
+| Pepper             |               | |
+| Horseradish        | 2 Tbsp        | |
+| Ground Ham         | 1 1/2 cups    | |
+| Celery             | 1 cup         | Chopped |
+| Parsley            | 1/4 cup       | Chopped |
+| Onion              | 1 Tbsp        | Chopped fine |
 
 ## Method
 

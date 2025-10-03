@@ -15,19 +15,19 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Ground beef | 8 lbs | |
-| Tomato Puree | 4 large cans | |
-| Green Peppers | 2 bags | Chopped - Frozen |
-| Onions | 2 bags | Chopped |
-| Tomatoes | 4 large cans | Whole Tomoatoes|
-| Creamettes | 2 lbs | This is a pasta brand - Cooked tender|
-| Italian Seasoning |  | |
-| Salt |  | |
-| Pepper |  | |
-| Sugar | 1 small scoop | |
-| Parmesan | 1 lg | Recipe calls for "1 lg Kraft Parmesan" |
+| Ingredient        | Amount        | Notes |
+| ----------------- | ------------- | ----- |
+| Ground beef       | 8 lbs         | |
+| Tomato Puree      | 4 large cans  | |
+| Green Peppers     | 2 bags        | Chopped - Frozen |
+| Onions            | 2 bags        | Chopped |
+| Tomatoes          | 4 large cans  | Whole Tomoatoes |
+| Creamettes        | 2 lbs         | This is a pasta brand - Cooked tender |
+| Italian Seasoning |               | |
+| Salt              |               | |
+| Pepper            |               | |
+| Sugar             | 1 small scoop | |
+| Parmesan          | 1 lg          | Recipe calls for "1 lg Kraft Parmesan" |
 
 ## Method
 

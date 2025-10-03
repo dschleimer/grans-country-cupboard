@@ -12,17 +12,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Green beans | 16 oz | Cut - Canned - Drained |
-| Kidney Beans | 16 oz | Cut - Canned - Drained |
-| Butter Beans | 16 oz | Cut - Canned - Drained |
-| Pork + Beans in Tomato Sauce | 16 oz | Cut - Canned - Drained |
-| Horseradish | 1 Tbsp | |
-| Salt | 1 tsp | |
-| Pepper | 1/4 tsp | |
-| Vienna Sausage | 10 oz (2 cans) | |
-| Onion |  | Slices |
+| Ingredient                   | Amount         | Notes |
+| ---------------------------- | -------------- | ----- |
+| Green beans                  | 16 oz          | Cut - Canned - Drained |
+| Kidney Beans                 | 16 oz          | Cut - Canned - Drained |
+| Butter Beans                 | 16 oz          | Cut - Canned - Drained |
+| Pork + Beans in Tomato Sauce | 16 oz          | Cut - Canned - Drained |
+| Horseradish                  | 1 Tbsp         | |
+| Salt                         | 1 tsp          | |
+| Pepper                       | 1/4 tsp        | |
+| Vienna Sausage               | 10 oz (2 cans) | |
+| Onion                        |                | Slices |
 
 ## Method
 

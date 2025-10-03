@@ -13,23 +13,23 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Crab Meat | 1/2 lb | Fresh, frozen, or canned |
-| Shallots | 1/2 Tbsp | Minced |
-| Butter | 2 + 1 Tbsp | |
-| Paprika | 1/2 tsp | |
-| Flour | 1 Tbsp | |
-| Light Cream | 1 cup | |
-| Sherry | 1 Tbsp | |
-| Salt | To Taste | |
-| Pepper | To Taste | |
-| Red Pepper | Dash | |
-| Eggs | 1 yolk | slightly beaten |
-| Parmesan | 2 Tbsp | |
-| Rice |  | Fresh Cooked - Use rice, noodles, or spaghetti |
-| Noodles |  | Use rice, noodles, or spaghetti |
-| Spaghetti |  | Fine - Use rice, noodles, or spaghetti |
+| Ingredient  | Amount     | Notes |
+| ----------- | ---------- | ----- |
+| Crab Meat   | 1/2 lb     | Fresh, frozen, or canned |
+| Shallots    | 1/2 Tbsp   | Minced |
+| Butter      | 2 + 1 Tbsp | |
+| Paprika     | 1/2 tsp    | |
+| Flour       | 1 Tbsp     | |
+| Light Cream | 1 cup      | |
+| Sherry      | 1 Tbsp     | |
+| Salt        | To Taste   | |
+| Pepper      | To Taste   | |
+| Red Pepper  | Dash       | |
+| Eggs        | 1 yolk     | slightly beaten |
+| Parmesan    | 2 Tbsp     | |
+| Rice        |            | Fresh Cooked - Use rice, noodles, or spaghetti |
+| Noodles     |            | Use rice, noodles, or spaghetti |
+| Spaghetti   |            | Fine - Use rice, noodles, or spaghetti |
 
 ## Method
 

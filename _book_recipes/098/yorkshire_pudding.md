@@ -15,14 +15,14 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Egg | 1 | |
-| Flour | 1 cup | |
-| Milk | 1 cup | |
-| Salt | pinch | |
-| Baking powder | pinch | |
-| Beef Roast drippings |  | |
+| Ingredient           | Amount | Notes |
+| -------------------- | ------ | ----- |
+| Egg                  | 1      | |
+| Flour                | 1 cup  | |
+| Milk                 | 1 cup  | |
+| Salt                 | pinch  | |
+| Baking powder        | pinch  | |
+| Beef Roast drippings |        | |
 
 ## Method
 

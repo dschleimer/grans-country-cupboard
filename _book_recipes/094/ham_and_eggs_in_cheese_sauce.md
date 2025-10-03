@@ -12,19 +12,19 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Mayonnaise | 1/2 cup | |
-| Flour | 1/4 cup | |
-| Salt | 1/2 tsp | |
-| Pepper |  | |
-| Milk | 2 cups | |
-| American Cheese | 1/4 lb | cubed |
-| Shallot | 1/4 cup | Chopped |
-| Pimento | 1/4 cup | Diced |
-| Ham | 1 1/2 cups | Cooked - Cubed |
-| Eggs | 4 | Hard boiled |
-| English Muffins |  | Toasted - for serving|
+| Ingredient      | Amount     | Notes |
+| --------------- | ---------- | ----- |
+| Mayonnaise      | 1/2 cup    | |
+| Flour           | 1/4 cup    | |
+| Salt            | 1/2 tsp    | |
+| Pepper          |            | |
+| Milk            | 2 cups     | |
+| American Cheese | 1/4 lb     | cubed |
+| Shallot         | 1/4 cup    | Chopped |
+| Pimento         | 1/4 cup    | Diced |
+| Ham             | 1 1/2 cups | Cooked - Cubed |
+| Eggs            | 4          | Hard boiled |
+| English Muffins |            | Toasted - for serving |
 
 ## Method
 

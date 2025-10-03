@@ -13,12 +13,12 @@ categories:
 
 | Ingredient | Amount | Notes |
 | ---------- | ------ | ----- |
-| Pig Liver |  | From a 20-25 lb pig |
-| Onions |  | |
-| Garlic | little | |
-| Eggs |  | hard boiled |
-| Seasoning |  | |
-| Crackers |  | for serving |
+| Pig Liver  |        | From a 20-25 lb pig |
+| Onions     |        | |
+| Garlic     | little | |
+| Eggs       |        | hard boiled |
+| Seasoning  |        | |
+| Crackers   |        | for serving |
 
 ## Method
 

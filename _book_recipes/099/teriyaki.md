@@ -13,13 +13,13 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Top Round Beef |  | 1/2 inch thick |
-| Soy Sauce | 1 cup | |
-| Garlic | 2 cloves | Crushed |
-| Ginger | 1 tsp | |
-| Sherry | 1/2 cup | Dry Sherry |
+| Ingredient     | Amount   | Notes |
+| -------------- | -------- | ----- |
+| Top Round Beef |          | 1/2 inch thick |
+| Soy Sauce      | 1 cup    | |
+| Garlic         | 2 cloves | Crushed |
+| Ginger         | 1 tsp    | |
+| Sherry         | 1/2 cup  | Dry Sherry |
 
 ## Method
 

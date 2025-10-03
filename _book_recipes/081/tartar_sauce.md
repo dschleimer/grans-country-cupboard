@@ -12,11 +12,11 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Mayonnaise | 1/2 cup | |
-| Lemon Juice | 1 Tbsp | |
-| Sweet Pickle Relish | 2 Tbsp | |
+| Ingredient           | Amount  | Notes |
+| -------------------- | ------- | ----- |
+| Mayonnaise           | 1/2 cup | |
+| Lemon Juice          | 1 Tbsp  | |
+| Sweet Pickle Relish  | 2 Tbsp  | |
 | Worcestershire Sauce | 1/2 tsp | |
 
 ## Method

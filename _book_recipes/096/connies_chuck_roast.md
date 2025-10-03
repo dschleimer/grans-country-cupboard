@@ -14,15 +14,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Chuck Roast | 4 lb | Boneless |
-| Cream of Mushroom Soup | 1 can | |
-| Golden Mushroom Soup | 1 can | |
-| Onion Soup Mix | 1 | Lipton's brand |
-| Seasoned Salt |  | Lawry's Brand |
-| Pepper |  | |
-| Stew Vegetables | 2 bags | |
+| Ingredient             | Amount | Notes |
+| ---------------------- | ------ | ----- |
+| Chuck Roast            | 4 lb   | Boneless |
+| Cream of Mushroom Soup | 1 can  | |
+| Golden Mushroom Soup   | 1 can  | |
+| Onion Soup Mix         | 1      | Lipton's brand |
+| Seasoned Salt          |        | Lawry's Brand |
+| Pepper                 |        | |
+| Stew Vegetables        | 2 bags | |
 
 ## Method
 

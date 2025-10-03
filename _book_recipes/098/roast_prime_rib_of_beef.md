@@ -15,15 +15,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Rib Roast | 3 ribs | |
-| Worcestershire Sauce |  | |
-| Black Pepper |  | |
-| Salt |  | |
-| Onions |  | |
-| Potatoes |  | Canned white or quartered brown fresh |
-| Onions |  | |
+| Ingredient           | Amount | Notes |
+| -------------------- | ------ | ----- |
+| Rib Roast            | 3 ribs | |
+| Worcestershire Sauce |        | |
+| Black Pepper         |        | |
+| Salt                 |        | |
+| Onions               |        | |
+| Potatoes             |        | Canned white or quartered brown fresh |
+| Onions               |        | |
 
 ## Method
 

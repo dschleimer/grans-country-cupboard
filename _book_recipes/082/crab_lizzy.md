@@ -13,22 +13,22 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Lump Crab Meat | 1 lb | See modern notes |
+| Ingredient           | Amount | Notes |
+| -------------------- | ------ | ----- |
+| Lump Crab Meat       | 1 lb   | See modern notes |
 | Worcestershire Sauce | 1 Tbsp | |
-| Parsley | 1 tsp | Dried |
-| Prepared Mustard | 1 tsp | |
-| Curry | dash | |
-| Red Pepper | dash | |
-| Nutmeg | dash | |
-| Nutmeg | Dash | |
-| Salt |  | |
-| Pepper |  | |
-| Onion Salt |  | |
-| Italian Bread Crumbs |  | |
-| Butter |  | |
-| Dry Sherry |  | for serving |
+| Parsley              | 1 tsp  | Dried |
+| Prepared Mustard     | 1 tsp  | |
+| Curry                | dash   | |
+| Red Pepper           | dash   | |
+| Nutmeg               | dash   | |
+| Nutmeg               | Dash   | |
+| Salt                 |        | |
+| Pepper               |        | |
+| Onion Salt           |        | |
+| Italian Bread Crumbs |        | |
+| Butter               |        | |
+| Dry Sherry           |        | for serving |
 
 ## Method
 

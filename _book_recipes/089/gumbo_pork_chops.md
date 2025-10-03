@@ -14,14 +14,14 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Pork Chops | 6 | |
-| Salt | To Taste | |
-| Pepper | To Taste | |
-| Gumbo Creole Soup | 1 can | |
-| Water | 1 soup can | |
-| Catsup | 1/2 cup | |
+| Ingredient        | Amount     | Notes |
+| ----------------- | ---------- | ----- |
+| Pork Chops        | 6          | |
+| Salt              | To Taste   | |
+| Pepper            | To Taste   | |
+| Gumbo Creole Soup | 1 can      | |
+| Water             | 1 soup can | |
+| Catsup            | 1/2 cup    | |
 
 ## Method
 

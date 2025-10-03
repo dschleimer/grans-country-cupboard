@@ -12,10 +12,10 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Rib Eye Roas |  | |
-| Onion Soup Mix |  | Lipton's Brand |
+| Ingredient     | Amount | Notes |
+| -------------- | ------ | ----- |
+| Rib Eye Roas   |        | |
+| Onion Soup Mix |        | Lipton's Brand |
 
 ## Method
 

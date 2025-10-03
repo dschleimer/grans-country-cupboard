@@ -13,19 +13,19 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Crab Meat | 1 lb | |
-| Butter | 1 Tbsp | |
-| Flour | 2 Tbsp | |
-| Milk | 1 cup | |
-| Eggs | 2 + Extra | 2 hard boiled - extra for breading |
-| Parsley | litte | |
-| Salt | 1 tsp | |
-| Onion Juice | 1 tsp | |
-| Pepper | 1/4 tsp | |
-| Mayonnaise | 1 Tbsp | |
-| Bread Crumbs |  | |
+| Ingredient   | Amount    | Notes |
+| ------------ | --------- | ----- |
+| Crab Meat    | 1 lb      | |
+| Butter       | 1 Tbsp    | |
+| Flour        | 2 Tbsp    | |
+| Milk         | 1 cup     | |
+| Eggs         | 2 + Extra | 2 hard boiled - extra for breading |
+| Parsley      | litte     | |
+| Salt         | 1 tsp     | |
+| Onion Juice  | 1 tsp     | |
+| Pepper       | 1/4 tsp   | |
+| Mayonnaise   | 1 Tbsp    | |
+| Bread Crumbs |           | |
 
 ## Method
 

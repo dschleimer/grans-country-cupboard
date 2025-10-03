@@ -13,11 +13,11 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Ham |  | Country-Style |
-| Cloves |  | Whole |
-| Brown Sugar |  | |
+| Ingredient  | Amount | Notes |
+| ----------- | ------ | ----- |
+| Ham         |        | Country-Style |
+| Cloves      |        | Whole |
+| Brown Sugar |        | |
 
 ## Method
 

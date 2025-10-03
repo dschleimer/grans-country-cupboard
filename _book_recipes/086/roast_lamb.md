@@ -13,14 +13,14 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
+| Ingredient  | Amount  | Notes |
+| ----------- | ------- | ----- |
 | Leg of Lamb | 6-8 lbs | Boned and Rolled |
-| Salt |  | |
-| Pepper |  | |
-| Rosemary |  | |
-| Garlic |  | |
-| Onion |  | |
+| Salt        |         | |
+| Pepper      |         | |
+| Rosemary    |         | |
+| Garlic      |         | |
+| Onion       |         | |
 
 ## Method
 

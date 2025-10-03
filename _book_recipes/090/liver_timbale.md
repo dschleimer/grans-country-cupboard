@@ -13,15 +13,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Chicken Livers | 1/2 lb | |
-| Cream | 2/3 cup | Whipped after measuring |
-| Eggs | 2 | Slightly beaten |
-| Onion | 1 | |
-| Salt | To Taste | |
-| Pepper | To Taste | |
-| Butter |  | |
+| Ingredient     | Amount   | Notes |
+| -------------- | -------- | ----- |
+| Chicken Livers | 1/2 lb   | |
+| Cream          | 2/3 cup  | Whipped after measuring |
+| Eggs           | 2        | Slightly beaten |
+| Onion          | 1        | |
+| Salt           | To Taste | |
+| Pepper         | To Taste | |
+| Butter         |          | |
 
 ## Method
 

@@ -11,16 +11,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Egg            | 1       | beaten  |
-| Sugar          | 3/4 cup |         |
-| Flour          | 1/2 cup |         |
-| Baking powder  | 2 tsp   |         |
-| Salt           | 1/2 tsp |         |
-| Cinnamon       | 1/4 tsp |         |
-| Nutmeg         | 1/8 tsp |         |
-| Almond extract | 1/2 tsp |         |
+| Ingredient     | Amount  | Notes |
+| -------------- | ------- | ----- |
+| Egg            | 1       | beaten |
+| Sugar          | 3/4 cup | |
+| Flour          | 1/2 cup | |
+| Baking powder  | 2 tsp   | |
+| Salt           | 1/2 tsp | |
+| Cinnamon       | 1/4 tsp | |
+| Nutmeg         | 1/8 tsp | |
+| Almond extract | 1/2 tsp | |
 | Apple          | 1/2 cup | chopped |
 | Nuts           | 1/2 cup | chopped |
 

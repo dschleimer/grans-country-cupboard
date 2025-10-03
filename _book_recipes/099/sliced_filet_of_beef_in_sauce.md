@@ -15,15 +15,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Filet of Beef | 3 lb | |
-| Shallots | 1/2 cup | Chopped |
-| Red Wine | 1 1/2 cup | Dry |
-| Butter | 1/4 lb | |
-| Parsley | 2 tsp | Minced |
-| Salt | 1 1/2 tsp | |
-| Black Pepper | 1/4 tsp | Fresh Ground |
+| Ingredient    | Amount    | Notes |
+| ------------- | --------- | ----- |
+| Filet of Beef | 3 lb      | |
+| Shallots      | 1/2 cup   | Chopped |
+| Red Wine      | 1 1/2 cup | Dry |
+| Butter        | 1/4 lb    | |
+| Parsley       | 2 tsp     | Minced |
+| Salt          | 1 1/2 tsp | |
+| Black Pepper  | 1/4 tsp   | Fresh Ground |
 
 ## Method
 

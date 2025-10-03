@@ -14,13 +14,13 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Lamb leg | 6-7 lbs | |
-| Garlic | 4 cloves | |
-| Salt | Lots | |
-| Pepper | Lots | |
-| Mature | Lots | |
+| Ingredient | Amount   | Notes |
+| ---------- | -------- | ----- |
+| Lamb leg   | 6-7 lbs  | |
+| Garlic     | 4 cloves | |
+| Salt       | Lots     | |
+| Pepper     | Lots     | |
+| Mature     | Lots     | |
 
 ## Method
 

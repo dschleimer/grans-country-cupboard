@@ -14,13 +14,13 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Gelatin | 1 envelope | Unflavored |
-| Water | 1/4 cup | Cold |
-| Condensed Consommé Madrilène (red) | 1 can (13 oz) | See modern notes |
-| Cream Cheese | 3 oz | 3oz was the standard "small" package |
-| Liver Paté | 4 1/2 oz (1 can) | See modern notes |
+| Ingredient                         | Amount           | Notes |
+| ---------------------------------- | ---------------- | ----- |
+| Gelatin                            | 1 envelope       | Unflavored |
+| Water                              | 1/4 cup          | Cold |
+| Condensed Consommé Madrilène (red) | 1 can (13 oz)    | See modern notes |
+| Cream Cheese                       | 3 oz             | 3oz was the standard "small" package |
+| Liver Paté                         | 4 1/2 oz (1 can) | See modern notes |
 
 ## Method
 

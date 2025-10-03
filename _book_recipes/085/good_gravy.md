@@ -11,10 +11,10 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Flour | 2 or 3 Tbsp | |
-| Water | 2 cups | |
+| Ingredient | Amount      | Notes |
+| ---------- | ----------- | ----- |
+| Flour      | 2 or 3 Tbsp | |
+| Water      | 2 cups      | |
 
 ## Method
 1. Remove meat from roasting pan

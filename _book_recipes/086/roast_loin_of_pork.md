@@ -12,16 +12,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Pork Loin | 4 to 5 lbs | |
-| Pepper |  | Black Pepper |
-| Thyme |  | |
-| Garlic | little | |
-| Onion Salt |  | |
-| Sauerkraut | 2 lbs | Optional - Washed |
-| Onion | 1 | Optional |
-| Apple | 1 | Pared - Sliced |
+| Ingredient | Amount     | Notes |
+| ---------- | ---------- | ----- |
+| Pork Loin  | 4 to 5 lbs | |
+| Pepper     |            | Black Pepper |
+| Thyme      |            | |
+| Garlic     | little     | |
+| Onion Salt |            | |
+| Sauerkraut | 2 lbs      | Optional - Washed |
+| Onion      | 1          | Optional |
+| Apple      | 1          | Pared - Sliced |
 
 ## Method
 

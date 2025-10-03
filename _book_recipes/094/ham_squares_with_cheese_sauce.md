@@ -12,15 +12,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Ground Ham | 2 lbs | Smoked |
-| Eggs | 4 | Beaten |
-| Milk | 2 cups | |
-| Onion | 1 small | minced |
-| Prepared Mustard | 2 Tbsp | |
+| Ingredient              | Amount   | Notes |
+| ----------------------- | -------- | ----- |
+| Ground Ham              | 2 lbs    | Smoked |
+| Eggs                    | 4        | Beaten |
+| Milk                    | 2 cups   | |
+| Onion                   | 1 small  | minced |
+| Prepared Mustard        | 2 Tbsp   | |
 | Processes Cheese Spread | 8 oz jar | |
-| White Wine | 1/3 cup  | |
+| White Wine              | 1/3 cup  | |
 
 ## Method
 

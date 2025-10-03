@@ -12,21 +12,21 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Onions | 1 Tbsp | Finely chopped |
-| Butter | 2 + 2 Tbsp | |
-| Eggs | 2 | Beaten |
-| Bread Crumbs | 3 cups | Soft - Crumble 4 slices soft bread |
-| Oysters | 1 pint | Drained - Chopped - 2 cups after chopping |
-| Celery | 1/2 cup | Finely chopped |
-| Milk | 1/4 cup | |
-| Parsley | 2 Tbsp snipped OR 1 Tbsp flakes | |
-| Lemon Juice | 1 Tbsp | |
-| Bread Crumbs | 3/4 cup | Fine dry crumbs |
-| Salt | 1/4 tsp | |
-| Paprika | 1/2 tsp | |
-| Hollandaise sauce |  | |
+| Ingredient        | Amount                          | Notes |
+| ----------------- | ------------------------------- | ----- |
+| Onions            | 1 Tbsp                          | Finely chopped |
+| Butter            | 2 + 2 Tbsp                      | |
+| Eggs              | 2                               | Beaten |
+| Bread Crumbs      | 3 cups                          | Soft - Crumble 4 slices soft bread |
+| Oysters           | 1 pint                          | Drained - Chopped - 2 cups after chopping |
+| Celery            | 1/2 cup                         | Finely chopped |
+| Milk              | 1/4 cup                         | |
+| Parsley           | 2 Tbsp snipped OR 1 Tbsp flakes | |
+| Lemon Juice       | 1 Tbsp                          | |
+| Bread Crumbs      | 3/4 cup                         | Fine dry crumbs |
+| Salt              | 1/4 tsp                         | |
+| Paprika           | 1/2 tsp                         | |
+| Hollandaise sauce |                                 | |
 
 ## Method
 

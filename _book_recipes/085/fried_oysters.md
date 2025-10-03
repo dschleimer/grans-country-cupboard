@@ -13,16 +13,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Oysters |  | |
-| Saltines |  | aka Saltine Crackers |
-| Bread Crumbs |  | |
-| Egg | 1 | |
-| Milk | 1 Tbsp | |
-| Salt |  | |
-| Pepper |  | |
-| Flour |  | |
+| Ingredient   | Amount | Notes |
+| ------------ | ------ | ----- |
+| Oysters      |        | |
+| Saltines     |        | aka Saltine Crackers |
+| Bread Crumbs |        | |
+| Egg          | 1      | |
+| Milk         | 1 Tbsp | |
+| Salt         |        | |
+| Pepper       |        | |
+| Flour        |        | |
 
 ## Method
 

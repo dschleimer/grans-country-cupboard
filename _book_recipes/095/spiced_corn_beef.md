@@ -12,18 +12,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
+| Ingredient          | Amount      | Notes |
+| ------------------- | ----------- | ----- |
 | Corned Beef Brisket | About 5 lbs | |
-| Vinegar | 1/4 cup | |
-| Water | 1/2 cup | |
-| Molasses | 2 Tbsp | |
-| Bay Leaves | 2 | |
-| Peppercorns | 1 tsp | |
-| Celery Seed | 1 tsp | |
-| Cloves | 6 | Whole Cloves |
-| Ginger | 1/4 tsp | |
-| Dry Mustard | 1/4 tsp | |
+| Vinegar             | 1/4 cup     | |
+| Water               | 1/2 cup     | |
+| Molasses            | 2 Tbsp      | |
+| Bay Leaves          | 2           | |
+| Peppercorns         | 1 tsp       | |
+| Celery Seed         | 1 tsp       | |
+| Cloves              | 6           | Whole Cloves |
+| Ginger              | 1/4 tsp     | |
+| Dry Mustard         | 1/4 tsp     | |
 
 ## Method
 

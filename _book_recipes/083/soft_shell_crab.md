@@ -15,13 +15,13 @@ categories:
 
 | Ingredient | Amount | Notes |
 | ---------- | ------ | ----- |
-| Crab |  | |
-| Eggs | 1 | |
-| Milk | little | |
-| Salt |  | |
-| Pepper |  | |
-| Flour |  | May substitute cornmeal |
-| Cornmeal |  | May substitute flour |
+| Crab       |        | |
+| Eggs       | 1      | |
+| Milk       | little | |
+| Salt       |        | |
+| Pepper     |        | |
+| Flour      |        | May substitute cornmeal |
+| Cornmeal   |        | May substitute flour |
 
 ## Method
 
