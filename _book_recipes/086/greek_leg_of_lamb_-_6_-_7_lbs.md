@@ -16,19 +16,19 @@ categories:
 
 | Ingredient | Amount | Notes |
 | ---------- | ------ | ----- |
-| Leg Lamb | 6-7 lbs | |
+| Lamb leg | 6-7 lbs | |
 | Garlic | 4 cloves | |
 | Salt | Lots | |
 | Pepper | Lots | |
-| Mateus | 4 oz | |
+| Mature | Lots | |
 
 ## Method
 
-1. Preheat oven to 350F
-1. Bury garlic cloves in lam leg
-1. Season with lots of salt and pepper
-1. Roast uncovered for 6 hours
-1. Baste frequently with ?????
+1. Preheat oven to 350 F.
+2. Bury garlic cloves in lamb leg.
+3. Season with lots of salt and pepper.
+4. Roast uncovered for 6 hours.
+5. Baste frequently with 4 oz mature.
 
 ## Notes From Gran
 
@@ -38,6 +38,5 @@ categories:
   * garlic bread - use garlic salt
 
 ## Modern Notes
-
-* I can't figure out what the basting instruction calls for.  It seems to imply basting with more than just the lamb's oiwn juices, because she specifies an amount.  I can't figure out what the word is, nor have I been abel to find any liekly seeming results googling for variations.
+The word mature as a culinary term refers to juices in the roasting pan or a marinade.
 
