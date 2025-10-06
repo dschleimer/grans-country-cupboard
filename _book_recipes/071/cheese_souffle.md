@@ -1,7 +1,7 @@
 ---
 layout: recipe
 page: "071"
-recipe: 071/cheese_soufflee
+recipe: 071/cheese_souffle
 page_order: 2
 from: Paula Calwell
 categories:
