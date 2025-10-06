@@ -4,8 +4,9 @@ page: "101"
 recipe: 101/boiled_beef_tongue
 page_order: 3
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+    - Beef
+    - Main
+    - Boiled
 ---
 # Boiled Beef Tongue
 
@@ -13,9 +14,24 @@ categories:
 
 | Ingredient | Amount | Notes |
 | ---------- | ------ | ----- |
-|  |  | |
+| Smoked Beef Tongue | 1 | |
+| Carrot | 1 | Sliced |
+| Onion | 1 | Sliced |
+| Celery | 2 ribs | Diced |
+| Parsley | 2 sprigs | Cut fine |
+| Bay Leaf | 1/2 | |
+| Peppercorns | 1/2 tsp | |
+| Cloves | 2 | |
+| Salt | 2 tsp | |
+| Cabbage |  | Optional |
 
 ## Method
+
+1. Slcie carrot and onion
+1. Dice Celery
+1. Cut Parsley fine
+1. Combine all ingredients in a pot
+1. Cover and boil for 3 hours
 
 ## Notes From Gran
 
