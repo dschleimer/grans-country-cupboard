@@ -1,7 +1,7 @@
 ---
 layout: recipe
 page: "083"
-recipe: 083/deviled_c
+recipe: 083/deviled_crabs
 from: Evie
 categories:
     - Seafood
