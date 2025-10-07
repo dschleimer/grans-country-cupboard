@@ -9,15 +9,17 @@ module JekylLResizeConcurrent
     safe true
 
     OPTIONS = [
-      "800x>",
-      "395x>",
-      "100x>",
+      ["/assets/enhanced", "800x>"],
+      ["/assets/enhanced", "100x>"],
+      ["/assets/recipe_crops", "395x>"],
+      ["/assets/recipe_crops", "100x>"],
+      ["/assets/recipe_photos", "395x>"],
     ]
     NUM_THREADS = Etc.nprocessors * 2
 
     def generate(site)
 
-      input_files = site.static_files.filter{|f| f.relative_path.start_with?("/assets") && f.relative_path.end_with?(".jpg")}.map{|f| f.relative_path}
+      input_files = site.static_files.map{|f| f.relative_path}
       q = Queue.new
 
       threads = (0..NUM_THREADS).map{
@@ -30,8 +32,10 @@ module JekylLResizeConcurrent
       }
 
       for f in input_files do
-        for o in OPTIONS do
-          q << [f, o]
+        for prefix, option in OPTIONS do
+          if f.start_with? prefix
+            q << [f, option]
+          end
         end
       end
       q.close
