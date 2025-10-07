@@ -48,12 +48,17 @@ module Ingredients
                             next
                         end
                         # we case-normalize first, because we want the pretty casing in the rendered html
-                        ingredient_parts = ingredient.split(/\W+/)
+                        # our word-splitting logic is complex to handle cases where words may be
+                        # surrounded by a paranthesis on one or both ends, and may also contain an apostrophe in the word
+                        # _tools/recipe_stats.py can produce a json histogram of the raw ingredient text, i.e. a list of all the
+                        # cases we need to handle
+                        ingredient_parts = ingredient.split(/[^a-zA-Z0-9_']/)
                         for part in ingredient_parts do
                             # this regex uses negative lookahead and lookbehind expressions to only
                             # match a complete copy of word by only matching if that word is neither preceeded
                             # nor followed by a word character
-                            ingredient.sub!(/(?<!\w)#{Regexp.escape(part)}(?!\w)/, part.capitalize)
+                            # # we can't sue the built-in word character classes because we need to treat ' as a word character
+                            ingredient.sub!(/(?<![a-zA-Z0-9_'])#{Regexp.escape(part)}(?![a-zA-Z0-9_'])/, part.capitalize)
                         end
                         normalized_ingredient = normalized_ingredient(ingredient)
 
