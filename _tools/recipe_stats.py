@@ -17,6 +17,7 @@ summarised only requires inserting its name into the `ATTRIBUTES` list.
 import argparse
 import json
 import os
+import re
 from collections import defaultdict
 from pathlib import Path
 
@@ -29,7 +30,8 @@ import yaml
 # Attributes to summarise.  Add a new attribute name here if you want to
 # summarise it as well.  The script will automatically handle missing
 # attributes and will work for scalar values or list values.
-ATTRIBUTES = ["from", "categories"]
+INGREDIENTS = "ingredients"
+ATTRIBUTES = ["from", "categories", INGREDIENTS]
 
 # --------------------------------------------------------------------------- #
 # Helper functions
@@ -88,6 +90,29 @@ def write_histograms(histograms: dict, out_dir: Path):
                   indent=2, ensure_ascii=False)
 
 
+ALL_DASHES = re.compile('^\\s*-+\\s*$')
+def extract_ingredients(histograms, path):
+    lines = path.read_text(encoding="utf-8").splitlines()
+    for line in lines:
+        if not line.startswith('|'):
+            continue
+        cells = line.split('|')
+        if len(cells) < 2:
+            continue
+        if not cells[1].strip() or cells[1].strip() == 'Ingredient' or ALL_DASHES.match(cells[1]):
+            continue
+        if path.name == "danish_style_sandwiches.md":
+            if cells[1].strip == 'Bread':
+                continue
+            ingredients = cells[1:-1]
+        else:
+            ingredients = cells[1:2]
+        for ingredient in ingredients:
+            histograms[INGREDIENTS][ingredient.strip()] += 1
+
+            
+
+
 # --------------------------------------------------------------------------- #
 # Main processing routine
 # --------------------------------------------------------------------------- #
@@ -118,13 +143,14 @@ def main():
             front = find_front_matter(file_path)
             if front:
                 update_histograms(histograms, front)
+            extract_ingredients(histograms, file_path)
 
     # Write the resulting histograms to disk
     write_histograms(histograms, stats_dir)
 
     # Simple report
     total_recipes = sum(sum(c.values()) for c in histograms.values())
-    print(f"Processed {total_recipes} recipes.")
+    print(f"Processed {total_recipes} items.")
     print(f"Histograms written to {stats_dir}")
 
 
