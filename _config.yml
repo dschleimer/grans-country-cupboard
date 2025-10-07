@@ -114,3 +114,4 @@ exclude:
   - .continue/
   - .gitignore
   - AGENTS.md
+  - .ruby-lsp/
