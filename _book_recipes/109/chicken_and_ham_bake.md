@@ -4,7 +4,10 @@ page: "109"
 recipe: 109/chicken_and_ham_bake
 page_order: 2
 categories:
-    - Needs Front Matter
+    - Baked
+    - Chicken
+    - Ham
+    - Baked
 ---
 # Chicken and Ham Bake
 
@@ -25,7 +28,7 @@ categories:
 | Ham               | 6 slices                 | boiled |
 
 ## Method
-1. Preheat oven to bake at 350 °F.
+1. Preheat oven to bake at 350° F.
 2. Sauté onion in margarine or butter.
 3. Add parsley, pepper, poultry seasoning, cracker crumbs, water, egg, chicken, and cubed cheese. Mix well.
 4. Place 1 large spoonful of mixture in center of each slice of ham and fold ham over mixture.
