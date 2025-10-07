@@ -4,7 +4,10 @@ page: "107"
 recipe: 107/chicken_breasts_benedict
 page_order: 2
 categories:
-    - Needs Front Matter
+    - Mains
+    - Breakfast foods
+    - Broiled
+    - Chicken
 ---
 # Chicken Breasts Benedict
 
@@ -38,6 +41,7 @@ categories:
 10. Stir in cayenne and lemon juice.
 11. Arrange toasted muffins with 1/2 ham slice and 1/2 chicken breast on each.
 12. Cover generously with mock Hollandaise sauce.
+
 ## Notes From Gran
 
 * 
