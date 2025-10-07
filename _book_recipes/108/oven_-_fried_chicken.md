@@ -13,22 +13,22 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Chickens | 2 | Cut-up |
-| Onion | 1 | Cut up |
-| Season Salt |  | |
-| Pepper |  | |
-| Italian Seasoning |  | |
-| Paprika |  | |
-| Maggi's Sauce | few shakes | Maggi is a sauce/seasoning brand |
+| Ingredient        | Amount     | Notes |
+| ----------------- | ---------- | ----- |
+| Chickens          | 2          | Cut-up |
+| Onion             | 1          | Cut up |
+| Season Salt       |            | |
+| Pepper            |            | |
+| Italian Seasoning |            | |
+| Paprika           |            | |
+| Maggi's Sauce     | few shakes | Maggi is a sauce/seasoning brand |
 
 ## Method
 
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Cut up chicken and onion
 1. Add seasonings
-1. Bake, uncovered, 1 1/2 to 2 hours
+1. Bake, uncovered, 1½ to 2 hours
 1. Turn chicken pieces a couple of times until all are brown
 
 ## Notes From Gran

@@ -12,16 +12,16 @@ from: Terry Osborn
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Blackberries  | 2 1/2 cups      |         |
-| Lemon         | 1/2             | juiced  |
-| Butter        | 3 Tblsp         |         |
-| Salt          | 1/4 tsp         |         |
-| Sugar         | 3/4 cup + 1 cup |         |
-| Flour         | 1 cup + 2 Tblsp |         |
-| Baking powder | 1 tsp           |         |
-| Milk          | 1/2 cup         |         |
+| Ingredient    | Amount          | Notes |
+| ------------- | --------------- | ----- |
+| Blackberries  | 2½ cups         | |
+| Lemon         | ½               | juiced |
+| Butter        | 3 Tblsp         | |
+| Salt          | ¼ tsp           | |
+| Sugar         | ¾ cup + 1 cup   | |
+| Flour         | 1 cup + 2 Tblsp | |
+| Baking powder | 1 tsp           | |
+| Milk          | ½ cup           | |
 | Water         | 1 cup           | boiling |
 
 ## Method
@@ -29,7 +29,7 @@ from: Terry Osborn
 2. Grease 8" x 12" x 2" baking dish.
 3. Put blackberries in baking dish.
 4. Sprinkle with lemon juice.
-5. Cream butter, salt, and 3/4 cup sugar.
+5. Cream butter, salt, and ¾ cup sugar.
 6. Sift 1 cup flour with baking powder.
 7. Add flour alternately with milk to creamed mix.
 8. Beat until firm, about 3 min. at high speed.

@@ -13,16 +13,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
+| Ingredient    | Amount    | Notes |
+| ------------- | --------- | ----- |
 | Veal Scallops | 12 medium | Pounded thin |
-| Flour |  | |
-| Butter | 6 Tbsp | |
-| Olive Oil | 3 Tbsp | May replace with additional butter |
-| Port Wine | 2/3 cup | |
-| Salt |  | |
-| Pepper |  | |
-| Heavy Cream | 1/2 cup | |
+| Flour         |           | |
+| Butter        | 6 Tbsp    | |
+| Olive Oil     | 3 Tbsp    | May replace with additional butter |
+| Port Wine     | ⅔ cup     | |
+| Salt          |           | |
+| Pepper        |           | |
+| Heavy Cream   | ½ cup     | |
 
 ## Method
 

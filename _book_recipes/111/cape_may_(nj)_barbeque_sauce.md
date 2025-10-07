@@ -11,14 +11,14 @@ from: Cape May County
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
+| Ingredient        | Amount  | Notes |
+| ----------------- | ------- | ----- |
 | Poultry seasoning | 1 Tblsp | |
 | Salt              | 2 tsp   | |
-| Pepper            | 3/4 tsp | |
+| Pepper            | ¾ tsp   | |
 | Vinegar           | 1 cup   | |
 | Egg               | 1       | |
-| Cooking oil       | 1/2 c   | |
+| Cooking oil       | ½ °C    | |
 | Chickens          | 2 whole | |
 ## Method
 1. Mix poultry seasoning, salt, pepper, and vinegar in a tight container.

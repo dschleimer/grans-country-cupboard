@@ -12,18 +12,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Smoked Beef Tongue | 1 | |
-| Carrot | 1 | Sliced |
-| Onion | 1 | Sliced |
-| Celery | 2 ribs | Diced |
-| Parsley | 2 sprigs | Cut fine |
-| Bay Leaf | 1/2 | |
-| Peppercorns | 1/2 tsp | |
-| Cloves | 2 | |
-| Salt | 2 tsp | |
-| Cabbage |  | Optional |
+| Ingredient         | Amount   | Notes |
+| ------------------ | -------- | ----- |
+| Smoked Beef Tongue | 1        | |
+| Carrot             | 1        | Sliced |
+| Onion              | 1        | Sliced |
+| Celery             | 2 ribs   | Diced |
+| Parsley            | 2 sprigs | Cut fine |
+| Bay Leaf           | ½        | |
+| Peppercorns        | ½ tsp    | |
+| Cloves             | 2        | |
+| Salt               | 2 tsp    | |
+| Cabbage            |          | Optional |
 
 ## Method
 

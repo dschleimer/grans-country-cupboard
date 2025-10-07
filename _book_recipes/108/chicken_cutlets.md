@@ -13,15 +13,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Chicken Breasts | 6 | Bonesless, skinless |
-| Heavy Cream | 2 cups  | |
-| Eggs | 4 yolks | |
-| Salt | 2 1/2 tsp | |
-| White Pepper | 1/2 tsp | |
-| Bread Crumbs | 1 cup | Dry |
-| Butter | 1/4 lb | |
+| Ingredient      | Amount  | Notes |
+| --------------- | ------- | ----- |
+| Chicken Breasts | 6       | Bonesless, skinless |
+| Heavy Cream     | 2 cups  | |
+| Eggs            | 4 yolks | |
+| Salt            | 2½ tsp  | |
+| White Pepper    | ½ tsp   | |
+| Bread Crumbs    | 1 cup   | Dry |
+| Butter          | ¼ lb    | |
 
 ## Method
 

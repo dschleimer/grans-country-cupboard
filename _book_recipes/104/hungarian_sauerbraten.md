@@ -14,22 +14,22 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Top Round | 2 lbs | Boneless |
-| Oil | 3 Tbsp | |
-| Onions | 2 | Quartered |
-| Carrots | 2 | Peeled - Chopped |
-| Green Pepper | 1 | Cut up |
-| Celery | 1 rib | Cut fine |
-| Tomato | 1 | Quartered |
-| Bay Leaves | 4 | |
-| Flour | 3 Tbsp | |
-| Sugar | 1/2 Tbsp | |
-| Mustard | 1/2 Tbsp | |
-| Paprika | 1/2 Tbsp | |
-| Vinegar | 3 Tbsp | |
-| Sour Cream | 1/2 cup | |
+| Ingredient   | Amount | Notes |
+| ------------ | ------ | ----- |
+| Top Round    | 2 lbs  | Boneless |
+| Oil          | 3 Tbsp | |
+| Onions       | 2      | Quartered |
+| Carrots      | 2      | Peeled - Chopped |
+| Green Pepper | 1      | Cut up |
+| Celery       | 1 rib  | Cut fine |
+| Tomato       | 1      | Quartered |
+| Bay Leaves   | 4      | |
+| Flour        | 3 Tbsp | |
+| Sugar        | ½ Tbsp | |
+| Mustard      | ½ Tbsp | |
+| Paprika      | ½ Tbsp | |
+| Vinegar      | 3 Tbsp | |
+| Sour Cream   | ½ cup  | |
 
 ## Method
 
@@ -48,7 +48,7 @@ categories:
 1. Turn off the heat
 1. Add sugar, mustard, paprika, and vinegar
 1. Blend well
-1. Cut meat into 1/2 inch slices and transfer to a platter
+1. Cut meat into ½ inch slices and transfer to a platter
 1. Stir sour cream into gravy and pour over meat
 
 ## Notes From Gran

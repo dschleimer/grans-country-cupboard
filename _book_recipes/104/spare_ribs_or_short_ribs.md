@@ -13,16 +13,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Ribs | 2 to 3 lbs | |
-| Soy Sauce | 1/3 cup | |
-| Bouillon | 1/3 cup | |
-| Sherry | 1/3 cup | |
-| Garlic Cloves | 1 or 2 | |
-| Sugar | 1/4 cup | |
-| Ginger | Little | |
-| Pepper |  | |
+| Ingredient    | Amount     | Notes |
+| ------------- | ---------- | ----- |
+| Ribs          | 2 to 3 lbs | |
+| Soy Sauce     | ⅓ cup      | |
+| Bouillon      | ⅓ cup      | |
+| Sherry        | ⅓ cup      | |
+| Garlic Cloves | 1 or 2     | |
+| Sugar         | ¼ cup      | |
+| Ginger        | Little     | |
+| Pepper        |            | |
 
 ## Method
 
@@ -31,10 +31,10 @@ categories:
 1. Sprinkle meat with sugar and a little ginger
 1. Pour marinade over meat, ensuring all sugar is moistened
 1. Marinade for at least 2 hours
-1. Preheat oven to 450F
+1. Preheat oven to 450 °F
 1. When ready to cook, use the marinade to wash off the sugar
 1. Remove ribs from the marinade and dry the meat
-1. Roast at 450F long enough to brown meat on all sides
+1. Roast at 450 °F long enough to brown meat on all sides
 1. Reduce the heat, add marinade back to meat
 1. Baste frequently, roasting for a total of 2 hours
 

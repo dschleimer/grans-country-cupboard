@@ -13,23 +13,23 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Top Round Beef | 3 lbs | |
-| Mushrooms | 2 large cans | |
-| Onions | 5 | Chopped |
-| Butter | 1/4 lb | |
-| Tomato Paste | 2 Tbsp | |
-| Prepared Mustard | 1 Tbsp | |
-| Worcestershire Sauce | 2 Tbsp | |
-| Sherry | 1 cup + 1/2 cup | Dry Sherry |
-| Maggi Sauce | Dash | Maggi is a brand of seasonings and sauces |
-| Baking Soda | 3/4 tsp | |
-| Sour Cream | 1/2 + 1/2 pint | |
-| Flour | 1/4 cup | |
-| Salt |  | |
-| Pepper |  | |
-| Garlic Powder | Dash | |
+| Ingredient           | Amount        | Notes |
+| -------------------- | ------------- | ----- |
+| Top Round Beef       | 3 lbs         | |
+| Mushrooms            | 2 large cans  | |
+| Onions               | 5             | Chopped |
+| Butter               | ¼ lb          | |
+| Tomato Paste         | 2 Tbsp        | |
+| Prepared Mustard     | 1 Tbsp        | |
+| Worcestershire Sauce | 2 Tbsp        | |
+| Sherry               | 1 cup + ½ cup | Dry Sherry |
+| Maggi Sauce          | Dash          | Maggi is a brand of seasonings and sauces |
+| Baking Soda          | ¾ tsp         | |
+| Sour Cream           | ½ + ½ pint    | |
+| Flour                | ¼ cup         | |
+| Salt                 |               | |
+| Pepper               |               | |
+| Garlic Powder        | Dash          | |
 
 ## Method
 
@@ -39,9 +39,9 @@ categories:
 1. Cook onions and mushrooms in butter
 1. Add meat and brown
 1. Add salt, pepper, and garlic powder
-1. Add Tomato Paste, Mustard, Worcestershire Sauce, 1 cup Sherry, Maggi's sauce and 1/2 pint sour cream
+1. Add Tomato Paste, Mustard, Worcestershire Sauce, 1 cup Sherry, Maggi's sauce and ½ pint sour cream
 1. Cover and simmer about 3 hours or until ready to serve
-1. About 20 minutes before serving, add 1/2 cup sherry and 1/2 pint of Sour Cream 
+1. About 20 minutes before serving, add ½ cup sherry and ½ pint of Sour Cream 
 
 ## Notes From Gran
 

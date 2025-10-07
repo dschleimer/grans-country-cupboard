@@ -16,24 +16,24 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Chicken | 1 | "Frying chicken" - Cut up |
-| Seasoned Flour |  | |
-| Crisco |  | |
-| Butter |  | For casserole |
-| Salt |  | |
-| Pepper |  | |
-| Paprika |  | |
-| Cream of Mushroom Soup | 1 can | |
-| Cream of Chicken Soup | 1 can | |
-| Sauterne | 1/2 cup | This is a sweet wine - Use Sauterne or Sherry, not both |
-| Sherry | 1/2 cup | Use Sauterne or Sherry, not both |
-| Onions | 1 bag | Optional - Frozen |
+| Ingredient             | Amount | Notes |
+| ---------------------- | ------ | ----- |
+| Chicken                | 1      | "Frying chicken" - Cut up |
+| Seasoned Flour         |        | |
+| Crisco                 |        | |
+| Butter                 |        | For casserole |
+| Salt                   |        | |
+| Pepper                 |        | |
+| Paprika                |        | |
+| Cream of Mushroom Soup | 1 can  | |
+| Cream of Chicken Soup  | 1 can  | |
+| Sauterne               | ½ cup  | This is a sweet wine - Use Sauterne or Sherry, not both |
+| Sherry                 | ½ cup  | Use Sauterne or Sherry, not both |
+| Onions                 | 1 bag  | Optional - Frozen |
 
 ## Method
 
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Butter Casserole dish
 1. Cut up frying chicken
 1. Shake chicken in seasoned flour

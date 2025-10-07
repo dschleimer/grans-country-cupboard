@@ -13,20 +13,20 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Chicken breasts        | 4           | cut in half and boned |
-| Shake'N Bake seasoning | 1 pack      |                       |
-| English muffins        | 4           | split and toasted     |
-| Cooked ham             | 4 slices    | cut in half           |
-| Butter                 | 2 Tblsp     |                       |
-| Flour                  | 4 Tblsp     |                       |
-| Water                  | 1 cup       |                       |
-| White pepper           | 1/8 tsp     |                       |
-| Salt                   | 3/4 tsp     |                       |
-| Eggs                   | 2           | beaten                |
-| Lemon juice            | 2 1/2 Tblsp |                       |
-| Cayenne                | dash        |                       |
+| Ingredient             | Amount   | Notes |
+| ---------------------- | -------- | ----- |
+| Chicken breasts        | 4        | cut in half and boned |
+| Shake'N Bake seasoning | 1 pack   | |
+| English muffins        | 4        | split and toasted |
+| Cooked ham             | 4 slices | cut in half |
+| Butter                 | 2 Tblsp  | |
+| Flour                  | 4 Tblsp  | |
+| Water                  | 1 cup    | |
+| White pepper           | ⅛ tsp    | |
+| Salt                   | ¾ tsp    | |
+| Eggs                   | 2        | beaten |
+| Lemon juice            | 2½ Tblsp | |
+| Cayenne                | dash     | |
 
 ## Method
 1. Preheat broiler.
@@ -39,7 +39,7 @@ categories:
 8. Remove from heat, pour on beaten eggs, and beat well.
 9. Cook for 1 min.
 10. Stir in cayenne and lemon juice.
-11. Arrange toasted muffins with 1/2 ham slice and 1/2 chicken breast on each.
+11. Arrange toasted muffins with ½ ham slice and ½ chicken breast on each.
 12. Cover generously with mock Hollandaise sauce.
 
 ## Notes From Gran

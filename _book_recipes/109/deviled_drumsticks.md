@@ -14,18 +14,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Chicken Legs | 8 | |
-| Red Wine | 1 cup | Mellow |
-| Wine Vinegar | 2 Tbsp | |
-| Salt | 1/2 tsp | |
-| Garlic Salt | 1/2 tsp | |
-| Pepper | 1/4 tsp | |
-| Brown Sugar | 2 Tblsp | |
-| Worcestershire Sauce | 1 tsp | |
-| Catsup | 1/2 cup | |
-| Butter | 2 Tbsp | |
+| Ingredient           | Amount  | Notes |
+| -------------------- | ------- | ----- |
+| Chicken Legs         | 8       | |
+| Red Wine             | 1 cup   | Mellow |
+| Wine Vinegar         | 2 Tbsp  | |
+| Salt                 | ½ tsp   | |
+| Garlic Salt          | ½ tsp   | |
+| Pepper               | ¼ tsp   | |
+| Brown Sugar          | 2 Tblsp | |
+| Worcestershire Sauce | 1 tsp   | |
+| Catsup               | ½ cup   | |
+| Butter               | 2 Tbsp  | |
 
 ## Method
 

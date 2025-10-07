@@ -10,21 +10,21 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Brown sugar   | 1 cup   | |
-| White sugar   | 1 cup   | |
-| Butter        | 1 cup   | |
-| Eggs          | 2       | |
-| Vanilla       | 1 tsp   | |
-| Flour         | 2 cups  | |
-| Baking powder | 2 tsp   | |
-| Baking soda   | 1/2 tsp | |
-| Salt          | 1 tsp   | |
-| Quick oatmeal | 2 cups  | |
-| Rice Krispies | 2 cups  | |
-| Coconut       | 1 cup   | shredded |
-| Walnuts       | 1 cup   | chopped |
+| Ingredient    | Amount | Notes |
+| ------------- | ------ | ----- |
+| Brown sugar   | 1 cup  | |
+| White sugar   | 1 cup  | |
+| Butter        | 1 cup  | |
+| Eggs          | 2      | |
+| Vanilla       | 1 tsp  | |
+| Flour         | 2 cups | |
+| Baking powder | 2 tsp  | |
+| Baking soda   | ½ tsp  | |
+| Salt          | 1 tsp  | |
+| Quick oatmeal | 2 cups | |
+| Rice Krispies | 2 cups | |
+| Coconut       | 1 cup  | shredded |
+| Walnuts       | 1 cup  | chopped |
 
 ## Method
 1. Preheat oven to 375°F.

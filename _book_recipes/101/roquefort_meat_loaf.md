@@ -15,23 +15,23 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Butter | 1/4 cup | |
-| Onion | 1 | Chopped |
-| Garlic | 1 clove | Chopped |
-| Celery | 1/2 cup | Chopped |
-| Bread Crumbs | 2 cups | Soft |
-| Eggs | 2 + 4 | 2 eggs required - 4 Hard-Boiled eggs optional |
-| Roquefort Cheese | 1/2 cup | Crumbled |
-| Ground Chuck Beef | 2 lbs | |
-| Salt | 1 tsp | |
-| Pepper | 1/4 tsp | |
-| Poultry Seasoning | 1/2 tsp | |
+| Ingredient        | Amount  | Notes |
+| ----------------- | ------- | ----- |
+| Butter            | ¼ cup   | |
+| Onion             | 1       | Chopped |
+| Garlic            | 1 clove | Chopped |
+| Celery            | ½ cup   | Chopped |
+| Bread Crumbs      | 2 cups  | Soft |
+| Eggs              | 2 + 4   | 2 eggs required - 4 Hard-Boiled eggs optional |
+| Roquefort Cheese  | ½ cup   | Crumbled |
+| Ground Chuck Beef | 2 lbs   | |
+| Salt              | 1 tsp   | |
+| Pepper            | ¼ tsp   | |
+| Poultry Seasoning | ½ tsp   | |
 
 ## Method
 
-1. Pre-heat oven to 325F
+1. Pre-heat oven to 325 °F
 1. GHrease a baking dish well
 1. If desired, hard-boil 4 eggs, and set aside to cool
 1. Chop onion, garlic, and celery

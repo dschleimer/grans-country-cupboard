@@ -13,17 +13,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Ground Chuck | 1 1/2 lbs | |
-| Seasoned Salt | 1 tsp | |
-| Onion | 2 | 1 Chopped Fine - 1 Sliced |
-| Italian Bread Crumbs | 1 cup | |
-| Mushrooms | 8oz | Recipe calls for one 8oz can of pieces |
-| Sherry | 1/4 cup | |
-| Cream of Mushroom Soup | 1 can | |
-| Sour Cream | 1 cup | |
-| Butter | | For pan |
+| Ingredient             | Amount | Notes |
+| ---------------------- | ------ | ----- |
+| Ground Chuck           | 1½ lbs | |
+| Seasoned Salt          | 1 tsp  | |
+| Onion                  | 2      | 1 Chopped Fine - 1 Sliced |
+| Italian Bread Crumbs   | 1 cup  | |
+| Mushrooms              | 8oz    | Recipe calls for one 8oz can of pieces |
+| Sherry                 | ¼ cup  | |
+| Cream of Mushroom Soup | 1 can  | |
+| Sour Cream             | 1 cup  | |
+| Butter                 |        | For pan |
 
 ## Method
 

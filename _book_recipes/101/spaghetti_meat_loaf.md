@@ -14,20 +14,20 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Ground Beef | 1 lb | |
-| Egg | 1 | Beaten |
-| Salt | 1 1/4 tsp | |
-| Pepper | 1/4 tsp | |
-| Onion | 4 tbsp | Minced |
-| Spaghetti |  | Recipe calls for leftovers spaghetti - with Sauce|
-| Butter |  | For Casserole |
-| Sharp Cheese | 1/2 cup | Grated |
+| Ingredient   | Amount | Notes |
+| ------------ | ------ | ----- |
+| Ground Beef  | 1 lb   | |
+| Egg          | 1      | Beaten |
+| Salt         | 1¼ tsp | |
+| Pepper       | ¼ tsp  | |
+| Onion        | 4 tbsp | Minced |
+| Spaghetti    |        | Recipe calls for leftovers spaghetti - with Sauce |
+| Butter       |        | For Casserole |
+| Sharp Cheese | ½ cup  | Grated |
 
 ## Method
 
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Butter casserole
 1. Combine Remaining ingredients except for cheese
 1. Spread in Caserole dish

@@ -11,10 +11,10 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Chestnuts |  | |
-| Baking Soda | 1/4 tsp | For dried chestnuts |
+| Ingredient  | Amount | Notes |
+| ----------- | ------ | ----- |
+| Chestnuts   |        | |
+| Baking Soda | ¼ tsp  | For dried chestnuts |
 
 ## Method
 

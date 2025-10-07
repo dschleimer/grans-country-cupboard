@@ -13,28 +13,28 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Ground Beef | 1 1/2 lbs | |
-| Parsley | 4 Tbsp | Chopped |
-| Onions | 4 Tbsp | Chopped |
-| Salt | 1 1/2 tsp + 1/2 tsp | |
-| Pepper | 1/2 tsp | |
-| Vegetable Oil | 1/4 cup | |
-| Bread Crumbs | 1 1/2 cups | |
-| Roasted Peanuts | 3/4 cup | Chopped |
-| Pepper | Few Grains | |
-| Water | 2 Tbsp | |
-| Tomato |  | Sliced |
-| Bacon |  | "Bacon curls" |
+| Ingredient      | Amount         | Notes |
+| --------------- | -------------- | ----- |
+| Ground Beef     | 1½ lbs         | |
+| Parsley         | 4 Tbsp         | Chopped |
+| Onions          | 4 Tbsp         | Chopped |
+| Salt            | 1½ tsp + ½ tsp | |
+| Pepper          | ½ tsp          | |
+| Vegetable Oil   | ¼ cup          | |
+| Bread Crumbs    | 1½ cups        | |
+| Roasted Peanuts | ¾ cup          | Chopped |
+| Pepper          | Few Grains     | |
+| Water           | 2 Tbsp         | |
+| Tomato          |                | Sliced |
+| Bacon           |                | "Bacon curls" |
 
 ## Method
 
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Chop Parsely, and onions
-1. Lightly mix together Beef, Parsley, Onions, 1 1/2 tsp salt, 1/2 tsp pepper, and vegetable oil to make the meat mixture
+1. Lightly mix together Beef, Parsley, Onions, 1½ tsp salt, ½ tsp pepper, and vegetable oil to make the meat mixture
 1. Chop peanuts
-1. Mix together Bread Crumbs, peanuts, 1/2 tsp salt, few grains of pepper, and 2 Tbsp water to makie the stuffing
+1. Mix together Bread Crumbs, peanuts, ½ tsp salt, few grains of pepper, and 2 Tbsp water to makie the stuffing
 1. Arrange meat, then stuffing in layers, in a casserole dish.  Ensure the top layer is stuffing
 1. Arrange tomato slices and bacon on top of the last stuffing layer
 1. Bake covered about 1 hour

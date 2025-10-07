@@ -13,19 +13,19 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Ground Beef | 1 lb | |
-| Pork Sausage | 1/2 lb | |
-| Bread Crumbs | 1 cup | Soft |
-| Light Cream | 1 cup | |
-| Nutmeg | 1/4 tsp | |
-| Salt | 1 tsp | |
-| Pepper | 1/4 tsp | |
-| Sugar | 1 tsp | |
-| Parsley | 2 Tbsp | Chopped |
+| Ingredient           | Amount | Notes |
+| -------------------- | ------ | ----- |
+| Ground Beef          | 1 lb   | |
+| Pork Sausage         | ½ lb   | |
+| Bread Crumbs         | 1 cup  | Soft |
+| Light Cream          | 1 cup  | |
+| Nutmeg               | ¼ tsp  | |
+| Salt                 | 1 tsp  | |
+| Pepper               | ¼ tsp  | |
+| Sugar                | 1 tsp  | |
+| Parsley              | 2 Tbsp | Chopped |
 | Instant Minced Onion | 2 Tbsp | |
-| Butter | 2 Tbsp | |
+| Butter               | 2 Tbsp | |
 
 ## Method
 
