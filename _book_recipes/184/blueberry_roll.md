@@ -3,8 +3,8 @@ layout: recipe
 page: "184"
 recipe: 184/blueberry_roll
 page_order: 2
-categories:
 from: Eleanor Smith - 1929
+categories:
     - Needs Front Matter
     - Vegetarian
 ---
