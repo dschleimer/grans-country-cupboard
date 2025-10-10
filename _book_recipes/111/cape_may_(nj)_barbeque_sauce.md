@@ -3,9 +3,10 @@ layout: recipe
 page: "111"
 recipe: 111/cape_may_(nj)_barbeque_sauce
 page_order: 2
-categories:
 from: Cape May County
-    - Needs Front Matter
+categories:
+    - Sauce
+    - No Cook
 ---
 # Cape May (NJ) Barbeque Sauce
 
@@ -20,6 +21,7 @@ from: Cape May County
 | Egg               | 1       | |
 | Cooking oil       | ½ °C    | |
 | Chickens          | 2 whole | |
+
 ## Method
 1. Mix poultry seasoning, salt, pepper, and vinegar in a tight container.
 2. Add egg to mixture and shake.
