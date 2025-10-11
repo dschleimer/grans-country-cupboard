@@ -4,7 +4,6 @@ page: "100"
 recipe: 100/celery_note
 page_order: 3
 categories:
-    - Needs Transcription
     - Needs Front Matter
 ---
 # Celery Note
@@ -13,11 +12,11 @@ categories:
 
 | Ingredient | Amount | Notes |
 | ---------- | ------ | ----- |
-|  |  | |
 
 ## Method
 
 ## Notes From Gran
+One piece of celery is a rib. A bunch of celery is a stalk. A rib and a stalk are frequently mis-used.
 
 * 
 
