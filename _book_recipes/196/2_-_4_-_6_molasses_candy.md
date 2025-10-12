@@ -4,7 +4,7 @@ page: "196"
 recipe: 196/2_-_4_-_6_molasses_candy
 page_order: 1
 categories:
-    - Needs Transcription
+from: Mrs. Bell of North Carolina
     - Needs Front Matter
     - Vegetarian
 ---
@@ -14,12 +14,19 @@ categories:
 
 | Ingredient | Amount | Notes |
 | ---------- | ------ | ----- |
-|  |  | |
+| Butter               | 2 cups | |
+| Raw sugar            | 4 cups | |
+| Unsulphured Molasses | 6 cups | |
+| Butter               |  | |
+| Water                |  | |
 
 ## Method
+1. Cook until it forms a soft ball in water.
+2. Butter fingers to keep candy from sticking.
+3. Pull candy.
 
 ## Notes From Gran
-
+Fun!
 * 
 
 ## Modern Notes
