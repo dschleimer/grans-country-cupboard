@@ -3,8 +3,8 @@ layout: recipe
 page: "187"
 recipe: 187/corn_fritters
 page_order: 1
-categories:
 from: New Jersey
+categories:
     - Needs Front Matter
 ---
 # Corn Fritters
