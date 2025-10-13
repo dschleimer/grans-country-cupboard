@@ -14,10 +14,9 @@ categories:
 
 | Ingredient | Amount | Notes |
 | ---------- | ------ | ----- |
-| Butter               | 2 cups | |
+| Butter               | 2 cups + 1 Tblsp | |
 | Raw sugar            | 4 cups | |
 | Unsulphured Molasses | 6 cups | |
-| Butter               |  | |
 | Water                |  | |
 
 ## Method
