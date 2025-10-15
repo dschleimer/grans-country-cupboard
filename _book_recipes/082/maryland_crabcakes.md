@@ -18,7 +18,7 @@ categories:
 | Crab Meat    | 3 cups | Fresh |
 | Salt         | ½ tsp  | |
 | Pepper       | ½ tsp  | |
-| 2 eggs       | 2 + 2  | Beaten - See modern notes |
+| Eggs       | 2 + 2  | Beaten - See modern notes |
 | Onion        | ⅓ cup  | Finely chopped |
 | Dry Mustard  | 2 tsp  | |
 | Mayonnaise   |        | |

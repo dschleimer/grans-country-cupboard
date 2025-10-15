@@ -89,40 +89,31 @@ module Ingredients
             # 
             normalized.gsub!(/  */, ' ')
 
-            # 7.  Deduplicate common typos / variants
-            #    (lookup is case‑insensitive).  The hash values are in the canonical
-            #    title‑case we want in the final output.
-            typo_corrections = {
-              'bread crumbs'           => 'Bread Crumbs',
-              'bread crumps'           => 'Bread Crumbs',
-              'egg whites'             => 'Egg',
-              'egss'                   => 'Egg',
-              'pimentos'               => 'Pimento',
+            # Deduplicate common variants
+            # (lookup is case‑insensitive).  The hash values are in the canonical
+            # title‑case we want in the final output.
+            manual_corrections = {
+              'bay leaf'               => 'Bay Leaves',
+              'black pepper'           => 'Pepper',
               'potatoes'               => 'Potato',
-              'worchestershire sauce'  => 'Worcestershire Sauce',
               # add more as needed
             }
 
             lower = normalized.downcase
-            if typo_corrections.key?(lower)
-              normalized = typo_corrections[lower]
+            if manual_corrections.key?(lower)
+              normalized = manual_corrections[lower]
             end
 
-            # 5.  Singular/Plural normalisation
-            #    Only apply to a *single‑word* ingredient that ends with an "s"
-            #    and is not in the set of known plural forms.
-            #    (This keeps phrases like "Italian Bread Crumbs" untouched.)
-            words = normalized.split
-            if words.length == 1
-              word = words[0]
-              # exceptions that must stay plural
-              plural_exceptions = Set.new([
-                'Bread Crumbs', 'Pimentos', 'Oily', 'Crumbs',
-                'Peas', 'Leaves', 'Leaves', 'Rice Chicks', 'Rice Chex'
-              ])
-              if word.end_with?('s') && !plural_exceptions.include?(word)
-                normalized = word[0..-2]          # drop final 's'
-              end
+            # exceptions that must stay plural
+            plural_exceptions = Set.new([
+            'asparagus',
+            'crumbs',
+            'leaves', 
+            'peas',
+            'pimentos',
+            ])
+            if normalized.end_with?('s') && plural_exceptions.none?{|exception| normalized.downcase.end_with?(exception)}
+            normalized = normalized[0..-2]          # drop final 's'
             end
 
             normalized
