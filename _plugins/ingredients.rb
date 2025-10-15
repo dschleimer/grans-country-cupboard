@@ -77,9 +77,54 @@ module Ingredients
         end
 
         def normalized_ingredient(ingredient)
-            # TODO: add more normalization here, e.g. Soft Bread => Bread
+            # Remove parenthetical text
             normalized = ingredient.gsub(/\([^)]+\)/, '')
+            # Strip trailing commas/periods
+            normalized.gsub!(/[,.]+$/, '')
+            # Replace dash / plus / slash characters with a single space
+            #    (includes hyphen, en‑dash, em‑dash)
+            normalized.gsub!(/[‑–\-+\/]+/, ' ')
             normalized.strip!
+
+            # 
+            normalized.gsub!(/  */, ' ')
+
+            # 7.  Deduplicate common typos / variants
+            #    (lookup is case‑insensitive).  The hash values are in the canonical
+            #    title‑case we want in the final output.
+            typo_corrections = {
+              'bread crumbs'           => 'Bread Crumbs',
+              'bread crumps'           => 'Bread Crumbs',
+              'egg whites'             => 'Egg',
+              'egss'                   => 'Egg',
+              'pimentos'               => 'Pimento',
+              'potatoes'               => 'Potato',
+              'worchestershire sauce'  => 'Worcestershire Sauce',
+              # add more as needed
+            }
+
+            lower = normalized.downcase
+            if typo_corrections.key?(lower)
+              normalized = typo_corrections[lower]
+            end
+
+            # 5.  Singular/Plural normalisation
+            #    Only apply to a *single‑word* ingredient that ends with an "s"
+            #    and is not in the set of known plural forms.
+            #    (This keeps phrases like "Italian Bread Crumbs" untouched.)
+            words = normalized.split
+            if words.length == 1
+              word = words[0]
+              # exceptions that must stay plural
+              plural_exceptions = Set.new([
+                'Bread Crumbs', 'Pimentos', 'Oily', 'Crumbs',
+                'Peas', 'Leaves', 'Leaves', 'Rice Chicks', 'Rice Chex'
+              ])
+              if word.end_with?('s') && !plural_exceptions.include?(word)
+                normalized = word[0..-2]          # drop final 's'
+              end
+            end
+
             normalized
         end
 
