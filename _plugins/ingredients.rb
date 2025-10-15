@@ -81,13 +81,27 @@ module Ingredients
             normalized = ingredient.gsub(/\([^)]+\)/, '')
             # Strip trailing commas/periods
             normalized.gsub!(/[,.]+$/, '')
-            # Replace dash / plus / slash characters with a single space
-            #    (includes hyphen, en‑dash, em‑dash)
-            normalized.gsub!(/[‑–\-+\/]+/, ' ')
+
             normalized.strip!
 
-            # 
-            normalized.gsub!(/  */, ' ')
+            # Requce whitespace sequences to single space character
+            normalized.gsub!(/\s\s*/, ' ')
+            normalized.gsub!(' - ', ' ')
+
+            # exceptions that must stay plural
+            plural_exceptions = Set.new([
+                'asparagus',
+                'beans',
+                'bits',
+                'crumbs',
+                'drippings',
+                'krispies',
+                'leaves', 
+                'peas',
+            ])
+            if normalized.end_with?('s') && plural_exceptions.none?{|exception| normalized.downcase.end_with?(exception)}
+                normalized = normalized[0..-2]          # drop final 's'
+            end
 
             # Deduplicate common variants
             # (lookup is case‑insensitive).  The hash values are in the canonical
@@ -96,24 +110,12 @@ module Ingredients
               'bay leaf'               => 'Bay Leaves',
               'black pepper'           => 'Pepper',
               'potatoes'               => 'Potato',
-              # add more as needed
+              'pimento stuffed olive'  => 'Pimento Olive',
             }
 
             lower = normalized.downcase
             if manual_corrections.key?(lower)
               normalized = manual_corrections[lower]
-            end
-
-            # exceptions that must stay plural
-            plural_exceptions = Set.new([
-            'asparagus',
-            'crumbs',
-            'leaves', 
-            'peas',
-            'pimentos',
-            ])
-            if normalized.end_with?('s') && plural_exceptions.none?{|exception| normalized.downcase.end_with?(exception)}
-            normalized = normalized[0..-2]          # drop final 's'
             end
 
             normalized
