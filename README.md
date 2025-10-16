@@ -132,4 +132,3 @@ The dev env setup here requires access to my github and cloudflare accounts, so 
 
 There are a couple of python scripts under _tools.  In particular format_recipe.py will be run manually but periodically to do things like formatting tables and temperatures in a somewhat consiustent way.  Feel free to run it against your changes, but don't feel obligated to do so.
 
-Al please delete this line.
