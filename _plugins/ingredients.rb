@@ -111,6 +111,7 @@ module Ingredients
               'black pepper'           => 'Pepper',
               'potatoes'               => 'Potato',
               'pimento stuffed olive'  => 'Pimento Olive',
+              'ground chuck'           => 'Ground Beef Chuck',
             }
 
             lower = normalized.downcase
