@@ -5,7 +5,6 @@ recipe: 049/baked_limas
 page_order: 2
 from: Wyoming
 categories:
-    - Needs Transcription
     - Vegetables
     - Side Dish
     - Casserole
