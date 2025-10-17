@@ -5,12 +5,11 @@ recipe: 071/cheese_souffle
 page_order: 2
 from: Paula Calwell
 categories:
-    - Needs Transcription
     - Soufflé
     - Boiled
     - Baked
 ---
-# Cheese Soufflée
+# Cheese Soufflé
 
 ## Ingredients
 
@@ -29,13 +28,13 @@ categories:
 
 1. Preheat oven to 375 °F
 1. Butter mold
-1. Separate eggs whites from yolks
+1. Separate egg whites from yolks
 1. Grate Cheese
 1. Mix butter, flour, and milk
 1. Cook to a cream sauce
 1. Add cheese
 1. Add Egg Yolks one at a time
-1. Add Salt and Papprika or Red Pepper
+1. Add Salt and Paprika or Red Pepper
 1. Beat Egg whites stiff and fold in
 1. Transfer to butter mold
 1. Put mold in oven over water
