@@ -47,8 +47,7 @@ categories:
 * 
 
 ## Modern Notes
-* The recipe doesn't specify the ratio between milk and water.  I went with 1/2 cup Milk and added 1/6 cup water for 2/3 cup total.  --David S
-* A gem pan seems to have been somewhere between a modern cupcake pan and mini bundt cake pan.  The shape and size seems to have varied.  Some are half-spheres, some are fluted, some are flattened ovals.  I'm going to try both cupcake pans with cupcake wrappers and mini bundt pans.  --David S
-
-* 
+* The recipe doesn't specify the ratio between milk and water.  I went with 1/2 cup Milk and added 1/6 cup water for 2/3 cup total.  It worked pretty well.  --David S
+* Gem pan seems to have been similar to a modern cupcake pan but with a much more varied shape.  I saw half-spheres, flat ovals, fluted shapes.  I used a cup-cake pan with cupcake wrappers and it worked well.  I also tried a mini bundt cake pan and it did not release from the pan.  Next time will be cupcakes only. --David S
+* I think this definitely needs to optional fruit.  The bits without that turned out kinda bland.  I also frosted some of the cakes, and while it wasn't required it worked ok with the fruit.  I would recommend doing at least one of frosting or fruit.  -- David S
 
