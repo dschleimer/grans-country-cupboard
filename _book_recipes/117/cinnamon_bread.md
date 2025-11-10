@@ -4,8 +4,9 @@ page: "117"
 recipe: 117/cinnamon_bread
 page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+    - Dessert
+    - Bread
+    - Baked
 ---
 # Cinnamon Bread
 
@@ -13,9 +14,26 @@ categories:
 
 | Ingredient | Amount | Notes |
 | ---------- | ------ | ----- |
-|  |  | |
+| Butter | 1/4 cup | |
+| Sugar | 1 cup + 3 Tbsp | |
+| Egg | 1 | Beaten |
+| Milk | 1/2 cup | |
+| Flour | 1 3/4 cups | |
+| Baking powder | 3 tsp | |
+| Salt | 1/4 tsp | |
+| Cinnamon | 1 1/2 tsp | |
 
 ## Method
+
+1. Preheat oven to 350F
+1. Grease bread pan
+1. Cream together Butter and 1 cup Sugar
+1. Beat egg and add
+1. Add milk
+1. Sift together flour, baking powder, and salt.  Add to dough
+1. Transfer to greased bread pan
+1. Mix together cinnamon and 3 Tbsp sugar.  Sprinkle on top of bread
+1. Bake about 30 minutes
 
 ## Notes From Gran
 
