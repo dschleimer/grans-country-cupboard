@@ -15,14 +15,14 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Rabbit |  | |
-| Flour | 2 Tbsp + extra | |
-| Butter |  | |
-| Milk | 1 pt + extra | |
-| Salt |  | |
-| Pepper |  | |
+| Ingredient | Amount         | Notes |
+| ---------- | -------------- | ----- |
+| Rabbit     |                | |
+| Flour      | 2 Tbsp + extra | |
+| Butter     |                | |
+| Milk       | 1 pt + extra   | |
+| Salt       |                | |
+| Pepper     |                | |
 
 ## Method
 

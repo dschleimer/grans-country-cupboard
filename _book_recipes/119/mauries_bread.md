@@ -12,16 +12,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Dry Yeast | 2 pkg | |
-| Sugar | 1/2 cup + 1 tsp | |
-| Cooking Oil | 1/2 cup | |
-| Water | 3 cups + 1 cup | warm |
-| Flour | 8-9 cups | |
-| Salt | 1 Tbsp | |
-| Wheat Germ | 1/2 cup | Optional |
-| Soy Flour | 1/2 cup | Optional
+| Ingredient  | Amount         | Notes |
+| ----------- | -------------- | ----- |
+| Dry Yeast   | 2 pkg          | |
+| Sugar       | ½ cup + 1 tsp  | |
+| Cooking Oil | ½ cup          | |
+| Water       | 3 cups + 1 cup | warm |
+| Flour       | 8-9 cups       | |
+| Salt        | 1 Tbsp         | |
+| Wheat Germ  | ½ cup          | Optional |
+| Soy Flour | ½ cup | Optional
 
 ## Method
 1. Combine 1 cup warm water and 1 tsp sugar
@@ -34,7 +34,7 @@ categories:
 1. Shape dough into 4 loaves
 1. Put into bread pans
 1. let rise an additional 2 hours
-1. Preheat oven to 400F
+1. Preheat oven to 400 °F
 1. Bake 20-25 minutes until nice and brown
 1. Cool on racks
 

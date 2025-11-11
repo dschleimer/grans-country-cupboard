@@ -15,14 +15,14 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Chicken | 4-6 lb Hen | "Stewing Hen" |
-| Onion | 1 cut up | |
-| Salt | To Taste | |
-| Pepper | To Taste | |
-| Flour | 3 Tbsp | |
-| Milk | 1 Quart | |
+| Ingredient | Amount     | Notes |
+| ---------- | ---------- | ----- |
+| Chicken    | 4-6 lb Hen | "Stewing Hen" |
+| Onion      | 1 cut up   | |
+| Salt       | To Taste   | |
+| Pepper     | To Taste   | |
+| Flour      | 3 Tbsp     | |
+| Milk       | 1 Quart    | |
 
 ## Method
 
@@ -32,7 +32,7 @@ categories:
 1. Cut up onion and add to frying pan
 1. Add Salt and Pepper to taste
 1. Cover
-1. Cook slowly for 2 1/2 hours or until chicken is tender
+1. Cook slowly for 2½ hours or until chicken is tender
 1. Remove lid and cook down liquid
 1. Brown chicken in its own fat
 1. Remove chicken pieces as they brown evenly

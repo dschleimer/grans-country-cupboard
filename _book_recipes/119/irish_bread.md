@@ -13,21 +13,21 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Flour | 2 cups | |
-| Sugar | 1/2 cup | |
-| Eggs | 2 | |
-| Butter | 1/4 lb | Melted |
-| Milk | 1/2 cup | |
-| Raisins | 1 cup | |
-| Baking Powder | 3 tsp | |
-| Salt | 1 tsp | |
-| Baking Soda | 1/2 tsp | |
+| Ingredient    | Amount | Notes |
+| ------------- | ------ | ----- |
+| Flour         | 2 cups | |
+| Sugar         | ½ cup  | |
+| Eggs          | 2      | |
+| Butter        | ¼ lb   | Melted |
+| Milk          | ½ cup  | |
+| Raisins       | 1 cup  | |
+| Baking Powder | 3 tsp  | |
+| Salt          | 1 tsp  | |
+| Baking Soda   | ½ tsp  | |
 
 ## Method
 
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Grease Bread Pan
 1. Melt butter
 1. Add sugar, eggs, and milk

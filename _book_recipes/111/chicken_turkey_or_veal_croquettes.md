@@ -15,16 +15,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Ground Chicken | 3 cups | |
-| Thick Cream Sauce | 3/4 cups | |
-| Salt | 1/2 tsp | |
-| Lemon Juice | 1 tsp | |
-| Egg | 2 yolks | separated |
-| Celery Salt | 1/4 tsp | |
-| Onion Juice | 1/2 tsp | |
-| Bread Crumbs |  | |
+| Ingredient        | Amount  | Notes |
+| ----------------- | ------- | ----- |
+| Ground Chicken    | 3 cups  | |
+| Thick Cream Sauce | ¾ cups  | |
+| Salt              | ½ tsp   | |
+| Lemon Juice       | 1 tsp   | |
+| Egg               | 2 yolks | separated |
+| Celery Salt       | ¼ tsp   | |
+| Onion Juice       | ½ tsp   | |
+| Bread Crumbs      |         | |
 
 ## Method
 

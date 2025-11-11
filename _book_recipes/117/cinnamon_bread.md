@@ -12,20 +12,20 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Butter | 1/4 cup | |
-| Sugar | 1 cup + 3 Tbsp | |
-| Egg | 1 | Beaten |
-| Milk | 1/2 cup | |
-| Flour | 1 3/4 cups | |
-| Baking powder | 3 tsp | |
-| Salt | 1/4 tsp | |
-| Cinnamon | 1 1/2 tsp | |
+| Ingredient    | Amount         | Notes |
+| ------------- | -------------- | ----- |
+| Butter        | ¼ cup          | |
+| Sugar         | 1 cup + 3 Tbsp | |
+| Egg           | 1              | Beaten |
+| Milk          | ½ cup          | |
+| Flour         | 1¾ cups        | |
+| Baking powder | 3 tsp          | |
+| Salt          | ¼ tsp          | |
+| Cinnamon      | 1½ tsp         | |
 
 ## Method
 
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Grease bread pan
 1. Cream together Butter and 1 cup Sugar
 1. Beat egg and add

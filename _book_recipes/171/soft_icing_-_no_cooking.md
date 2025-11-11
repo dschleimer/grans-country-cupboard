@@ -14,13 +14,13 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Confectioner's Sugar | 1 cup | |
-| Heavy Cream | 2 Tbsp | |
-| Cocoa | 2 tsp | Optional |
-| Vanilla | 1/2 tsp | |
-| Butter | 1 Tbsp | |
+| Ingredient           | Amount | Notes |
+| -------------------- | ------ | ----- |
+| Confectioner's Sugar | 1 cup  | |
+| Heavy Cream          | 2 Tbsp | |
+| Cocoa                | 2 tsp  | Optional |
+| Vanilla              | ½ tsp  | |
+| Butter               | 1 Tbsp | |
 
 ## Method
 

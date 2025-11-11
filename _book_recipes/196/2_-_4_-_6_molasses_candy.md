@@ -12,12 +12,12 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
+| Ingredient           | Amount           | Notes |
+| -------------------- | ---------------- | ----- |
 | Butter               | 2 cups + 1 Tblsp | |
-| Raw sugar            | 4 cups | |
-| Unsulphured Molasses | 6 cups | |
-| Water                |  | |
+| Raw sugar            | 4 cups           | |
+| Unsulphured Molasses | 6 cups           | |
+| Water                |                  | |
 
 ## Method
 1. Cook until it forms a soft ball in water.

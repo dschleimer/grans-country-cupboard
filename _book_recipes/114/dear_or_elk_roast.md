@@ -17,22 +17,22 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Deer | 4-6 lbs | Use one roast, not both |
-| Elk | 4-6 lbs | Use one roast, not both |
-| Flour | 1 cup | |
-| Salt | 1 tsp | |
-| Pepper | 1/2 tsp | |
-| Bacon Drippings | 5 Tbsp | |
-| Tomato Juice | 1 small can | |
-| Red Wine | 1 cup | Claret or Burgundy |
-| Onion | 1/2 cup | Finely Minced |
-| Parsley | 1/4 cup | Chopped |
-| Bay Leaf | 1 | |
-| Celery | 1/2 cup | With leaves |
-| Tenderizer | 1 tsp | |
-| Italian Seasoning | 1 Tbsp | |
+| Ingredient        | Amount      | Notes |
+| ----------------- | ----------- | ----- |
+| Deer              | 4-6 lbs     | Use one roast, not both |
+| Elk               | 4-6 lbs     | Use one roast, not both |
+| Flour             | 1 cup       | |
+| Salt              | 1 tsp       | |
+| Pepper            | ½ tsp       | |
+| Bacon Drippings   | 5 Tbsp      | |
+| Tomato Juice      | 1 small can | |
+| Red Wine          | 1 cup       | Claret or Burgundy |
+| Onion             | ½ cup       | Finely Minced |
+| Parsley           | ¼ cup       | Chopped |
+| Bay Leaf          | 1           | |
+| Celery            | ½ cup       | With leaves |
+| Tenderizer        | 1 tsp       | |
+| Italian Seasoning | 1 Tbsp      | |
 
 ## Method
 

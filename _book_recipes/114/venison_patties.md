@@ -13,16 +13,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Ground Venison | 1 lb | |
-| Water | 2 Tbsp | Cold |
-| Lemon Juice | 2 Tbsp | |
-| Seasoned Salt |  | |
-| Pepper |  | |
-| Onion Salt |  | |
-| Bacon | 4 strips | |
-| Bacon |  | |
+| Ingredient     | Amount   | Notes |
+| -------------- | -------- | ----- |
+| Ground Venison | 1 lb     | |
+| Water          | 2 Tbsp   | Cold |
+| Lemon Juice    | 2 Tbsp   | |
+| Seasoned Salt  |          | |
+| Pepper         |          | |
+| Onion Salt     |          | |
+| Bacon          | 4 strips | |
+| Bacon          |          | |
 
 ## Method
 

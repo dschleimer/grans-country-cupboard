@@ -14,18 +14,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Pheasant |  | |
-| Flour |  | |
-| Butter | 1/2 cup | |
-| Onions | 2 | Chopped |
-| White Wine | 2 cups | Dinner Wine |
-| Salt |  | |
-| Pepper |  | |
-| Garlic Powder |  | |
-| Cloves | 1/4 tsp | |
-| Cream | 1 cup | |
+| Ingredient    | Amount | Notes |
+| ------------- | ------ | ----- |
+| Pheasant      |        | |
+| Flour         |        | |
+| Butter        | ½ cup  | |
+| Onions        | 2      | Chopped |
+| White Wine    | 2 cups | Dinner Wine |
+| Salt          |        | |
+| Pepper        |        | |
+| Garlic Powder |        | |
+| Cloves        | ¼ tsp  | |
+| Cream         | 1 cup  | |
 
 ## Method
 

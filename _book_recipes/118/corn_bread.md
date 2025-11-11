@@ -13,16 +13,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Flour           | 1 cup   | sifted |
-| Sugar           | 1/4 cup | |
-| Baking powder   | 2 tsp   | |
-| Salt            | 3/4 tsp | |
-| Yellow cornmeal | 1 cup   | |
-| Eggs            | 2       | |
-| Milk            | 1 cup   | |
-| Butter          | 1/4 cup | |
+| Ingredient      | Amount | Notes |
+| --------------- | ------ | ----- |
+| Flour           | 1 cup  | sifted |
+| Sugar           | ¼ cup  | |
+| Baking powder   | 2 tsp  | |
+| Salt            | ¾ tsp  | |
+| Yellow cornmeal | 1 cup  | |
+| Eggs            | 2      | |
+| Milk            | 1 cup  | |
+| Butter          | ¼ cup  | |
 
 ## Method
 1. Preheat oven to 400°F.

@@ -16,18 +16,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Chicken Wings | 12 | |
-| Butter | 1/4 lb | |
-| Flour | 1 cup | |
-| Ginger | 1 tsp | |
-| Salt | 1 tsp | |
-| Seasame Seeds |  | Optional |
+| Ingredient    | Amount | Notes |
+| ------------- | ------ | ----- |
+| Chicken Wings | 12     | |
+| Butter        | ¼ lb   | |
+| Flour         | 1 cup  | |
+| Ginger        | 1 tsp  | |
+| Salt          | 1 tsp  | |
+| Seasame Seeds |        | Optional |
 
 ## Method
 
-1. Preheat over to 350F
+1. Preheat over to 350 °F
 1. Remove wing tips
 1. Divide wings at joint to make 24 pieces
 1. Combine flour, ginger, and salt
@@ -36,7 +36,7 @@ categories:
 1. Roll wings in flour mixture
 1. Place wings on baking sheet
 1. Spread Sesame seeds over wings, if desired
-1. Bake 1 1/2 hours
+1. Bake 1½ hours
 1. Turn or not as desired
 
 ## Notes From Gran

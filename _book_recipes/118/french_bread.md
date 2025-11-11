@@ -14,27 +14,27 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Water | 1/2 cup + 1/2 cup + 1/2 cup | |
-| Sugar | 1 Tbsp | |
-| Salt | 1 tsp + 1/2 tsp | |
-| Shortening | 2 Tbsp | |
-| Flour | 3 1/2 - 4 cups | |
-| Yeast | 1 Cake | |
-| Eggs | 2 Whites | |
-| Cornmeal |  | For dusting |
-| Corn Starch | 1 1/2 tsp | |
+| Ingredient  | Amount                | Notes |
+| ----------- | --------------------- | ----- |
+| Water       | ½ cup + ½ cup + ½ cup | |
+| Sugar       | 1 Tbsp                | |
+| Salt        | 1 tsp + ½ tsp         | |
+| Shortening  | 2 Tbsp                | |
+| Flour       | 3½ - 4 cups           | |
+| Yeast       | 1 Cake                | |
+| Eggs        | 2 Whites              | |
+| Cornmeal    |                       | For dusting |
+| Corn Starch | 1½ tsp                | |
 
 ## Method
 
-1. Soften yeast cake in 1/2 cup water
+1. Soften yeast cake in ½ cup water
 1. Separate eggs, discarding yolks or using for another purpose
-1. Put 1/2 cup lukewarm water in large mixing bowl
+1. Put ½ cup lukewarm water in large mixing bowl
 1. Add sugar, 1 tsp salt, and shortening
 1. Beat in 1 cup flour
 1. Add softened yeast
-1. Beat in 1/2 cup flour
+1. Beat in ½ cup flour
 1. Fold in egg whites
 1. Add enough additional flour to make a sitff dough
 1. Knead well
@@ -47,14 +47,14 @@ categories:
 1. Place loaces on baking sheet
 1. Cover with damp cloth
 1. Let rise until rounded and light
-1. Preheat oven to 450F
-1. Cook cornstarch, 1/2 tsp salt, and 1/2 cup cold water until thick and clear
+1. Preheat oven to 450 °F
+1. Cook cornstarch, ½ tsp salt, and ½ cup cold water until thick and clear
 1. Spread on bread
-1. Cut diagonal gashes in bread 1/2 inch deep
+1. Cut diagonal gashes in bread ½ inch deep
 1. Boil large pan of water
 1. Place boiling water in bottom of oven
-1. Bake bread at 450F for 15 minutes, or until golden
-1. Reduce oven to 350F and bake additional 25-35 minutes or until the bread sounds hollow when tapped on bottomt
+1. Bake bread at 450 °F for 15 minutes, or until golden
+1. Reduce oven to 350 °F and bake additional 25-35 minutes or until the bread sounds hollow when tapped on bottomt
 1. Cool on rack
 
 ## Notes From Gran

@@ -13,17 +13,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Dove Breasts | 24 | |
-| Butter | 1 cup or more | |
-| White Wine | 1 1/2 cups | Dinner Wine |
-| Onion | 1/2 cup chopped | |
-| Scallions | 1/2 cup chopped | |
-| Celery | 3 Tbsp | Chopped - with leaves |
-| Salt | 1/2 tsp | |
-| Pepper | 1/2 tsp | |
-| Italian Seasoning | 1/2 tsp | |
+| Ingredient        | Amount        | Notes |
+| ----------------- | ------------- | ----- |
+| Dove Breasts      | 24            | |
+| Butter            | 1 cup or more | |
+| White Wine        | 1½ cups       | Dinner Wine |
+| Onion             | ½ cup chopped | |
+| Scallions         | ½ cup chopped | |
+| Celery            | 3 Tbsp        | Chopped - with leaves |
+| Salt              | ½ tsp         | |
+| Pepper            | ½ tsp         | |
+| Italian Seasoning | ½ tsp         | |
 
 ## Method
 

@@ -15,24 +15,24 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Mushroom Soup | 1 can | |
-| Milk | 2/3 cup | |
-| Salt | 1/2 tsp | |
-| Poultry Seasoning | 1/2 tsp | |
-| Cream Cheese | 6 oz | Cream cheese used to be sold in 3oz "small" packages.  The recipe called for 2 |
-| Cottage Cheese | 1 cup | |
-| Stuffed Olives | 1/2 cup | Sliced |
-| Onion | 1/3 cup | Chopped |
-| Green Pepper | 1/3 cup | Cut up |
-| Parsley | 1/4 cup | |
-| Turkey | 3 cup | Cubed |
-| Noodles | 3 cup | Cooked |
+| Ingredient        | Amount | Notes |
+| ----------------- | ------ | ----- |
+| Mushroom Soup     | 1 can  | |
+| Milk              | ⅔ cup  | |
+| Salt              | ½ tsp  | |
+| Poultry Seasoning | ½ tsp  | |
+| Cream Cheese      | 6 oz   | Cream cheese used to be sold in 3oz "small" packages.  The recipe called for 2 |
+| Cottage Cheese    | 1 cup  | |
+| Stuffed Olives    | ½ cup  | Sliced |
+| Onion             | ⅓ cup  | Chopped |
+| Green Pepper      | ⅓ cup  | Cut up |
+| Parsley           | ¼ cup  | |
+| Turkey            | 3 cup  | Cubed |
+| Noodles           | 3 cup  | Cooked |
 
 ## Method
 
-1. Preheat oven to 375F
+1. Preheat oven to 375 °F
 1. Cook noodles
 1. Slice olives
 1. Chop Onion

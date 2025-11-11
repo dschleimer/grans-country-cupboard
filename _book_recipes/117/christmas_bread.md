@@ -18,27 +18,27 @@ categories:
 
 
 #### For Sponge
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Flour | 2 Quarts | |
-| Salt | 1 Tbsp | |
-| Yeast Cakes | 1 | |
-| Water | 1/3 + 2 2/3 cups | Warm|
+| Ingredient  | Amount      | Notes |
+| ----------- | ----------- | ----- |
+| Flour       | 2 Quarts    | |
+| Salt        | 1 Tbsp      | |
+| Yeast Cakes | 1           | |
+| Water       | ⅓ + 2⅔ cups | Warm |
 
 #### For Dough
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Flour | 5-8 Cups | enough "to make bread dough" |
-| Yeast Cakes | 1 | |
-| Water | 1/3 cups | Warm |
-| Granulated Sugar | 2 cups | |
-| White Raisins | 2 boxes | |
-| Eggs | 5 | Well Beaten |
-| Crisco | 1 cup | |
-| Butter | 1/4 lb | |
-| Cinnamon | 1 Tbsp | |
-| Nutmeg | 1 tsp | |
-| Candied Citron | 1 cup | Optional |
+| Ingredient       | Amount   | Notes |
+| ---------------- | -------- | ----- |
+| Flour            | 5-8 Cups | enough "to make bread dough" |
+| Yeast Cakes      | 1        | |
+| Water            | ⅓ cups   | Warm |
+| Granulated Sugar | 2 cups   | |
+| White Raisins    | 2 boxes  | |
+| Eggs             | 5        | Well Beaten |
+| Crisco           | 1 cup    | |
+| Butter           | ¼ lb     | |
+| Cinnamon         | 1 Tbsp   | |
+| Nutmeg           | 1 tsp    | |
+| Candied Citron   | 1 cup    | Optional |
 
 ## Method
 1. Prepare the sponge at bedtime the evening before you plan to serve this bread
@@ -47,9 +47,9 @@ categories:
 
 #### Prepare Sponge
 1. Combine 2 quarts of flour and 1 Tbsp salt
-1. Dissolve yeast cake in 1/3 cup warm water
+1. Dissolve yeast cake in ⅓ cup warm water
 1. Add to flour mixture and stir to combine
-1. Add 2 2/3 cups additional warm water
+1. Add 2⅔ cups additional warm water
 1. Beat well
 1. Set "sponge" in a warm place to rise overnight
 
@@ -58,7 +58,7 @@ categories:
 1. Beat eggs well and add to dough
 1. Melt together crisco and butter, and add to mixture
 1. Add cinnamon and nutmeg
-1. Dissolve yeast cake in 1/3 cup warm water and add to mixture
+1. Dissolve yeast cake in ⅓ cup warm water and add to mixture
 1. Add flour slowly until you've added enough.  Expect 5 to 8 cups.  See modern notes
 
 #### Bake Dough
@@ -68,7 +68,7 @@ categories:
 1. Knead each part and put into pans
 1. Stick each with fork 3 times
 1. Set plans in warm place and let rise until doubled in size
-1. Preheat oven to 400F while dough is rising
+1. Preheat oven to 400 °F while dough is rising
 1. Bake 20-25 minutes until brown and done.  Test doneness by tapping on bottom of pan.  It will sound hollow when done.
 
 ## Notes From Gran

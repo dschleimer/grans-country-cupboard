@@ -14,12 +14,12 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Venison |  | |
-| Red Wine |  | Dinner Wine |
-| Italian Bread Crumbs |  | |
-| Butter |  | |
+| Ingredient           | Amount | Notes |
+| -------------------- | ------ | ----- |
+| Venison              |        | |
+| Red Wine             |        | Dinner Wine |
+| Italian Bread Crumbs |        | |
+| Butter               |        | |
 
 ## Method
 
