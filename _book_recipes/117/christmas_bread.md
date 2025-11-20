@@ -18,6 +18,7 @@ categories:
 
 
 #### For Sponge
+
 | Ingredient  | Amount      | Notes |
 | ----------- | ----------- | ----- |
 | Flour       | 2 Quarts    | |
@@ -26,6 +27,7 @@ categories:
 | Water       | ⅓ + 2⅔ cups | Warm |
 
 #### For Dough
+
 | Ingredient       | Amount   | Notes |
 | ---------------- | -------- | ----- |
 | Flour            | 5-8 Cups | enough "to make bread dough" |
