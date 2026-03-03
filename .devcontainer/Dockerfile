@@ -2,6 +2,9 @@ FROM node:20
 
 ARG TZ
 ENV TZ="$TZ"
+ENV LANG="en_US.UTF-8"
+ENV LC_ALL "en_US.UTF-8"
+
 
 ARG CLAUDE_CODE_VERSION=latest
 
@@ -26,7 +29,9 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
   nano \
   vim \
   emacs \
+  locales-all \
   && apt-get clean && rm -rf /var/lib/apt/lists/*
+
 
 # Install project dependencies: Ruby, Python, and image processing
 RUN apt-get update && apt-get install -y --no-install-recommends \
