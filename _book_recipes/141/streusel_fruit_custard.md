@@ -4,8 +4,9 @@ page: "141"
 recipe: 141/streusel_fruit_custard
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
 ---
 # Streusel Fruit Custard
 

@@ -4,8 +4,9 @@ page: "142"
 recipe: 142/ice_-_box_pudding
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
 ---
 # Ice-Box Pudding
 

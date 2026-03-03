@@ -4,10 +4,10 @@ page: "082"
 recipe: 082/maryland_crabcakes
 page_order: 3
 categories:
-    - Fried
-    - Seafood
-    - Crab
-    - Appetizer
+  - Fried
+  - Seafood
+  - Crab
+  - Appetizers
 ---
 # Maryland Crabcakes
 

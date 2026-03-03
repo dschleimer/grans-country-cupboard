@@ -4,8 +4,10 @@ page: "150"
 recipe: 150/mrs_murrays_chocolate_cake
 page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Cakes
 ---
 # Mrs Murray's Chocolate Cake
 

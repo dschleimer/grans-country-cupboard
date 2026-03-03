@@ -4,8 +4,10 @@ page: "175"
 recipe: 175/bonnys_ice_box_cookies
 page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Cookies
 ---
 # Bonny's Ice Box Cookies
 

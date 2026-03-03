@@ -4,8 +4,10 @@ page: "143"
 recipe: 143/strawberry_banana_mold
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Aspic
+  - Chilled
 ---
 # Strawberry Banana Mold
 

@@ -4,8 +4,10 @@ page: "196"
 recipe: 196/rice_crispie_crunch
 page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Pie
 ---
 # Rice Crispie Crunch
 

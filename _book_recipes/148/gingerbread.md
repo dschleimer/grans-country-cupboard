@@ -4,8 +4,9 @@ page: "148"
 recipe: 148/gingerbread
 page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Bread
 ---
 # Gingerbread
 

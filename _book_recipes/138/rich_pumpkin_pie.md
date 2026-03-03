@@ -4,8 +4,10 @@ page: "138"
 recipe: 138/rich_pumpkin_pie
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Pie
 ---
 # Rich Pumpkin Pie
 

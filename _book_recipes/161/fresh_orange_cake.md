@@ -4,8 +4,10 @@ page: "161"
 recipe: 161/fresh_orange_cake
 page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Cakes
 ---
 # Fresh Orange Cake
 

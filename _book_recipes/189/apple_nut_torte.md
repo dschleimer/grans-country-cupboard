@@ -5,7 +5,9 @@ recipe: 189/apple_nut_torte
 page_order: 1
 from: Adelia
 categories:
-    - Needs Front Matter
+  - Dessert
+  - Cakes
+  - Baked
 ---
 # Apple Nut Torte
 

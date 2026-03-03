@@ -4,8 +4,10 @@ page: "189"
 recipe: 189/blueberry_icebox_torte
 page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Cakes
 ---
 # Blueberry Icebox Torte
 

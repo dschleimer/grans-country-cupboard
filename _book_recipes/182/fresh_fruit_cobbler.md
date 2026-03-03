@@ -4,8 +4,10 @@ page: "182"
 recipe: 182/fresh_fruit_cobbler
 page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Pie
 ---
 # Fresh Fruit Cobbler
 

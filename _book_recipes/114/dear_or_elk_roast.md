@@ -4,14 +4,14 @@ page: "114"
 recipe: 114/dear_or_elk_roast
 page_order: 1
 categories:
-    - Meat
-    - Game
-    - Venison
-    - Elk
-    - Main
-    - Pot Roast
-    - Oven
-    - Stovetop
+  - Meat
+  - Game
+  - Venison
+  - Elk
+  - Main
+  - Pot Roast
+  - Baked
+  - Stovetop
 ---
 # Dear or Elk Roast
 

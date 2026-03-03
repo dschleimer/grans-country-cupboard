@@ -4,10 +4,10 @@ page: "041"
 recipe: 041/savoy_alp_soup
 page_order: 1
 categories:
-    - Appetizers
-    - Soup
-    - Double Boiled
-    - Boiled
+  - Appetizers
+  - Soup
+  - Double Boiler
+  - Boiled
 ---
 # Savoy Alp Soup
 

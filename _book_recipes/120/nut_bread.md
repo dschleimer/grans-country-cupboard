@@ -5,26 +5,27 @@ recipe: 120/nut_bread
 page_order: 3
 from: Ohio - Mrs. Vodrey
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Bread
+  - Baked
+  - Vegetarian
 ---
 # Nut Bread
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Nuts | 1 cup | Chopped |
-| Flour | 4 cups + extra | |
-| Sugar | 1 cup | |
-| Milk | 1 1/2 cups | |
-| Baking powder | 4 tsp | |
-| Salt | 1/4 tsp | |
-| Egg | 1 | |
+| Ingredient    | Amount         | Notes |
+| ------------- | -------------- | ----- |
+| Nuts          | 1 cup          | Chopped |
+| Flour         | 4 cups + extra | |
+| Sugar         | 1 cup          | |
+| Milk          | 1½ cups        | |
+| Baking powder | 4 tsp          | |
+| Salt          | ¼ tsp          | |
+| Egg           | 1              | |
 
 ## Method
 
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Mix together all ingredients
 1. Grease and flour pan
 1. Transfer dough to pan

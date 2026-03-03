@@ -4,8 +4,10 @@ page: "131"
 recipe: 131/connies_cottage_cheese_cake
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Cakes
 ---
 # Connie's Cottage Cheese Cake
 

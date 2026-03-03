@@ -4,8 +4,9 @@ page: "123"
 recipe: 123/cloud_biscuits
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Bread
 ---
 # Cloud Biscuits
 

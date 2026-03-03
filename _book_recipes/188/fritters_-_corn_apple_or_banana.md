@@ -5,7 +5,9 @@ recipe: 188/fritters_-_corn_apple_or_banana
 page_order: 1
 from: Wyoming
 categories:
-    - Needs Front Matter
+  - Side Dish
+  - Vegetarian
+  - Pan Fried
 ---
 # Fritters - Corn, Apple or Banana
 

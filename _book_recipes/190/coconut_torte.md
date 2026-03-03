@@ -4,8 +4,10 @@ page: "190"
 recipe: 190/coconut_torte
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Cakes
 ---
 # Coconut Torte
 

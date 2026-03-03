@@ -5,7 +5,9 @@ recipe: 187/corn_fritters
 page_order: 1
 from: New Jersey
 categories:
-    - Needs Front Matter
+  - Side Dish
+  - Vegetarian
+  - Pan Fried
 ---
 # Corn Fritters
 

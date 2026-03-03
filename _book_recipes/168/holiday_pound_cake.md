@@ -4,8 +4,10 @@ page: "168"
 recipe: 168/holiday_pound_cake
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Dessert
+  - Cakes
+  - Christmas
 ---
 # Holiday Pound Cake
 

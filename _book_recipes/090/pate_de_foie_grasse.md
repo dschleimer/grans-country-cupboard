@@ -4,8 +4,8 @@ page: "090"
 recipe: 090/pate_de_foie_grasse
 page_order: 1
 categories:
-    - Uncooked
-    - Pate
+  - No Cook
+  - Pate
 ---
 # Paté de Foie Grásse
 

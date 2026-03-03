@@ -4,9 +4,10 @@ page: "133"
 recipe: 133/jacobi_grape_pie
 page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
-    - Vegetarian
+  - Needs Transcription
+  - Vegetarian
+  - Dessert
+  - Pie
 ---
 # Jacobi Grape Pie
 

@@ -4,8 +4,10 @@ page: "190"
 recipe: 190/sara_lee_torte
 page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Cakes
 ---
 # Sara Lee Torte
 

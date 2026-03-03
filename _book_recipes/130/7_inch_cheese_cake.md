@@ -4,7 +4,9 @@ page: "130"
 recipe: 130/7_inch_cheese_cake
 page_order: 2
 categories:
-    - Needs Front Matter
+  - Dessert
+  - Cakes
+  - Baked
 ---
 # 7" Cheese Cake
 

@@ -4,9 +4,9 @@ page: "112"
 recipe: 112/marinated_rabbit_-_oven_fried
 page_order: 3
 categories:
-    - Rabbit
-    - Meat
-    - Oven
+  - Rabbit
+  - Meat
+  - Baked
 ---
 # Marinated Rabbit - Oven Fried
 

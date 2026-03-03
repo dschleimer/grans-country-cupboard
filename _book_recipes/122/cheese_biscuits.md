@@ -4,8 +4,9 @@ page: "122"
 recipe: 122/cheese_biscuits
 page_order: 2
 categories:
-    - Needs Front Matter
-    - Vegetarian
+  - Vegetarian
+  - Bread
+  - Baked
 ---
 # Cheese Biscuits
 

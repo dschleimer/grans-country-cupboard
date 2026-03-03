@@ -4,12 +4,12 @@ page: "099"
 recipe: 099/sliced_filet_of_beef_in_sauce
 page_order: 1
 categories:
-    - Main
-    - Beef
-    - Roast
-    - Oven
-    - Sauce
-    - Stovetop
+  - Main
+  - Beef
+  - Roast
+  - Baked
+  - Sauce
+  - Stovetop
 ---
 # Sliced Filet of Beef in Sauce
 

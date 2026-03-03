@@ -4,8 +4,10 @@ page: "171"
 recipe: 171/lemon_cream_filling_-_for_cakes
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Cakes
 ---
 # Lemon Cream Filling - for Cakes
 

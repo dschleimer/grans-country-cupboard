@@ -4,8 +4,10 @@ page: "153"
 recipe: 153/osborn_birthday_layer_cake
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Cakes
 ---
 # Osborn Birthday Layer Cake
 

@@ -4,8 +4,10 @@ page: "122"
 recipe: 122/rhode_island_johnny_cakes
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Cakes
 ---
 # Rhode Island Johnny Cakes
 

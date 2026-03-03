@@ -5,7 +5,10 @@ recipe: 163/english_tea_cake
 page_order: 2
 from: Woldingham England - 1936
 categories:
-    - Needs Front Matter
+  - Dessert
+  - Cakes
+  - Beverages
+  - Baked
 ---
 # English Tea Cake
 

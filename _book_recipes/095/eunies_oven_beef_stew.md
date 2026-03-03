@@ -4,10 +4,10 @@ page: "095"
 recipe: 095/eunies_oven_beef_stew
 page_order: 3
 categories:
-    - Baked
-    - Stew
-    - Mains
-    - Beef
+  - Baked
+  - Stew
+  - Main
+  - Beef
 ---
 # Eunie's Oven Beef Stew
 

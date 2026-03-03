@@ -4,9 +4,9 @@ page: "093"
 recipe: 093/ham_with_vegetables
 page_order: 2
 categories:
-    - Vegetables
-    - Mains
-    - Stovetop
+  - Vegetables
+  - Main
+  - Stovetop
 ---
 # Ham with Vegetables
 

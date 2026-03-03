@@ -4,11 +4,11 @@ page: "007"
 recipe: 007/party_meat_balls
 page_order: 2
 categories:
-    - Appetizers
-    - Snacks
-    - Party Food
-    - Meat Balls
-    - Pan Fried
+  - Appetizers
+  - Snacks
+  - Party Food
+  - Meatballs
+  - Pan Fried
 ---
 # Party Meat Balls
 

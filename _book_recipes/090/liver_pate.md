@@ -5,10 +5,10 @@ recipe: 090/liver_pate
 page_order: 2
 from: Aggie Bull
 categories:
-    - Pate
-    - Uncooked
-    - Chilled
-    - Aspic
+  - Pate
+  - No Cook
+  - Chilled
+  - Aspic
 ---
 # Liver Paté
 

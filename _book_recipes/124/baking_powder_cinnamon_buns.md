@@ -4,8 +4,9 @@ page: "124"
 recipe: 124/baking_powder_cinnamon_buns
 page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Bread
 ---
 # Baking Powder Cinnamon Buns
 

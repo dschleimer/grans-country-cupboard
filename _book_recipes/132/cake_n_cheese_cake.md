@@ -5,7 +5,10 @@ recipe: 132/cake_n_cheese_cake
 page_order: 1
 from: Tracey L. Osborn in Tennessee
 categories:
-- Needs Front Matter
+  - Dessert
+  - Cakes
+  - Baked
+  - Overnight Recipe
 ---
 # Cake 'n Cheese Cake
 

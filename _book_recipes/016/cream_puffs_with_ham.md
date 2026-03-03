@@ -4,12 +4,11 @@ page: "016"
 recipe: 016/cream_puffs_with_ham
 page_order: 1
 categories:
-    - Appetizers
-    - Snacks
-    - Party Food
-    - Finger Food
-    - Baked
-    - Served Hot
+  - Appetizers
+  - Snacks
+  - Party Food
+  - Finger Food
+  - Baked
 ---
 # Cream Puffs with Ham
 

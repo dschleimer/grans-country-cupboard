@@ -4,13 +4,13 @@ page: "013"
 recipe: 013/grans_tea_sandwiches_or_spread
 page_order: 1
 categories:
-    - Appetizers
-    - Party Food
-    - Finger Food
-    - Spread
-    - Sandwiches
-    - No Cook
-    - Chilled
+  - Appetizers
+  - Party Food
+  - Finger Food
+  - Spread
+  - Sandwich
+  - No Cook
+  - Chilled
 ---
 # Gran's Tea Sandwiches or Spread
 

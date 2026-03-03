@@ -4,8 +4,10 @@ page: "164"
 recipe: 164/toffee_cake
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Cakes
 ---
 # Toffee Cake
 

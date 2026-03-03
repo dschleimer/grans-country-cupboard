@@ -5,11 +5,11 @@ recipe: 077/tempura_batter_for_fish
 page_order: 2
 from: Jeff Dane
 categories:
-    - Seafood
-    - Mains
-    - Fried
-    - Breaded
-    - Deep Fried
+  - Seafood
+  - Main
+  - Fried
+  - Breaded
+  - Deep Fried
 ---
 # Tempura Batter for Fish
 

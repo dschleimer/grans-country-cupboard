@@ -4,9 +4,9 @@ page: "009"
 recipe: 009/cheddar_cheese_balls
 page_order: 1
 categories:
-    - Needs Front Matter
-    - No Cook
-    - Chilled
+  - No Cook
+  - Chilled
+  - Beef
 ---
 # Cheddar Cheese Balls
 

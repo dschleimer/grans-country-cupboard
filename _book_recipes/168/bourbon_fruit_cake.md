@@ -4,8 +4,10 @@ page: "168"
 recipe: 168/bourbon_fruit_cake
 page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Cakes
 ---
 # Bourbon Fruit Cake
 

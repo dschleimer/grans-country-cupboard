@@ -4,9 +4,10 @@ page: "200"
 recipe: 200/chili_sauce
 page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
-    - Vegetarian
+  - Needs Transcription
+  - Needs Front Matter
+  - Vegetarian
+  - Sauce
 ---
 # Chili Sauce
 

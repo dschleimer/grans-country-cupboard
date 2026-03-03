@@ -5,11 +5,11 @@ recipe: 098/roast_prime_rib_of_beef
 page_order: 1
 from: Gran
 categories:
-    - Beef
-    - Main
-    - Side
-    - Roast
-    - Oven
+  - Beef
+  - Main
+  - Side
+  - Roast
+  - Baked
 ---
 # Roast Prime Rib of Beef
 

@@ -5,11 +5,10 @@ recipe: 057/sweet_potato_pudding
 page_order: 1
 from: The Virginia Pilot
 categories:
-    - Needs Transcription
-    - Vegetables
-    - Side Dish
-    - Thanksgiving
-    - Baked
+  - Vegetables
+  - Side Dish
+  - Thanksgiving
+  - Baked
 ---
 # Sweet Potato Pudding
 

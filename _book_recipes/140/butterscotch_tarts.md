@@ -4,9 +4,10 @@ page: "140"
 recipe: 140/butterscotch_tarts
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
-    - Vegetarian
+  - Needs Transcription
+  - Vegetarian
+  - Dessert
+  - Pie
 ---
 # Butterscotch Tarts
 

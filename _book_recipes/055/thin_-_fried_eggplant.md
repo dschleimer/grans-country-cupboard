@@ -5,11 +5,10 @@ recipe: 055/thin_-_fried_eggplant
 page_order: 1
 from: Nanna Marter
 categories:
-    - Vegetables
-    - Side Dish
-    - Fried Foods
-    - Breaded
-    - Pan Fried
+  - Vegetables
+  - Side Dish
+  - Breaded
+  - Pan Fried
 ---
 # Thin - Fried Eggplant
 

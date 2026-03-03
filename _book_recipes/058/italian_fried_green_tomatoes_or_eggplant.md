@@ -5,11 +5,10 @@ recipe: 058/italian_fried_green_tomatoes_or_eggplant
 page_order: 2
 from: Rose Sullivan
 categories:
-    - Vegetables
-    - Side Dish
-    - Fried Foods
-    - Battered
-    - Deep Fried
+  - Vegetables
+  - Side Dish
+  - Battered
+  - Deep Fried
 ---
 # Italian Fried Green Tomatoes or Eggplant
 

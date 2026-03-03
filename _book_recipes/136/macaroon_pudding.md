@@ -4,8 +4,9 @@ page: "136"
 recipe: 136/macaroon_pudding
 page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
 ---
 # Macaroon Pudding
 

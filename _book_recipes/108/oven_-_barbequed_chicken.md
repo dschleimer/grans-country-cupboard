@@ -5,9 +5,9 @@ recipe: 108/oven_-_barbequed_chicken
 page_order: 1
 from: Connie
 categories:
-    - Mains
-    - Chicken
-    - Baked
+  - Main
+  - Chicken
+  - Baked
 ---
 # Oven-Barbequed Chicken
 

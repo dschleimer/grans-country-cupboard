@@ -5,10 +5,10 @@ recipe: 171/soft_icing_-_no_cooking
 page_order: 3
 from: Mrs. Aaron Shedaker
 categories:
-    - Icing
-    - Frosting
-    - Desserts
-    - Vegetarian
+  - Icing
+  - Frosting
+  - Dessert
+  - Vegetarian
 ---
 # Soft Icing - No Cooking
 

@@ -4,8 +4,9 @@ page: "181"
 recipe: 181/apple_crisp
 page_order: 2
 categories:
-
-    - Needs Front Matter
+  - Dessert
+  - Pie
+  - Baked
 ---
 # Apple Crisp
 

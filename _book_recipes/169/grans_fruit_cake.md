@@ -4,8 +4,10 @@ page: "169"
 recipe: 169/grans_fruit_cake
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Cakes
 ---
 # Gran's Fruit Cake
 

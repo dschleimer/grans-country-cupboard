@@ -4,8 +4,10 @@ page: "180"
 recipe: 180/cornmeal_griddle_cakes
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Cakes
 ---
 # Cornmeal Griddle Cakes
 

@@ -4,10 +4,10 @@ page: "107"
 recipe: 107/chicken_breasts_benedict
 page_order: 2
 categories:
-    - Mains
-    - Breakfast foods
-    - Broiled
-    - Chicken
+  - Main
+  - Breakfast
+  - Broiled
+  - Chicken
 ---
 # Chicken Breasts Benedict
 

@@ -4,8 +4,10 @@ page: "146"
 recipe: 146/lauries_apple_cake
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Cakes
 ---
 # Laurie's Apple Cake
 

@@ -4,8 +4,9 @@ page: "193"
 recipe: 193/frozen_custard
 page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
 ---
 # Frozen Custard
 

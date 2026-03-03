@@ -5,12 +5,12 @@ recipe: 117/christmas_bread
 page_order: 1
 from: Great Grandmother McGinley (i.e. Gran's Mother)
 categories:
-    - Dessert
-    - Breakfast
-    - Christmas
-    - Bread
-    - Baked
-    - Overnigth Recipe
+  - Dessert
+  - Breakfast
+  - Christmas
+  - Bread
+  - Baked
+  - Overnight Recipe
 ---
 # Christmas Bread
 

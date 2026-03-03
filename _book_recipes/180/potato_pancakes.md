@@ -4,22 +4,25 @@ page: "180"
 recipe: 180/potato_pancakes
 page_order: 2
 categories:
-    - Needs Front Matter
+  - Dessert
+  - Cakes
+  - Breakfast
+  - Pan Fried
 ---
 # Potato Pancakes
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Potatoes      | 6         | medium raw grated |
-| Eggs          | 2         | |
-| Baking powder | 1 tsp     | |
-| Salt          | 1 1/2 tsp | |
-| Pepper        | 1/4 tsp   | |
-| Parsley       | 2 Tblsp   | fresh minced |
-| Flour         | 3 c       | sifted |
-| Onion         | 1         | small grated |
+| Ingredient    | Amount  | Notes |
+| ------------- | ------- | ----- |
+| Potatoes      | 6       | medium raw grated |
+| Eggs          | 2       | |
+| Baking powder | 1 tsp   | |
+| Salt          | 1½ tsp  | |
+| Pepper        | ¼ tsp   | |
+| Parsley       | 2 Tblsp | fresh minced |
+| Flour         | 3 °C    | sifted |
+| Onion         | 1       | small grated |
 
 ## Method
 1. Peel potatoes, then soak in cold water for several hours.

@@ -5,12 +5,12 @@ recipe: 016/nuts_and_bolts
 page_order: 2
 from: Margot Aicklen
 categories:
-    - Appetizers
-    - Snacks
-    - Party Food
-    - Finger Food
-    - Pan Cooked
-    - Baked
+  - Appetizers
+  - Snacks
+  - Party Food
+  - Finger Food
+  - Pan Fried
+  - Baked
 ---
 # Nuts and Bolts
 

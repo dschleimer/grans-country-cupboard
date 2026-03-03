@@ -5,11 +5,10 @@ recipe: 059/fried_red_tomatoes_+_milk_gravy
 page_order: 1
 from: Nanna Marter
 categories:
-    - Vegetables
-    - Vegetarian
-    - Fried Foods
-    - Pan Fried
-    - Boiled
+  - Vegetables
+  - Vegetarian
+  - Pan Fried
+  - Boiled
 ---
 # Fried Red Tomatoes + Milk Gravy
 

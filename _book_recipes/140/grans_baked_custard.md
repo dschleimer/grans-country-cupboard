@@ -4,8 +4,9 @@ page: "140"
 recipe: 140/grans_baked_custard
 page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
 ---
 # Gran's Baked Custard
 

@@ -5,8 +5,9 @@ recipe: 184/blueberry_roll
 page_order: 2
 from: Eleanor Smith - 1929
 categories:
-    - Needs Front Matter
-    - Vegetarian
+  - Vegetarian
+  - Bread
+  - Baked
 ---
 # Blueberry Roll
 

@@ -4,8 +4,10 @@ page: "176"
 recipe: 176/wyoming_ice_box_cookies
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Cookies
 ---
 # Wyoming Ice Box Cookies
 

@@ -4,8 +4,10 @@ page: "172"
 recipe: 172/soft_chocolate_cookies
 page_order: 3
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Cookies
 ---
 # Soft Chocolate Cookies
 

@@ -4,8 +4,10 @@ page: "155"
 recipe: 155/eggler_cake_-_no_icing
 page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Cakes
 ---
 # Eggler Cake - No Icing
 

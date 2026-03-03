@@ -4,8 +4,10 @@ page: "160"
 recipe: 160/good_cake
 page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Cakes
 ---
 # Good Cake
 

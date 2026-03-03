@@ -4,10 +4,12 @@ page: "070"
 recipe: 070/turkey_casserole
 page_order: 3
 categories:
-    - Needs Transcription
-    - Casserole
-    - Pan Fried
-    - Baked
+  - Main
+  - Casserole
+  - Turkey
+  - Pan Fried
+  - Baked
+  - Leftovers
 ---
 # Turkey Casserole
 

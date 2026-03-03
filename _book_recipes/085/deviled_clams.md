@@ -5,10 +5,10 @@ recipe: 085/deviled_clams
 page_order: 2
 from: Lupe
 categories:
-    - Seafood
-    - Clams
-    - Appetizer
-    - Baked
+  - Seafood
+  - Clams
+  - Appetizers
+  - Baked
 ---
 # Deviled Clams
 

@@ -5,9 +5,9 @@ recipe: 108/oven_-_fried_chicken
 page_order: 2
 from: Gran
 categories:
-    - Mains
-    - Chicken
-    - Baked
+  - Main
+  - Chicken
+  - Baked
 ---
 # Oven-Fried Chicken
 

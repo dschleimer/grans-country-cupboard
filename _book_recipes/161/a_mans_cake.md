@@ -3,9 +3,11 @@ layout: recipe
 page: "161"
 recipe: 161/a_mans_cake
 page_order: 1
-categories:
 from: Wyoming
-    - Needs Front Matter
+categories:
+  - Dessert
+  - Cakes
+  - Baked
 ---
 # A Man's Cake
 

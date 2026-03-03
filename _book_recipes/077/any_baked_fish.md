@@ -5,9 +5,9 @@ recipe: 077/any_baked_fish
 page_order: 1
 from: Dottie Smith - Fishing Club
 categories:
-    - Seafood
-    - Mains
-    - Baked
+  - Seafood
+  - Main
+  - Baked
 ---
 # Any Baked Fish
 

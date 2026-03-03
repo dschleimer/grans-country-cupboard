@@ -4,8 +4,10 @@ page: "145"
 recipe: 145/eunies_apple_cake
 page_order: 3
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Cakes
 ---
 # Eunie's Apple Cake
 

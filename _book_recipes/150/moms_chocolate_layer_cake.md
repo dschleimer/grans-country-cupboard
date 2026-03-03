@@ -4,8 +4,10 @@ page: "150"
 recipe: 150/moms_chocolate_layer_cake
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Cakes
 ---
 # "Mom's" Chocolate Layer Cake
 

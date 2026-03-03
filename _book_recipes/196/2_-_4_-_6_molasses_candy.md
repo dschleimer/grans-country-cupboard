@@ -5,8 +5,9 @@ recipe: 196/2_-_4_-_6_molasses_candy
 page_order: 1
 from: Mrs. Bell of North Carolina
 categories:
-    - Needs Front Matter
-    - Vegetarian
+  - Vegetarian
+  - Dessert
+  - Stovetop
 ---
 # 2-4-6 Molasses Candy
 

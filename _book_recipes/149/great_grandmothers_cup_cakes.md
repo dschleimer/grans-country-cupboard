@@ -5,10 +5,10 @@ recipe: 149/great_grandmothers_cup_cakes
 page_order: 1
 from: Mrs. Wm Johnson
 categories:
-    - Cup Cakes
-    - Baked
-    - Dessert
-    - Finger Food
+  - Cupcakes
+  - Baked
+  - Dessert
+  - Finger Food
 ---
 # Great Grandmother's Cup Cakes
 

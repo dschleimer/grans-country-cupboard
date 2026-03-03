@@ -5,13 +5,13 @@ recipe: 011/guacamole
 page_order: 2
 from: Elizabeth McGinley Barmeyer
 categories:
-    - Appetizers
-    - Snacks
-    - Party Food
-    - Dips
-    - Spreads
-    - No Cook
-    - Chilled
+  - Appetizers
+  - Snacks
+  - Party Food
+  - Dips
+  - Spread
+  - No Cook
+  - Chilled
 ---
 # Guacamole
 

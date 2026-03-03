@@ -4,8 +4,10 @@ page: "131"
 recipe: 131/eunies_pecan_pie
 page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Pie
 ---
 # Eunie's Pecan Pie
 

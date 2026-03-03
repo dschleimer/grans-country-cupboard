@@ -4,11 +4,11 @@ page: "109"
 recipe: 109/deviled_drumsticks
 page_order: 1
 categories:
-    - Stovetop
-    - Grill
-    - Chicken
-    - Meat
-    - Main
+  - Stovetop
+  - Grilled
+  - Chicken
+  - Meat
+  - Main
 ---
 # Deviled Drumsticks
 

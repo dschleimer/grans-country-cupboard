@@ -4,8 +4,10 @@ page: "164"
 recipe: 164/tomato_soup_cake
 page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Dessert
+  - Cakes
+  - Soup
 ---
 # Tomato Soup Cake
 

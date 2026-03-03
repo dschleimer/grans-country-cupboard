@@ -4,8 +4,10 @@ page: "170"
 recipe: 170/white_fruit_cake
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Cakes
 ---
 # White Fruit Cake
 

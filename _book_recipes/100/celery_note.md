@@ -4,7 +4,7 @@ page: "100"
 recipe: 100/celery_note
 page_order: 3
 categories:
-    - Needs Front Matter
+  - Notes
 ---
 # Celery Note
 

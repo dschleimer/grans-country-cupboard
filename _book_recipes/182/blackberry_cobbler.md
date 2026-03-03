@@ -3,10 +3,12 @@ layout: recipe
 page: "182"
 recipe: 182/blackberry_cobbler
 page_order: 1
-categories:
 from: Terry Osborn
-    - Needs Front Matter
-    - Vegetarian
+categories:
+  - Dessert
+  - Pie
+  - Baked
+  - Vegetarian
 ---
 # Blackberry Cobbler
 

@@ -5,11 +5,10 @@ recipe: 057/crisp_onion_rings
 page_order: 2
 from: Alene, Wyoming 
 categories:
-    - Vegetables
-    - Side Dish
-    - Fried Foods
-    - Battered
-    - Deep Fried
+  - Vegetables
+  - Side Dish
+  - Battered
+  - Deep Fried
 ---
 # Crisp Onion Rings
 

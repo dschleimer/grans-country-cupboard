@@ -4,8 +4,10 @@ page: "149"
 recipe: 149/chocolate_fudge_cake_-_layer
 page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Cakes
 ---
 # Chocolate Fudge Cake-Layer
 

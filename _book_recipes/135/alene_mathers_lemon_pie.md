@@ -5,7 +5,9 @@ recipe: 135/alene_mathers_lemon_pie
 page_order: 1
 from: Wyoming
 categories:
-    - Needs Front Matter
+  - Dessert
+  - Pie
+  - Baked
 ---
 # Alene Mather's Lemon Pie
 

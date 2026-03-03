@@ -1,0 +1,514 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+fix_categories.py
+
+Fix up recipe categories in _book_recipes/:
+1. Normalize tag variants to canonical forms (e.g. "Mains" → "Main")
+2. Correct Needs Transcription status based on content detection
+3. Add rule-based categories to Needs Front Matter recipes
+4. Remove Needs Front Matter when recipe has 3+ proper category tags
+5. Optionally write a JSON report
+
+Usage:
+    python _tools/fix_categories.py _book_recipes/ [--dry-run] [--report]
+"""
+
+import argparse
+import json
+import re
+import sys
+from pathlib import Path
+
+import yaml
+
+# ---------------------------------------------------------------------------
+# Tag normalization map  (old variant → canonical)
+# ---------------------------------------------------------------------------
+TAG_REPLACEMENTS = {
+    "Appetizer": "Appetizers",
+    "Mains": "Main",
+    "Desserts": "Dessert",
+    "Finger Foods": "Finger Food",
+    "Party Foods": "Party Food",
+    "Spreads": "Spread",
+    "Breakfast foods": "Breakfast",
+    "Notes from Gran": "Notes",
+    "Meat Balls": "Meatballs",
+    "Double Boiled": "Double Boiler",
+    "Sauted": "Sautéed",
+    "Overnigth Recipe": "Overnight Recipe",
+    "Sandwiches": "Sandwich",
+    "Cup Cakes": "Cupcakes",
+    "Snack": "Snacks",
+    "Pan Cooked": "Pan Fried",
+    "Oven": "Baked",
+    "Grill": "Grilled",
+    "Uncooked": "No Cook",
+    "Barbeque": "Grilled",
+}
+
+# Tags to drop entirely (no canonical replacement)
+TAGS_TO_REMOVE = {"Fried Foods", "Served Hot"}
+
+# Status tags (never treated as "proper" category tags for the 3-tag threshold)
+STATUS_TAGS = {"Needs Transcription", "Needs Front Matter"}
+
+# Canonical course-level tags (used to check if a recipe has a course)
+CANONICAL_COURSE_TAGS = {
+    "Appetizers", "Main", "Side Dish", "Soup", "Salad",
+    "Dessert", "Beverages", "Bread",
+}
+
+# ---------------------------------------------------------------------------
+# File parsing / writing
+# ---------------------------------------------------------------------------
+
+def parse_recipe(path):
+    """
+    Return (fm_dict, fm_lines, body_lines).
+    fm_lines: raw lines inside the first --- block (NOT including the --- lines).
+    body_lines: everything after the closing ---.
+    Returns (None, [], all_lines) if no valid front-matter found.
+    """
+    text = path.read_text(encoding="utf-8")
+    lines = text.splitlines(keepends=True)
+
+    if not lines or lines[0].strip() != "---":
+        return None, [], lines
+
+    end_idx = None
+    for i in range(1, len(lines)):
+        if lines[i].strip() == "---":
+            end_idx = i
+            break
+
+    if end_idx is None:
+        return None, lines[1:], []
+
+    fm_lines = lines[1:end_idx]
+    body_lines = lines[end_idx + 1:]
+
+    try:
+        fm_dict = yaml.safe_load("".join(fm_lines)) or {}
+        if not isinstance(fm_dict, dict):
+            fm_dict = {}
+    except yaml.YAMLError:
+        fm_dict = {}
+
+    return fm_dict, fm_lines, body_lines
+
+
+def rewrite_categories_in_fm(fm_lines, new_categories, indent="  "):
+    """
+    Replace the `categories:` block in fm_lines with new_categories.
+    If no `categories:` key exists, append it at the end.
+    Returns a new list of lines.
+    """
+    cat_start = None
+    cat_end = None
+
+    for i, line in enumerate(fm_lines):
+        if re.match(r'^categories\s*:', line):
+            cat_start = i
+            j = i + 1
+            while j < len(fm_lines) and re.match(r'^\s*-', fm_lines[j]):
+                j += 1
+            cat_end = j
+            break
+
+    if not new_categories:
+        new_block = ["categories: []\n"]
+    else:
+        new_block = ["categories:\n"] + [f"{indent}- {tag}\n" for tag in new_categories]
+
+    if cat_start is not None:
+        return list(fm_lines[:cat_start]) + new_block + list(fm_lines[cat_end:])
+    else:
+        return list(fm_lines) + new_block
+
+
+def write_recipe(path, fm_lines, body_lines, new_categories):
+    content = "---\n" + "".join(rewrite_categories_in_fm(fm_lines, new_categories)) + "---\n" + "".join(body_lines)
+    path.write_text(content, encoding="utf-8")
+
+
+# ---------------------------------------------------------------------------
+# Transcription detection
+# ---------------------------------------------------------------------------
+
+_ALL_DASHES = re.compile(r'^\s*-+\s*$')
+
+
+def _extract_section_lines(body_text, section_name):
+    """Return lines belonging to the named ## section."""
+    lines = body_text.splitlines()
+    pattern = re.compile(rf'^##\s+{re.escape(section_name)}\s*$')
+    in_sec = False
+    result = []
+    for line in lines:
+        if pattern.match(line):
+            in_sec = True
+            continue
+        if in_sec and re.match(r'^##\s+', line):
+            break
+        if in_sec:
+            result.append(line)
+    return result
+
+
+def count_ingredient_rows(body_text):
+    """Count non-header, non-separator table rows in the Ingredients section."""
+    count = 0
+    for line in _extract_section_lines(body_text, "Ingredients"):
+        if not line.startswith("|"):
+            continue
+        cells = line.split("|")
+        if len(cells) < 2:
+            continue
+        first = cells[1].strip()
+        if not first or first.lower() == "ingredient" or _ALL_DASHES.match(first):
+            continue
+        count += 1
+    return count
+
+
+def count_method_steps(body_text):
+    """Count numbered list items in the Method section."""
+    count = 0
+    for line in _extract_section_lines(body_text, "Method"):
+        if re.match(r'^\d+[.)]\s', line):
+            count += 1
+    return count
+
+
+def detect_transcription_status(body_text):
+    """
+    Returns one of:
+        'transcribed'              – has ≥1 ingredient row AND ≥1 method step
+        'untranscribed'            – missing both
+        'gray_ingredients_only'   – has ingredients but no numbered method steps
+        'gray_method_only'        – has method steps but no ingredient rows
+    """
+    ing = count_ingredient_rows(body_text)
+    mth = count_method_steps(body_text)
+
+    if ing >= 1 and mth >= 1:
+        return "transcribed"
+    if ing == 0 and mth == 0:
+        return "untranscribed"
+    if ing >= 1:
+        return "gray_ingredients_only"
+    return "gray_method_only"
+
+
+# ---------------------------------------------------------------------------
+# Tag normalization
+# ---------------------------------------------------------------------------
+
+def normalize_tags(categories):
+    """Apply replacement map, deduplicate, drop removed tags."""
+    result = []
+    seen = set()
+    for tag in categories:
+        if tag in TAGS_TO_REMOVE:
+            continue
+        canonical = TAG_REPLACEMENTS.get(tag, tag)
+        if canonical not in seen:
+            result.append(canonical)
+            seen.add(canonical)
+    return result
+
+
+# ---------------------------------------------------------------------------
+# Rule-based categorization (for Needs Front Matter recipes)
+# ---------------------------------------------------------------------------
+
+# (filename stem pattern, tags to add)
+_FILENAME_RULES = [
+    (r'cup_?cake|cupcake',                       ["Dessert", "Cupcakes"]),
+    (r'cake|torte',                              ["Dessert", "Cakes"]),
+    (r'cookie|brownie|bar_cookie',               ["Dessert", "Cookies"]),
+    (r'pie|tart|cobbler|crisp',                  ["Dessert", "Pie"]),
+    (r'bread|muffin|biscuit|roll|bun|loaf',      ["Bread"]),
+    (r'soup|chowder|bisque|gazpacho|potage',      ["Soup"]),
+    (r'stew|ragout|ragù',                        ["Stew"]),
+    (r'salad',                                   ["Salad"]),
+    (r'sandwich|sub|hoagie|burger|panini',       ["Sandwich"]),
+    (r'punch',                                   ["Beverages", "Punch"]),
+    (r'cocktail|daiquiri|julep|colada|martini',  ["Beverages", "Cocktail"]),
+    (r'eggnog|coffee|lemonade|tea|cider',        ["Beverages"]),
+    (r'\bdip\b|_dip$|^dip_',                     ["Dip"]),
+    (r'spread',                                  ["Spread"]),
+    (r'sauce|gravy',                             ["Sauce"]),
+    (r'casserole|gratin|au_gratin|scalloped',    ["Casserole"]),
+    (r'pasta|spaghetti|macaroni|noodle|lasagna', ["Pasta"]),
+    (r'pudding|mousse|custard',                  ["Dessert"]),
+    (r'gelatin|jello|aspic|mold|molded',         ["Aspic", "Chilled"]),
+    (r'ice_cream|sherbet|sorbet',                ["Dessert", "Frozen"]),
+    (r'relish|chutney|pickle|jam|jelly|marmalade',["Condiment"]),
+    (r'pate|terrine',                            ["Pate"]),
+    (r'fudge|candy|toffee|brittle|praline',      ["Dessert"]),
+    (r'waffle|pancake|french_toast',             ["Breakfast"]),
+    (r'omelet|omelette',                         ["Breakfast"]),
+    (r'canape|appetizer|hors',                   ["Appetizers"]),
+    (r'finger|snack|nibble|bite',                ["Finger Food"]),
+]
+
+# (pattern against ingredient text, tag)
+_PROTEIN_RULES = [
+    (r'\bchicken\b',                                                              "Chicken"),
+    (r'\bturkey\b',                                                               "Turkey"),
+    (r'\b(beef|ground\s+chuck|ground\s+beef|sirloin|brisket|flank)\b',           "Beef"),
+    (r'\b(pork|ham|bacon|sausage|prosciutto|salami|pepperoni)\b',                "Pork"),
+    (r'\blamb\b|\bmutton\b',                                                      "Lamb"),
+    (r'\bveal\b',                                                                 "Veal"),
+    (r'\belk\b',                                                                  "Elk"),
+    (r'\brabbit\b',                                                               "Rabbit"),
+    (r'\bvenison\b',                                                              "Venison"),
+    (r'\bduck\b',                                                                 "Duck"),
+    (r'\b(shrimp|crab|lobster|clam|oyster|scallop|tuna|salmon|cod|flounder'
+     r'|fish|seafood|anchov|halibut|mahi|swordfish)\b',                           "Seafood"),
+]
+
+# (pattern against method text, tag)
+_TECHNIQUE_RULES = [
+    (r'\bdeep[\s-]?fr(y|ied|ying)\b',                                            "Deep Fried"),
+    (r'\bbak(e|ed|ing)(?!\s+(?:powder|soda))\b|\boven\b|\bpreheat\b'
+     r'|\b3[25][05]\s*°?\s*[Ff]\b|\b4[02][05]\s*°?\s*[Ff]\b',                   "Baked"),
+    (r'\bbroil(ed|ing)?\b',                                                       "Broiled"),
+    (r'\bgrill(ed|ing)?\b|\bbbq\b|\bbarbeque\b',                                 "Grilled"),
+    (r'\broast(ed|ing)?\b',                                                       "Roast"),
+    (r'\bboil(ed|ing)?\b|\bsimmer(ed|ing)?\b',                                  "Boiled"),
+    (r'\bsaut[eé](ed|ing)?\b',                                                   "Sautéed"),
+    (r'\bdouble\s+boiler\b',                                                      "Double Boiler"),
+    # Pan Fried: mention of fry/skillet but only if Deep Fried not matched
+    (r'\b(pan[\s-]?fr(y|ied|ying)|skillet|fry|frying)\b',                        "Pan Fried"),
+]
+
+# (pattern against full body, tag)
+_CONTEXT_RULES = [
+    (r'\bchristmas\b|\bholiday\b|\bxmas\b',      "Christmas"),
+    (r'\bthanksgiving\b',                         "Thanksgiving"),
+    (r'\bleftover\b',                             "Leftovers"),
+    (r'\bovernight\b',                            "Overnight Recipe"),
+    (r'\ball[\s-]day\b|\bslow[\s-]cook\b',        "All Day Recipe"),
+]
+
+
+def infer_categories(filename_stem, body_text, existing_categories):
+    """
+    Return list of additional tags to add (not already in existing_categories).
+    Conservative: only high-confidence, unambiguous inferences.
+    """
+    existing = set(existing_categories)
+    additions = []
+
+    def add(tag):
+        if tag not in existing and tag not in additions:
+            additions.append(tag)
+
+    stem = filename_stem.lower()
+    ingredient_text = "\n".join(_extract_section_lines(body_text, "Ingredients"))
+    method_text = "\n".join(_extract_section_lines(body_text, "Method"))
+
+    # Filename-based course/type rules
+    for pattern, tags in _FILENAME_RULES:
+        if re.search(pattern, stem):
+            for t in tags:
+                add(t)
+
+    # Protein tags from ingredient list
+    for pattern, tag in _PROTEIN_RULES:
+        if re.search(pattern, ingredient_text, re.IGNORECASE):
+            add(tag)
+
+    # Technique tags from method text
+    matched_techniques = []
+    for pattern, tag in _TECHNIQUE_RULES:
+        if re.search(pattern, method_text, re.IGNORECASE):
+            matched_techniques.append(tag)
+
+    # If Deep Fried matched, skip Pan Fried to avoid redundancy
+    if "Deep Fried" in matched_techniques and "Pan Fried" in matched_techniques:
+        matched_techniques.remove("Pan Fried")
+
+    for tag in matched_techniques:
+        add(tag)
+
+    # Context tags from full body
+    for pattern, tag in _CONTEXT_RULES:
+        if re.search(pattern, body_text, re.IGNORECASE):
+            add(tag)
+
+    return additions
+
+
+def count_proper_tags(categories):
+    """Count non-status tags."""
+    return sum(1 for t in categories if t not in STATUS_TAGS)
+
+
+# ---------------------------------------------------------------------------
+# Main file processing
+# ---------------------------------------------------------------------------
+
+def process_file(path, dry_run=False):
+    """
+    Process one recipe file. Returns a change record dict or None if unchanged.
+    """
+    fm_dict, fm_lines, body_lines = parse_recipe(path)
+    if fm_dict is None:
+        return None
+
+    body_text = "".join(body_lines)
+    categories = [str(c) for c in (fm_dict.get("categories") or [])]
+    original = list(categories)
+    changes = {}
+
+    # --- 1. Normalize tag variants ---
+    normalized = normalize_tags(categories)
+    if normalized != categories:
+        removed = [t for t in categories if t not in normalized]
+        added = [t for t in normalized if t not in categories]
+        changes["normalized"] = {"removed": removed, "added": added}
+        categories = normalized
+
+    # --- 2. Transcription status correction ---
+    status = detect_transcription_status(body_text)
+    has_nt = "Needs Transcription" in categories
+
+    has_nfm = "Needs Front Matter" in categories
+
+    if status == "transcribed" and has_nt:
+        categories.remove("Needs Transcription")
+        changes["removed_needs_transcription"] = True
+    elif status == "untranscribed" and not has_nt and not has_nfm and "Notes" not in categories:
+        # Don't add Needs Transcription to Needs Front Matter files (acknowledged stubs)
+        # or Notes files (glossary/info entries that have no recipe structure by design).
+        categories.insert(0, "Needs Transcription")
+        changes["added_needs_transcription"] = True
+    elif status in ("gray_ingredients_only", "gray_method_only"):
+        changes["gray_area"] = status
+        # Do not auto-change; flag only
+
+    # --- 3. Rule-based categorization for Needs Front Matter ---
+    if "Needs Front Matter" in categories:
+        inferred = infer_categories(path.stem, body_text, categories)
+        if inferred:
+            categories.extend(inferred)
+            changes["inferred_categories"] = inferred
+
+        # Remove Needs Front Matter once ≥3 proper tags exist
+        if count_proper_tags(categories) >= 3:
+            categories.remove("Needs Front Matter")
+            changes["removed_needs_front_matter"] = True
+
+    if categories == original:
+        return None
+
+    if not dry_run:
+        write_recipe(path, fm_lines, body_lines, categories)
+
+    return {
+        "file": str(path),
+        "original": original,
+        "updated": categories,
+        "changes": changes,
+    }
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Fix recipe categories in _book_recipes/")
+    parser.add_argument("directories", nargs="+", help="Directories to scan")
+    parser.add_argument("--dry-run", action="store_true", help="Report only, don't write files")
+    parser.add_argument("--report", action="store_true", help="Write .recipe_stats/fix_report.json")
+    args = parser.parse_args()
+
+    results = []
+    gray_areas = []
+    errors = []
+    stats = {
+        "files_changed": 0,
+        "needs_transcription_added": 0,
+        "needs_transcription_removed": 0,
+        "needs_front_matter_removed": 0,
+        "tags_normalized": 0,
+        "inferred_category_files": 0,
+        "gray_areas": 0,
+    }
+
+    all_paths = []
+    for d in args.directories:
+        all_paths.extend(sorted(Path(d).resolve().rglob("*.md")))
+
+    for path in all_paths:
+        try:
+            result = process_file(path, dry_run=args.dry_run)
+        except Exception as exc:
+            errors.append({"file": str(path), "error": str(exc)})
+            continue
+
+        if result is None:
+            continue
+
+        results.append(result)
+        stats["files_changed"] += 1
+        c = result["changes"]
+        if c.get("added_needs_transcription"):
+            stats["needs_transcription_added"] += 1
+        if c.get("removed_needs_transcription"):
+            stats["needs_transcription_removed"] += 1
+        if c.get("removed_needs_front_matter"):
+            stats["needs_front_matter_removed"] += 1
+        if c.get("normalized"):
+            stats["tags_normalized"] += 1
+        if c.get("inferred_categories"):
+            stats["inferred_category_files"] += 1
+        if c.get("gray_area"):
+            stats["gray_areas"] += 1
+            gray_areas.append({
+                "file": result["file"],
+                "status": c["gray_area"],
+                "categories": result["original"],
+            })
+
+    # --- Print summary ---
+    print(f"\nSummary ({'dry run' if args.dry_run else 'applied'}):")
+    print(f"  Files changed:                {stats['files_changed']}")
+    print(f"  Needs Transcription added:    {stats['needs_transcription_added']}")
+    print(f"  Needs Transcription removed:  {stats['needs_transcription_removed']}")
+    print(f"  Needs Front Matter removed:   {stats['needs_front_matter_removed']}")
+    print(f"  Tag variants normalized:      {stats['tags_normalized']}")
+    print(f"  Categories inferred:          {stats['inferred_category_files']}")
+    print(f"  Gray areas flagged:           {stats['gray_areas']}")
+
+    if gray_areas:
+        print("\nGray areas (manual review needed):")
+        for g in gray_areas:
+            print(f"  [{g['status']}] {g['file']}")
+
+    if errors:
+        print("\nErrors:")
+        for e in errors:
+            print(f"  {e['file']}: {e['error']}", file=sys.stderr)
+
+    if args.report:
+        report = {
+            "stats": stats,
+            "changes": results,
+            "gray_areas": gray_areas,
+            "errors": errors,
+        }
+        report_dir = Path.cwd() / ".recipe_stats"
+        report_dir.mkdir(parents=True, exist_ok=True)
+        report_path = report_dir / "fix_report.json"
+        report_path.write_text(json.dumps(report, indent=2, ensure_ascii=False), encoding="utf-8")
+        print(f"\nReport written to {report_path}")
+
+    if args.dry_run:
+        print("\n(Dry run — no files were modified.)")
+
+
+if __name__ == "__main__":
+    main()

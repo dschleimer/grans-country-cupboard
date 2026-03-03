@@ -4,8 +4,10 @@ page: "135"
 recipe: 135/magic_lemon_pie
 page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Pie
 ---
 # Magic Lemon Pie
 

@@ -5,8 +5,10 @@ recipe: 185/12_stew_dumplings
 page_order: 1
 from: Nanna Marter
 categories:
-    - Needs Front Matter
-    - Vegetarian
+  - Side Dish
+  - Vegetarian
+  - Stew
+  - Stovetop
 ---
 # 12 Stew Dumplings
 

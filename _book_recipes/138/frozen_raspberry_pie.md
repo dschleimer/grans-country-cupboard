@@ -4,8 +4,10 @@ page: "138"
 recipe: 138/frozen_raspberry_pie
 page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Pie
 ---
 # Frozen Raspberry Pie
 

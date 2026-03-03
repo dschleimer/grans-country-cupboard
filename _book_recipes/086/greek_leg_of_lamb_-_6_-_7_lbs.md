@@ -5,10 +5,9 @@ recipe: 086/greek_leg_of_lamb_-_6_-_7_lbs
 page_order: 1
 from: T.T. Pirrone
 categories:
-    - Needs Transcription
-    - Lamb
-    - Roast
-    - Main
+  - Lamb
+  - Roast
+  - Main
 ---
 # Greek Leg of Lamb - 6-7 Lbs
 

@@ -5,12 +5,12 @@ recipe: 110/hawaiian_chicken_wings
 page_order: 1
 from: Gwen W
 categories:
-    - Meat
-    - Appetizers
-    - Finger Foods
-    - Party Foods
-    - Chicken
-    - Baked
+  - Meat
+  - Appetizers
+  - Finger Food
+  - Party Food
+  - Chicken
+  - Baked
 ---
 # Hawaiian Chicken Wings
 

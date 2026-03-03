@@ -5,11 +5,11 @@ recipe: 112/turkey_lasagne
 page_order: 1
 from: Wyoming
 categories:
-    - Turkey
-    - Casserole
-    - Pasta
-    - Mains
-    - Baked
+  - Turkey
+  - Casserole
+  - Pasta
+  - Main
+  - Baked
 ---
 # Turkey Lasagne
 

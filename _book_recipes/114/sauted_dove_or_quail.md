@@ -5,9 +5,9 @@ recipe: 114/sauted_dove_or_quail
 page_order: 3
 from: Tom McGinley
 categories:
-    - Poultry
-    - Main
-    - Sauted
+  - Poultry
+  - Main
+  - Sautéed
 ---
 # Sautéd Dove or Quail
 

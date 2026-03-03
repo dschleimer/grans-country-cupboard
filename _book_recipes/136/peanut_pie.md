@@ -4,8 +4,10 @@ page: "136"
 recipe: 136/peanut_pie
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Pie
 ---
 # Peanut Pie
 

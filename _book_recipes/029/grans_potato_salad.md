@@ -4,10 +4,9 @@ page: "029"
 recipe: 029/grans_potato_salad
 page_order: 2
 categories:
-    - Needs Transcription
-    - Salad
-    - Cold Salad
-    - Chilled
+  - Salad
+  - Cold Salad
+  - Chilled
 ---
 # Gran's Potato Salad
 

@@ -3,11 +3,10 @@ layout: recipe
 page: "058"
 recipe: 058/crisp_fried_tomatoes
 page_order: 3
-    - Vegetables
-    - Side Dish
-    - Fried Foods
-    - Battered
-    - Pan Fried
+categories:
+  - Vegetables
+  - Side Dish
+  - Pan Fried
 ---
 # Crisp Fried Tomatoes
 

@@ -4,8 +4,10 @@ page: "193"
 recipe: 193/ice_cream
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Frozen
 ---
 # Ice Cream
 

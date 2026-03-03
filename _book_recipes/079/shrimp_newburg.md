@@ -5,9 +5,9 @@ recipe: 079/shrimp_newburg
 page_order: 2
 from: Eunie
 categories:
-    - Seafood
-    - Mains
-    - Pan Fried
+  - Seafood
+  - Main
+  - Pan Fried
 ---
 # Shrimp Newburg
 

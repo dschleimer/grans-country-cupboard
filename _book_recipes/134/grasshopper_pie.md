@@ -4,8 +4,10 @@ page: "134"
 recipe: 134/grasshopper_pie
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
+  - Needs Transcription
+  - Needs Front Matter
+  - Dessert
+  - Pie
 ---
 # Grasshopper Pie
 

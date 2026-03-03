@@ -4,9 +4,10 @@ page: "198"
 recipe: 198/apple_sauce_-_canned
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
-    - Vegetarian
+  - Needs Transcription
+  - Needs Front Matter
+  - Vegetarian
+  - Sauce
 ---
 # Apple Sauce - Canned
 
