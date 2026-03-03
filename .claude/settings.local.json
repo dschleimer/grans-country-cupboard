@@ -1,8 +1,13 @@
 {
   "permissions": {
+    "defaultMode": "bypassPermissions",
     "allow": [
+      "Bash(grep:*)",
       "Bash(ls:*)",
-      "Bash(grep:*)"
-    ]
+      "Bash(python:*)",
+      "Bash(python3:*)",
+      "Bash(sort:*)"
+    ],
+    "additionalDirectories": ["/tmp"]
   }
 }
