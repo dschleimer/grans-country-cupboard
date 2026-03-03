@@ -34,8 +34,7 @@
             "icon": "terminal-bash"
           },
           "zsh": {
-            "path": "zsh",
-            "icon": "terminal-zsh"
+            "path": "zsh"
           }
         }
       }
@@ -44,7 +43,8 @@
   "remoteUser": "node",
   "mounts": [
     "source=claude-code-bashhistory-${devcontainerId},target=/commandhistory,type=volume",
-    "source=claude-code-config-${devcontainerId},target=/home/node/.claude,type=volume",
+    "source=${localEnv:HOME}/.claude,target=/home/node/.claude,type=bind",
+    "source=${localEnv:HOME}/.claude/projects/-home-dschleimer-devel-grans-country-cupboard/,target=/home/node/.claude/projects/-workspace,type=bind",
     "source=${localEnv:SSH_AUTH_SOCK},target=/tmp/ssh-agent.sock,type=bind"
   ],
   "containerEnv": {

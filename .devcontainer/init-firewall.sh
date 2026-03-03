@@ -1,5 +1,6 @@
 #!/bin/bash
 set -euo pipefail  # Exit on error, undefined vars, and pipeline failures
+set -x
 IFS=$'\n\t'       # Stricter word splitting
 
 # 1. Extract Docker DNS info BEFORE any flushing
@@ -60,15 +61,13 @@ while read -r cidr; do
         exit 1
     fi
     echo "Adding GitHub range $cidr"
-    ipset add allowed-domains "$cidr"
+    ipset add allowed-domains "$cidr" -exist
 done < <(echo "$gh_ranges" | jq -r '(.web + .api + .git)[]' | aggregate -q)
 
 # Resolve and add other allowed domains
 for domain in \
     "registry.npmjs.org" \
     "rubygems.org" \
-    "index.rubygems.org" \
-    "gems.rubygems.org" \
     "api.anthropic.com" \
     "sentry.io" \
     "statsig.anthropic.com" \
@@ -89,7 +88,7 @@ for domain in \
             exit 1
         fi
         echo "Adding $ip for $domain"
-        ipset add allowed-domains "$ip"
+        ipset add allowed-domains "$ip" -exist
     done < <(echo "$ips")
 done
 
