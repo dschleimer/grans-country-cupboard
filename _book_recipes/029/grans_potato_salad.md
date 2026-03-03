@@ -7,6 +7,7 @@ categories:
   - Salad
   - Cold Salad
   - Chilled
+  - Boiled
 ---
 # Gran's Potato Salad
 

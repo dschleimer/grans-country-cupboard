@@ -8,6 +8,7 @@ categories:
   - Seafood
   - Main
   - Pan Fried
+  - Shrimp
 ---
 # Shrimp Newburg
 

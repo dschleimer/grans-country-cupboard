@@ -4,9 +4,10 @@ page: "053"
 recipe: 053/southern_corn_pudding
 page_order: 2
 categories:
-    - Vegetables
-    - Side Dish
-    - Baked
+  - Vegetables
+  - Side Dish
+  - Baked
+  - Ovo-Lacto Vegetarian
 ---
 # Southern Corn Pudding
 

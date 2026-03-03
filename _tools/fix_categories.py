@@ -7,7 +7,7 @@ Fix up recipe categories in _book_recipes/:
 1. Normalize tag variants to canonical forms (e.g. "Mains" → "Main")
 2. Correct Needs Transcription status based on content detection
 3. Add rule-based categories to Needs Front Matter recipes
-4. Remove Needs Front Matter when recipe has 3+ proper category tags
+4. Remove Needs Front Matter when recipe has 4+ proper category tags
 5. Detect oxymoronic category pairs (Vegetarian + animal ingredients)
 6. Optionally write a JSON report
 
@@ -53,8 +53,12 @@ TAG_REPLACEMENTS = {
 # Tags to drop entirely (no canonical replacement)
 TAGS_TO_REMOVE = {"Fried Foods", "Served Hot"}
 
-# Status tags (never treated as "proper" category tags for the 3-tag threshold)
+# Status tags (never treated as "proper" category tags for the threshold check)
 STATUS_TAGS = {"Needs Transcription", "Needs Front Matter"}
+
+# Minimum number of proper (non-status) category tags a transcribed recipe must
+# have before Needs Front Matter is cleared.
+MIN_PROPER_TAGS = 4
 
 # Canonical course-level tags (used to check if a recipe has a course)
 CANONICAL_COURSE_TAGS = {
@@ -243,9 +247,9 @@ def normalize_tags(categories):
 # (filename stem pattern, tags to add)
 _FILENAME_RULES = [
     (r'cup_?cake|cupcake',                       ["Dessert", "Cupcakes"]),
-    (r'cake|torte',                              ["Dessert", "Cakes"]),
+    (r'(?:^|_)cake$|(?:^|_)cakes$|torte',        ["Dessert", "Cakes"]),
     (r'cookie|brownie|bar_cookie',               ["Dessert", "Cookies"]),
-    (r'pie|tart|cobbler|crisp',                  ["Dessert", "Pie"]),
+    (r'pie|cobbler|(?:^|_)tart$|_crisp$',                    ["Dessert", "Pie"]),
     (r'bread|muffin|biscuit|roll|bun|loaf',      ["Bread"]),
     (r'soup|chowder|bisque|gazpacho|potage',      ["Soup"]),
     (r'stew|ragout|ragù',                        ["Stew"]),
@@ -253,13 +257,26 @@ _FILENAME_RULES = [
     (r'sandwich|sub|hoagie|burger|panini',       ["Sandwich"]),
     (r'punch',                                   ["Beverages", "Punch"]),
     (r'cocktail|daiquiri|julep|colada|martini',  ["Beverages", "Cocktail"]),
-    (r'eggnog|coffee|lemonade|tea|cider',        ["Beverages"]),
+    (r'eggnog|lemonade|cider|(?:^|_)coffee$|(?:^|_)tea$', ["Beverages"]),
+    (r'iced',                                    ["Chilled"]),
     (r'\bdip\b|_dip$|^dip_',                     ["Dip"]),
     (r'spread',                                  ["Spread"]),
-    (r'sauce|gravy',                             ["Sauce"]),
+    (r'gravy',                                   ["Gravy", "Side Dish"]),
+    (r'sauce',                                   ["Sauce", "Condiment"]),
+    (r'coleslaw|slaw',                           ["Salad", "Chilled"]),
+    (r'cheese.*ball|ball.*cheese',               ["Appetizers", "Finger Food"]),
+    (r'applejack|whiskey|whisky|bourbon|scotch|vodka|brandy', ["Beverages", "Cocktail"]),
+    (r'scrambl',                                 ["Breakfast", "Eggs"]),
+    (r'omelet|omelette',                         ["Breakfast", "Eggs"]),
+    (r'fritter',                                 ["Finger Food", "Snacks"]),
+    (r'shrimp',                                  ["Shrimp"]),
+    (r'crab',                                    ["Crab"]),
+    (r'oyster',                                  ["Oysters"]),
+    (r'lobster',                                 ["Lobster"]),
+    (r'fish',                                    ["Fish"]),
     (r'casserole|gratin|au_gratin|scalloped',    ["Casserole"]),
     (r'pasta|spaghetti|macaroni|noodle|lasagna', ["Pasta"]),
-    (r'pudding|mousse|custard',                  ["Dessert"]),
+    (r'pudding|custard',                         ["Dessert"]),
     (r'gelatin|jello|aspic|mold|molded',         ["Aspic", "Chilled"]),
     (r'ice_cream|sherbet|sorbet',                ["Dessert", "Frozen"]),
     (r'relish|chutney|pickle|jam|jelly|marmalade',["Condiment"]),
@@ -276,7 +293,7 @@ _PROTEIN_RULES = [
     (r'\bchicken\b',                                                              "Chicken"),
     (r'\bturkey\b',                                                               "Turkey"),
     (r'\b(beef|ground\s+chuck|ground\s+beef|sirloin|brisket|flank)\b',           "Beef"),
-    (r'\b(pork|ham|bacon|sausage|prosciutto|salami|pepperoni)\b',                "Pork"),
+    (r'\b(pork|ham|bacon|sausage|prosciutto|salami|pepperoni|pig)\b',            "Pork"),
     (r'\blamb\b|\bmutton\b',                                                      "Lamb"),
     (r'\bveal\b',                                                                 "Veal"),
     (r'\belk\b',                                                                  "Elk"),
@@ -299,8 +316,7 @@ _ANIMAL_INGREDIENT_PATTERNS = [
 # (pattern against method text, tag)
 _TECHNIQUE_RULES = [
     (r'\bdeep[\s-]?fr(y|ied|ying)\b',                                            "Deep Fried"),
-    (r'\bbak(e|ed|ing)(?!\s+(?:powder|soda))\b|\boven\b|\bpreheat\b'
-     r'|\b3[25][05]\s*°?\s*[Ff]\b|\b4[02][05]\s*°?\s*[Ff]\b',                   "Baked"),
+    (r'\bbak(e|ed|ing)(?!\s+(?:powder|soda))\b|\boven\b|\bpreheat\b',             "Baked"),
     (r'\bbroil(ed|ing)?\b',                                                       "Broiled"),
     (r'\bgrill(ed|ing)?\b|\bbbq\b|\bbarbeque\b',                                 "Grilled"),
     (r'\broast(ed|ing)?\b',                                                       "Roast"),
@@ -360,6 +376,19 @@ def detect_conflicts(path, categories, body_text):
     return conflicts
 
 
+# When a recipe already carries one of these tags, infer the listed additional
+# tags.  Applied after all filename/ingredient/technique rules so that newly
+# inferred tags are also eligible as source tags.
+_TAG_IMPLIES_TAGS = [
+    ("Salad Dressing", ["Salad", "Condiment"]),
+    ("Pate",           ["Appetizers", "Chilled"]),
+    ("Aspic",          ["Salad"]),
+    ("Soufflé",        ["Side Dish"]),
+    ("Boiled Eggs",    ["Eggs", "Breakfast"]),
+    ("Gravy",          ["Side Dish"]),
+]
+
+
 def infer_categories(filename_stem, body_text, existing_categories):
     """
     Return list of additional tags to add (not already in existing_categories).
@@ -406,6 +435,26 @@ def infer_categories(filename_stem, body_text, existing_categories):
     for pattern, tag in _CONTEXT_RULES:
         if re.search(pattern, body_text, re.IGNORECASE):
             add(tag)
+
+    # Tag-implies-tag: some type tags imply course or additional tags.
+    # Re-check combined set so newly inferred tags also act as sources.
+    all_so_far = existing | set(additions)
+    for source_tag, implied_tags in _TAG_IMPLIES_TAGS:
+        if source_tag in all_so_far:
+            for t in implied_tags:
+                add(t)
+
+    # Egg-based dietary inference: if no meat/seafood proteins are present but
+    # eggs appear in the ingredient list, this recipe is at least Ovo-Lacto
+    # Vegetarian.  Safe to infer because we only reach this when no animal
+    # protein tag was added or already existed.
+    all_so_far = existing | set(additions)
+    has_meat = bool(_MEAT_PROTEIN_TAGS & all_so_far)
+    if (not has_meat
+            and _EGG_PATTERN.search(ingredient_text)
+            and "Vegetarian" not in all_so_far
+            and "Ovo-Lacto Vegetarian" not in all_so_far):
+        add("Ovo-Lacto Vegetarian")
 
     return additions
 
@@ -469,6 +518,17 @@ def process_file(path, dry_run=False):
             categories = [t for t in categories if t in STATUS_TAGS]
             changes["stripped_unverified"] = stripped
 
+    # --- 2c. Re-flag under-categorized transcribed recipes ---
+    # Raise Needs Front Matter on any transcribed recipe that has fewer than
+    # MIN_PROPER_TAGS proper tags, regardless of whether it previously cleared
+    # the threshold (e.g. after the threshold is raised).
+    if (status == "transcribed"
+            and "Needs Transcription" not in categories
+            and "Needs Front Matter" not in categories
+            and count_proper_tags(categories) < MIN_PROPER_TAGS):
+        categories.append("Needs Front Matter")
+        changes["added_needs_front_matter"] = True
+
     # --- 3. Rule-based categorization for Needs Front Matter ---
     if "Needs Front Matter" in categories and "Needs Transcription" not in categories:
         inferred = infer_categories(path.stem, body_text, categories)
@@ -476,8 +536,8 @@ def process_file(path, dry_run=False):
             categories.extend(inferred)
             changes["inferred_categories"] = inferred
 
-        # Remove Needs Front Matter once ≥3 proper tags exist
-        if count_proper_tags(categories) >= 3 and "Needs Transcription" not in categories:
+        # Remove Needs Front Matter once ≥MIN_PROPER_TAGS proper tags exist
+        if count_proper_tags(categories) >= MIN_PROPER_TAGS and "Needs Transcription" not in categories:
             categories.remove("Needs Front Matter")
             changes["removed_needs_front_matter"] = True
 

@@ -5,9 +5,10 @@ recipe: 044/pea_soup
 page_order: 1
 from: Mary Jane Kowalchek
 categories:
-    - Appetizers
-    - Soup
-    - Boiled
+  - Appetizers
+  - Soup
+  - Boiled
+  - Pork
 ---
 # Pea Soup
 

@@ -5,9 +5,11 @@ recipe: 054/grans_coleslaw
 page_order: 2
 from: Gran
 categories:
-    - Vegetables
-    - Side Dish
-    - No Cook
+  - Vegetables
+  - Side Dish
+  - No Cook
+  - Salad
+  - Chilled
 ---
 # Gran's Coleslaw
 

@@ -8,6 +8,7 @@ categories:
   - Seafood
   - Main
   - Baked
+  - Fish
 ---
 # Any Baked Fish
 

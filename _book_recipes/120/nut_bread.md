@@ -8,6 +8,7 @@ categories:
   - Bread
   - Baked
   - Ovo-Lacto Vegetarian
+  - Snacks
 ---
 # Nut Bread
 

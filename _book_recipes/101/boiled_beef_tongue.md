@@ -4,9 +4,10 @@ page: "101"
 recipe: 101/boiled_beef_tongue
 page_order: 3
 categories:
-    - Beef
-    - Main
-    - Boiled
+  - Beef
+  - Main
+  - Boiled
+  - Offal
 ---
 # Boiled Beef Tongue
 

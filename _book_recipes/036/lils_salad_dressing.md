@@ -5,9 +5,10 @@ recipe: 036/lils_salad_dressing
 page_order: 2
 from: Bob Miller's Mother
 categories:
-    - Salad Dressing
-    - Double Boiler
-    - Chilled
+  - Salad Dressing
+  - Double Boiler
+  - Chilled
+  - Salad
 ---
 # Lil's Salad Dressing
 

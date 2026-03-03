@@ -4,9 +4,10 @@ page: "042"
 recipe: 042/connies_bean_soup
 page_order: 1
 categories:
-    - Soup
-    - Vegetables
-    - Boiled
+  - Soup
+  - Vegetables
+  - Boiled
+  - Pork
 ---
 # Connie's Bean Soup
 

@@ -6,6 +6,10 @@ page_order: 1
 categories:
   - No Cook
   - Pate
+  - Appetizers
+  - Chilled
+  - Pork
+  - Offal
 ---
 # Paté de Foie Grásse
 

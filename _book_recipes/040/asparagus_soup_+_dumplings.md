@@ -7,6 +7,7 @@ categories:
   - Boiled
   - Soup
   - Pork
+  - Main
 ---
 # Asparagus Soup + Dumplings
 

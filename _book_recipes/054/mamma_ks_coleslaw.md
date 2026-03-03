@@ -4,9 +4,11 @@ page: "054"
 recipe: 054/mamma_ks_coleslaw
 page_order: 1
 categories:
-    - Vegetables
-    - Side Dish
-    - No Cook
+  - Vegetables
+  - Side Dish
+  - No Cook
+  - Salad
+  - Chilled
 ---
 # Mamma K's Coleslaw
 

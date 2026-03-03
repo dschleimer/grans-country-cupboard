@@ -5,8 +5,11 @@ recipe: 038/fresh_fruit_salad_dressing
 page_order: 1
 from: Fran Wilson
 categories:
-    - Salad Dressing
-    - Boiled
+  - Salad Dressing
+  - Boiled
+  - Salad
+  - Condiment
+  - Ovo-Lacto Vegetarian
 ---
 # Fresh Fruit Salad Dressing
 

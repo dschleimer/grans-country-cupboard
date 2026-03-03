@@ -5,8 +5,10 @@ recipe: 111/cape_may_(nj)_barbeque_sauce
 page_order: 2
 from: Cape May County
 categories:
-    - Sauce
-    - No Cook
+  - Sauce
+  - No Cook
+  - Condiment
+  - Ovo-Lacto Vegetarian
 ---
 # Cape May (NJ) Barbeque Sauce
 

@@ -8,6 +8,7 @@ categories:
   - Seafood
   - Main
   - Pan Fried
+  - Sautéed
 ---
 # Shrimp in Sour Cream
 

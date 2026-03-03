@@ -5,7 +5,10 @@ recipe: 085/good_gravy
 page_order: 3
 from: Gran
 categories:
-    - Sauce
+  - Sauce
+  - Roast
+  - Gravy
+  - Side Dish
 ---
 # Good Gravy
 

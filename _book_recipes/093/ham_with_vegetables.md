@@ -7,6 +7,8 @@ categories:
   - Vegetables
   - Main
   - Stovetop
+  - Pork
+  - Sautéed
 ---
 # Ham with Vegetables
 

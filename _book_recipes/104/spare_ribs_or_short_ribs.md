@@ -5,9 +5,10 @@ recipe: 104/spare_ribs_or_short_ribs
 page_order: 2
 from: Mary Jane K
 categories:
-    - Beef
-    - Main
-    - Roast
+  - Beef
+  - Main
+  - Roast
+  - Baked
 ---
 # Spare Ribs or Short Ribs
 

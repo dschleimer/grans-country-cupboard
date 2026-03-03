@@ -5,8 +5,10 @@ recipe: 079/crab_delaware
 page_order: 3
 from: Caroline and William
 categories:
-    - Seafood
-    - Baked
+  - Seafood
+  - Crab
+  - Baked
+  - Main
 ---
 # Crab Delaware
 

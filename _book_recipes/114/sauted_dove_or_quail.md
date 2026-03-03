@@ -8,6 +8,7 @@ categories:
   - Poultry
   - Main
   - Sautéed
+  - Boiled
 ---
 # Sautéd Dove or Quail
 

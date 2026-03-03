@@ -5,9 +5,10 @@ recipe: 045/vegetable_soup
 page_order: 1
 from: Gran
 categories:
-    - Appetizers
-    - Soup
-    - Boiled
+  - Appetizers
+  - Soup
+  - Boiled
+  - Beef
 ---
 # Vegetable Soup
 

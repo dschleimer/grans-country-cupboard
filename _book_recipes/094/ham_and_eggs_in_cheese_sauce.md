@@ -4,9 +4,12 @@ page: "094"
 recipe: 094/ham_and_eggs_in_cheese_sauce
 page_order: 1
 categories:
-    - Stovetop
-    - Breakfast
-    - Main
+  - Stovetop
+  - Breakfast
+  - Main
+  - Sauce
+  - Pork
+  - Boiled
 ---
 # Ham and Eggs in Cheese Sauce
 

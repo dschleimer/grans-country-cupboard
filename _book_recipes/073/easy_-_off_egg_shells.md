@@ -5,8 +5,11 @@ recipe: 073/easy_-_off_egg_shells
 page_order: 2
 from: Eunie
 categories:
-    - Boiled Eggs
-    - Boiled
+  - Boiled Eggs
+  - Boiled
+  - Eggs
+  - Breakfast
+  - Ovo-Lacto Vegetarian
 ---
 # Easy - Off Egg Shells
 

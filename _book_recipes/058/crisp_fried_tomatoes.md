@@ -7,6 +7,7 @@ categories:
   - Vegetables
   - Side Dish
   - Pan Fried
+  - Ovo-Lacto Vegetarian
 ---
 # Crisp Fried Tomatoes
 

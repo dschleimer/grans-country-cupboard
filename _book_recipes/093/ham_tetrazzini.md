@@ -4,9 +4,11 @@ page: "093"
 recipe: 093/ham_tetrazzini
 page_order: 1
 categories:
-    - Stovetop
-    - Pasta
-    - Main
+  - Stovetop
+  - Pasta
+  - Main
+  - Pork
+  - Boiled
 ---
 # Ham Tetrazzini
 

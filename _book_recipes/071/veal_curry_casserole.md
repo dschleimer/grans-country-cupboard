@@ -5,9 +5,11 @@ recipe: 071/veal_curry_casserole
 page_order: 1
 from: Elizabeth McGinley Barmeyer
 categories:
-    - Casserole
-    - Pan Fried
-    - Baked
+  - Casserole
+  - Pan Fried
+  - Baked
+  - Veal
+  - Sautéed
 ---
 # Veal Curry Casserole
 

@@ -5,9 +5,11 @@ recipe: 054/coleslaw_with_sour_cream
 page_order: 3
 from: Martha Marter
 categories:
-    - Vegetables
-    - Side Dish
-    - No Cook
+  - Vegetables
+  - Side Dish
+  - No Cook
+  - Salad
+  - Chilled
 ---
 # Coleslaw with Sour Cream
 

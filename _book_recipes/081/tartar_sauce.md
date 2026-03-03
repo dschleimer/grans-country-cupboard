@@ -5,8 +5,10 @@ recipe: 081/tartar_sauce
 page_order: 3
 from: Gran
 categories:
-    - No Cook
-    - Condiment
+  - No Cook
+  - Condiment
+  - Sauce
+  - Chilled
 ---
 # Tartar Sauce
 

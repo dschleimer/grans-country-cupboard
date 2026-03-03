@@ -4,8 +4,11 @@ page: "072"
 recipe: 072/deviled_scrambled_eggs
 page_order: 2
 categories:
-    - Scramble
-    - Pan Fried
+  - Scramble
+  - Pan Fried
+  - Breakfast
+  - Eggs
+  - Ovo-Lacto Vegetarian
 ---
 # Deviled Scrambled Eggs
 

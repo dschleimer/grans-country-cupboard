@@ -5,9 +5,11 @@ recipe: 092/ham_mousse
 page_order: 2
 from: Arkansas
 categories:
-    - Stovetop
-    - Chilled
-    - Aspic
+  - Stovetop
+  - Chilled
+  - Aspic
+  - Pork
+  - Boiled
 ---
 # Ham Mousse
 

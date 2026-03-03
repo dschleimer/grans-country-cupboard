@@ -5,9 +5,11 @@ recipe: 041/greek_chicken_+_lemon_flavored_soup
 page_order: 2
 from: T.T. Pirrone
 categories:
-    - Appetizers
-    - Soup
-    - Boiled
+  - Appetizers
+  - Soup
+  - Boiled
+  - Chicken
+  - Baked
 ---
 # Greek Chicken + Lemon Flavored Soup
 

@@ -5,9 +5,10 @@ recipe: 049/red_beans_and_rice
 page_order: 1
 from: Louisiana
 categories:
-    - Vegetables
-    - Side Dish
-    - Boiled
+  - Vegetables
+  - Side Dish
+  - Boiled
+  - Pork
 ---
 # Red Beans and Rice
 

@@ -5,9 +5,11 @@ recipe: 081/crab_dewey
 page_order: 1
 from: Gran
 categories:
-    - Seafood
-    - Stovetop
-    - Crab
+  - Seafood
+  - Stovetop
+  - Crab
+  - Boiled
+  - Sautéed
 ---
 # Crab Dewey
 

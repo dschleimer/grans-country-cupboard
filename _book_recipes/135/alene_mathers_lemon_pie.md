@@ -8,6 +8,7 @@ categories:
   - Dessert
   - Pie
   - Baked
+  - Ovo-Lacto Vegetarian
 ---
 # Alene Mather's Lemon Pie
 

@@ -8,6 +8,7 @@ categories:
   - Dessert
   - Cakes
   - Baked
+  - Ovo-Lacto Vegetarian
 ---
 # Apple Nut Torte
 

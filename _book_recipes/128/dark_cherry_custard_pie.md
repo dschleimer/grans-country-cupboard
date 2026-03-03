@@ -7,6 +7,7 @@ categories:
   - Dessert
   - Pie
   - Baked
+  - Ovo-Lacto Vegetarian
 ---
 # Dark Cherry Custard Pie
 

@@ -5,9 +5,10 @@ recipe: 035/kathys_green_greek_salad
 page_order: 2
 from: Elizabeth McGinley Barmeyer
 categories:
-    - Salad
-    - Cold Salad
-    - No Cook
+  - Salad
+  - Cold Salad
+  - No Cook
+  - Ovo-Lacto Vegetarian
 ---
 # Kathy's Green Greek Salad
 

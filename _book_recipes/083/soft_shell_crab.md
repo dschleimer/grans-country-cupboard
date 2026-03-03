@@ -5,9 +5,10 @@ recipe: 083/soft_shell_crab
 page_order: 3
 from: Gran
 categories:
-    - Crab
-    - Seafood
-    - Fried
+  - Crab
+  - Seafood
+  - Pan Fried
+  - Appetizers
 ---
 # Soft Shell Crab
 

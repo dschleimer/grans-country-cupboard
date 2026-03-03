@@ -5,9 +5,10 @@ recipe: 080/shrimp_rice_curry
 page_order: 2
 from: Eunie
 categories:
-    - Seafood
-    - Shrimp
-    - Stovetop
+  - Seafood
+  - Shrimp
+  - Stovetop
+  - Sautéed
 ---
 # Shrimp Rice Curry
 

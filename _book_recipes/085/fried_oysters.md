@@ -5,9 +5,11 @@ recipe: 085/fried_oysters
 page_order: 1
 from: Uncle Ed. McGinley
 categories:
-    - Pan Fried
-    - Seafood
-    - Oysters
+  - Pan Fried
+  - Seafood
+  - Oysters
+  - Appetizers
+  - Finger Food
 ---
 # Fried Oysters
 

@@ -5,9 +5,10 @@ recipe: 069/oyster_casserole
 page_order: 2
 from: Barbara MacFalls
 categories:
-    - Casserole
-    - Seafood
-    - Baked
+  - Casserole
+  - Seafood
+  - Baked
+  - Oysters
 ---
 # Oyster Casserole
 

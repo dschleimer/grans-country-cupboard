@@ -4,9 +4,10 @@ page: "084"
 recipe: 084/oyster_cakes_hollandaise
 page_order: 1
 categories:
-    - Seafood
-    - Stovetop
-    - Fried
+  - Seafood
+  - Oysters
+  - Pan Fried
+  - Main
 ---
 # Oyster Cakes Hollandaise
 

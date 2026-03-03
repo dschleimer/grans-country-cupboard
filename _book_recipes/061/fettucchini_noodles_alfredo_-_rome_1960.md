@@ -4,9 +4,10 @@ page: "061"
 recipe: 061/fettucchini_noodles_alfredo_-_rome_1960
 page_order: 1
 categories:
-    - Italian
-    - Noodles
-    - Boiled
+  - Italian
+  - Noodles
+  - Boiled
+  - Pasta
 ---
 # Fettucchini Noodles Alfredo - Rome 1960
 

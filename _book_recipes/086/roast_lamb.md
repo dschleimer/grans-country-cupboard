@@ -5,9 +5,10 @@ recipe: 086/roast_lamb
 page_order: 2
 from: Gran
 categories:
-    - Roast
-    - Lamb
-    - Main
+  - Roast
+  - Lamb
+  - Main
+  - Baked
 ---
 # Roast Lamb
 

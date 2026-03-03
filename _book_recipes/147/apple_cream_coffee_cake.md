@@ -6,8 +6,8 @@ page_order: 1
 categories:
   - Dessert
   - Cakes
-  - Beverages
   - Baked
+  - Ovo-Lacto Vegetarian
 ---
 # Apple Cream Coffee Cake
 

@@ -4,8 +4,10 @@ page: "073"
 recipe: 073/blue_cheese_omelet
 page_order: 1
 categories:
-    - Omelet
-    - Pan Fried
+  - Omelet
+  - Pan Fried
+  - Breakfast
+  - Eggs
 ---
 # Blue Cheese Omelet
 

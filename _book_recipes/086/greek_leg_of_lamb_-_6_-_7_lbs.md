@@ -8,6 +8,7 @@ categories:
   - Lamb
   - Roast
   - Main
+  - Baked
 ---
 # Greek Leg of Lamb - 6-7 Lbs
 

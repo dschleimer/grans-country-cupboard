@@ -5,8 +5,12 @@ recipe: 075/pickled_eggs
 page_order: 1
 from: Pennsylvania Dutch
 categories:
-    - Boiled Eggs
-    - Boiled
+  - Boiled Eggs
+  - Boiled
+  - Condiment
+  - Eggs
+  - Breakfast
+  - Ovo-Lacto Vegetarian
 ---
 # Pickled Eggs
 

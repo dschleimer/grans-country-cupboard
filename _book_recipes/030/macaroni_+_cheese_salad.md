@@ -4,9 +4,10 @@ page: "030"
 recipe: 030/macaroni_+_cheese_salad
 page_order: 1
 categories:
-    - Salad
-    - Cold Salad
-    - Boiled
+  - Salad
+  - Cold Salad
+  - Boiled
+  - Pasta
 ---
 # Macaroni + Cheese Salad
 

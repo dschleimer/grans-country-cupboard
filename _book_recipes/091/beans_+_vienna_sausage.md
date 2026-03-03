@@ -4,9 +4,10 @@ page: "091"
 recipe: 091/beans_+_vienna_sausage
 page_order: 1
 categories:
-    - Baked
-    - Beans
-    - Sausage
+  - Baked
+  - Beans
+  - Sausage
+  - Pork
 ---
 # Beans + Vienna Sausage
 

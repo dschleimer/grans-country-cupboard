@@ -7,6 +7,8 @@ categories:
   - No Cook
   - Chilled
   - Beef
+  - Appetizers
+  - Finger Food
 ---
 # Cheddar Cheese Balls
 

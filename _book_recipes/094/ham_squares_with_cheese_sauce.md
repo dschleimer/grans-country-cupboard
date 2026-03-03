@@ -4,9 +4,11 @@ page: "094"
 recipe: 094/ham_squares_with_cheese_sauce
 page_order: 2
 categories:
-    - Main
-    - Baked
-    - Stovetop
+  - Main
+  - Baked
+  - Stovetop
+  - Sauce
+  - Pork
 ---
 # Ham Squares with Cheese Sauce
 

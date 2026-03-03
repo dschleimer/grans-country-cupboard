@@ -8,6 +8,8 @@ categories:
   - Side Dish
   - Ovo-Lacto Vegetarian
   - Pan Fried
+  - Finger Food
+  - Snacks
 ---
 # Fritters - Corn, Apple or Banana
 

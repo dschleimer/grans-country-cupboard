@@ -5,9 +5,10 @@ recipe: 021/iced_tea
 page_order: 3
 from: Joe Segar
 categories:
-    - Beverages
-    - Drinks
-    - Batch Drink
+  - Beverages
+  - Drinks
+  - Batch Drink
+  - Chilled
 ---
 # Iced Tea
 

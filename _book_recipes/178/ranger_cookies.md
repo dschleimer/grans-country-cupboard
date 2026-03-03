@@ -7,6 +7,7 @@ categories:
   - Dessert
   - Cookies
   - Baked
+  - Ovo-Lacto Vegetarian
 ---
 # Ranger Cookies
 

@@ -5,9 +5,10 @@ recipe: 082/crab_lizzy
 page_order: 2
 from: Gran
 categories:
-    - Seafood
-    - Crab
-    - Baked
+  - Seafood
+  - Crab
+  - Baked
+  - Main
 ---
 # Crab Lizzy
 

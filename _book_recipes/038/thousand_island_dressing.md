@@ -4,9 +4,10 @@ page: "038"
 recipe: 038/thousand_island_dressing
 page_order: 3
 categories:
-    - Salad Dressing
-    - No Cook
-    - Chilled
+  - Salad Dressing
+  - No Cook
+  - Chilled
+  - Condiment
 ---
 # Thousand Island Dressing
 

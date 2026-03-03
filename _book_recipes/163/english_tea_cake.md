@@ -7,8 +7,8 @@ from: Woldingham England - 1936
 categories:
   - Dessert
   - Cakes
-  - Beverages
   - Baked
+  - Ovo-Lacto Vegetarian
 ---
 # English Tea Cake
 

@@ -5,8 +5,10 @@ recipe: 038/roquefort_dressing
 page_order: 2
 from: Elizabeth McGinley Barmeyer
 categories:
-    - Salad Dressing
-    - No Cook
+  - Salad Dressing
+  - No Cook
+  - Condiment
+  - Salad
 ---
 # Roquefort Dressing
 

@@ -5,8 +5,10 @@ recipe: 037/cooked_dressing
 page_order: 1
 from: Nanna Marter
 categories:
-    - Salad Dressing
-    - Double Boiler
+  - Salad Dressing
+  - Double Boiler
+  - Condiment
+  - Ovo-Lacto Vegetarian
 ---
 # Cooked Dressing
 

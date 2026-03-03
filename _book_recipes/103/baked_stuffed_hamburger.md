@@ -5,9 +5,12 @@ recipe: 103/baked_stuffed_hamburger
 page_order: 1
 from: Esther Seger
 categories:
-    - Casserole
-    - Main
-    - Beef
+  - Casserole
+  - Main
+  - Beef
+  - Sandwich
+  - Pork
+  - Baked
 ---
 # Baked Stuffed Hamburger
 

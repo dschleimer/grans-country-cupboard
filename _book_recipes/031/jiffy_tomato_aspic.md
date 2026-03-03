@@ -4,9 +4,10 @@ page: "031"
 recipe: 031/jiffy_tomato_aspic
 page_order: 2
 categories:
-    - Aspic
-    - Boiled
-    - Chilled
+  - Aspic
+  - Boiled
+  - Chilled
+  - Salad
 ---
 # Jiffy Tomato Aspic
 

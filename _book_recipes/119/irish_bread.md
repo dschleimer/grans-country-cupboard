@@ -5,9 +5,10 @@ recipe: 119/irish_bread
 page_order: 1
 from: Allen
 categories:
-    - Bread
-    - Baked
-    - Side
+  - Bread
+  - Baked
+  - Side
+  - Ovo-Lacto Vegetarian
 ---
 # Irish Bread
 

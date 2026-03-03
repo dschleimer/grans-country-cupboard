@@ -5,9 +5,11 @@ recipe: 102/swedish_meat_balls
 page_order: 1
 from: F.V. Marter
 categories:
-    - Meatballs
-    - Main
-    - Stovetop
+  - Meatballs
+  - Main
+  - Stovetop
+  - Beef
+  - Pork
 ---
 # Swedish Meat Balls
 

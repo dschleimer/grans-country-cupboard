@@ -7,6 +7,7 @@ categories:
   - Dessert
   - Cakes
   - Baked
+  - Ovo-Lacto Vegetarian
 ---
 # 7" Cheese Cake
 

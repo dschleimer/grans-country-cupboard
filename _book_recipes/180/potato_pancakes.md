@@ -4,10 +4,10 @@ page: "180"
 recipe: 180/potato_pancakes
 page_order: 2
 categories:
-  - Dessert
-  - Cakes
   - Breakfast
+  - Side Dish
   - Pan Fried
+  - Ovo-Lacto Vegetarian
 ---
 # Potato Pancakes
 

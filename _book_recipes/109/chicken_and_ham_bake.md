@@ -7,6 +7,8 @@ categories:
   - Baked
   - Chicken
   - Ham
+  - Pork
+  - Sautéed
 ---
 # Chicken and Ham Bake
 

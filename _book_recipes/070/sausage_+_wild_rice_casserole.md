@@ -5,9 +5,10 @@ recipe: 070/sausage_+_wild_rice_casserole
 page_order: 1
 from: North Carolina
 categories:
-    - Casserole
-    - Pan Fried
-    - Baked
+  - Casserole
+  - Pan Fried
+  - Baked
+  - Pork
 ---
 # Sausage + Wild Rice Casserole
 
