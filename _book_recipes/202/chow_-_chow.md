@@ -4,9 +4,8 @@ page: "202"
 recipe: 202/chow_-_chow
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
-    - Vegetarian
+  - Needs Transcription
+  - Needs Front Matter
 ---
 # Chow - Chow
 

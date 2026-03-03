@@ -5,12 +5,13 @@ recipe: 052/cauliflower_au_gratin
 page_order: 2
 from: Gran
 categories:
-    - Vegetables
-    - Vegetarian
-    - Side Dish
-    - Casserole
-    - Boiled
-    - Baked
+  - Vegetables
+  - Vegetarian
+  - Side Dish
+  - Casserole
+  - Boiled
+  - Baked
+  - Ovo-Lacto Vegetarian
 ---
 # Cauliflower au Gratin
 

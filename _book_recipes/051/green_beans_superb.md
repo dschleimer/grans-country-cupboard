@@ -5,10 +5,11 @@ recipe: 051/green_beans_superb
 page_order: 1
 from: Martha Marter
 categories:
-    - Vegetables
-    - Vegetarian
-    - Side Dish
-    - Pan Fried
+  - Vegetables
+  - Vegetarian
+  - Side Dish
+  - Pan Fried
+  - Ovo-Lacto Vegetarian
 ---
 # Green Beans Superb
 

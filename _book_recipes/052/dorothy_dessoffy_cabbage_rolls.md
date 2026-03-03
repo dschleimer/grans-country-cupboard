@@ -7,7 +7,9 @@ from: Dorothy Dessoffy
 categories:
     - Vegetables
     - Stuffed Vegetables
-    - Vegetarian
+    - Beef
+    - Pork
+    - Main
     - Side Dish
     - Wraps
     - Boiled

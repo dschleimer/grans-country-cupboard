@@ -5,12 +5,13 @@ recipe: 066/baked_olive_macaroni_tomato_casserole
 page_order: 2
 from: Gran
 categories:
-    - Vegetables
-    - Vegetarian
-    - Casserole
-    - Noodles
-    - Boiled
-    - Baked
+  - Vegetables
+  - Vegetarian
+  - Casserole
+  - Noodles
+  - Boiled
+  - Baked
+  - Ovo-Lacto Vegetarian
 ---
 # Baked Olive, Macaroni, Tomato Casserole
 

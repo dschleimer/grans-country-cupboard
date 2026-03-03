@@ -5,9 +5,6 @@ recipe: 180/pancakes
 page_order: 3
 categories:
   - Needs Transcription
-  - Dessert
-  - Cakes
-  - Breakfast
 ---
 # Pancakes
 

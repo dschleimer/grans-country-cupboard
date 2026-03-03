@@ -4,9 +4,8 @@ page: "169"
 recipe: 169/cream_cheese_frosting
 page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
-    - Vegetarian
+  - Needs Transcription
+  - Needs Front Matter
 ---
 # Cream Cheese Frosting
 

@@ -7,7 +7,7 @@ from: Ohio - Mrs. Vodrey
 categories:
   - Bread
   - Baked
-  - Vegetarian
+  - Ovo-Lacto Vegetarian
 ---
 # Nut Bread
 

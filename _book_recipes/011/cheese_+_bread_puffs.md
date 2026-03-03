@@ -9,7 +9,7 @@ categories:
     - Snacks
     - Party Food
     - Finger Food
-    - Vegetarian
+    - Ovo-Lacto Vegetarian
     - Double Boiler
     - Chilled
 ---

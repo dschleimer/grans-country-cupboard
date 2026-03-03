@@ -9,6 +9,7 @@ categories:
   - Vegetarian
   - Pan Fried
   - Boiled
+  - Ovo-Lacto Vegetarian
 ---
 # Fried Red Tomatoes + Milk Gravy
 

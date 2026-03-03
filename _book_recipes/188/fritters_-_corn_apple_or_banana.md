@@ -6,7 +6,7 @@ page_order: 1
 from: Wyoming
 categories:
   - Side Dish
-  - Vegetarian
+  - Ovo-Lacto Vegetarian
   - Pan Fried
 ---
 # Fritters - Corn, Apple or Banana

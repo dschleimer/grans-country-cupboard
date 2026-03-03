@@ -4,10 +4,11 @@ page: "065"
 recipe: 065/lima_bean_casserole
 page_order: 2
 categories:
-    - Vegetables
-    - Vegetarian
-    - Casserole
-    - Baked
+  - Vegetables
+  - Vegetarian
+  - Casserole
+  - Baked
+  - Ovo-Lacto Vegetarian
 ---
 # Lima Bean Casserole
 

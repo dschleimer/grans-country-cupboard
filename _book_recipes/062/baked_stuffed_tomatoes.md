@@ -5,12 +5,13 @@ recipe: 062/baked_stuffed_tomatoes
 page_order: 2
 from: Gran
 categories:
-    - Vegetables
-    - Stuffed Vegetables
-    - Vegetarian
-    - Side Dish
-    - Pan Fried
-    - Baked
+  - Vegetables
+  - Stuffed Vegetables
+  - Vegetarian
+  - Side Dish
+  - Pan Fried
+  - Baked
+  - Ovo-Lacto Vegetarian
 ---
 # Baked Stuffed Tomatoes
 

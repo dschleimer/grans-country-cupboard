@@ -5,7 +5,7 @@ recipe: 050/maine_baked_beans
 page_order: 2
 categories:
     - Vegetables
-    - Vegetarian
+    - Pork
     - Side Dish
     - Boiled
     - Baked

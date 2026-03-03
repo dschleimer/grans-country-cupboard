@@ -6,8 +6,6 @@ page_order: 2
 categories:
   - Needs Transcription
   - Needs Front Matter
-  - Dessert
-  - Cakes
 ---
 # Fantastic Sheet Cake
 

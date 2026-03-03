@@ -4,10 +4,11 @@ page: "039"
 recipe: 039/onion_+_cucumber_relish
 page_order: 1
 categories:
-    - Condiment
-    - Vegetarian
-    - No Cook
-    - Chilled
+  - Condiment
+  - Vegetarian
+  - No Cook
+  - Chilled
+  - Ovo-Lacto Vegetarian
 ---
 # Onion + Cucumber Relish
 

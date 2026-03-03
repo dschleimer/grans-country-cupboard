@@ -8,6 +8,7 @@ categories:
   - Vegetarian
   - Bread
   - Baked
+  - Ovo-Lacto Vegetarian
 ---
 # Blueberry Roll
 

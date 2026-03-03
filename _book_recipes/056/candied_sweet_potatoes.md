@@ -4,10 +4,11 @@ page: "056"
 recipe: 056/candied_sweet_potatoes
 page_order: 3
 categories:
-    - Vegetables
-    - Vegetarian
-    - Thanksgiving
-    - Baked
+  - Vegetables
+  - Vegetarian
+  - Thanksgiving
+  - Baked
+  - Ovo-Lacto Vegetarian
 ---
 # Candied Sweet Potatoes
 

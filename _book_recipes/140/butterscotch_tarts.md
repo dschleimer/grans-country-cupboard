@@ -5,9 +5,6 @@ recipe: 140/butterscotch_tarts
 page_order: 1
 categories:
   - Needs Transcription
-  - Vegetarian
-  - Dessert
-  - Pie
 ---
 # Butterscotch Tarts
 

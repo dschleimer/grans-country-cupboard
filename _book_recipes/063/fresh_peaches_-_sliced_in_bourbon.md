@@ -4,9 +4,10 @@ page: "063"
 recipe: 063/fresh_peaches_-_sliced_in_bourbon
 page_order: 2
 categories:
-    - Vegetarian
-    - Fruit
-    - No Cook
+  - Vegetarian
+  - Fruit
+  - No Cook
+  - Ovo-Lacto Vegetarian
 ---
 # Fresh Peaches - Sliced in Bourbon
 

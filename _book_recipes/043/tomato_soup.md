@@ -5,10 +5,11 @@ recipe: 043/tomato_soup
 page_order: 2
 from: Ruth Jacobi
 categories:
-    - Appetizers
-    - Soup
-    - Vegetarian
-    - Boiled
+  - Appetizers
+  - Soup
+  - Vegetarian
+  - Boiled
+  - Ovo-Lacto Vegetarian
 ---
 # Tomato Soup
 

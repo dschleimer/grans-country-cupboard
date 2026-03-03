@@ -8,6 +8,7 @@ categories:
   - Vegetarian
   - Dessert
   - Stovetop
+  - Ovo-Lacto Vegetarian
 ---
 # 2-4-6 Molasses Candy
 

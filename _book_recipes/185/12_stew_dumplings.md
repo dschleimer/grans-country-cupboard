@@ -9,6 +9,7 @@ categories:
   - Vegetarian
   - Stew
   - Stovetop
+  - Ovo-Lacto Vegetarian
 ---
 # 12 Stew Dumplings
 

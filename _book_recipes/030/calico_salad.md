@@ -4,11 +4,12 @@ page: "030"
 recipe: 030/calico_salad
 page_order: 2
 categories:
-    - Salad
-    - Cold Salad
-    - Vegetarian
-    - No Cook
-    - Chilled
+  - Salad
+  - Cold Salad
+  - Vegetarian
+  - No Cook
+  - Chilled
+  - Ovo-Lacto Vegetarian
 ---
 # Calico Salad
 

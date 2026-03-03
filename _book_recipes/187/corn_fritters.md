@@ -6,7 +6,7 @@ page_order: 1
 from: New Jersey
 categories:
   - Side Dish
-  - Vegetarian
+  - Ovo-Lacto Vegetarian
   - Pan Fried
 ---
 # Corn Fritters

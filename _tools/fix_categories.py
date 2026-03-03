@@ -8,10 +8,12 @@ Fix up recipe categories in _book_recipes/:
 2. Correct Needs Transcription status based on content detection
 3. Add rule-based categories to Needs Front Matter recipes
 4. Remove Needs Front Matter when recipe has 3+ proper category tags
-5. Optionally write a JSON report
+5. Detect oxymoronic category pairs (Vegetarian + animal ingredients)
+6. Optionally write a JSON report
 
 Usage:
     python _tools/fix_categories.py _book_recipes/ [--dry-run] [--report]
+    python _tools/fix_categories.py _book_recipes/ --validate
 """
 
 import argparse
@@ -59,6 +61,20 @@ CANONICAL_COURSE_TAGS = {
     "Appetizers", "Main", "Side Dish", "Soup", "Salad",
     "Dessert", "Beverages", "Bread",
 }
+
+# ---------------------------------------------------------------------------
+# Conflict detection constants
+# ---------------------------------------------------------------------------
+
+# Animal protein tags that conflict with all vegetarian designations
+_MEAT_PROTEIN_TAGS = {
+    "Beef", "Pork", "Chicken", "Turkey", "Seafood",
+    "Lamb", "Veal", "Elk", "Rabbit", "Venison", "Duck",
+}
+# Tags incompatible with strict Vegetarian (includes Eggs)
+VEGETARIAN_CONFLICTS = _MEAT_PROTEIN_TAGS | {"Eggs"}
+# Tags incompatible with Ovo-Lacto Vegetarian (excludes Eggs)
+OVO_LACTO_CONFLICTS = _MEAT_PROTEIN_TAGS
 
 # ---------------------------------------------------------------------------
 # File parsing / writing
@@ -271,6 +287,15 @@ _PROTEIN_RULES = [
      r'|fish|seafood|anchov|halibut|mahi|swordfish)\b',                           "Seafood"),
 ]
 
+# Egg pattern for content-level Vegetarian conflict checks (eggs aren't in _PROTEIN_RULES
+# because they're allowed for Ovo-Lacto Vegetarian but not strict Vegetarian).
+_EGG_PATTERN = re.compile(r'\begg(s)?\b', re.IGNORECASE)
+
+# All animal ingredient patterns: meat/seafood + eggs (used for Vegetarian content check).
+_ANIMAL_INGREDIENT_PATTERNS = [
+    (re.compile(p, re.IGNORECASE), label) for p, label in _PROTEIN_RULES
+] + [(_EGG_PATTERN, "Eggs")]
+
 # (pattern against method text, tag)
 _TECHNIQUE_RULES = [
     (r'\bdeep[\s-]?fr(y|ied|ying)\b',                                            "Deep Fried"),
@@ -296,6 +321,45 @@ _CONTEXT_RULES = [
 ]
 
 
+def detect_conflicts(path, categories, body_text):
+    """
+    Check for oxymoronic category combinations.
+
+    Returns a list of human-readable conflict strings (empty = clean).
+    An auto-fixable issue is prefixed with "AUTO: ".
+    """
+    cats = set(categories)
+    conflicts = []
+
+    ingredient_text = "\n".join(_extract_section_lines(body_text, "Ingredients"))
+
+    has_veg = "Vegetarian" in cats
+    has_ovo = "Ovo-Lacto Vegetarian" in cats
+
+    if has_veg:
+        # Tag-level conflicts
+        for tag in VEGETARIAN_CONFLICTS & cats:
+            conflicts.append(f"Vegetarian + {tag} tag")
+        # Content-level conflicts
+        for pattern, label in _ANIMAL_INGREDIENT_PATTERNS:
+            if pattern.search(ingredient_text):
+                conflicts.append(f"Vegetarian + '{label}' in ingredients")
+        # Missing Ovo-Lacto Vegetarian (auto-fixable only when no other conflicts)
+        if not has_ovo and not conflicts:
+            conflicts.append("AUTO: Vegetarian without Ovo-Lacto Vegetarian (should carry both)")
+
+    if has_ovo:
+        # Tag-level conflicts (meat only, not eggs)
+        for tag in OVO_LACTO_CONFLICTS & cats:
+            conflicts.append(f"Ovo-Lacto Vegetarian + {tag} tag")
+        # Content-level conflicts (meat only, not eggs)
+        for pattern, label in [(re.compile(p, re.IGNORECASE), lbl) for p, lbl in _PROTEIN_RULES]:
+            if pattern.search(ingredient_text):
+                conflicts.append(f"Ovo-Lacto Vegetarian + '{label}' in ingredients")
+
+    return conflicts
+
+
 def infer_categories(filename_stem, body_text, existing_categories):
     """
     Return list of additional tags to add (not already in existing_categories).
@@ -318,10 +382,12 @@ def infer_categories(filename_stem, body_text, existing_categories):
             for t in tags:
                 add(t)
 
-    # Protein tags from ingredient list
-    for pattern, tag in _PROTEIN_RULES:
-        if re.search(pattern, ingredient_text, re.IGNORECASE):
-            add(tag)
+    # Protein tags from ingredient list — skip for vegetarian-tagged recipes to
+    # avoid creating tag-level conflicts.
+    if "Vegetarian" not in existing and "Ovo-Lacto Vegetarian" not in existing:
+        for pattern, tag in _PROTEIN_RULES:
+            if re.search(pattern, ingredient_text, re.IGNORECASE):
+                add(tag)
 
     # Technique tags from method text
     matched_techniques = []
@@ -383,6 +449,10 @@ def process_file(path, dry_run=False):
     if status == "transcribed" and has_nt:
         categories.remove("Needs Transcription")
         changes["removed_needs_transcription"] = True
+        # If no proper tags remain, add NFM so next pass infers categories
+        if count_proper_tags(categories) == 0 and "Needs Front Matter" not in categories:
+            categories.append("Needs Front Matter")
+            changes["added_needs_front_matter"] = True
     elif status == "untranscribed" and not has_nt and not has_nfm and "Notes" not in categories:
         # Don't add Needs Transcription to Needs Front Matter files (acknowledged stubs)
         # or Notes files (glossary/info entries that have no recipe structure by design).
@@ -392,22 +462,43 @@ def process_file(path, dry_run=False):
         changes["gray_area"] = status
         # Do not auto-change; flag only
 
+    # --- 2b. Strip unverified tags from confirmed un-transcribed recipes ---
+    if "Needs Transcription" in categories:
+        stripped = [t for t in categories if t not in STATUS_TAGS]
+        if stripped:
+            categories = [t for t in categories if t in STATUS_TAGS]
+            changes["stripped_unverified"] = stripped
+
     # --- 3. Rule-based categorization for Needs Front Matter ---
-    if "Needs Front Matter" in categories:
+    if "Needs Front Matter" in categories and "Needs Transcription" not in categories:
         inferred = infer_categories(path.stem, body_text, categories)
         if inferred:
             categories.extend(inferred)
             changes["inferred_categories"] = inferred
 
         # Remove Needs Front Matter once ≥3 proper tags exist
-        if count_proper_tags(categories) >= 3:
+        if count_proper_tags(categories) >= 3 and "Needs Transcription" not in categories:
             categories.remove("Needs Front Matter")
             changes["removed_needs_front_matter"] = True
 
-    if categories == original:
+    # --- 4. Conflict detection ---
+    found_conflicts = detect_conflicts(path, categories, body_text)
+    auto_conflicts = [c for c in found_conflicts if c.startswith("AUTO: ")]
+    real_conflicts = [c for c in found_conflicts if not c.startswith("AUTO: ")]
+
+    # Auto-fix: add Ovo-Lacto Vegetarian to clean Vegetarian recipes
+    for c in auto_conflicts:
+        if "Vegetarian without Ovo-Lacto Vegetarian" in c:
+            categories.append("Ovo-Lacto Vegetarian")
+            changes["ovo_lacto_added"] = True
+
+    if real_conflicts:
+        changes["conflicts"] = real_conflicts
+
+    if categories == original and not changes.get("conflicts"):
         return None
 
-    if not dry_run:
+    if not dry_run and categories != original:
         write_recipe(path, fm_lines, body_lines, categories)
 
     return {
@@ -418,12 +509,78 @@ def process_file(path, dry_run=False):
     }
 
 
+def validate_mode(all_paths):
+    """Scan all recipes for conflicts without making any changes. Returns exit code."""
+    all_conflicts = []
+    errors = []
+
+    for path in all_paths:
+        try:
+            fm_dict, fm_lines, body_lines = parse_recipe(path)
+        except Exception as exc:
+            errors.append({"file": str(path), "error": str(exc)})
+            continue
+        if fm_dict is None:
+            continue
+
+        body_text = "".join(body_lines)
+        categories = [str(c) for c in (fm_dict.get("categories") or [])]
+        conflicts = detect_conflicts(path, categories, body_text)
+        real = [c for c in conflicts if not c.startswith("AUTO: ")]
+        auto = [c for c in conflicts if c.startswith("AUTO: ")]
+        if real or auto:
+            all_conflicts.append({
+                "file": str(path),
+                "categories": categories,
+                "conflicts": real,
+                "auto_fixable": [c[len("AUTO: "):] for c in auto],
+            })
+
+    print(f"\nValidation results: {len(all_conflicts)} recipe(s) with issues\n")
+    has_real = False
+    for entry in all_conflicts:
+        if entry["conflicts"]:
+            has_real = True
+            print(f"  CONFLICT  {entry['file']}")
+            for c in entry["conflicts"]:
+                print(f"            ! {c}")
+        if entry["auto_fixable"]:
+            print(f"  AUTO-FIX  {entry['file']}")
+            for c in entry["auto_fixable"]:
+                print(f"            + {c}")
+
+    if errors:
+        print("\nErrors:")
+        for e in errors:
+            print(f"  {e['file']}: {e['error']}", file=sys.stderr)
+
+    report_dir = Path.cwd() / ".recipe_stats"
+    report_dir.mkdir(parents=True, exist_ok=True)
+    report_path = report_dir / "validate_report.json"
+    report_path.write_text(
+        json.dumps({"conflicts": all_conflicts, "errors": errors}, indent=2, ensure_ascii=False),
+        encoding="utf-8",
+    )
+    print(f"\nReport written to {report_path}")
+
+    return 1 if has_real else 0
+
+
 def main():
     parser = argparse.ArgumentParser(description="Fix recipe categories in _book_recipes/")
     parser.add_argument("directories", nargs="+", help="Directories to scan")
     parser.add_argument("--dry-run", action="store_true", help="Report only, don't write files")
     parser.add_argument("--report", action="store_true", help="Write .recipe_stats/fix_report.json")
+    parser.add_argument("--validate", action="store_true",
+                        help="Check for oxymoronic category pairs without making changes")
     args = parser.parse_args()
+
+    all_paths = []
+    for d in args.directories:
+        all_paths.extend(sorted(Path(d).resolve().rglob("*.md")))
+
+    if args.validate:
+        sys.exit(validate_mode(all_paths))
 
     results = []
     gray_areas = []
@@ -436,11 +593,11 @@ def main():
         "tags_normalized": 0,
         "inferred_category_files": 0,
         "gray_areas": 0,
+        "conflicts_detected": 0,
+        "ovo_lacto_added": 0,
+        "stripped_unverified_files": 0,
+        "added_needs_front_matter": 0,
     }
-
-    all_paths = []
-    for d in args.directories:
-        all_paths.extend(sorted(Path(d).resolve().rglob("*.md")))
 
     for path in all_paths:
         try:
@@ -472,6 +629,17 @@ def main():
                 "status": c["gray_area"],
                 "categories": result["original"],
             })
+        if c.get("conflicts"):
+            stats["conflicts_detected"] += 1
+            print(f"\n  WARNING — conflicts in {result['file']}:")
+            for conflict in c["conflicts"]:
+                print(f"    ! {conflict}")
+        if c.get("ovo_lacto_added"):
+            stats["ovo_lacto_added"] += 1
+        if c.get("stripped_unverified"):
+            stats["stripped_unverified_files"] += 1
+        if c.get("added_needs_front_matter"):
+            stats["added_needs_front_matter"] += 1
 
     # --- Print summary ---
     print(f"\nSummary ({'dry run' if args.dry_run else 'applied'}):")
@@ -482,6 +650,10 @@ def main():
     print(f"  Tag variants normalized:      {stats['tags_normalized']}")
     print(f"  Categories inferred:          {stats['inferred_category_files']}")
     print(f"  Gray areas flagged:           {stats['gray_areas']}")
+    print(f"  Conflicts detected:           {stats['conflicts_detected']}")
+    print(f"  Ovo-Lacto Vegetarian added:   {stats['ovo_lacto_added']}")
+    print(f"  Unverified tags stripped:     {stats['stripped_unverified_files']}")
+    print(f"  Needs Front Matter added:     {stats['added_needs_front_matter']}")
 
     if gray_areas:
         print("\nGray areas (manual review needed):")

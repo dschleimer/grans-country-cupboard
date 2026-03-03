@@ -5,10 +5,11 @@ recipe: 048/asparagus_with_drawn_butter_sauce
 page_order: 2
 from: Gran
 categories:
-    - Vegetables
-    - Vegetarian
-    - Side Dish
-    - Boiled
+  - Vegetables
+  - Vegetarian
+  - Side Dish
+  - Boiled
+  - Ovo-Lacto Vegetarian
 ---
 # Asparagus with Drawn Butter Sauce
 

@@ -5,10 +5,11 @@ recipe: 065/green_bean_casserole
 page_order: 1
 from: Pat
 categories:
-    - Vegetables
-    - Vegetarian
-    - Casserole
-    - Baked
+  - Vegetables
+  - Vegetarian
+  - Casserole
+  - Baked
+  - Ovo-Lacto Vegetarian
 ---
 # Green Bean Casserole
 

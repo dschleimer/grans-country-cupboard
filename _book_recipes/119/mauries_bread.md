@@ -4,9 +4,10 @@ page: "119"
 recipe: 119/mauries_bread
 page_order: 2
 categories:
-    - Bread
-    - Baked
-    - Vegetarian
+  - Bread
+  - Baked
+  - Vegetarian
+  - Ovo-Lacto Vegetarian
 ---
 # Maurie's Bread
 

@@ -5,9 +5,6 @@ recipe: 164/tomato_soup_cake
 page_order: 2
 categories:
   - Needs Transcription
-  - Dessert
-  - Cakes
-  - Soup
 ---
 # Tomato Soup Cake
 

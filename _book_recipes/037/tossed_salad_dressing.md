@@ -4,9 +4,10 @@ page: "037"
 recipe: 037/tossed_salad_dressing
 page_order: 2
 categories:
-    - Salad Dressing
-    - Vegetarian
-    - No Cook
+  - Salad Dressing
+  - Vegetarian
+  - No Cook
+  - Ovo-Lacto Vegetarian
 ---
 # Tossed Salad Dressing
 

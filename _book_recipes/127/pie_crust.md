@@ -5,9 +5,6 @@ recipe: 127/pie_crust
 page_order: 1
 categories:
   - Needs Transcription
-  - Vegetarian
-  - Dessert
-  - Pie
 ---
 # Pie Crust
 

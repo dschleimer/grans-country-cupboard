@@ -4,10 +4,11 @@ page: "055"
 recipe: 055/stewed_eggplant
 page_order: 2
 categories:
-    - Vegetables
-    - Vegetarian
-    - Stew
-    - Boiled
+  - Vegetables
+  - Vegetarian
+  - Stew
+  - Boiled
+  - Ovo-Lacto Vegetarian
 ---
 # Stewed Eggplant
 

@@ -9,6 +9,7 @@ categories:
   - Pie
   - Baked
   - Vegetarian
+  - Ovo-Lacto Vegetarian
 ---
 # Blackberry Cobbler
 

@@ -4,12 +4,13 @@ page: "062"
 recipe: 062/baked_noodles_+_green_beans
 page_order: 1
 categories:
-    - Vegetables
-    - Vegetarian
-    - Casserole
-    - Noodles
-    - Boiled
-    - Baked
+  - Vegetables
+  - Vegetarian
+  - Casserole
+  - Noodles
+  - Boiled
+  - Baked
+  - Ovo-Lacto Vegetarian
 ---
 # Baked Noodles + Green Beans
 

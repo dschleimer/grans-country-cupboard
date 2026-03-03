@@ -6,8 +6,6 @@ page_order: 1
 categories:
   - Needs Transcription
   - Needs Front Matter
-  - Beverages
-  - Dessert
 ---
 # Steamed Batter Pudding
 

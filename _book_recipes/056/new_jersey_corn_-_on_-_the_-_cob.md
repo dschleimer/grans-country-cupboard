@@ -4,10 +4,11 @@ page: "056"
 recipe: 056/new_jersey_corn_-_on_-_the_-_cob
 page_order: 1
 categories:
-    - Vegetables
-    - Vegetarian
-    - Side Dish
-    - Boiled
+  - Vegetables
+  - Vegetarian
+  - Side Dish
+  - Boiled
+  - Ovo-Lacto Vegetarian
 ---
 # New Jersey Corn-on-the-Cob
 

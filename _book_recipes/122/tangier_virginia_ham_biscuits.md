@@ -6,7 +6,6 @@ page_order: 3
 categories:
   - Needs Transcription
   - Needs Front Matter
-  - Bread
 ---
 # Tangier Virginia Ham Biscuits
 

@@ -5,10 +5,11 @@ recipe: 058/yellow_squash
 page_order: 1
 from: Gran
 categories:
-    - Vegetables
-    - Vegetarian
-    - Side Dish
-    - Boiled
+  - Vegetables
+  - Vegetarian
+  - Side Dish
+  - Boiled
+  - Ovo-Lacto Vegetarian
 ---
 # Yellow Squash
 

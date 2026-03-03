@@ -7,6 +7,7 @@ categories:
   - Vegetarian
   - Bread
   - Baked
+  - Ovo-Lacto Vegetarian
 ---
 # Cheese Biscuits
 

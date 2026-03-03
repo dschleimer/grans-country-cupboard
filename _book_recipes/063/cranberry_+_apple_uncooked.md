@@ -5,9 +5,10 @@ recipe: 063/cranberry_+_apple_uncooked
 page_order: 1
 from: Eleanor Smith's Mother
 categories:
-    - Vegetarian
-    - Fruit
-    - No Cook
+  - Vegetarian
+  - Fruit
+  - No Cook
+  - Ovo-Lacto Vegetarian
 ---
 # Cranberry + Apple Uncooked
 

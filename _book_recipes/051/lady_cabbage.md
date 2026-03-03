@@ -4,11 +4,12 @@ page: "051"
 recipe: 051/lady_cabbage
 page_order: 3
 categories:
-    - Vegetables
-    - Vegetarian
-    - Side Dish
-    - Pan Fried
-    - Boiled
+  - Vegetables
+  - Vegetarian
+  - Side Dish
+  - Pan Fried
+  - Boiled
+  - Ovo-Lacto Vegetarian
 ---
 # Lady Cabbage
 

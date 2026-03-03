@@ -10,6 +10,7 @@ categories:
   - Finger Food
   - Vegetarian
   - No Cook
+  - Ovo-Lacto Vegetarian
 ---
 # Cream Cheese Olive Pecan Sandwiches
 

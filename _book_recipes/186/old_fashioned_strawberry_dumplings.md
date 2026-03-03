@@ -4,9 +4,8 @@ page: "186"
 recipe: 186/old_fashioned_strawberry_dumplings
 page_order: 2
 categories:
-    - Needs Transcription
-    - Needs Front Matter
-    - Vegetarian
+  - Needs Transcription
+  - Needs Front Matter
 ---
 # Old Fashioned Strawberry Dumplings
 

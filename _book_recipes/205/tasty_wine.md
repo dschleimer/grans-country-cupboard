@@ -4,9 +4,8 @@ page: "205"
 recipe: 205/tasty_wine
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
-    - Vegetarian
+  - Needs Transcription
+  - Needs Front Matter
 ---
 # Tasty Wine
 

@@ -5,9 +5,6 @@ recipe: 188/applesauce_spice_torte
 page_order: 2
 categories:
   - Needs Transcription
-  - Dessert
-  - Cakes
-  - Sauce
 ---
 # Applesauce Spice Torte
 

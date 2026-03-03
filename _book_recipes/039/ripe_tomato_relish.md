@@ -4,9 +4,10 @@ page: "039"
 recipe: 039/ripe_tomato_relish
 page_order: 2
 categories:
-    - Condiment
-    - Vegetarian
-    - No Cook
+  - Condiment
+  - Vegetarian
+  - No Cook
+  - Ovo-Lacto Vegetarian
 ---
 # Ripe Tomato Relish
 

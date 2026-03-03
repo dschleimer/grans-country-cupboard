@@ -4,9 +4,8 @@ page: "201"
 recipe: 201/tomato_soy
 page_order: 1
 categories:
-    - Needs Transcription
-    - Needs Front Matter
-    - Vegetarian
+  - Needs Transcription
+  - Needs Front Matter
 ---
 # Tomato Soy
 

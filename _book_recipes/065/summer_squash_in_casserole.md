@@ -5,10 +5,11 @@ recipe: 065/summer_squash_in_casserole
 page_order: 3
 from: The Virginia Pilot
 categories:
-    - Vegetables
-    - Vegetarian
-    - Casserole
-    - Baked
+  - Vegetables
+  - Vegetarian
+  - Casserole
+  - Baked
+  - Ovo-Lacto Vegetarian
 ---
 # Summer Squash in Casserole
 

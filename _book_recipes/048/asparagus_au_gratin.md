@@ -5,12 +5,13 @@ recipe: 048/asparagus_au_gratin
 page_order: 1
 from: Joby McGinley
 categories:
-    - Vegetables
-    - Vegetarian
-    - Side Dish
-    - Boiled
-    - Pan Fried
-    - Broiled
+  - Vegetables
+  - Vegetarian
+  - Side Dish
+  - Boiled
+  - Pan Fried
+  - Broiled
+  - Ovo-Lacto Vegetarian
 ---
 # Asparagus au Gratin
 

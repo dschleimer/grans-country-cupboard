@@ -5,9 +5,6 @@ recipe: 183/almond_cake_roll
 page_order: 1
 categories:
   - Needs Transcription
-  - Dessert
-  - Cakes
-  - Bread
 ---
 # Almond Cake Roll
 

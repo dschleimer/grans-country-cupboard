@@ -5,11 +5,12 @@ recipe: 060/quick_spaghetti
 page_order: 2
 from: A Jewish dish - Mrs. Gilbert - 1925
 categories:
-    - Vegetarian
-    - Italian
-    - Noodles
-    - Boiled
-    - Pan Fried
+  - Vegetarian
+  - Italian
+  - Noodles
+  - Boiled
+  - Pan Fried
+  - Ovo-Lacto Vegetarian
 ---
 # Quick Spaghetti
 

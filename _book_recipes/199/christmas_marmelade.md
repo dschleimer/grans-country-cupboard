@@ -6,8 +6,6 @@ page_order: 2
 categories:
   - Needs Transcription
   - Needs Front Matter
-  - Vegetarian
-  - Christmas
 ---
 # Christmas Marmelade
 

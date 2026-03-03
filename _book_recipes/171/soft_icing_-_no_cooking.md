@@ -9,6 +9,7 @@ categories:
   - Frosting
   - Dessert
   - Vegetarian
+  - Ovo-Lacto Vegetarian
 ---
 # Soft Icing - No Cooking
 
