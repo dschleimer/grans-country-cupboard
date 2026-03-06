@@ -3,7 +3,7 @@ layout: recipe
 page: "019"
 recipe: 019/grand-dad_marters_applejack
 page_order: 3
-from: Garnd Dad Marter
+from: Grand Dad Marter
 categories:
   - Alcohol
   - Drinks

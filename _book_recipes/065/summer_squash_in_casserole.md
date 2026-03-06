@@ -3,7 +3,7 @@ layout: recipe
 page: "065"
 recipe: 065/summer_squash_in_casserole
 page_order: 3
-from: The Virginia Pilot
+from: The Virginian-Pilot
 categories:
   - Vegetables
   - Vegetarian

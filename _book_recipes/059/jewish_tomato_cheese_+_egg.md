@@ -3,7 +3,7 @@ layout: recipe
 page: "059"
 recipe: 059/jewish_tomato_cheese_+_egg
 page_order: 2
-from: Mrs. gilbert Margate
+from: Mrs. Gilbert Margate
 categories:
   - Vegetables
   - Side Dish

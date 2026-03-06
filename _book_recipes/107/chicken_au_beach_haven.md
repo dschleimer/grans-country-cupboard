@@ -3,7 +3,7 @@ layout: recipe
 page: "107"
 recipe: 107/chicken_au_beach_haven
 page_order: 1
-from: Joby
+from: Joby McGinley
 categories:
     - Main
     - Chicken

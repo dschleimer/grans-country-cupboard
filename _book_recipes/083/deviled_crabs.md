@@ -2,7 +2,7 @@
 layout: recipe
 page: "083"
 recipe: 083/deviled_crabs
-from: Evie
+from: Evie McGinley
 categories:
     - Seafood
     - Crab

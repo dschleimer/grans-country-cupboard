@@ -3,7 +3,7 @@ layout: recipe
 page: "113"
 recipe: 113/pheasant
 page_order: 2
-from: Tommy McGinley
+from: Tom McGinley
 categories:
     - Poultry
     - Stovetop

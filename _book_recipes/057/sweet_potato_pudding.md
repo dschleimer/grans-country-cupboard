@@ -3,7 +3,7 @@ layout: recipe
 page: "057"
 recipe: 057/sweet_potato_pudding
 page_order: 1
-from: The Virginia Pilot
+from: The Virginian-Pilot
 categories:
   - Vegetables
   - Side Dish

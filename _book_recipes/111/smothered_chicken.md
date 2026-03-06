@@ -3,7 +3,7 @@ layout: recipe
 page: "111"
 recipe: 111/smothered_chicken
 page_order: 1
-from: Great Grabdnother Marter
+from: Great Grandmother Marter
 categories:
     - Main
     - Chicken

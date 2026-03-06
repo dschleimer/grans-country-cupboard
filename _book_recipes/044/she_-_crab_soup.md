@@ -3,7 +3,7 @@ layout: recipe
 page: "044"
 recipe: 044/she_-_crab_soup
 page_order: 2
-from: The Virginia-Pilot
+from: The Virginian-Pilot
 categories:
     - Appetizers
     - Soup

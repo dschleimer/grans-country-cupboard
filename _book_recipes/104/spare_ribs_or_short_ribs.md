@@ -3,7 +3,7 @@ layout: recipe
 page: "104"
 recipe: 104/spare_ribs_or_short_ribs
 page_order: 2
-from: Mary Jane K
+from: Mary Jane Kowalchek
 categories:
   - Beef
   - Main
