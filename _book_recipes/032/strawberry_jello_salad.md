@@ -5,11 +5,10 @@ recipe: 032/strawberry_jello_salad
 page_order: 2
 from: Eunie
 categories:
-    - Salad
-    - Molded
-    - Cold Sandwich
-    - Boiled
-    - Chilled
+  - Jello Salad
+  - Salad
+  - Boiled
+  - Chilled
 ---
 # Strawberry Jello Salad
 

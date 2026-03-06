@@ -4,11 +4,13 @@ page: "034"
 recipe: 034/molded_salad_-_tuna_crab_or_shrimp
 page_order: 1
 categories:
-    - Jelly
-    - Salad
-    - Cold Salad
-    - Molded
-    - Chilled
+  - Aspic
+  - Salad
+  - Chilled
+  - Fish
+  - Crab
+  - Shrimp
+  - Seafood
 ---
 # Molded Salad - Tuna, Crab or Shrimp
 

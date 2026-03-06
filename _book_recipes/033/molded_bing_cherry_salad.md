@@ -4,12 +4,11 @@ page: "033"
 recipe: 033/molded_bing_cherry_salad
 page_order: 1
 categories:
-    - Jelly
-    - Salad
-    - Cold Salad
-    - Molded
-    - Boiled
-    - Chilled
+  - Jello Salad
+  - Salad
+  - Dessert
+  - Boiled
+  - Chilled
 ---
 # Molded Bing Cherry Salad
 

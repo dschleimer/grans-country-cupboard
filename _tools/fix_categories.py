@@ -297,7 +297,8 @@ _FILENAME_RULES = [
     (r'casserole|gratin|au_gratin|scalloped',    ["Casserole"]),
     (r'pasta|spaghetti|macaroni|noodle|lasagna', ["Pasta"]),
     (r'pudding|custard',                         ["Dessert"]),
-    (r'gelatin|jello|aspic|mold|molded',         ["Aspic", "Chilled"]),
+    (r'aspic',                                    ["Aspic", "Chilled"]),
+    (r'gelatin|jello|mold',                       ["Chilled"]),
     (r'ice_cream|sherbet|sorbet',                ["Dessert", "Frozen"]),
     (r'relish|chutney|pickle|jam|jelly|marmalade',["Condiment"]),
     (r'pate|terrine',                            ["Pate"]),
@@ -328,10 +329,14 @@ _PROTEIN_RULES = [
 # because they're allowed for Ovo-Lacto Vegetarian but not strict Vegetarian).
 _EGG_PATTERN = re.compile(r'\begg(s)?\b', re.IGNORECASE)
 
-# All animal ingredient patterns: meat/seafood + eggs (used for Vegetarian content check).
+# Gelatin pattern: commercial gelatin and Jello are derived from animal collagen,
+# disqualifying both Vegetarian and Ovo-Lacto Vegetarian.
+_GELATIN_PATTERN = re.compile(r'\b(gelatin|jell-?o)\b', re.IGNORECASE)
+
+# All animal ingredient patterns: meat/seafood + eggs + gelatin (used for Vegetarian content check).
 _ANIMAL_INGREDIENT_PATTERNS = [
     (re.compile(p, re.IGNORECASE), label) for p, label in _PROTEIN_RULES
-] + [(_EGG_PATTERN, "Eggs")]
+] + [(_EGG_PATTERN, "Eggs"), (_GELATIN_PATTERN, "Gelatin")]
 
 # (pattern against method text, tag)
 _TECHNIQUE_RULES = [
@@ -392,6 +397,9 @@ def detect_conflicts(path, categories, body_text):
         for pattern, label in [(re.compile(p, re.IGNORECASE), lbl) for p, lbl in _PROTEIN_RULES]:
             if pattern.search(ingredient_text):
                 conflicts.append(f"Ovo-Lacto Vegetarian + '{label}' in ingredients")
+        # Gelatin disqualifies Ovo-Lacto Vegetarian too (animal-derived collagen)
+        if _GELATIN_PATTERN.search(ingredient_text):
+            conflicts.append("Ovo-Lacto Vegetarian + 'Gelatin' in ingredients")
 
     return conflicts
 
@@ -402,7 +410,8 @@ def detect_conflicts(path, categories, body_text):
 _TAG_IMPLIES_TAGS = [
     ("Salad Dressing", ["Salad", "Condiment"]),
     ("Pate",           ["Appetizers", "Chilled"]),
-    ("Aspic",          ["Salad"]),
+    ("Jello Salad",    ["Salad", "Chilled"]),
+    ("Gelatin Dessert",["Dessert", "Chilled"]),
     ("Soufflé",        ["Side Dish"]),
     ("Boiled Eggs",    ["Eggs", "Breakfast"]),
     ("Gravy",          ["Side Dish"]),

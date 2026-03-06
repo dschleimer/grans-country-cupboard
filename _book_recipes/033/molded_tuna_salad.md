@@ -4,11 +4,11 @@ page: "033"
 recipe: 033/molded_tuna_salad
 page_order: 2
 categories:
-    - Aspic
-    - Salad
-    - Cold Salad
-    - Molded
-    - Chilled
+  - Aspic
+  - Salad
+  - Chilled
+  - Fish
+  - Seafood
 ---
 # Molded Tuna Salad
 
