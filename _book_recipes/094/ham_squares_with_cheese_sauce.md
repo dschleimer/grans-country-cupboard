@@ -9,6 +9,7 @@ categories:
   - Stovetop
   - Sauce
   - Pork
+  - Meat
 ---
 # Ham Squares with Cheese Sauce
 

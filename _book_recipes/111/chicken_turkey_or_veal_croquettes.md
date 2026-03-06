@@ -5,11 +5,12 @@ recipe: 111/chicken_turkey_or_veal_croquettes
 page_order: 3
 from: Evie McGinley
 categories:
-    - Deep Fried
-    - Chicken
-    - Meat
-    - Main
-    - Finger Food
+  - Deep Fried
+  - Chicken
+  - Meat
+  - Main
+  - Finger Food
+  - Poultry
 ---
 # Chicken Turkey or Veal Croquettes
 

@@ -8,6 +8,7 @@ categories:
   - Pork
   - Main
   - Baked
+  - Meat
 ---
 # Roast Loin of Pork
 

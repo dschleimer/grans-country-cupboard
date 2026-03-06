@@ -242,6 +242,20 @@ def normalize_tags(categories):
     if "Alcohol" in seen:
         result = [t for t in result if t != "Beverages"]
         seen.discard("Beverages")
+    # Add protein umbrella tags: every recipe with a specific protein sub-type
+    # gets the appropriate coarse umbrella tag.
+    _POULTRY_SUBTYPES = {"Chicken", "Turkey", "Duck"}
+    _MEAT_SUBTYPES = {"Beef", "Pork", "Lamb", "Veal", "Elk", "Rabbit", "Venison"}
+    _SEAFOOD_SUBTYPES = {"Shrimp", "Crab", "Oysters", "Lobster", "Fish", "Clams"}
+    if seen & _POULTRY_SUBTYPES and "Poultry" not in seen:
+        result.append("Poultry")
+        seen.add("Poultry")
+    if seen & _MEAT_SUBTYPES and "Meat" not in seen:
+        result.append("Meat")
+        seen.add("Meat")
+    if seen & _SEAFOOD_SUBTYPES and "Seafood" not in seen:
+        result.append("Seafood")
+        seen.add("Seafood")
     return result
 
 
@@ -393,6 +407,23 @@ _TAG_IMPLIES_TAGS = [
     ("Boiled Eggs",    ["Eggs", "Breakfast"]),
     ("Gravy",          ["Side Dish"]),
     ("Cocktail",       ["Alcohol"]),
+    # Protein sub-type → umbrella (mirrors normalize_tags umbrella logic for NFM inference)
+    ("Chicken",        ["Poultry"]),
+    ("Turkey",         ["Poultry"]),
+    ("Duck",           ["Poultry"]),
+    ("Beef",           ["Meat"]),
+    ("Pork",           ["Meat"]),
+    ("Lamb",           ["Meat"]),
+    ("Veal",           ["Meat"]),
+    ("Elk",            ["Meat"]),
+    ("Rabbit",         ["Meat"]),
+    ("Venison",        ["Meat"]),
+    ("Shrimp",         ["Seafood"]),
+    ("Crab",           ["Seafood"]),
+    ("Oysters",        ["Seafood"]),
+    ("Lobster",        ["Seafood"]),
+    ("Fish",           ["Seafood"]),
+    ("Clams",          ["Seafood"]),
 ]
 
 

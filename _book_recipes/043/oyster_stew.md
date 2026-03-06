@@ -9,6 +9,7 @@ categories:
     - Soup
     - Stew
     - Seafood
+    - Oysters
     - Seafood Soup
     - Boiled
 ---

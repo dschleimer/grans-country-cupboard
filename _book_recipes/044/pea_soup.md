@@ -9,6 +9,7 @@ categories:
   - Soup
   - Boiled
   - Pork
+  - Meat
 ---
 # Pea Soup
 

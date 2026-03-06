@@ -10,6 +10,7 @@ categories:
   - Chilled
   - Pork
   - Offal
+  - Meat
 ---
 # Paté de Foie Grásse
 

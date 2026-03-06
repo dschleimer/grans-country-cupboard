@@ -8,6 +8,7 @@ categories:
   - Stew
   - Main
   - Beef
+  - Meat
 ---
 # Eunie's Oven Beef Stew
 

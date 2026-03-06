@@ -8,6 +8,7 @@ categories:
   - Breakfast
   - Broiled
   - Chicken
+  - Poultry
 ---
 # Chicken Breasts Benedict
 

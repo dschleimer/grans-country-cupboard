@@ -11,6 +11,7 @@ categories:
   - Sandwich
   - Pork
   - Baked
+  - Meat
 ---
 # Baked Stuffed Hamburger
 

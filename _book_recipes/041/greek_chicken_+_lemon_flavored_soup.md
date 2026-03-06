@@ -10,6 +10,7 @@ categories:
   - Boiled
   - Chicken
   - Baked
+  - Poultry
 ---
 # Greek Chicken + Lemon Flavored Soup
 

@@ -8,6 +8,7 @@ categories:
   - Main
   - Boiled
   - Offal
+  - Meat
 ---
 # Boiled Beef Tongue
 

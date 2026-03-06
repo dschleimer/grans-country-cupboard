@@ -10,6 +10,7 @@ categories:
   - Baked
   - Veal
   - Sautéed
+  - Meat
 ---
 # Veal Curry Casserole
 

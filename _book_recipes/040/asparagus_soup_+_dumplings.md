@@ -8,6 +8,7 @@ categories:
   - Soup
   - Pork
   - Main
+  - Meat
 ---
 # Asparagus Soup + Dumplings
 

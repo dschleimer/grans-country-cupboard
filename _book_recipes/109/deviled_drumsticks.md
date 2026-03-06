@@ -9,6 +9,7 @@ categories:
   - Chicken
   - Meat
   - Main
+  - Poultry
 ---
 # Deviled Drumsticks
 

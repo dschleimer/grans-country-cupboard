@@ -8,6 +8,7 @@ categories:
   - Beans
   - Sausage
   - Pork
+  - Meat
 ---
 # Beans + Vienna Sausage
 

@@ -9,6 +9,7 @@ categories:
   - Pan Fried
   - Baked
   - Pork
+  - Meat
 ---
 # Sausage + Wild Rice Casserole
 

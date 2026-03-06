@@ -4,11 +4,12 @@ page: "104"
 recipe: 104/hungarian_sauerbraten
 page_order: 1
 categories:
-    - Main
-    - Beef
-    - Roast
-    - Sauce
-    - Gravy
+  - Main
+  - Beef
+  - Roast
+  - Sauce
+  - Gravy
+  - Meat
 ---
 # Hungarian Sauerbraten
 

@@ -5,10 +5,11 @@ recipe: 110/california_fried_chicken
 page_order: 2
 from: Elizabeth McGinley Barmeyer
 categories:
-    - Main
-    - Chicken
-    - Baked
-    - Meat
+  - Main
+  - Chicken
+  - Baked
+  - Meat
+  - Poultry
 ---
 # California Fried Chicken
 

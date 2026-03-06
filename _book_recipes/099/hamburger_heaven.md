@@ -5,11 +5,12 @@ recipe: 099/hamburger_heaven
 page_order: 2
 from: Elizabeth McGinley Barmeyer
 categories:
-    - Stovetop
-    - Main
-    - Beef
-    - Pasta
-    - Vegetables
+  - Stovetop
+  - Main
+  - Beef
+  - Pasta
+  - Vegetables
+  - Meat
 ---
 # Hamburger Heaven
 

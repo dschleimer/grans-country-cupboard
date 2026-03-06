@@ -4,11 +4,12 @@ page: "096"
 recipe: 096/connies_chuck_roast
 page_order: 1
 categories:
-    - Stew
-    - Baked
-    - Roast
-    - Beef
-    - Vegetables
+  - Stew
+  - Baked
+  - Roast
+  - Beef
+  - Vegetables
+  - Meat
 ---
 # Connie's Chuck Roast
 

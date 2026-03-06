@@ -9,6 +9,7 @@ categories:
   - Soup
   - Boiled
   - Beef
+  - Meat
 ---
 # Vegetable Soup
 

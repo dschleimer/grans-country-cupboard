@@ -4,11 +4,12 @@ page: "087"
 recipe: 087/pork_chop_bake
 page_order: 2
 categories:
-    - Baked
-    - Stovetop
-    - Pork
-    - Main
-    - Side
+  - Baked
+  - Stovetop
+  - Pork
+  - Main
+  - Side
+  - Meat
 ---
 # Pork Chop Bake
 

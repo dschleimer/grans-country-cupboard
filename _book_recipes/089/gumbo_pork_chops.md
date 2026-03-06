@@ -5,10 +5,11 @@ recipe: 089/gumbo_pork_chops
 page_order: 1
 from: Liz Barmeyer and Sally Noyes
 categories:
-    - Stovetop
-    - Baked
-    - Pork
-    - Main
+  - Stovetop
+  - Baked
+  - Pork
+  - Main
+  - Meat
 ---
 # Gumbo Pork Chops
 

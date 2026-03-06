@@ -8,6 +8,7 @@ categories:
   - Noodles
   - Baked
   - Beef
+  - Meat
 ---
 # Cabbage + Beef Syrian
 

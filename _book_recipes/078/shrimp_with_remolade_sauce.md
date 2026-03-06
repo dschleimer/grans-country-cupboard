@@ -5,6 +5,7 @@ recipe: 078/shrimp_with_remolade_sauce
 page_order: 1
 categories:
     - Seafood
+    - Shrimp
     - Appetizers
     - Finger Food
     - Boiled

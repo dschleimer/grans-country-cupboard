@@ -6,6 +6,7 @@ page_order: 2
 categories:
   - Main
   - Seafood
+  - Crab
   - Eggs
   - Pan Fried
 ---

@@ -5,11 +5,12 @@ recipe: 097/hungarian_goulash
 page_order: 1
 from: Evie McGinley
 categories:
-    - Stovetop
-    - Baked
-    - Stew
-    - Goulash
-    - Beef
+  - Stovetop
+  - Baked
+  - Stew
+  - Goulash
+  - Beef
+  - Meat
 ---
 # Hungarian Goulash
 

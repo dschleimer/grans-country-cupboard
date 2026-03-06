@@ -6,6 +6,7 @@ page_order: 2
 from: Jeff Dane
 categories:
   - Seafood
+  - Fish
   - Main
   - Fried
   - Breaded

@@ -4,12 +4,13 @@ page: "097"
 recipe: 097/evies_goulash_for_40_people
 page_order: 2
 categories:
-    - Party Food
-    - Stew
-    - Goulash
-    - Beef
-    - Baked
-    - Stovetop
+  - Party Food
+  - Stew
+  - Goulash
+  - Beef
+  - Baked
+  - Stovetop
+  - Meat
 ---
 # Evie's Goulash for 40 People
 

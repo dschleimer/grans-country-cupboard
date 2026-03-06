@@ -5,11 +5,12 @@ recipe: 091/baked_ham
 page_order: 2
 from: Gran
 categories:
-    - Pork
-    - Ham
-    - Baked
-    - Roast
-    - Main
+  - Pork
+  - Ham
+  - Baked
+  - Roast
+  - Main
+  - Meat
 ---
 # Baked Ham
 

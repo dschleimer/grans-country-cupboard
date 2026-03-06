@@ -4,10 +4,11 @@ page: "108"
 recipe: 108/chicken_cutlets
 page_order: 3
 categories:
-    - Stovetop
-    - Chicken
-    - Main
-    - Meat
+  - Stovetop
+  - Chicken
+  - Main
+  - Meat
+  - Poultry
 ---
 # Chicken Cutlets
 

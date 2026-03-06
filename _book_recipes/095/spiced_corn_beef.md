@@ -10,6 +10,7 @@ categories:
   - Beef
   - Boiled
   - Overnight Recipe
+  - Meat
 ---
 # Spiced Corn Beef
 

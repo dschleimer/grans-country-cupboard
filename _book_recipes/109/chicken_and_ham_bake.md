@@ -9,6 +9,8 @@ categories:
   - Ham
   - Pork
   - Sautéed
+  - Poultry
+  - Meat
 ---
 # Chicken and Ham Bake
 

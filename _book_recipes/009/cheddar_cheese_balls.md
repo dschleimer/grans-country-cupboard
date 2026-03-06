@@ -9,6 +9,7 @@ categories:
   - Beef
   - Appetizers
   - Finger Food
+  - Meat
 ---
 # Cheddar Cheese Balls
 

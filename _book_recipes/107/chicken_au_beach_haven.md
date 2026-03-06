@@ -5,12 +5,13 @@ recipe: 107/chicken_au_beach_haven
 page_order: 1
 from: Joby McGinley
 categories:
-    - Main
-    - Chicken
-    - Casserole
-    - Meat
-    - Stovetop
-    - Baked
+  - Main
+  - Chicken
+  - Casserole
+  - Meat
+  - Stovetop
+  - Baked
+  - Poultry
 ---
 # Chicken au Beach Haven
 

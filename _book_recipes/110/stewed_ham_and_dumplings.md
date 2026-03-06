@@ -5,10 +5,11 @@ recipe: 110/stewed_ham_and_dumplings
 page_order: 3
 from: Gran
 categories:
-    - Stew
-    - Main
-    - Chicken
-    - Stovetop
+  - Stew
+  - Main
+  - Chicken
+  - Stovetop
+  - Poultry
 ---
 # Stewed Ham and Dumplings
 

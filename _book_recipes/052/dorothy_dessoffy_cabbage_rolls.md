@@ -5,14 +5,15 @@ recipe: 052/dorothy_dessoffy_cabbage_rolls
 page_order: 1
 from: Dorothy Dessoffy
 categories:
-    - Vegetables
-    - Stuffed Vegetables
-    - Beef
-    - Pork
-    - Main
-    - Side Dish
-    - Wraps
-    - Boiled
+  - Vegetables
+  - Stuffed Vegetables
+  - Beef
+  - Pork
+  - Main
+  - Side Dish
+  - Wraps
+  - Boiled
+  - Meat
 ---
 # Dorothy Dessoffy's Cabbage Rolls
 

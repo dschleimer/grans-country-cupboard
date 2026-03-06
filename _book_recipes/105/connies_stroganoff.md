@@ -4,10 +4,11 @@ page: "105"
 recipe: 105/connies_stroganoff
 page_order: 1
 categories:
-    - Main
-    - Beef
-    - Stew
-    - Stovetop
+  - Main
+  - Beef
+  - Stew
+  - Stovetop
+  - Meat
 ---
 # Connie's Stroganoff
 

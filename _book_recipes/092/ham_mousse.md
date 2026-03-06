@@ -10,6 +10,7 @@ categories:
   - Aspic
   - Pork
   - Boiled
+  - Meat
 ---
 # Ham Mousse
 

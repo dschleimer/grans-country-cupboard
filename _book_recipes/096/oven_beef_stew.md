@@ -4,11 +4,12 @@ page: "096"
 recipe: 096/oven_beef_stew
 page_order: 2
 categories:
-    - Fried
-    - Baked
-    - Stew
-    - Beef
-    - Vegetables
+  - Fried
+  - Baked
+  - Stew
+  - Beef
+  - Vegetables
+  - Meat
 ---
 # Oven Beef Stew
 

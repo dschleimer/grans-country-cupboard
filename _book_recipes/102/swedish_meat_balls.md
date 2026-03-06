@@ -10,6 +10,7 @@ categories:
   - Stovetop
   - Beef
   - Pork
+  - Meat
 ---
 # Swedish Meat Balls
 

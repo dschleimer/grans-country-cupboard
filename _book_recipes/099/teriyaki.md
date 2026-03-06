@@ -8,6 +8,7 @@ categories:
   - Grilled
   - Beef
   - Marinade
+  - Meat
 ---
 # Teriyaki
 

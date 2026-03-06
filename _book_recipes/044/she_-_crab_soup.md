@@ -8,6 +8,7 @@ categories:
     - Appetizers
     - Soup
     - Seafood
+    - Crab
     - Seafood Soup
     - Boiled
 ---

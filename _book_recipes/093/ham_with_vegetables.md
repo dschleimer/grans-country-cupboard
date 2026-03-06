@@ -9,6 +9,7 @@ categories:
   - Stovetop
   - Pork
   - Sautéed
+  - Meat
 ---
 # Ham with Vegetables
 

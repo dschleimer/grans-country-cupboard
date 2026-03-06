@@ -8,6 +8,7 @@ categories:
   - Vegetables
   - Boiled
   - Pork
+  - Meat
 ---
 # Connie's Bean Soup
 

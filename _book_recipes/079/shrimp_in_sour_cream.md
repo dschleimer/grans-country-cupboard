@@ -6,6 +6,7 @@ page_order: 1
 from: Connie
 categories:
   - Seafood
+  - Shrimp
   - Main
   - Pan Fried
   - Sautéed

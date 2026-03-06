@@ -7,6 +7,7 @@ from: Osborns
 categories:
     - Casserole
     - Seafood
+    - Fish
     - Pan Fried
     - Boiled
     - Baked

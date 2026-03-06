@@ -11,6 +11,7 @@ categories:
   - Party Food
   - Chicken
   - Baked
+  - Poultry
 ---
 # Hawaiian Chicken Wings
 

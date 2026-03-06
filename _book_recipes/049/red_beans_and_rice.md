@@ -9,6 +9,7 @@ categories:
   - Side Dish
   - Boiled
   - Pork
+  - Meat
 ---
 # Red Beans and Rice
 

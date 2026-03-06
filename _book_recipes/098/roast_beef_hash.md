@@ -5,11 +5,12 @@ recipe: 098/roast_beef_hash
 page_order: 3
 from: Dorothy Lyle
 categories:
-    - Leftovers
-    - Beef
-    - Main
-    - Fried
-    - Stovetop
+  - Leftovers
+  - Beef
+  - Main
+  - Fried
+  - Stovetop
+  - Meat
 ---
 # Roast Beef Hash
 

@@ -5,11 +5,12 @@ recipe: 111/smothered_chicken
 page_order: 1
 from: Great Grandmother Marter
 categories:
-    - Main
-    - Chicken
-    - Sauce
-    - Meat
-    - Stovetop
+  - Main
+  - Chicken
+  - Sauce
+  - Meat
+  - Stovetop
+  - Poultry
 ---
 # Smothered Chicken
 

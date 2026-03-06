@@ -37,7 +37,8 @@ For each such recipe, read the file and add appropriate categories using the can
   - `Beverages` = **non-alcoholic, non-water drinks only** (tea, coffee, lemonade, eggnog, etc.). Alcoholic drinks use `Alcohol` instead, never both.
 - **Type:** `Casserole`, `Cookies`, `Cakes`, `Pie`, `Sandwich`, `Pasta`, `Sauce`, `Gravy`, `Dip`, `Spread`, `Condiment`, `Punch`, `Cocktail`, `Stew`, `Soufflé`, `Pate`, `Aspic`, `Meatballs`, `Cupcakes`
 - **Drinks:** `Alcohol` (alcoholic drinks — mutually exclusive with `Beverages`), `Caffeinated` (coffee, tea, and other caffeinated drinks; applies alongside `Beverages` or `Alcohol`)
-- **Protein:** `Beef`, `Pork`, `Chicken`, `Turkey`, `Seafood`, `Lamb`, `Veal`, `Elk`, `Rabbit`, `Venison`, `Duck`, `Eggs`
+- **Protein umbrella:** `Meat` (any of Beef/Pork/Lamb/Veal/Elk/Rabbit/Venison), `Poultry` (any of Chicken/Turkey/Duck), `Seafood` (any of Shrimp/Crab/Oysters/Lobster/Fish/Clams) — auto-added by fix_categories.py; never add manually without also adding the specific sub-type
+- **Protein sub-type:** `Beef`, `Pork`, `Chicken`, `Turkey`, `Lamb`, `Veal`, `Elk`, `Rabbit`, `Venison`, `Duck`, `Shrimp`, `Crab`, `Oysters`, `Lobster`, `Fish`, `Clams`, `Eggs`
 - **Dietary:** `Vegetarian` (no meat/seafood/eggs; dairy ok), `Ovo-Lacto Vegetarian` (no meat/seafood; eggs ok). Strictly vegetarian recipes carry **both** tags. Egg-containing meatless recipes carry only `Ovo-Lacto Vegetarian`.
 - **Technique:** `Baked`, `Pan Fried`, `Deep Fried`, `Broiled`, `Grilled`, `Boiled`, `Roast`, `No Cook`, `Stovetop`, `Double Boiler`, `Sautéed`
 - **Context:** `Party Food`, `Finger Food`, `Snacks`, `Breakfast`, `Christmas`, `Thanksgiving`, `Leftovers`

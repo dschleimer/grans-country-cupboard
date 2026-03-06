@@ -9,6 +9,7 @@ categories:
   - Chicken
   - Baked
   - Roast
+  - Poultry
 ---
 # Oven-Barbequed Chicken
 
