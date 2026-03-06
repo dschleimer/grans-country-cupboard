@@ -10,40 +10,41 @@ ARG CLAUDE_CODE_VERSION=latest
 
 # Install basic development tools and iptables/ipset
 RUN apt-get update && apt-get install -y --no-install-recommends \
-  less \
+  aggregate \
+  dnsutils \
+  emacs \
+  fzf \
+  gh \
   git \
+  gnupg2 \
+  iproute2 \
+  ipset \
+  iptables \
+  jq \
+  less \
+  man-db \
+  nano \
   procps \
   sudo \
-  fzf \
-  zsh \
-  man-db \
+  tmux \
   unzip \
-  gnupg2 \
-  gh \
-  iptables \
-  ipset \
-  iproute2 \
-  dnsutils \
-  aggregate \
-  jq \
-  nano \
   vim \
-  emacs \
+  zsh \
   locales-all \
   && apt-get clean && rm -rf /var/lib/apt/lists/*
 
 
 # Install project dependencies: Ruby, Python, and image processing
 RUN apt-get update && apt-get install -y --no-install-recommends \
-  ruby-full \
   build-essential \
-  zlib1g-dev \
+  imagemagick \
   libffi-dev \
   libyaml-dev \
-  imagemagick \
+  python-is-python3 \
   python3 \
   python3-yaml \
-  python-is-python3 \
+  ruby-full \
+  zlib1g-dev \
   && apt-get clean && rm -rf /var/lib/apt/lists/* \
   && gem install bundler
 
