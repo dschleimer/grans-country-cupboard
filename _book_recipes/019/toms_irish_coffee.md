@@ -8,6 +8,7 @@ categories:
     - Drinks
     - Cocktail
     - Mixed Drink
+    - Caffeinated
 ---
 # Tom's Irish Coffee
 

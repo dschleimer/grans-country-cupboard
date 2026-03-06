@@ -237,6 +237,11 @@ def normalize_tags(categories):
         if canonical not in seen:
             result.append(canonical)
             seen.add(canonical)
+    # Enforce Beverages/Alcohol mutual exclusivity: alcoholic drinks must not
+    # carry Beverages (which is reserved for non-alcoholic drinks).
+    if "Alcohol" in seen:
+        result = [t for t in result if t != "Beverages"]
+        seen.discard("Beverages")
     return result
 
 
@@ -255,9 +260,10 @@ _FILENAME_RULES = [
     (r'stew|ragout|ragù',                        ["Stew"]),
     (r'salad',                                   ["Salad"]),
     (r'sandwich|sub|hoagie|burger|panini',       ["Sandwich"]),
-    (r'punch',                                   ["Beverages", "Punch"]),
-    (r'cocktail|daiquiri|julep|colada|martini',  ["Beverages", "Cocktail"]),
-    (r'eggnog|lemonade|cider|(?:^|_)coffee$|(?:^|_)tea$', ["Beverages"]),
+    (r'punch',                                   ["Punch"]),
+    (r'cocktail|daiquiri|julep|colada|martini',  ["Cocktail"]),
+    (r'eggnog|lemonade',                         ["Beverages"]),
+    (r'(?:^|_)coffee$|(?:^|_)tea$',             ["Beverages", "Caffeinated"]),
     (r'iced',                                    ["Chilled"]),
     (r'\bdip\b|_dip$|^dip_',                     ["Dip"]),
     (r'spread',                                  ["Spread"]),
@@ -265,7 +271,7 @@ _FILENAME_RULES = [
     (r'sauce',                                   ["Sauce", "Condiment"]),
     (r'coleslaw|slaw',                           ["Salad", "Chilled"]),
     (r'cheese.*ball|ball.*cheese',               ["Appetizers", "Finger Food"]),
-    (r'applejack|whiskey|whisky|bourbon|scotch|vodka|brandy', ["Beverages", "Cocktail"]),
+    (r'applejack|whiskey|whisky|bourbon|scotch|vodka|brandy', ["Cocktail"]),
     (r'scrambl',                                 ["Breakfast", "Eggs"]),
     (r'omelet|omelette',                         ["Breakfast", "Eggs"]),
     (r'fritter',                                 ["Finger Food", "Snacks"]),
@@ -386,6 +392,7 @@ _TAG_IMPLIES_TAGS = [
     ("Soufflé",        ["Side Dish"]),
     ("Boiled Eggs",    ["Eggs", "Breakfast"]),
     ("Gravy",          ["Side Dish"]),
+    ("Cocktail",       ["Alcohol"]),
 ]
 
 

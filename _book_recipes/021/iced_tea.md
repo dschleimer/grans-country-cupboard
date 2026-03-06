@@ -9,6 +9,7 @@ categories:
   - Drinks
   - Batch Drink
   - Chilled
+  - Caffeinated
 ---
 # Iced Tea
 

@@ -9,6 +9,7 @@ categories:
     - Drinks
     - Mixed Drink
     - Batch Drink
+    - Caffeinated
 ---
 # Christmas Tea
 

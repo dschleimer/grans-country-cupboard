@@ -8,7 +8,6 @@ categories:
   - Alcohol
   - Drinks
   - Batch Drink
-  - Beverages
   - Cocktail
 ---
 # Grand-Dad Marter's Applejack

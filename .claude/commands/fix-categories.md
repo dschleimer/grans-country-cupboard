@@ -34,7 +34,9 @@ For each such recipe, read the file and add appropriate categories using the can
 
 **Canonical taxonomy:**
 - **Course:** `Appetizers`, `Main`, `Side Dish`, `Soup`, `Salad`, `Dessert`, `Beverages`, `Bread`
+  - `Beverages` = **non-alcoholic, non-water drinks only** (tea, coffee, lemonade, eggnog, etc.). Alcoholic drinks use `Alcohol` instead, never both.
 - **Type:** `Casserole`, `Cookies`, `Cakes`, `Pie`, `Sandwich`, `Pasta`, `Sauce`, `Gravy`, `Dip`, `Spread`, `Condiment`, `Punch`, `Cocktail`, `Stew`, `Soufflé`, `Pate`, `Aspic`, `Meatballs`, `Cupcakes`
+- **Drinks:** `Alcohol` (alcoholic drinks — mutually exclusive with `Beverages`), `Caffeinated` (coffee, tea, and other caffeinated drinks; applies alongside `Beverages` or `Alcohol`)
 - **Protein:** `Beef`, `Pork`, `Chicken`, `Turkey`, `Seafood`, `Lamb`, `Veal`, `Elk`, `Rabbit`, `Venison`, `Duck`, `Eggs`
 - **Dietary:** `Vegetarian` (no meat/seafood/eggs; dairy ok), `Ovo-Lacto Vegetarian` (no meat/seafood; eggs ok). Strictly vegetarian recipes carry **both** tags. Egg-containing meatless recipes carry only `Ovo-Lacto Vegetarian`.
 - **Technique:** `Baked`, `Pan Fried`, `Deep Fried`, `Broiled`, `Grilled`, `Boiled`, `Roast`, `No Cook`, `Stovetop`, `Double Boiler`, `Sautéed`
