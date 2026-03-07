@@ -11,7 +11,7 @@ categories:
     - No Cook
     - Chilled
 ---
-# Chedder Cheese Log
+# Cheddar Cheese Log
 
 ## Ingredients
 
@@ -22,7 +22,7 @@ categories:
 | Onion                | 1 tsp  | Grated |
 | Worcestershire Sauce | 1 tsp  | |
 | Paprika              | ½ tsp  | |
-| Parsely              |        | For outside of log |
+| Parsley              |        | For outside of log |
 | Ground Nuts          |        | For outside of log |
 | Dried Beef           |        | For outside of log |
 
@@ -30,10 +30,10 @@ categories:
 1. Let cheddar and cream cheese come to room temperature
 1. In meantime, grate onion and finely chop dried beef 
 1. Cut cheddar into small pieces
-1. Beat together cheedar and cream cheese
+1. Beat together cheddar and cream cheese
 1. Add onion, Worcestershire sauce, and paprika.  Beat more.
 1. Shape into log 6 inches long and 2.5 inches in diameter
-1. Roll in Parsely, Ground Nuts, and/or Chopped Dried Beef
+1. Roll in Parsley, Ground Nuts, and/or Chopped Dried Beef
 1. Refrigerate until serving
 
 ## Notes From Gran

@@ -27,9 +27,9 @@ categories:
 ## Method
 1. Let cheese and cream cheese come to room temperature
 1. Finely chop shallots
-1. Finely chop ground beef.  Chop all 3 packages but keep 1 package separate for rolling
+1. Finely chop dried beef.  Chop all 3 packages but keep 1 package separate for rolling
 1. Blend shallots, 2 packages dried beef, and cheese.
-1. Add Accent, Worcershire Sauce, and Horseradish (if using) to mixture
+1. Add Accent, Worcestershire Sauce, and Horseradish (if using) to mixture
 1. Shape into one large ball
 1. Roll in third package of chopped beef
 1. Chill until ready to serve

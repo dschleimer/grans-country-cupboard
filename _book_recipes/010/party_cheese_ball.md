@@ -45,5 +45,5 @@ categories:
 * Original recipe says "I like to use pecan meal" presumably in place of the chopped nuts.
 
 ## Modern Notes
-* The original recipe called for two 3 Oz wedges of Roquefort, presumably because this is how it was sold.  However, the recipe calls for blenind the cheeses, so I wrote down the total amount rather than the original -- David S
+* The original recipe called for two 3 Oz wedges of Roquefort, presumably because this is how it was sold.  However, the recipe calls for blending the cheeses, so I wrote down the total amount rather than the original -- David S
 

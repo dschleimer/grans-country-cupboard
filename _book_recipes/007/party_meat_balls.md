@@ -30,7 +30,7 @@ categories:
 ## Method
 1. Soak Bread in Milk
 1. Slightly beat egg
-1. Lightly mix remining ingredients except butter and add to milk & bread
+1. Lightly mix remaining ingredients except butter and add to milk & bread
 1. Shape into balls 1" in diameter
 1. Heat butter in skillet
 1. Brown balls evenly 8-10 minutes
@@ -40,4 +40,4 @@ categories:
 * Serve plain or with sauce
 
 ## Modern Notes
-* She suggests serving these with sauce, but does nto appear to have a suitable sauce in the cookbook.  I'd really like to know what kind of sauce she meant by that.  -- David S
+* She suggests serving these with sauce, but does not appear to have a suitable sauce in the cookbook.  I'd really like to know what kind of sauce she meant by that.  -- David S

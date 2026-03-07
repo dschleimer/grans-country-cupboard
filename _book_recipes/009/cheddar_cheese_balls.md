@@ -22,7 +22,7 @@ categories:
 | Onion                | 1 tsp  | Grated |
 | Worcestershire Sauce | 1 tsp  | |
 | Paprika              | ½ tsp  | |
-| Parsely              |        | For outside of balls |
+| Parsley              |        | For outside of balls |
 | Ground Nuts          |        | For outside of balls |
 | Dried Beef           |        | For outside of balls |
 
@@ -30,10 +30,10 @@ categories:
 1. Let cheddar and cream cheese come to room temperature
 1. In meantime, grate onion and finely chop dried beef
 1. Cut cheddar into small pieces
-1. Beat together cheedar and cream cheese
+1. Beat together cheddar and cream cheese
 1. Add onion, Worcestershire sauce, and paprika.  Beat more.
 1. Shape into balls 1 inch in diameter
-1. Roll some balls in Parsely
+1. Roll some balls in Parsley
 1. Roll some balls in Ground Nuts
 1. Roll some balls in Chopped Dried Beef
 1. Refrigerate until serving
@@ -42,5 +42,5 @@ categories:
 * Makes 50 balls
 
 ## Modern Notes
-* The Parsely, Ground nuts, and Dried Beef are for the outside of the balls.  It seems likely you could use only some of them, omit one of the options, and try out other options.  --David S
+* The Parsley, Ground nuts, and Dried Beef are for the outside of the balls.  It seems likely you could use only some of them, omit one of the options, and try out other options.  --David S
 

@@ -20,13 +20,13 @@ categories:
 | Ingredient     | Amount | Notes |
 | -------------- | ------ | ----- |
 | Cheddar Cheese | ½ lb   | Grated |
-| Cream Cheese   | 6 oz   | Original recipe called for 2 small packages.  Philadelpia used to sell in 3 Oz blocks |
+| Cream Cheese   | 6 oz   | Original recipe called for 2 small packages.  Philadelphia used to sell in 3 Oz blocks |
 | Butter         | ½ lb   | |
 | Egg Whites     | 2      | |
 | Bread          |        | Cubed |
 
 ## Method
-1. Melt Chedder, Cream Cheese, and Butter together in double boiler
+1. Melt Cheddar, Cream Cheese, and Butter together in double boiler
 1. Cool
 1. Beat egg whites to stiff peaks and add to cooled cheese mixture
 1. Cube bread
