@@ -37,7 +37,7 @@ categories:
 1. Add orange slices and Cherries to punch bowl
 
 ## Notes From Gran
-* Ceterers allow 3 or 4 punch cups per person
+* Caterers allow 3 or 4 punch cups per person
 
 ## Modern Notes
 * A fifth of liquor refers to a 750 ml bottle, i.e. the most common size of alcohol bottle in 2025.

@@ -22,10 +22,10 @@ categories:
 | Eggs         | 2      | Beaten |
 | Salt         | ½ tsp  | |
 | Black Pepper |        | Freshly Ground |
-| Corn Meal    | ¾ cup  | Yellow Cirn Meal |
+| Corn Meal    | ¾ cup  | Yellow Corn Meal |
 
 ## Method
-1. Heat Cooking oil to 375 °F in deep frier or in a large pot on stovetop
+1. Heat Cooking oil to 375 °F in deep fryer or in a large pot on stovetop
 1. Cook and grind lobster if making from fresh
 1. Mince onion
 1. Beat eggs

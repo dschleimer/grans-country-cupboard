@@ -25,7 +25,7 @@ categories:
 1. Serve in a bowl with crackers
 
 ## Notes From Gran
-* Try corn beef instead of ham
+* Try corned beef instead of ham
 
 ## Modern Notes
 

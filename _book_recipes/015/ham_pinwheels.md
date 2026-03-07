@@ -29,7 +29,7 @@ categories:
 1. Spread on ham slices
 1. Roll up as jelly roll
 1. Wrap in waxed paper
-1. Refridgerate
+1. Refrigerate
 1. When chilled, slice
 
 ## Notes From Gran

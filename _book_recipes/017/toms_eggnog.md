@@ -38,5 +38,5 @@ categories:
 * Served in antique rose medallion bowl over large piece of ice
 
 ## Modern Notes
-* Recipe mostly refers to previous, Easter Egg Nog recipe , adn actually says "Same quantities".  I wrote down the full recipe as I understood that instruction.  -- David S.
+* Recipe mostly refers to previous, Easter Egg Nog recipe , and actually says "Same quantities".  I wrote down the full recipe as I understood that instruction.  -- David S.
 

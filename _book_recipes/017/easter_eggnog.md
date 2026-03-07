@@ -26,7 +26,7 @@ categories:
 
 ## Method
 1. Beat egg whites to very stiff peaks
-1. Add ¼ cup sugar tp egg whites
+1. Add ¼ cup sugar to egg whites
 1. Beat egg yolks
 1. Add ½ cup sugar to yolks while beating
 1. Mix the whites with the yolks
@@ -35,7 +35,7 @@ categories:
 1. Stir thoroughly
 
 ## Notes From Gran
-1. Serve from punbch bowl
+1. Serve from punch bowl
 1. Serve with grated nutmeg on each glass
 1. Makes 5 pints egg nog
 1. Served every Easter after morning church
