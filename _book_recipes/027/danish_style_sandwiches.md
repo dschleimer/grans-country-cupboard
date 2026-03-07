@@ -18,7 +18,7 @@ categories:
 1. Sliced thin if not already sliced
 1. Trim crusts 
 1. Cut into a variety of small shapes
-1. Spread with softened butter or margerine
+1. Spread with softened butter or margarine
 1. Cover with waxed paper until ready to use
 1. Select toppings from table below
 1. Top
@@ -37,7 +37,7 @@ categories:
 | Whole Wheat Bread  | Pimento Cheese (slice) | Shrimp                        | (bit of) Pimento |
 | Whole Wheat Bread  | Cream Cheese           | (slice of) Cucumber           | |
 | White Bread        | American Cheese        | (slice of) Egg                | Paprika |
-| White Bread        | American Cheese        | (silce of) Egg                | |
+| White Bread        | American Cheese        | (slice of) Egg                | |
 | White Bread        | Pimento Cheese         | Anchovy (fillet)              | |
 | White Bread        | Marinated Mushroom     | Pimento (strips)              | |
 | White Bread        | Pimento Cheese         | (slice of) Egg                | (ripe) Olive (strips) |

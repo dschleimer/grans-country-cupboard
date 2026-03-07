@@ -30,7 +30,7 @@ categories:
 1. Grate Onion
 1. Boil Tomato Juice
 1. Dissolve Jello in boiling Tomato Juice
-1. Stir in remaining ingredients except for Mayonaisse 
+1. Stir in remaining ingredients except for Mayonnaise
 1. Chill
 
 ## Notes From Gran

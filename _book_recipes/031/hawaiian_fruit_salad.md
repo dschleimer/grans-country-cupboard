@@ -45,7 +45,7 @@ categories:
 1. Cut removed Pineapple into cubes
 1. Mix Pineapple cubes with other fruit
 1. Arrange fruit salad in two Pineapple halves
-1. Mix together dressing ingredients except for Mayonaiise and Sour Cream
+1. Mix together dressing ingredients except for Mayonnaise and Sour Cream
 1. Blend dressing mixture into Mayonnaise
 1. Fold in sour cream
 1. Serve dressing with Fruit Salad

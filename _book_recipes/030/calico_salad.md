@@ -32,7 +32,7 @@ categories:
 
 1. Add sugar, vinegar, salad oil, salt, and pepper to a jar
 1.  Close jar and shake to combine into dressing
-1. Pour dressing over beans in a large bown
+1. Pour dressing over beans in a large bowl
 1. Mix and cover
 1. Chill several hours or overnight before serving
 

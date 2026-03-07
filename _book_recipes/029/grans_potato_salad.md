@@ -41,9 +41,9 @@ categories:
 1. Toss with potatoes and chill
 1. Hard Boil eggs and slice
 1. Chop celery fine
-1. Mince parsely
+1. Mince parsley
 1. Slice olives
-1. Add Eggs, Celery, Parsely, Olives, Mustard, and a few dashes Worcestershire Sauce
+1. Add Eggs, Celery, Parsley, Olives, Mustard, and a few dashes Worcestershire Sauce
 1. Add additional Mayonnaise if needed for consistency
 
 ## Notes From Gran

@@ -20,7 +20,7 @@ categories:
 | -------------- | ------ | ----- |
 | Cream Cheese   | 8 oz   | |
 | Milk           | 3 Tbsp | |
-| Pinento Olives | ½ cup  | Chopped |
+| Pimento Olives | ½ cup  | Chopped |
 | Pecans         | ½ cup  | Chopped |
 | Pecan Meal     | ½ cup  | may substitute for Chopped Pecans |
 

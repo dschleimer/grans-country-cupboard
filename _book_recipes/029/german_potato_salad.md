@@ -31,13 +31,13 @@ categories:
 1. Cut Bacon into small pieces
 1. Fry slightly
 1. Stir in vinegar
-1. Beat egss well and add
+1. Beat eggs well and add
 1. Let sit until mixture thickens
 1. Boil potatoes in salted water
 1. Let potatoes cool enough to handle
 1. Slice potatoes
 1. Add salt to taste and plenty of pepper
-1. Finely slice cleery and add to potatoes
+1. Finely slice celery and add to potatoes
 1. Slice onion very fine and add to potatoes
 1. Add bacon mixture
 

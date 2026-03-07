@@ -29,7 +29,7 @@ categories:
 1. Hard boil eggs and allow to cool
 1. Combine all ingredients except for Mayonnaise
 1. Grind finely
-1. Add enough Mayonnaise to m ake it spreadable
+1. Add enough Mayonnaise to make it spreadable
 1. Refrigerate a couple hours to blend flavors
 
 ## Notes From Gran
