@@ -30,7 +30,7 @@ categories:
 ## Method
 
 1. Juice lime
-1. In pitcher, combine Rums, Orgeat, ½ oz Lemon Juice, Lime Juice, Fruite Juice, and Papaya Juice
+1. In pitcher, combine Rums, Orgeat, ½ oz Lemon Juice, Lime Juice, Fruit Juice, and Papaya Juice
 1. Mix together
 1. Add grenadine to tint pink to preferred shade
 1. Taste and add:

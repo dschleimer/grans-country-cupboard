@@ -28,8 +28,8 @@ categories:
 ## Method
 
 1. Mix
-1. For 1 cup use 1 coffe scoop of mix and 1 cup hot water
-1. Store in artight container
+1. For 1 cup use 1 coffee scoop of mix and 1 cup hot water
+1. Store in airtight container
 
 ## Notes From Gran
 

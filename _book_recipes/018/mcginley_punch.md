@@ -24,7 +24,7 @@ categories:
 | Lemon Juice  | 2 parts | |
 | Grenadine    | 2 parts | |
 | Club Soda    | 1 Quart | Optional - to reduce strength |
-| Giner Ale    | 1 Quart | Optional - to reduce strength |
+| Ginger Ale   | 1 Quart | Optional - to reduce strength |
 
 ## Method
 

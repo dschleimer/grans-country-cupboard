@@ -19,7 +19,7 @@ categories:
 | Rum             | 2 Jiggers | |
 | Sweet Vermouth  | 1 Jigger  | |
 | Creme de Menthe | ⅔ Jigger  | White |
-| Creme de Cocoa  | ⅔ Jigger  | |
+| Creme de Cacao  | ⅔ Jigger  | |
 | Lime            | ½         | Juiced - Use Lime OR Lemon juice not both |
 | Lemon           | ½         | Juiced - Use Lime OR Lemon juice not both |
 | Ice             | 4 cubes   | Cracked |

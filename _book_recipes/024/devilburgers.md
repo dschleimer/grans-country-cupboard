@@ -37,7 +37,7 @@ categories:
 1. Combine other ingredients and mix lightly
 1. Pile mixture ½ inch thick to edges of bread halves
 1. Broil 6 inches from heat for 15 minutes or until done
-1. Cut into each halve into thirds or quarters for serving
+1. Cut each half into thirds or quarters for serving
 
 ## Notes From Gran
 

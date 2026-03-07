@@ -25,7 +25,7 @@ categories:
 
 ## Method
 1. Blend all ingredients
-1. Ignite mixture and allow to flame 30 seconds, sitrring constantly with metal spoon
+1. Ignite mixture and allow to flame 30 seconds, stirring constantly with metal spoon
 1. Add coffee
 1. strain into 2 heated demi-tasse cups
 1. Serve at once
