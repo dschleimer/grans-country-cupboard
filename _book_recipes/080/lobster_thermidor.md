@@ -46,8 +46,8 @@ categories:
 1. Shred Cheddar Cheese if not pre-shredded
 1. In a saucepan, melt 2 Tbsp of butter
 1. Blend in Flour, Prepared Mustard, Salt, Paprika, and Cayenne
-1. Gradually add cream of Half + Half
-1. Cook, stirring contantly until thickened
+1. Gradually add cream or Half + Half
+1. Cook, stirring constantly until thickened
 1. Turn off heat
 1. Add Shredded Cheddar Cheese and Worcestershire Sauce
 1. Stir until Cheese Melts

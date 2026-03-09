@@ -60,7 +60,7 @@ Pick one protein
 1. Scald Cream or Half + Half
 1. Stir butter mixture into dairy and blend well
 1. Add salt
-1. Cook over low heat, stirring occassionally until mixture thickens
+1. Cook over low heat, stirring occasionally until mixture thickens
 1. Place sauce over hot water
 1. Continue cooking and stirring until sauce is thick and creamy
 1. Combine Heavy Cream and Egg Yolks

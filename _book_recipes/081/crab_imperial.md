@@ -37,7 +37,7 @@ categories:
 1. Chop Green Pepper, Red Pepper, and Onion
 1. Sauté together with crab meat in butter
 1. Chop Parsley and add
-1. Add Mayonnaise, Worcestershire Sauce, Prepared Msutard, Salt, adn Fresh Ground Black Pepper
+1. Add Mayonnaise, Worcestershire Sauce, Prepared Mustard, Salt, and Fresh Ground Black Pepper
 1. Mix well and place into greased crab shells
 1. Dot with butter
 1. Sprinkle with Paprika

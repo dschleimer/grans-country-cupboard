@@ -36,7 +36,7 @@ categories:
 1. Hard boil, cool and shell eggs
 1. Chop Eggs, Stuffed Olives and Green Pepper
 1. Mix well all ingredients except for the shrimp
-1. Chill for at elast 1 hour
+1. Chill for at least 1 hour
 1. Serve chilled sauce with chilled shrimp
 
 ## Notes From Gran

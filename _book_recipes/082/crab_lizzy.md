@@ -23,7 +23,6 @@ categories:
 | Curry                | dash   | |
 | Red Pepper           | dash   | |
 | Nutmeg               | dash   | |
-| Nutmeg               | Dash   | |
 | Salt                 |        | |
 | Pepper               |        | |
 | Onion Salt           |        | |

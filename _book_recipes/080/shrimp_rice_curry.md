@@ -27,7 +27,7 @@ categories:
 | Pepper               |                 | |
 | Mustard              | little          | |
 | Shrimp               | 1 cup           | Cooked or canned |
-| Rice                 | 3 cups          | Cooked - may substitute noodles or paddy shells for rice |
+| Rice                 | 3 cups          | Cooked - may substitute noodles or patty shells for rice |
 
 ## Method
 
@@ -35,7 +35,7 @@ categories:
 1. Cook rice if needed
 1. Chop onions
 1. Sauté Onions and Mushrooms in Butter
-1. Serve over rice, noodles, or paddy shells
+1. Serve over rice, noodles, or patty shells
 
 ## Notes From Gran
 
