@@ -41,9 +41,9 @@ categories:
 1. Brown beef in oil
 1. Add onion, Carrots, Green Pepper, Celery, Tomato and Bay Leaves
 1. Add enough water to cover
-1. Cover pot and and cook until meat is tendet
+1. Cover pot and cook until meat is tender
 1. Remove Bay leaves
-1. Transfer meat to a cutting board, leaving other ingredient sin pot
+1. Transfer meat to a cutting board, leaving other ingredients in pot
 1. Add 3 Tbsp flour to pot and stir well
 1. Cook 2 minutes or until gravy is thick
 1. Turn off the heat

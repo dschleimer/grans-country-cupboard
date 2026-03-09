@@ -22,7 +22,7 @@ categories:
 | Lemon          | 1          | Cut up |
 | Seasoned Salt  |            | Lowry's |
 | Pepper         |            | |
-| Parsely Flakes | Good Pinch | |
+| Parsley Flakes | Good Pinch | |
 | Paprika        |            | |
 | Barbeque Sauce |            | |
 

@@ -31,7 +31,7 @@ categories:
 1. Saute in butter and olive oil (or all butter)
 1. Brown evenly on both sides
 1. When tender, add port and cook gently for 2 minutes
-1. Season tot aste
+1. Season to taste
 1. Remove meat to a hot platter, leaving liquid in pan
 1. Add cream to pan
 1. Stir to scrape brown bits

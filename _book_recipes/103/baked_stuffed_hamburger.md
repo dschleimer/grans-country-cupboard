@@ -35,10 +35,10 @@ categories:
 ## Method
 
 1. Preheat oven to 350 °F
-1. Chop Parsely, and onions
+1. Chop Parsley, and onions
 1. Lightly mix together Beef, Parsley, Onions, 1½ tsp salt, ½ tsp pepper, and vegetable oil to make the meat mixture
 1. Chop peanuts
-1. Mix together Bread Crumbs, peanuts, ½ tsp salt, few grains of pepper, and 2 Tbsp water to makie the stuffing
+1. Mix together Bread Crumbs, peanuts, ½ tsp salt, few grains of pepper, and 2 Tbsp water to make the stuffing
 1. Arrange meat, then stuffing in layers, in a casserole dish.  Ensure the top layer is stuffing
 1. Arrange tomato slices and bacon on top of the last stuffing layer
 1. Bake covered about 1 hour

@@ -34,7 +34,7 @@ categories:
 
 1. Chop parsley
 1. Mince onion if using fresh
-1. COmbine all ingredients except butter
+1. Combine all ingredients except butter
 1. Beat vigorously with fork until blended and light
 1. Gently shape into 1-inch balls
 1. Brown in butter over medium heat

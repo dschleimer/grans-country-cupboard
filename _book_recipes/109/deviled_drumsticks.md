@@ -38,12 +38,12 @@ categories:
 1. Add brown sugar, Worcestershire Sauce, and catsup to marinade
 1. Using a skillet or frying pan, lightly brown the chicken in the butter
 1. Pour marinade onto chicken while in the pan
-1. Simmer, turnign chicken ofte, util chicken is tender - 40 minutes or more
+1. Simmer, turning chicken often, until chicken is tender - 40 minutes or more
 
 ## Notes From Gran
 
 * Serve hot or cold
-* To girll over charcoal
+* To grill over charcoal
  * add butter to marinade
  * brush often over chicken until done
 

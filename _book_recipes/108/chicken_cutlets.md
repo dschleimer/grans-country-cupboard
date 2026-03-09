@@ -16,7 +16,7 @@ categories:
 
 | Ingredient      | Amount  | Notes |
 | --------------- | ------- | ----- |
-| Chicken Breasts | 6       | Bonesless, skinless |
+| Chicken Breasts | 6       | Boneless, skinless |
 | Heavy Cream     | 2 cups  | |
 | Eggs            | 4 yolks | |
 | Salt            | 2½ tsp  | |
@@ -28,7 +28,7 @@ categories:
 
 1. Pound Chicken flat
 1. Soak in cream for 1 hour
-1. Romve from cream
+1. Remove from cream
 1. Repeat pounding and soaking until chicken has been pounded and soaked 4 times total
 1. Drain and shape into cutlets
 1. Beat egg yolks together with salt and pepper
@@ -39,7 +39,7 @@ categories:
 
 ## Notes From Gran
 
-* Serve with Asparagus covered with Hollaindaise Sauce
+* Serve with Asparagus covered with Hollandaise Sauce
 
 ## Modern Notes
 

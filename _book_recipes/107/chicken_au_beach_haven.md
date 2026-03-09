@@ -41,7 +41,7 @@ categories:
 1. Brown Chicken in Crisco
 1. Place into buttered Casserole
 1. Add generous amounts of salt, pepper, and Paprika
-1. Add soups, undilted
+1. Add soups, undiluted
 1. Add Sauterne or Sherry
 1. Add bag of frozen onions, if desired
 1. Refrigerate at this point, if preparing ahead of time

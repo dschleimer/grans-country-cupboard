@@ -18,7 +18,7 @@ categories:
 | Ingredient     | Amount      | Notes |
 | -------------- | ----------- | ----- |
 | Veal Shoulder  | 4-5 lbs     | Boned and Rolled |
-| Margerine      | 2 Tbsp      | |
+| Margarine      | 2 Tbsp      | |
 | Onion Soup Mix | 1 envelope  | Lipton's |
 | Apple Juice    | 1 cup       | |
 | Onions         | 1 bag       | Frozen White Onions |
@@ -40,7 +40,7 @@ categories:
 1. Quarter potatoes, cut up carrots, slice parsnips and add
 1. Simmer 30 minutes or until meat and vegetables are tender
 1. Remove meat and carve into ¼ inch slices
-1. Add sliced mushrooms to egetables
+1. Add sliced mushrooms to vegetables
 1. Thicken vegetables with flour
 1. Stir constantly until thick and boil for 1 minute
 1. Place meat slices back over vegetables
