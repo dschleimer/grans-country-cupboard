@@ -33,7 +33,7 @@ categories:
 1. Wash and quarter bird
 1. Flour bird
 1. Add bird and onions to butter
-1. Fry until brid is brown
+1. Fry until bird is brown
 1. Add wine, salt, pepper, garlic powder, and cloves
 1. Simmer covered about 1 hour or until tender
 1. Remove bird from pan

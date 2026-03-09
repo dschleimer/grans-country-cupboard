@@ -30,7 +30,7 @@ categories:
 1. Cut up 2 onions and add
 1. Cut up celery and add
 1. Add salted water
-1. Simmer, covered, until tneder 2½ to 3 hours
+1. Simmer, covered, until tender 2½ to 3 hours
 1. Prepare dumplings from [Recipe](/book_recipes/185/12_stew_dumplings)
 1. Add dumplings and cook 15 minutes longer
 

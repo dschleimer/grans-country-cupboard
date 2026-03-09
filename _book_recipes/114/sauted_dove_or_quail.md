@@ -10,7 +10,7 @@ categories:
   - Sautéed
   - Boiled
 ---
-# Sautéd Dove or Quail
+# Sautéed Dove or Quail
 
 ## Ingredients
 

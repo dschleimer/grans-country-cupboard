@@ -24,11 +24,11 @@ categories:
 | Flour         | 1 cup  | |
 | Ginger        | 1 tsp  | |
 | Salt          | 1 tsp  | |
-| Seasame Seeds |        | Optional |
+| Sesame Seeds  |        | Optional |
 
 ## Method
 
-1. Preheat over to 350 °F
+1. Preheat oven to 350 °F
 1. Remove wing tips
 1. Divide wings at joint to make 24 pieces
 1. Combine flour, ginger, and salt

@@ -43,7 +43,7 @@ categories:
 1. Mix together mushroom soup, milk, salt and poultry seasoning
 1. Add Cream cheese olives, onion, green pepper, parsley, and turkey
 1. Place half the noodles into casserole dish
-1. Then the half the mixture
+1. Then half the mixture
 1. Then the other half of the noodles and the other half of the mixture
 1. Bake 30 minutes
 

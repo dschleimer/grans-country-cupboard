@@ -28,7 +28,7 @@ categories:
 
 1. Mix Venison, cold water, Lemon Juice, Seasoned Salt, Pepper, and Onion salt
 1. Make into 4 patties
-1. Wrap each patty with a bacons trip, securing bacon with a tooth pick
+1. Wrap each patty with a bacon strip, securing bacon with a tooth pick
 1. Broil 15-20 minutes, 3 inches from heat
 1. Transfer to heated platter
 1. Place a large piece of butter on top of each patty

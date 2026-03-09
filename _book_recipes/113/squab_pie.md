@@ -30,10 +30,10 @@ categories:
 ## Method
 
 1. Preheat oven to 350 °F
-1. Dice potates
+1. Dice potatoes
 1. Chop onion and parsley
 1. Butter casserole dish
-1. Place layer of potates in casserole
+1. Place layer of potatoes in casserole
 1. Place layer of onions and parsley on top of potatoes
 1. Split squab in half, rub with 1 tsp salt and ¼ tsp pepper
 1. Place squab in casserole on top of onions
@@ -43,7 +43,7 @@ categories:
 1. Arrange dough squares on top of squab
 1. Boil 3 cups water and add to casserole
 1. Cover and bake for 1 hour or until all is tender
-1. Rmove cover and brown under broiler
+1. Remove cover and brown under broiler
 
 ## Notes From Gran
 

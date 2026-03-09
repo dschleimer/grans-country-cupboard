@@ -39,13 +39,13 @@ categories:
 1. Preheat oven
 1. Mix flour, salt and pepper
 1. Dredge the roast well in the flour mixture
-1. Brown in bacon dirppings
+1. Brown in bacon drippings
 1. Add tomato juice and red wine
 1. Mince garlic and add
 1. Chop celery and parsley and add
 1. Add tenderizer and Italian Seasoning
 1. Cover and roast in pot until meat is tender, 3-4 hours
-1. Turn occassionally
+1. Turn occasionally
 1. Remove roast and slice the meat
 1. Make a gravy in the pot and serve over meat
 

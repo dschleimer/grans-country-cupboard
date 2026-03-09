@@ -32,7 +32,7 @@ categories:
 1. Add 2tsp salt and ½ tsp pepper to marinade
 1. Marinate rabbit in refrigerator for 24 hours
 1. Preheat oven to 425 °F
-1. Add butter to oven plan
+1. Add butter to oven pan
 1. Dry rabbit and dredge in flour, salt, and pepper
 1. Add rabbit to oven pan
 1. Bake 30 minutes
