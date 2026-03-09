@@ -20,12 +20,12 @@ categories:
 | Cold Water    | ⅓ cup    | |
 | Sugar         | 2 Tbsp   | |
 | Salt          | 1 tsp    | |
-| Cucumber      | 1        | 7-8 incehs long |
+| Cucumber      | 1        | 7-8 inches long |
 | Onion         | 1 med-lg | Spanish Sweet Onion |
 
 ## Method
 
-1. In container sti vinegar, water, sugar, and salt.
+1. In container stir vinegar, water, sugar, and salt.
 1. Pare cucumber thinly
 1. Run sharp tines of fork lengthwise through cucumber
 1. Slice cucumber very thin

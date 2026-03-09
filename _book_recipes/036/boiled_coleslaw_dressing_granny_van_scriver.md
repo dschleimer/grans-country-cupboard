@@ -31,7 +31,7 @@ categories:
 * Add to finely cut cabbage to make the slaw
 
 ## Modern notes
-* As best I can tell, the first instruction for the eggs is to "plop" them.  I interpreted this to mean cracking the egg shells and placing the whites/yolks into a mixing bowl.  I omitted this step from my transcription since I think it makes the isntructions more confusing rather than less.  -- David S
+* As best I can tell, the first instruction for the eggs is to "plop" them.  I interpreted this to mean cracking the egg shells and placing the whites/yolks into a mixing bowl.  I omitted this step from my transcription since I think it makes the instructions more confusing rather than less.  -- David S
 
 ## Modern Notes
 

@@ -26,7 +26,7 @@ categories:
 | Pepper               | ⅛ tsp     | |
 | Worcestershire Sauce | 1 tsp     | |
 | Milk                 | 1½ quarts | "Rich" Milk presumably meaning whole |
-| Cream                | 1½ quarts | Optional - may suibstitute for milk |
+| Cream                | 1½ quarts | Optional - may substitute for milk |
 | Paprika              | ¼ tsp     | |
 
 ## Method

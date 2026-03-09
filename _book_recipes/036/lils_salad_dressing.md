@@ -32,14 +32,14 @@ categories:
 1. Mix butter, sugar, cornstarch, mustard, and beaten egg yolks
 1. Cook in top of double boiler
 1. When it begins to thicken, stir in Half+Half and Vinegar
-1. Stir until very thic
+1. Stir until very thick
 1. Remove from heat and cool
 1. Using an egg beater, beat in salt
 1. Beat until creamy
 
 ## Notes From Gran
 * Store in an airtight container in refrigerator  until used
-* Thin with sweet or sour cream is needed
+* Thin with sweet or sour cream if needed
 
 ## Modern Notes
 

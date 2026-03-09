@@ -43,12 +43,12 @@ categories:
 1. Lightly beat egg for dumplings
 1. Add ½ cup milk and dry dumpling ingredients to beaten egg
 1. Lightly mix dumpling batter with fork
-1. Once the salt pork is done cooking add potates and cooked asparagus
+1. Once the salt pork is done cooking add potatoes and cooked asparagus
 1. Use the asparagus liquid to cover the pork, potatoes and asparagus
 1. Cook until potatoes are done
 1. Drop teaspoon-sized dumplings
 1. Cover and cook for 15 minutes
-1. Heat 1 quart of milk without brining it to a boil
+1. Heat 1 quart of milk without bringing it to a boil
 1. Add hot milk to soup and serve immediately
 
 ## Notes From Gran

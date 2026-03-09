@@ -25,7 +25,7 @@ categories:
 
 ## Method
 
-1. Put vinegar, sguar, and butter in saucepan
+1. Put vinegar, sugar, and butter in saucepan
 1. Heat
 1. Beat eggs well
 1. Add eggs to saucepan and cook slowly until thick

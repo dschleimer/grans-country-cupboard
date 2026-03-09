@@ -50,5 +50,5 @@ categories:
 * Slice chicken for sandwiches if desired
 
 ## Modern Notes
-* The original recipe did not explictly say to blend, but heavily implied it by saying "add \[rice\] to other ingredients in blender"  -- David S
+* The original recipe did not explicitly say to blend, but heavily implied it by saying "add \[rice\] to other ingredients in blender"  -- David S
 

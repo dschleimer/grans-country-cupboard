@@ -32,7 +32,7 @@ categories:
 
 1. Cook lentils and bacon in water about 2 hours
 1. Cut carrots, potatoes, onions, and celery ribs in pieces
-1. Optionall cut up frankfurters
+1. Optionally cut up frankfurters
 1. Add all vegetables and optional beef frankfurters
 1. Cook until vegetables are soft
 1. Add salt and pepper to taste

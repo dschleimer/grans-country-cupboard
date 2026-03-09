@@ -36,7 +36,7 @@ categories:
 1. Slice onions
 1. Simmer onions in butter until tender
 1. Add crab meat with crab eggs
-1. Heat thouroughly
+1. Heat thoroughly
 1. Stir in flour, milk, and cream
 1. Cook until thick
 1. Add corn, Worcestershire Sauce, and seasonings

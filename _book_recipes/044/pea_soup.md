@@ -32,7 +32,7 @@ categories:
 
 ## Method
 
-1. Boil splti pees in 4 quarts water for 5 minutes
+1. Boil split peas in 4 quarts water for 5 minutes
 1. Soak for 2 hours with lid on
 1. Skin and trim Ham hocks if needed
 1. Halve and slice onion
@@ -41,7 +41,7 @@ categories:
 1. Simmer about 7 hours
 1. Strain through coarse sieve
 1. Remove bones and gristle
-1. Puree rtemaining solids and add to soup
+1. Puree remaining solids and add to soup
 1. Add brandy to taste before serving
 
 ## Notes From Gran

@@ -44,7 +44,7 @@ categories:
 1. Add all ingredients
 1. Cook at least 6 hours
 1. pick out bones
-1. Cut up meat and return to coup
+1. Cut up meat and return to soup
 1. Serve or freeze 
 
 ## Notes From Gran

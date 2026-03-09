@@ -30,7 +30,7 @@ categories:
 | Potatoes         | 2           | Cut up - White potatoes |
 | Turnip           | 1           | Optional - cut up |
 | Limas            | 1 box       | Frozen |
-| Grean Beans      | 1 box       | Frozen |
+| Green Beans      | 1 box       | Frozen |
 | Salt             |             | |
 | Pepper           |             | |
 | Tabasco Sauce    | Few dashes  | |
