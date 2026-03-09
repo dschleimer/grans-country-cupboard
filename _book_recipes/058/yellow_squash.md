@@ -26,9 +26,9 @@ categories:
 ## Method
 
 1. Wash and trim off ends of squash but do not peel
-1. Cut up onion andd add to squash
+1. Cut up onion and add to squash
 1. Add just enough water to prevent sticking
-1. Cook 1 hour with with on over medium heat
+1. Cook 1 hour with lid on over medium heat
 1. Freeze at this step if desired
 1. Add butter salt, and pepper to taste
 1. Serve

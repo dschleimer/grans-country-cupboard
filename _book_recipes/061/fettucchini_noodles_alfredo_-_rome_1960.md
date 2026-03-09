@@ -16,7 +16,7 @@ categories:
 | Ingredient    | Amount   | Notes |
 | ------------- | -------- | ----- |
 | Salt          | 2½ tsp   | Separated as 2 tsp and ½ tsp |
-| Egss          | 2        | Well beaten |
+| Eggs          | 2        | Well beaten |
 | Flour         | 1½ cups  | sifted - have additional on hand |
 | Boiling water | 2 quarts | |
 | Parmesan      | ¾ cups   | Freshly Grated |
@@ -27,7 +27,7 @@ categories:
 1. Beat eggs well 
 1. Add ½ tsp Salt to eggs
 1. Gradually stir flour into eggs to make a stiff dough
-1. Knead until dough is stiff and elastic adding more flour if neeeded
+1. Knead until dough is stiff and elastic adding more flour if needed
 1. Cover with towel and let rest 15 minutes
 1. Cut dough into 2 parts
 1. Roll out each part on a floured surface as thinly as possible

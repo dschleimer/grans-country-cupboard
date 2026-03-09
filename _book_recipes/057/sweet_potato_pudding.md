@@ -20,7 +20,7 @@ categories:
 | Butter         | ¼ cup  | Melted |
 | Lemon Juice    | 1 tsp  | |
 | Ginger         | pinch  | |
-| Ginnamon       | pinch  | |
+| Cinnamon       | pinch  | |
 | Ground Cloves  |        | |
 | Salt           | ½ tsp  | |
 | Brown Sugar    | 1 cup  | |

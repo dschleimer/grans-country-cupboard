@@ -31,7 +31,7 @@ categories:
 1. Sprinkle Tomato slices with flour
 1. Beat egg and add a little milk
 1. Dip tomato slices in egg mixture
-1. Remove tomatos from egg mixture and then salt
+1. Remove tomatoes from egg mixture and then salt
 1. Fry gently in deep hot Oil
 1. Turn only once to brown second side
 1. Lay on paper towel to drain

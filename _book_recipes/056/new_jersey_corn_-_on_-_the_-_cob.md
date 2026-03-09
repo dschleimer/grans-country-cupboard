@@ -24,7 +24,7 @@ categories:
 
 ## Method
 
-1. Hush and silk corn
+1. Husk and silk corn
 1. Put in large pot of cold water
 1. Add 1 tsp sugar
 1. Do *not* salt
