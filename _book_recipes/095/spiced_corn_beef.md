@@ -41,7 +41,7 @@ categories:
 1. Bring to a boil
 1. Reduce heat
 1. Cover
-1. Simmer for 4 hour until meat is tender
+1. Simmer for 4 hours until meat is tender
 
 ## Notes From Gran
 

@@ -21,7 +21,7 @@ categories:
 
 ## Method
 
-1. Thouroughly scrub and rinse Ham
+1. Thoroughly scrub and rinse Ham
 1. Place in large pot
 1. Completely cover with water
 1. Soak 24 hours
@@ -29,7 +29,7 @@ categories:
 1. Cover with cold water
 1. Simmer (not boil) 25 minutes per pound
 1. Drain, preserving cooking water if desired (see note)
-1. Preheat over to 350 °F
+1. Preheat oven to 350 °F
 1. Remove all skin
 1. Trim fat
 1. Place whole Cloves in fat side, about 1 inch apart

@@ -36,14 +36,14 @@ categories:
 
 1. Chop celery, parsley, and onion
 1. Soak gelatin in ¼ cup cold water
-1. Boil ½ cup water and dissolve geletin in boiling water
+1. Boil ½ cup water and dissolve gelatin in boiling water
 1. Mix together mayonnaise and sour cream
 1. Add sour cream mixture to gelatin water
-1. Cream Cheese, vinegar, Salt, Pepper, and horseradish to sour cream mixture
+1. Add Cream Cheese, vinegar, Salt, Pepper, and horseradish to sour cream mixture
 1. Allow to cool
 1. When it is lightly congealed, whip until fluffy
 1. Fold in ham, celery, parsley, and onion
-1. Poor into loaf mold
+1. Pour into loaf mold
 1. Congeal until firm
 
 

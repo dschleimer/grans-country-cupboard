@@ -25,7 +25,7 @@ categories:
 
 ## Method
 
-1. Preheat over to 350 °F
+1. Preheat oven to 350 °F
 1. Cut stew beef into bite-sized pieces
 1. Add beef and vegetables to baking dish or oven-safe pot
 1. Add soup

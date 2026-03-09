@@ -32,7 +32,7 @@ categories:
 
 ## Method
 
-1. Preheat over to 375 °F
+1. Preheat oven to 375 °F
 1. Cut chuck into 1 inch cubes
 1. Mix together Flour, salt, and pepper
 1. Coat beef cubes in flour mixture
@@ -40,7 +40,7 @@ categories:
 1. Add both cans of tomato soup
 1. Using 2½ cups of water, rinse the soup cans adding rinse water to beef
 1. Chop onion and add
-1. add basil
+1. Add basil
 1. Cover
 1. Bake for 2 hours
 1. While baking:

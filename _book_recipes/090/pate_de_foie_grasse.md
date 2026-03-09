@@ -12,7 +12,7 @@ categories:
   - Offal
   - Meat
 ---
-# Paté de Foie Grásse
+# Paté de Foie Gras
 
 ## Ingredients
 
@@ -29,7 +29,7 @@ categories:
 
 1. Grind together all ingredients except crackers
 1. Chill
-1. serve pate on crackers
+1. Serve pate on crackers
 
 ## Notes From Gran
 

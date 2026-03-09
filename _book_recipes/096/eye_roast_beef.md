@@ -17,7 +17,7 @@ categories:
 
 | Ingredient     | Amount | Notes |
 | -------------- | ------ | ----- |
-| Rib Eye Roas   |        | |
+| Rib Eye Roast  |        | |
 | Onion Soup Mix |        | Lipton's Brand |
 
 ## Method

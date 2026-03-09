@@ -42,7 +42,7 @@ categories:
 1. Cook and stir until lightly browned
 1. Mix cream with flour and stir in
 1. Add a little water
-1. Cool and stir until thickened
+1. Cook and stir until thickened
 1. Add ham and pimento
 1. Bring to boiling point
 1. Lightly beat and add egg yolk

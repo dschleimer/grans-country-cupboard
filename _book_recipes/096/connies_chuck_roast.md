@@ -31,7 +31,7 @@ categories:
 1. Put chuck into roasting pan
 1. Add both cans of soup
 1. Rinse each can with a full can worth of water, adding the water to the pan
-1. Add the onion soup mix, seasons salt + pepper
+1. Add the onion soup mix, seasoned salt + pepper
 1. Cover tightly
 1. Bake for 3 hours
 1. Cut meat into serving pieces
@@ -39,7 +39,7 @@ categories:
 1. Add stew vegetables to pan
 1. Add more water if needed
 1. Cover
-1. Cook anither 1½ hours
+1. Cook another 1½ hours
 
 ## Notes From Gran
 

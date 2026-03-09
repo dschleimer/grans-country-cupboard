@@ -36,13 +36,13 @@ categories:
 1. While baking:
   * Place foil over ham, not too tight
   * Pour pickle juice or canned fruit juice over ham about 3 times
-  * ombine Brown sugar, pinapple preserves, vinegar and mustard to make a glaze
+  * Combine Brown sugar, pineapple preserves, vinegar and mustard to make a glaze
   * About 30 minutes before ham is done, put the glaze on it
 
 ## Notes From Gran
 
 * Serve hot or cold
-* Whan ham slices get poor grind for ham salad or croquettes
+* When ham slices get poor grind for ham salad or croquettes
 * Use the bone for bean soup
 * "Hearty corn bread complements the flavor of fine Virginia Ham".
 

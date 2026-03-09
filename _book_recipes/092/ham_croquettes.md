@@ -38,7 +38,7 @@ categories:
 1. Beat egg and add a little milk
 1. Dip croquettes into egg
 1. Dip croquettes into breadcrumbs again
-1. Put on bakling dish and dot with butter
+1. Put on baking dish and dot with butter
 1. Bake for about 25 minutes until golden brown and hot
 
 ## Notes From Gran
