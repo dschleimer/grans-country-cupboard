@@ -29,9 +29,9 @@ categories:
 1. Preheat oven to 450 °F
 1. Dress duck
 1. Place into baking dish
-1. Put 2 onions insdie duck
+1. Put 2 onions inside duck
 1. Slice third onion, carrot, celery, and garlic
-1. Arrange slcied vegetables in baking dish around duck
+1. Arrange sliced vegetables in baking dish around duck
 1. Put sliced salt pork or bacon on top of duck
 1. Bake 2 hours or until tender
 1. Add a little water if duck dries while baking

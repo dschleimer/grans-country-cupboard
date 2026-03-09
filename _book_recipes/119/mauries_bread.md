@@ -30,7 +30,7 @@ categories:
 1. Pour in the remaining warm water, oil, sugar, and salt
 1. Mix in flour 1 cup at a time
 1. Knead a little on table
-1. Oil a container, transfer dough to oiled containr, and cover
+1. Oil a container, transfer dough to oiled container, and cover
 1. Let rise 2 hours or until doubled in size
 1. Shape dough into 4 loaves
 1. Put into bread pans

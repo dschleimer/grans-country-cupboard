@@ -69,7 +69,7 @@ categories:
 1. Cut into 6 parts
 1. Knead each part and put into pans
 1. Stick each with fork 3 times
-1. Set plans in warm place and let rise until doubled in size
+1. Set pans in warm place and let rise until doubled in size
 1. Preheat oven to 400 °F while dough is rising
 1. Bake 20-25 minutes until brown and done.  Test doneness by tapping on bottom of pan.  It will sound hollow when done.
 
@@ -82,4 +82,4 @@ categories:
 ## Modern Notes
 
 * This is apparently a traditional way of making bread.  You make a "sponge" overnight, letting the yeast grow unimpeded overnight.  Then you add the remaining ingredients, which tend to slow yeast down, in the morning to turn it into a dough. --David S
-* The recipe is very vague on how much flower is needed.  This is due to differening amount of moisture in the other ingredients and humidity in the air mean it is actually variable, and this is one of the skills you develop through experience.  I've usually seen recipes which call for varying amounts of liquid rather than varying amounts of flour, but this way works too.  There are several tests to see whether the dough is ready.  It should be a smooth, tacky but not sticky, single mass.  There's also a test you can do based on testing whether you can make a thin enough layer that you can see through it.  If you're new to baking, I'd suggest watching youtube videos on making enriched doughs.  -- David S
+* The recipe is very vague on how much flour is needed.  This is due to differing amount of moisture in the other ingredients and humidity in the air mean it is actually variable, and this is one of the skills you develop through experience.  I've usually seen recipes which call for varying amounts of liquid rather than varying amounts of flour, but this way works too.  There are several tests to see whether the dough is ready.  It should be a smooth, tacky but not sticky, single mass.  There's also a test you can do based on testing whether you can make a thin enough layer that you can see through it.  If you're new to baking, I'd suggest watching youtube videos on making enriched doughs.  -- David S

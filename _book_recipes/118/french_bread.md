@@ -36,7 +36,7 @@ categories:
 1. Add softened yeast
 1. Beat in ½ cup flour
 1. Fold in egg whites
-1. Add enough additional flour to make a sitff dough
+1. Add enough additional flour to make a stiff dough
 1. Knead well
 1. Let rise
 1. Punch down
@@ -44,7 +44,7 @@ categories:
 1. divide into 2 even parts
 1. shape each part into a tapering loaf
 1. Sprinkle baking sheet well with corn meal
-1. Place loaces on baking sheet
+1. Place loaves on baking sheet
 1. Cover with damp cloth
 1. Let rise until rounded and light
 1. Preheat oven to 450 °F
@@ -54,7 +54,7 @@ categories:
 1. Boil large pan of water
 1. Place boiling water in bottom of oven
 1. Bake bread at 450 °F for 15 minutes, or until golden
-1. Reduce oven to 350 °F and bake additional 25-35 minutes or until the bread sounds hollow when tapped on bottomt
+1. Reduce oven to 350 °F and bake additional 25-35 minutes or until the bread sounds hollow when tapped on bottom
 1. Cool on rack
 
 ## Notes From Gran

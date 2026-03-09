@@ -14,22 +14,22 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Butter | 3/4 cup | |
-| Sugar | 1 1/2 cups | |
-| Bananas | 3 | Mashed |
-| Eggs | 2 | Beaten light |
-| Vanilla | 1 tsp | |
-| Flour | 2 cups | sifted |
-| Baking Soda | 1 tsp | |
-| Salt | 3/4 tsp | |
-| Sour Cream | 1 cup | |
-| Pecans | 3/4 cup | Chopped - May substitute pecan meal |
+| Ingredient  | Amount  | Notes |
+| ----------- | ------- | ----- |
+| Butter      | ¾ cup   | |
+| Sugar       | 1½ cups | |
+| Bananas     | 3       | Mashed |
+| Eggs        | 2       | Beaten light |
+| Vanilla     | 1 tsp   | |
+| Flour       | 2 cups  | sifted |
+| Baking Soda | 1 tsp   | |
+| Salt        | ¾ tsp   | |
+| Sour Cream  | 1 cup   | |
+| Pecans      | ¾ cup   | Chopped - May substitute pecan meal |
 
 ## Method
 
-1. Preheat oven to 350F
+1. Preheat oven to 350 °F
 1. Cream together butter and sugar
 1. Mash bananas
 1. Beat eggs until light and fluffy
@@ -45,7 +45,7 @@ categories:
 ## Notes From Gran
 
 * You may double the ingredient quantities and bake in 3 pans
-* Excellent for freezing uif wrapped in foil
+* Excellent for freezing if wrapped in foil
 
 ## Modern Notes
 
