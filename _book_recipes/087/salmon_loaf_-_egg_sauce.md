@@ -43,7 +43,7 @@ categories:
 1. Chop onion and add
 1. Chop parsley and add
 1. Slightly beat 2 eggs and add
-1. Add bread crumps
+1. Add bread crumbs
 1. Add 1 cup milk
 1. Combine after adding each ingredient, in the order given
 1. Transfer to buttered baking dish

@@ -52,7 +52,7 @@ categories:
 1. Chop and Saute mushrooms
 1. Chop apple
 1. Melt butter
-1. Combine Mushrooms, melted butter, garlic, apple parsley, salt, pepper, eggs, and White whine
+1. Combine Mushrooms, melted butter, garlic, apple parsley, salt, pepper, eggs, and White wine
 1. Mix and allow to cool
 
 #### Prepare the pig
@@ -75,10 +75,10 @@ categories:
 1. Roast until very tender when tested with a fork.  About 30 minutes per pound
 1. Baste every 20 minutes
 1. Remove foil or paper from ears after 2½ hours
-1. After uncoveringb ears, brush surface of pig with very thick cream
+1. After uncovering ears, brush surface of pig with very thick cream
 1. When tender and brown remove from oven and place on serving platter or large wooden plank
-1. If desired, preserve drippiongs in roasting pan for gravy
-1. Rub skin ok pig with fresh butter until veru shiny
+1. If desired, preserve drippings in roasting pan for gravy
+1. Rub skin of pig with fresh butter until very shiny
 1. If cut in half tie red ribbon around middle
 
 
@@ -113,5 +113,5 @@ categories:
 
 ## Modern Notes
 
-* This recipe was split across two pages in the original cookbook.  This still needs transcription because I need to special-case this page in the recipe layout to show both images.  Or maybe just builkd a custom layout for it. -- David S
+* This recipe was split across two pages in the original cookbook.  This still needs transcription because I need to special-case this page in the recipe layout to show both images.  Or maybe just build a custom layout for it. -- David S
 

@@ -20,7 +20,7 @@ categories:
 | Flour        | 2 Tbsp    | |
 | Milk         | 1 cup     | |
 | Eggs         | 2 + Extra | 2 hard boiled - extra for breading |
-| Parsley      | litte     | |
+| Parsley      | little    | |
 | Salt         | 1 tsp     | |
 | Onion Juice  | 1 tsp     | |
 | Pepper       | ¼ tsp     | |

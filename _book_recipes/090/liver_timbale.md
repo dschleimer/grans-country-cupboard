@@ -34,7 +34,7 @@ categories:
 1. Lightly beat eggs and mix in
 1. Add whipped cream
 1. Grease small mold
-1. Pour mixtur einto mold
+1. Pour mixture into mold
 1. Bake over water bath (like a custard) for 30 minutes
 1. Test with tooth pick
 1. Let stand 10 minutes before unmolding

@@ -27,7 +27,7 @@ categories:
 
 ## Method
 
-1. Preheat over to 325 °F
+1. Preheat oven to 325 °F
 1. Rub meat with Pepper, Thyme, Garlic, and Onion Salt
 1. If desired:
   * wash Sauerkraut and place in bottom of roasting pan

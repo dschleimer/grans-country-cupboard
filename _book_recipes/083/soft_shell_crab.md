@@ -37,9 +37,9 @@ categories:
 ## Notes From Gran
 
 * Slow cooking makes crabs tough
-* Good if fried in half butter and half fried our salt pork. - Rhode Island Way
+* Good if fried in half butter and half fried out salt pork. - Rhode Island Way
 
 ## Modern Notes
 
-* I enterpret the Note from Gran to mean that she would cook salt pork in a pan, leave the left over grease in the pan, add some butter, and use that as the frying oil.  -- David S
+* I interpret the Note from Gran to mean that she would cook salt pork in a pan, leave the left over grease in the pan, add some butter, and use that as the frying oil.  -- David S
 
