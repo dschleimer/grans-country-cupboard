@@ -20,7 +20,7 @@ categories:
 | ------------ | ---------------- | ----- |
 | Onion        | 1 Medium         | Chopped |
 | Green Pepper | ⅓ cup            | Chopped |
-| Margerine    | 2 Tbsp           | |
+| Margarine    | 2 Tbsp           | |
 | Salt         | 1 tsp            | |
 | Flour        | 2 Tbsp           | |
 | Chicken Soup | 1 can            | |
@@ -31,10 +31,10 @@ categories:
 
 ## Method
 
-1. Preheat over to 450 °F
+1. Preheat oven to 450 °F
 1. Grease baking dish and keep it warm
 1. Chop Onion and Green Pepper
-1. Brown together Onion and Green Pepper in Margerine
+1. Brown together Onion and Green Pepper in Margarine
 1. Add Salt and Flour
 1. Add Chicken Soup and Milk
 1. Cook until thick
@@ -47,5 +47,5 @@ categories:
 ## Notes From Gran
 
 ## Modern Notes
-* This appears to call for 1½ cans of milk.  However, it uses a ditto (〃) to do so.  It's unclear to me if this means to fill the can used for the soupr with milk 1.5 times over, calls for milk which was sold in a can in the 70s, calls for condensed milk (which is sold by the can), or is an error and should be measured in cups.  --David S
+* This appears to call for 1½ cans of milk.  However, it uses a ditto (〃) to do so.  It's unclear to me if this means to fill the can used for the soup with milk 1.5 times over, calls for milk which was sold in a can in the 70s, calls for condensed milk (which is sold by the can), or is an error and should be measured in cups.  --David S
 

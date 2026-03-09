@@ -17,7 +17,7 @@ categories:
 | ----------- | ------------ | ----- |
 | Blue Cheese | 2 oz (½ cup) | |
 | Mushrooms   | 1 can (3 oz) | Drained |
-| Egss        | 3            | Whites and yolks separated |
+| Eggs        | 3            | Whites and yolks separated |
 | Cream       | 1 Tbsp       | |
 | Pepper      | ¼ tsp        | |
 | Salt        | to taste     | |
@@ -35,9 +35,9 @@ categories:
 1. Heat butter in 9 inch omelet pan on low heat
 1. Pour egg mixture into pan
 1. As eggs cook, use a spatula to draw in the edges to the center as they set
-1. Cook until omel;et is soft but not runny
+1. Cook until omelet is soft but not runny
 1. Cover half the omelet with crumbled cheese and mushrooms
-1. Fold emelet and serve
+1. Fold omelet and serve
 
 ## Notes From Gran
 

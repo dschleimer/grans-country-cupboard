@@ -23,7 +23,7 @@ categories:
 | Salt          |        | |
 | Pepper        |        | |
 | Bread Crumbs  | a few  | Original recipe just says "few crumbs" |
-| White Whine   | ½ cup  | Dry White Wine |
+| White Wine    | ½ cup  | Dry White Wine |
 
 ## Method
 
@@ -32,7 +32,7 @@ categories:
 1. Chop shallots
 1. Arrange filets in a single layer in baking dish
 1. Dot filets with butter
-1. Combine shallots, parsley, slat, pepper, and bread crumbs
+1. Combine shallots, parsley, salt, pepper, and bread crumbs
 1. Pour over top of filets
 1. Add white whine
 1. Bake without turning for 30-40 minutes or until fish flakes

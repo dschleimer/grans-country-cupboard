@@ -30,8 +30,8 @@ categories:
 1. Cut filets into individual portions
 1. Dip each piece into milk, then into bread crumbs
 1. Salt and pepper filets
-1. Drizzile each peiece with 1 tsp of Italian Dressing
-1. Bake until meat flakes; about 10 minutes for thin fillets and longer for thicker filters
+1. Drizzle each piece with 1 tsp of Italian Dressing
+1. Bake until meat flakes; about 10 minutes for thin fillets and longer for thicker fillets
 
 
 ## Notes From Gran

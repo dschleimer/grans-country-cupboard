@@ -28,14 +28,14 @@ categories:
 | Marjoram               | Pinch       | |
 | Brazil Nuts            | 1 cup       | May use Almonds instead |
 | Almonds                | 1 cup       | May use Brazil nuts instead |
-| Margerine              |             | |
+| Margarine              |             | |
 
 ## Method
 
 1. Preheat oven to 350 °F
 1. Cube Veal if not already
 1. Chop Onion
-1. Sauté Veal in Margerine
+1. Sauté Veal in Margarine
 1. Add chopped onions
 1. Brown
 1. Place Veal and Onion in Casserole, preserving fat in skillet

@@ -33,7 +33,7 @@ categories:
 
 1. Hard boil eggs, drain, let cool, and remove shells
 1. Mix together water, vinegar, and beet liquid
-1. Add sugar, pickling spcies, garlic, and bay leaf
+1. Add sugar, pickling spices, garlic, and bay leaf
 1. Mix well
 1. Slice onion and separate into rings
 1. Add eggs and onion

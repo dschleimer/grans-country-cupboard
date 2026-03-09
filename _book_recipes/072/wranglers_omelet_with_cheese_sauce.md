@@ -27,7 +27,7 @@ categories:
 | Eggs            | 5          | Whites and yolks separated |
 | Pepper          | Dash       | |
 | Sour Cream      | ⅓ cup      | |
-| Cream of Tarter | ½ tsp      | |
+| Cream of Tartar | ½ tsp      | |
 | Dried Beef      | 1 package  | Cut fine - 1 package is 3 or 4 oz, per recipe |
 
 ## Method
