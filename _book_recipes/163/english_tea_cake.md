@@ -40,7 +40,7 @@ categories:
 9. Bake about 1¼ hours or until "done with tester"
 
 ## Notes From Gran
-* This is served at high tea in England - a very highly prixed receipe shared only in the family
+* This is served at high tea in England - a very highly prized recipe shared only in the family
 
 ## Modern Notes
 * By "done with tester", I assume she meant until a toothpick or possibly a knife inserted into the cake comes out clean -- David S

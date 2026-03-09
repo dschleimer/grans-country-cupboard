@@ -14,17 +14,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient         | Amount  | Notes |
-| ------------------ | ------- | ----- |
-| Butter             | ½ cup   | |
-| Sugar              | 1½ cups | |
-| Eggs               | 3       | Separated |
-| Milk               |         | ⅔ cup Milk + Water total |
-| Water              |         | ⅔ cup Milk + Water total |
-| Flour              | 2½ cups | |
-| Baking Powder      | 2 tsp   | |
-| White Raisins      | ½ cup   | Optional |
-| Marachino Cherries | 12      | |
+| Ingredient          | Amount  | Notes |
+| ------------------- | ------- | ----- |
+| Butter              | ½ cup   | |
+| Sugar               | 1½ cups | |
+| Eggs                | 3       | Separated |
+| Milk                |         | ⅔ cup Milk + Water total |
+| Water               |         | ⅔ cup Milk + Water total |
+| Flour               | 2½ cups | |
+| Baking Powder       | 2 tsp   | |
+| White Raisins       | ½ cup   | Optional |
+| Maraschino Cherries | 12      | |
 
 ## Method
 
@@ -37,7 +37,7 @@ categories:
 5. Add egg yolks
 6. Add milk + water
 7. Add flour + baking powder
-8. Cut up cherries, and add if desirted
+8. Cut up cherries, and add if desired
 9. Add raisins if desired
 10. Beat egg whites to stiff peaks and fold in
 11. Bake 20-25 minutes

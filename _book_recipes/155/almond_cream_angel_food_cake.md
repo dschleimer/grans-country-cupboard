@@ -49,7 +49,7 @@ categories:
 19. Slightly beat 4 egg yolks and stir them in.
 20. Cook until thick and creamy.
 21. Add 1 tsp vanilla and slivered almonds.
-22. Cool, then spead between layers of cake. 
+22. Cool, then spread between layers of cake.
 ## Notes From Gran
 
 * 
