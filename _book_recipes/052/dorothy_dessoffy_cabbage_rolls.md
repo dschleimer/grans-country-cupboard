@@ -45,10 +45,10 @@ categories:
 1. Put Sauerkraut around edge of large kettle
 1. Put pork loin in middle of kettle
 1. Put rolled up cabbage on top of loin and Sauerkraut
-1. Put canned tomatoes on top on cabbge rolls
+1. Put canned tomatoes on top on cabbage rolls
 1. Cover with water
 1. Cook at least 4 hours on top of stove
-1. Refirigerate over night
+1. Refrigerate over night
 1. Cook 4 hours in morning
 1. Serve in 2 bowls:
   * Pork in one bowl

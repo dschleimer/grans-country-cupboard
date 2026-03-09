@@ -39,7 +39,7 @@ categories:
 1. Add beans to pot on top of onion
 1. Put Salt pork on top of beans
 1. Boil 1 pint of water in a separate container
-1. Mix togther Sugar, Dry Mustard, Pepper and Salt with boiling water
+1. Mix together Sugar, Dry Mustard, Pepper and Salt with boiling water
 1. Add Molasses or Maple Syrup to Sugar Mixture
 1. Cut ½ inch through rind of pork
 1. Pour sugar mixture on top of Salt Pork

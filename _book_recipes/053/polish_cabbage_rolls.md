@@ -27,13 +27,13 @@ categories:
 | Pepper          | To Taste      | |
 | Tomato Sauce    | 6 oz          | Recipe called for 2 cans |
 | Stewed Tomatoes | 1 lb          | Recipe called for 1 can |
-| Ragu Sacue      |               | May be substituted for Tomato |
+| Ragu Sauce      |               | May be substituted for Tomato |
 | Water           | ½ cup         | See Modern notes below |
 | Butter          |               | |
 
 ## Method
 
-1. Preheat over to 350 °F
+1. Preheat oven to 350 °F
 1. Cook cabbage until tender
 1. Pull off cabbage leaves
 1. Cook rice
@@ -46,7 +46,7 @@ categories:
 1. Mix together Tomato Sauce, Stewed Tomatoes and ½ cup water.  Add additional water as needed.
 1. Pour Tomato mixture over cabbage rolls
 1. Dot top of cabbage rolls with butter
-1. Srinkle with Salt and Pepper
+1. Sprinkle with Salt and Pepper
 1. Cover with foil
 1. Bake for 1 hour
 

@@ -21,7 +21,7 @@ categories:
 | Green Pepper | 1          | |
 | Eggplant     | 1          | |
 | Tomato Puree | 1 cup      | |
-| Cheese       | Few pieces | Recipes specifies "any" cheese |
+| Cheese       | Few pieces | Recipe specifies "any" cheese |
 | Parmesan     | Few dashes | |
 | Salt         | To taste   | |
 | Pepper       | To taste   | |

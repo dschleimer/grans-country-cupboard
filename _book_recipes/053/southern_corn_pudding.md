@@ -25,7 +25,7 @@ categories:
 | Sugar        | 2 Tbsp  | |
 | Butter       | 2 Tbsp  | Melted |
 | Milk         | 1½ cups | |
-| Sherry       | 1½ oz   | Recipe called fopr 1 jigger |
+| Sherry       | 1½ oz   | Recipe called for 1 jigger |
 
 ## Method
 

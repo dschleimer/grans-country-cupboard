@@ -25,10 +25,10 @@ categories:
 | Milk       | 2 cups   | |
 
 ## Method
-1. Cut up cabbage iunto bite-sized pieces
+1. Cut up cabbage into bite-sized pieces
 1. Cook
 1. Remove from stove
-1. Thicken with Flour and BUtter
+1. Thicken with Flour and Butter
 1. Add Salt and Pepper to taste
 1. Place back on stove, stirring constantly
 1. Add 2 cups milk while continuing to stir

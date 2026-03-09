@@ -35,7 +35,7 @@ categories:
 1. Combine Cabbage, Celery, Carrots, Onions, and Coleslaw dressing
 1. Mix well
 1. Add lemon juice and Garlic powder
-1. Add Slat and Pepper to taste
+1. Add Salt and Pepper to taste
 1. Add Mayonnaise for consistency
 
 ## Notes From Gran
