@@ -21,7 +21,7 @@ categories:
 | Lemon Juice           | 2 tsp   | |
 | Mayonnaise            | ¾ cup   | Recipe specifies Hellman's Blue Ribbon Mayonnaise |
 | Asparagus             | 2 boxes | Cut - Cooked |
-| Bread Crumps          |         | |
+| Bread Crumbs          |         | |
 | Butter                |         | |
 
 ## Method

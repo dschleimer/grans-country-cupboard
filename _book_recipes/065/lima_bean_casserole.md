@@ -30,7 +30,7 @@ categories:
 1. Preheat oven to 350 °F
 1. Butter Casserole Dish
 1. Chop Onions
-1. Mix together Limas, Onions, Chees, Salt, Pepper, and Soup
+1. Mix together Limas, Onions, Cheese, Salt, Pepper, and Soup
 1. Rinse soup can with ½ cup milk and add to mixture
 1. Bake 35 to 45 minutes
 

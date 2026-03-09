@@ -17,7 +17,7 @@ categories:
 
 | Ingredient     | Amount   | Notes |
 | -------------- | -------- | ----- |
-| Squash         | 5 medium | Yellow, white or Zuccini |
+| Squash         | 5 medium | Yellow, white or Zucchini |
 | Onion          | ½ cup    | Chopped |
 | Butter         | 2 Tbsp   | Melted - More for Casserole dish |
 | Salt           | 1½ tsp   | |
