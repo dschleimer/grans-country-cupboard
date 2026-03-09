@@ -52,5 +52,5 @@ categories:
 
 ## Modern Notes
 
-* The recipe first says "Spread meat with" followed by the talking about cookign the onions and celery.  It then says to "push meat over filling".  Based on the heating instructions apparently being set up to sear the meat, I assumed it would need to be on the outside when cooking so you should layer the vegetables/croutons and the meat in the baking dish, with the meat on top.  Please let me know how this works, or doesn't --David S
+* The recipe first says "Spread meat with" followed by the talking about cooking the onions and celery.  It then says to "push meat over filling".  Based on the heating instructions apparently being set up to sear the meat, I assumed it would need to be on the outside when cooking so you should layer the vegetables/croutons and the meat in the baking dish, with the meat on top.  Please let me know how this works, or doesn't --David S
 

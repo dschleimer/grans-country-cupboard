@@ -32,7 +32,7 @@ categories:
 1. Preheat oven to 400 °F
 1. Trim the beef
 1. Roast 35 minutes or desired rareness
-1. Slice beaf ½ inch thick
+1. Slice beef ½ inch thick
 1. Serve with Sauce
 
 #### Sauce

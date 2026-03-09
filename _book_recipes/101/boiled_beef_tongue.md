@@ -29,7 +29,7 @@ categories:
 
 ## Method
 
-1. Slcie carrot and onion
+1. Slice carrot and onion
 1. Dice Celery
 1. Cut Parsley fine
 1. Combine all ingredients in a pot

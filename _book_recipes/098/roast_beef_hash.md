@@ -29,7 +29,7 @@ categories:
 
 1. Grind leftover roast beef and raw potatoes with 1 part potatoes to 4 parts roast beef
 1. Chop 1 small onion and add to meat and potatoes
-1. Season well with slat + pepper
+1. Season well with salt + pepper
 1. Add a little worcestershire sauce
 1. Fry until brown and crusty
 

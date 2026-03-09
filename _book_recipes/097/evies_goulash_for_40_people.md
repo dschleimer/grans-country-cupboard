@@ -22,7 +22,7 @@ categories:
 | Tomato Puree      | 4 large cans  | |
 | Green Peppers     | 2 bags        | Chopped - Frozen |
 | Onions            | 2 bags        | Chopped |
-| Tomatoes          | 4 large cans  | Whole Tomoatoes |
+| Tomatoes          | 4 large cans  | Whole Tomatoes |
 | Creamettes        | 2 lbs         | This is a pasta brand - Cooked tender |
 | Italian Seasoning |               | |
 | Salt              |               | |

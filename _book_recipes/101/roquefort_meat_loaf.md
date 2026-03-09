@@ -32,7 +32,7 @@ categories:
 ## Method
 
 1. Pre-heat oven to 325 °F
-1. GHrease a baking dish well
+1. Grease a baking dish well
 1. If desired, hard-boil 4 eggs, and set aside to cool
 1. Chop onion, garlic, and celery
 1. Saute chopped vegetables in butter
