@@ -1,7 +1,7 @@
 ---
 layout: recipe
 page: "009"
-recipe: 009/chedder_cheese_log
+recipe: 009/cheddar_cheese_log
 page_order: 2
 categories:
     - Appetizers
