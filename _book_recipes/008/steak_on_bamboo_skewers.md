@@ -29,7 +29,7 @@ categories:
 1. Crush garlic
 1. Mix soy sauce, sherry, garlic and ginger to make marinade
 1. Cut steak into 1" strips
-1. Marinade steak overnight in refrigerator
+1. Marinate steak overnight in refrigerator
 1. Put steak on bamboo skewers
 1. Cook over open flames on a grill
 

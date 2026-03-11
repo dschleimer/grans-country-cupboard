@@ -25,7 +25,7 @@ categories:
 
 ## Method
 1. Let cheese and cream cheese come to room temperature
-1. 1 cup chopped pecans and cheese.
+1. Combine with 1 cup chopped pecans and cheese.
 1. Add Accent, Worcestershire Sauce, and horseradish (if using) to mixture
 1. Shape into one large ball
 1. Roll in remaining ½ cup of chopped pecans

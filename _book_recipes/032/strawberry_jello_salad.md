@@ -28,7 +28,7 @@ categories:
 1. Let first half of jello set in bottom of 9" x 13" cake pan
 1. Drain Pineapple and Strawberries
 1. Make second half of jello as top layer 
-1. While it is cooking spread drained Pineapple and Strawberries on top of bottom jello layer 
+1. While it is boiling spread drained Pineapple and Strawberries on top of bottom jello layer 
 1. Cover with sour cream
 1. Pour top layer of jello over sour cream
 1. Let second jello layer set

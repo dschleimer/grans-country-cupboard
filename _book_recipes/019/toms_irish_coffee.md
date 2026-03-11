@@ -24,7 +24,7 @@ categories:
 ## Method
 
 1. Add Whiskey to Irish Coffee cup
-1. Add Hot Black Coffee to about 1/ inch of the top of the cup
+1. Add Hot Black Coffee to about 1/2 inch of the top of the cup
 1. Add Sugar
 1. Add Whipped Cream to float on top of coffee
 

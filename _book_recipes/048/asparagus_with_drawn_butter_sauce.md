@@ -20,7 +20,7 @@ categories:
 | Asparagus  |              | Fresh |
 | Sugar      | Pinch        | |
 | Butter     | 2 Tbsp       | |
-| Flour      | 1 Tbsp Flour | |
+| Flour      | 1 Tbsp       | |
 | Milk       | ½ cup        | |
 | Salt       | To Taste     | |
 | Lemon      |              | For serving |
