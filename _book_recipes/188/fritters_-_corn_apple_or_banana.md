@@ -36,7 +36,7 @@ categories:
 7. Drop batter by Tablespoon into fat.
 8. Makes 12-15 fritters. 
 ## Notes From Gran
-Apple slices or banana quarters, dipped in butter, can be used as a substitute for corn.
+Apple slices or banana quarters, dipped in batter, can be used as a substitute for corn.
 * 
 
 ## Modern Notes

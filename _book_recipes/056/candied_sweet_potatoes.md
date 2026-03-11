@@ -28,7 +28,7 @@ categories:
 1. Cook sweet potatoes
 1. Combine ingredients
 1. Bake for 1¼ hours, turning at times
-1. If using stovetop, cook on top of stone in skillet for 45 minutes
+1. If using stovetop, cook on top of stove in skillet for 45 minutes
 
 ## Notes From Gran
 
