@@ -10,6 +10,7 @@ categories:
   - No Cook
   - Chilled
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Calico Salad
 

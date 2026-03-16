@@ -12,6 +12,7 @@ categories:
   - Pan Fried
   - Baked
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Baked Stuffed Tomatoes
 

@@ -9,6 +9,7 @@ categories:
   - Side Dish
   - Pan Fried
   - Boiled
+  - Human Transcribed
 ---
 # Jewish Tomato, Cheese + Egg
 

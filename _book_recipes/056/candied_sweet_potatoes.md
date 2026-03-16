@@ -9,6 +9,7 @@ categories:
   - Thanksgiving
   - Baked
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Candied Sweet Potatoes
 

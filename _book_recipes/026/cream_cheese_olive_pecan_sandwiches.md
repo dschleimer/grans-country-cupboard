@@ -11,6 +11,7 @@ categories:
   - Vegetarian
   - No Cook
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Cream Cheese Olive Pecan Sandwiches
 

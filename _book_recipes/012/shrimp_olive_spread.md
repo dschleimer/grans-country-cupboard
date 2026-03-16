@@ -9,6 +9,7 @@ categories:
   - Spread
   - No Cook
   - Chilled
+  - Human Transcribed
 ---
 # Shrimp Olive Spread
 

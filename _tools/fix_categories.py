@@ -54,7 +54,7 @@ TAG_REPLACEMENTS = {
 TAGS_TO_REMOVE = {"Fried Foods", "Served Hot"}
 
 # Status tags (never treated as "proper" category tags for the threshold check)
-STATUS_TAGS = {"Needs Transcription", "Needs Front Matter"}
+STATUS_TAGS = {"Needs Transcription", "Needs Front Matter", "Machine Transcribed", "Human Transcribed"}
 
 # Minimum number of proper (non-status) category tags a transcribed recipe must
 # have before Needs Front Matter is cleared.

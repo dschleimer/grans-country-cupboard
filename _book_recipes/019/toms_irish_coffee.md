@@ -9,6 +9,7 @@ categories:
     - Cocktail
     - Mixed Drink
     - Caffeinated
+  - Human Transcribed
 ---
 # Tom's Irish Coffee
 

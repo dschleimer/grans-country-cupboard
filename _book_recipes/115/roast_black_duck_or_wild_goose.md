@@ -9,6 +9,7 @@ categories:
   - Poultry
   - Duck
   - Meat
+  - Human Transcribed
 ---
 # Roast Black Duck or Wild Goose
 

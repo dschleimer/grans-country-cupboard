@@ -12,6 +12,7 @@ categories:
     - Ovo-Lacto Vegetarian
     - Double Boiler
     - Chilled
+  - Human Transcribed
 ---
 # Cheese + Bread Puffs
 

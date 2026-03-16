@@ -8,6 +8,7 @@ categories:
     - Party Food
     - Spread
     - No Cook
+  - Human Transcribed
 ---
 # Deviled Ham + Cheese Spread
 

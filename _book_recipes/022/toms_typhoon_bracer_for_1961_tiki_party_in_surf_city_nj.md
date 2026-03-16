@@ -10,6 +10,7 @@ categories:
     - Cocktail
     - Mixed Drink
     - Batch Drink
+  - Human Transcribed
 ---
 # Tom's Typhoon Bracer for 1961 Tiki Party in Surf City NJ
 

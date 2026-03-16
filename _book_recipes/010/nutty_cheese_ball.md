@@ -10,6 +10,7 @@ categories:
     - Finger Food
     - No Cook
     - Chilled
+  - Human Transcribed
 ---
 # Nutty Cheese Ball
 

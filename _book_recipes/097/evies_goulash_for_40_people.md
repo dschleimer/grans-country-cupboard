@@ -11,6 +11,7 @@ categories:
   - Baked
   - Stovetop
   - Meat
+  - Human Transcribed
 ---
 # Evie's Goulash for 40 People
 

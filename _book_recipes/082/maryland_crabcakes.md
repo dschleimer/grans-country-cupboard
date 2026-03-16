@@ -8,6 +8,7 @@ categories:
   - Seafood
   - Crab
   - Appetizers
+  - Human Transcribed
 ---
 # Maryland Crabcakes
 

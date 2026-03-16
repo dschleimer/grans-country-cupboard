@@ -10,6 +10,7 @@ categories:
     - Fried
     - Stovetop
     - Gravy
+  - Human Transcribed
 ---
 # Fried Rabbit
 

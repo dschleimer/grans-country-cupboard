@@ -9,6 +9,7 @@ categories:
     - Soup
     - Beans
     - Boiled
+  - Human Transcribed
 ---
 # Lentil Soup
 

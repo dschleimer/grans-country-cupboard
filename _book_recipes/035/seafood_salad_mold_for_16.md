@@ -13,6 +13,7 @@ categories:
   - Crab
   - Lobster
   - Seafood
+  - Human Transcribed
 ---
 # Seafood Salad Mold for 16
 

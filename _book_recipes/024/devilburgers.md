@@ -11,6 +11,7 @@ categories:
     - Spicy
     - Finger Food
     - Broiled
+  - Human Transcribed
 ---
 # Devilburgers
 

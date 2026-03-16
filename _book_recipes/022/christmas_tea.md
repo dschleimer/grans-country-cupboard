@@ -10,6 +10,7 @@ categories:
     - Mixed Drink
     - Batch Drink
     - Caffeinated
+  - Human Transcribed
 ---
 # Christmas Tea
 

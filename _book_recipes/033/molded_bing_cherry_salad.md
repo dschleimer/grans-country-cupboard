@@ -9,6 +9,7 @@ categories:
   - Dessert
   - Boiled
   - Chilled
+  - Human Transcribed
 ---
 # Molded Bing Cherry Salad
 

@@ -10,6 +10,7 @@ categories:
   - Oysters
   - Appetizers
   - Finger Food
+  - Human Transcribed
 ---
 # Fried Oysters
 

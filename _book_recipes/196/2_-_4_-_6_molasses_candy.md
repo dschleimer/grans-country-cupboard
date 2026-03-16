@@ -9,6 +9,7 @@ categories:
   - Dessert
   - Stovetop
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # 2-4-6 Molasses Candy
 

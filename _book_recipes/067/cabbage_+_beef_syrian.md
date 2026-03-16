@@ -9,6 +9,7 @@ categories:
   - Baked
   - Beef
   - Meat
+  - Human Transcribed
 ---
 # Cabbage + Beef Syrian
 

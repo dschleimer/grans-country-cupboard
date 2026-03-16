@@ -9,6 +9,7 @@ categories:
   - Broiled
   - Chicken
   - Poultry
+  - Human Transcribed
 ---
 # Chicken Breasts Benedict
 

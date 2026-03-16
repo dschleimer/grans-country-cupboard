@@ -11,6 +11,7 @@ categories:
   - Veal
   - Sautéed
   - Meat
+  - Human Transcribed
 ---
 # Veal Curry Casserole
 

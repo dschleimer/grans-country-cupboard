@@ -9,6 +9,7 @@ categories:
   - Crab
   - Eggs
   - Pan Fried
+  - Human Transcribed
 ---
 # Eggs à la Maryland
 

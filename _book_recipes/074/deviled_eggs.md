@@ -8,6 +8,7 @@ categories:
     - Finger Food
     - Boiled Eggs
     - Boiled
+  - Human Transcribed
 ---
 # Deviled Eggs
 

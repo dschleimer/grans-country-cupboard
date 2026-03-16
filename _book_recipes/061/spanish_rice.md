@@ -8,6 +8,7 @@ categories:
     - Spanish
     - Casserole
     - Baked
+  - Human Transcribed
 ---
 # Spanish Rice
 

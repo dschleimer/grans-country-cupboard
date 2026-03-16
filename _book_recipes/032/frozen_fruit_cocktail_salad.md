@@ -8,6 +8,7 @@ categories:
     - Cold Salad
     - Frozen
     - Chilled
+  - Human Transcribed
 ---
 # Frozen Fruit Cocktail Salad
 

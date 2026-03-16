@@ -11,6 +11,7 @@ categories:
   - Main
   - Finger Food
   - Poultry
+  - Human Transcribed
 ---
 # Chicken Turkey or Veal Croquettes
 

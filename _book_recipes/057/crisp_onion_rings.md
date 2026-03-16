@@ -9,6 +9,7 @@ categories:
   - Side Dish
   - Battered
   - Deep Fried
+  - Human Transcribed
 ---
 # Crisp Onion Rings
 

@@ -10,6 +10,7 @@ categories:
     - Punch
     - Cocktail
     - Mixed Drink
+  - Human Transcribed
 ---
 # Trader Vic's Punch
 

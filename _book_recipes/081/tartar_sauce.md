@@ -9,6 +9,7 @@ categories:
   - Condiment
   - Sauce
   - Chilled
+  - Human Transcribed
 ---
 # Tartar Sauce
 

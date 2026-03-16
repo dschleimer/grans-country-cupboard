@@ -9,6 +9,7 @@ categories:
   - Stew
   - Stovetop
   - Meat
+  - Human Transcribed
 ---
 # Connie's Stroganoff
 

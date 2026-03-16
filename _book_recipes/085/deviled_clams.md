@@ -9,6 +9,7 @@ categories:
   - Clams
   - Appetizers
   - Baked
+  - Human Transcribed
 ---
 # Deviled Clams
 

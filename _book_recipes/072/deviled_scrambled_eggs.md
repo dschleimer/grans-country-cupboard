@@ -9,6 +9,7 @@ categories:
   - Breakfast
   - Eggs
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Deviled Scrambled Eggs
 

@@ -8,6 +8,7 @@ categories:
   - Baked
   - Vegetarian
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Maurie's Bread
 

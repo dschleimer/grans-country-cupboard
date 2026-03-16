@@ -10,6 +10,7 @@ categories:
   - Boiled
   - Beef
   - Meat
+  - Human Transcribed
 ---
 # Vegetable Soup
 

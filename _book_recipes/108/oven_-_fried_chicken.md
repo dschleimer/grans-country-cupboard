@@ -10,6 +10,7 @@ categories:
   - Baked
   - Roast
   - Poultry
+  - Human Transcribed
 ---
 # Oven-Fried Chicken
 

@@ -9,6 +9,7 @@ categories:
     - Drinks
     - Cocktail
     - Mixed Drink
+  - Human Transcribed
 ---
 # Typhoon Bracer
 

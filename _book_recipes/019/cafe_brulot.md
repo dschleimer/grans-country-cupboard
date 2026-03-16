@@ -9,6 +9,7 @@ categories:
     - Cocktail
     - Mixed Drink
     - Caffeinated
+  - Human Transcribed
 ---
 # Cafe Brulot
 

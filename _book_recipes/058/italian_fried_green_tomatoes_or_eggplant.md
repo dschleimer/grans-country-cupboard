@@ -9,6 +9,7 @@ categories:
   - Side Dish
   - Battered
   - Deep Fried
+  - Human Transcribed
 ---
 # Italian Fried Green Tomatoes or Eggplant
 

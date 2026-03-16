@@ -9,6 +9,7 @@ categories:
   - Drinks
   - Batch Drink
   - Cocktail
+  - Human Transcribed
 ---
 # Grand-Dad Marter's Applejack
 

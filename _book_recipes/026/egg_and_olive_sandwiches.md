@@ -8,6 +8,7 @@ categories:
     - Cold Sandwich
     - Finger Food
     - No Cook
+  - Human Transcribed
 ---
 # Egg and Olive Sandwiches
 

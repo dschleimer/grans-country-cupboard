@@ -8,6 +8,7 @@ categories:
   - Side Dish
   - Pan Fried
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Potato Pancakes
 

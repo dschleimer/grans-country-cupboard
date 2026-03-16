@@ -11,6 +11,7 @@ categories:
     - Kebab
     - Finger Food
     - Grilled
+  - Human Transcribed
 ---
 # Steak on Bamboo Skewers
 

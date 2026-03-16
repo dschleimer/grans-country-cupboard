@@ -9,6 +9,7 @@ categories:
   - Fruit
   - No Cook
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Cranberry + Apple Uncooked
 

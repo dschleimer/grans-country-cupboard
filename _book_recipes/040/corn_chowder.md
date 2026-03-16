@@ -10,6 +10,7 @@ categories:
     - Chowder
     - Boiled
     - Pan Fried
+  - Human Transcribed
 ---
 # Corn Chowder
 

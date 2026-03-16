@@ -10,6 +10,7 @@ categories:
   - Casserole
   - Baked
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Summer Squash in Casserole
 

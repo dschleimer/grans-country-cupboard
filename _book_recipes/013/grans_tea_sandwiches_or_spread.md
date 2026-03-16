@@ -11,6 +11,7 @@ categories:
   - Sandwich
   - No Cook
   - Chilled
+  - Human Transcribed
 ---
 # Gran's Tea Sandwiches or Spread
 

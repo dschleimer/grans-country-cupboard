@@ -8,6 +8,7 @@ categories:
   - Cookies
   - Baked
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Ranger Cookies
 

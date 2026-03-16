@@ -9,6 +9,7 @@ categories:
   - Main
   - Meat
   - Poultry
+  - Human Transcribed
 ---
 # Chicken Cutlets
 

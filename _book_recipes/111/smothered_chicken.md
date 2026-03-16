@@ -11,6 +11,7 @@ categories:
   - Meat
   - Stovetop
   - Poultry
+  - Human Transcribed
 ---
 # Smothered Chicken
 

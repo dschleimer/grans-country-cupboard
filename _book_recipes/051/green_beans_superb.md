@@ -10,6 +10,7 @@ categories:
   - Side Dish
   - Pan Fried
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Green Beans Superb
 

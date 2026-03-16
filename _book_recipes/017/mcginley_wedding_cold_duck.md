@@ -10,6 +10,7 @@ categories:
     - Punch
     - Mixed Drink
     - Batch Drink
+  - Human Transcribed
 ---
 # McGinley Wedding Cold Duck
 

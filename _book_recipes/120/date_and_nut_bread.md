@@ -8,6 +8,7 @@ categories:
     - Baked
     - Side
     - Sweet
+  - Human Transcribed
 ---
 # Date and Nut Bread
 

@@ -12,6 +12,7 @@ categories:
   - Boiled
   - Baked
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Baked Olive, Macaroni, Tomato Casserole
 

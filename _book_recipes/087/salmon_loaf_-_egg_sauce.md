@@ -9,6 +9,7 @@ categories:
     - Baked
     - Stovetop
     - Main
+  - Human Transcribed
 ---
 # Salmon Loaf - Egg Sauce
 

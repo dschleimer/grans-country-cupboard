@@ -12,6 +12,7 @@ categories:
   - Chicken
   - Baked
   - Poultry
+  - Human Transcribed
 ---
 # Hawaiian Chicken Wings
 

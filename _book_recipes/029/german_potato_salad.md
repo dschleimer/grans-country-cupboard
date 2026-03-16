@@ -9,6 +9,7 @@ categories:
     - Hot Salad
     - Cold Salad
     - Pan Fried
+  - Human Transcribed
 ---
 # German Potato Salad
 

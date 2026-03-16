@@ -8,6 +8,7 @@ categories:
   - Fruit
   - No Cook
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Fresh Peaches - Sliced in Bourbon
 

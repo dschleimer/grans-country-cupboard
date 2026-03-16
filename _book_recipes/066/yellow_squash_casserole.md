@@ -8,6 +8,7 @@ categories:
     - Casserole
     - Boiled
     - Baked
+  - Human Transcribed
 ---
 # Yellow Squash Casserole
 

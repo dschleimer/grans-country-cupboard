@@ -12,6 +12,7 @@ categories:
     - Oysters
     - Seafood Soup
     - Boiled
+  - Human Transcribed
 ---
 # Oyster Stew
 

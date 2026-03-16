@@ -11,6 +11,7 @@ categories:
   - Fried
   - Breaded
   - Deep Fried
+  - Human Transcribed
 ---
 # Tempura Batter for Fish
 

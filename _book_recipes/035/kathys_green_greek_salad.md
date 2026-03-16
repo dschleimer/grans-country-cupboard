@@ -9,6 +9,7 @@ categories:
   - Cold Salad
   - No Cook
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Kathy's Green Greek Salad
 

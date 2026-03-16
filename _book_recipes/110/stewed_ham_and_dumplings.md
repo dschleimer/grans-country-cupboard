@@ -10,6 +10,7 @@ categories:
   - Chicken
   - Stovetop
   - Poultry
+  - Human Transcribed
 ---
 # Stewed Ham and Dumplings
 

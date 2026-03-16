@@ -11,6 +11,7 @@ categories:
   - Pork
   - Offal
   - Meat
+  - Human Transcribed
 ---
 # Paté de Foie Gras
 

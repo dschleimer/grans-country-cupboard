@@ -8,6 +8,7 @@ categories:
   - Cakes
   - Baked
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # 7" Cheese Cake
 

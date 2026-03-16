@@ -9,6 +9,7 @@ categories:
   - Main
   - Beef
   - Meat
+  - Human Transcribed
 ---
 # Eunie's Oven Beef Stew
 

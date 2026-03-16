@@ -10,6 +10,7 @@ categories:
   - Pan Fried
   - Finger Food
   - Snacks
+  - Human Transcribed
 ---
 # Corn Fritters
 

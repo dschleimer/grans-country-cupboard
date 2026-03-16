@@ -8,6 +8,7 @@ categories:
   - Cold Salad
   - Chilled
   - Boiled
+  - Human Transcribed
 ---
 # Gran's Potato Salad
 

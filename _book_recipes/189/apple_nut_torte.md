@@ -9,6 +9,7 @@ categories:
   - Cakes
   - Baked
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Apple Nut Torte
 

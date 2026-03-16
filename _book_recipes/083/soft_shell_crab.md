@@ -9,6 +9,7 @@ categories:
   - Seafood
   - Pan Fried
   - Appetizers
+  - Human Transcribed
 ---
 # Soft Shell Crab
 

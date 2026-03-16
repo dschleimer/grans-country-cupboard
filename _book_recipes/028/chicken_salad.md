@@ -9,6 +9,7 @@ categories:
     - Cold Salad
     - Boiled
     - Chilled
+  - Human Transcribed
 ---
 # Chicken Salad
 

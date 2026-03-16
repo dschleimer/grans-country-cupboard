@@ -5,6 +5,7 @@ recipe: 100/celery_note
 page_order: 3
 categories:
   - Notes
+  - Human Transcribed
 ---
 # Celery Note
 

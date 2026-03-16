@@ -10,6 +10,7 @@ categories:
   - Main
   - Pan Fried
   - Sautéed
+  - Human Transcribed
 ---
 # Shrimp in Sour Cream
 

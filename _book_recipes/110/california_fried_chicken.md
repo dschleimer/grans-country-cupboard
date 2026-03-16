@@ -10,6 +10,7 @@ categories:
   - Baked
   - Meat
   - Poultry
+  - Human Transcribed
 ---
 # California Fried Chicken
 

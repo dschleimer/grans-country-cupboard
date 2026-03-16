@@ -8,6 +8,7 @@ categories:
   - Vegetarian
   - No Cook
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Dressing for Molded Fruit Salad
 

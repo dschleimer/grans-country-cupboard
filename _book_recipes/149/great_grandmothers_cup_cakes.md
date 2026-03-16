@@ -9,6 +9,7 @@ categories:
   - Baked
   - Dessert
   - Finger Food
+  - Human Transcribed
 ---
 # Great Grandmother's Cup Cakes
 

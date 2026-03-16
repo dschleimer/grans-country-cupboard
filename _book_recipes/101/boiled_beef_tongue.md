@@ -9,6 +9,7 @@ categories:
   - Boiled
   - Offal
   - Meat
+  - Human Transcribed
 ---
 # Boiled Beef Tongue
 

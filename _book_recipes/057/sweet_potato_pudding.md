@@ -9,6 +9,7 @@ categories:
   - Side Dish
   - Thanksgiving
   - Baked
+  - Human Transcribed
 ---
 # Sweet Potato Pudding
 

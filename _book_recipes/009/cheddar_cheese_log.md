@@ -10,6 +10,7 @@ categories:
     - Cheese
     - No Cook
     - Chilled
+  - Human Transcribed
 ---
 # Cheddar Cheese Log
 

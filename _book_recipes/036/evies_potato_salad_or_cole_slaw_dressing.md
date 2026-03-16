@@ -8,6 +8,7 @@ categories:
     - Salad
     - Cold Salad
     - Boiled
+  - Human Transcribed
 ---
 # Evie's Potato Salad or Cole Slaw Dressing
 

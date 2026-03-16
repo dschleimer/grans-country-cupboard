@@ -9,6 +9,7 @@ categories:
   - No Cook
   - Chilled
   - Aspic
+  - Human Transcribed
 ---
 # Liver Paté
 

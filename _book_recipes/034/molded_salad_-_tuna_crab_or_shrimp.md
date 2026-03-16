@@ -11,6 +11,7 @@ categories:
   - Crab
   - Shrimp
   - Seafood
+  - Human Transcribed
 ---
 # Molded Salad - Tuna, Crab or Shrimp
 

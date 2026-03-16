@@ -9,6 +9,7 @@ categories:
   - Side Dish
   - Breaded
   - Pan Fried
+  - Human Transcribed
 ---
 # Thin - Fried Eggplant
 

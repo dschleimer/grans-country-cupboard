@@ -10,6 +10,7 @@ categories:
     - Pan Fried
     - Boiled
     - Baked
+  - Human Transcribed
 ---
 # Wrangler's Omelet with Cheese Sauce
 

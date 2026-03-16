@@ -10,6 +10,7 @@ categories:
   - Birthday Cake
   - Frosting
   - Dessert
+  - Human Transcribed
 ---
 # Chocolate Cream Layer Cake
 

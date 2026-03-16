@@ -10,6 +10,7 @@ categories:
   - Pan Fried
   - Boiled
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Fried Red Tomatoes + Milk Gravy
 

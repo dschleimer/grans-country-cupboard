@@ -9,6 +9,7 @@ categories:
   - Main
   - Pan Fried
   - Shrimp
+  - Human Transcribed
 ---
 # Shrimp Newburg
 

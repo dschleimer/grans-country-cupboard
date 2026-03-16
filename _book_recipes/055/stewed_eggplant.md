@@ -9,6 +9,7 @@ categories:
   - Stew
   - Boiled
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Stewed Eggplant
 

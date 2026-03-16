@@ -9,6 +9,7 @@ categories:
     - Party Food
     - Dips
     - No Cook
+  - Human Transcribed
 ---
 # Shrimp Dip
 

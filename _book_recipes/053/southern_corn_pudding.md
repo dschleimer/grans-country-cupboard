@@ -8,6 +8,7 @@ categories:
   - Side Dish
   - Baked
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Southern Corn Pudding
 

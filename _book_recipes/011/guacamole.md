@@ -12,6 +12,7 @@ categories:
   - Spread
   - No Cook
   - Chilled
+  - Human Transcribed
 ---
 # Guacamole
 

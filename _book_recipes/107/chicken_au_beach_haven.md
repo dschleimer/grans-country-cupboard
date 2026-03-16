@@ -12,6 +12,7 @@ categories:
   - Stovetop
   - Baked
   - Poultry
+  - Human Transcribed
 ---
 # Chicken au Beach Haven
 

@@ -11,6 +11,7 @@ categories:
   - Boiled
   - Pan Fried
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Quick Spaghetti
 

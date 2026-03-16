@@ -9,6 +9,7 @@ categories:
     - Snacks
     - Party Food
     - No Cook
+  - Human Transcribed
 ---
 # Bacon, Celery, Cheese Balls
 

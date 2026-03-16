@@ -11,6 +11,7 @@ categories:
     - Cocktail
     - Mixed Drink
     - Batch Drink
+  - Human Transcribed
 ---
 # McGinley Punch
 

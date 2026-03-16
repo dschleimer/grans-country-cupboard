@@ -8,6 +8,7 @@ categories:
     - Cold Salad
     - Party Food
     - No Cook
+  - Human Transcribed
 ---
 # Hawaiian Fruit Salad
 

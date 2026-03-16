@@ -8,6 +8,7 @@ categories:
   - Oysters
   - Pan Fried
   - Main
+  - Human Transcribed
 ---
 # Oyster Cakes Hollandaise
 

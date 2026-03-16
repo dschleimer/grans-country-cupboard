@@ -9,6 +9,7 @@ categories:
     - Side Dish
     - Boiled
     - Baked
+  - Human Transcribed
 ---
 # Baked Beans
 

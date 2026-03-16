@@ -10,6 +10,7 @@ categories:
     - Cocktail
     - Mixed Drink
     - Batch Drink
+  - Human Transcribed
 ---
 # Artillery Punch
 

@@ -10,6 +10,7 @@ categories:
   - Meat
   - Main
   - Poultry
+  - Human Transcribed
 ---
 # Deviled Drumsticks
 

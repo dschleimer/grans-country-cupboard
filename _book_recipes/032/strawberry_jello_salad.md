@@ -9,6 +9,7 @@ categories:
   - Salad
   - Boiled
   - Chilled
+  - Human Transcribed
 ---
 # Strawberry Jello Salad
 

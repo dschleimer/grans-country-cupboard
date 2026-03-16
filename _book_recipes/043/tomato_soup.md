@@ -10,6 +10,7 @@ categories:
   - Vegetarian
   - Boiled
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Tomato Soup
 

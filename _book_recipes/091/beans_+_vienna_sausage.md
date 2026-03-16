@@ -9,6 +9,7 @@ categories:
   - Sausage
   - Pork
   - Meat
+  - Human Transcribed
 ---
 # Beans + Vienna Sausage
 

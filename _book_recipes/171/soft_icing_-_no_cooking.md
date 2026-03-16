@@ -10,6 +10,7 @@ categories:
   - Dessert
   - Vegetarian
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Soft Icing - No Cooking
 

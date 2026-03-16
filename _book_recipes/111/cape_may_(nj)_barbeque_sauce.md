@@ -9,6 +9,7 @@ categories:
   - No Cook
   - Condiment
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Cape May (NJ) Barbeque Sauce
 

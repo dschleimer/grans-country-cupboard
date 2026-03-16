@@ -10,6 +10,7 @@ categories:
   - Pan Fried
   - Finger Food
   - Snacks
+  - Human Transcribed
 ---
 # Fritters - Corn, Apple or Banana
 

@@ -8,6 +8,7 @@ categories:
   - Soup
   - Double Boiler
   - Boiled
+  - Human Transcribed
 ---
 # Savoy Alp Soup
 

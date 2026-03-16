@@ -9,6 +9,7 @@ categories:
   - Cold Sandwich
   - Finger Food
   - No Cook
+  - Human Transcribed
 ---
 # Ham Salad Sandwiches
 

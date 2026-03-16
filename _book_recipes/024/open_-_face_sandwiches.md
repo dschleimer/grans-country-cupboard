@@ -9,6 +9,7 @@ categories:
     - Hot Sandwich
     - Finger Food
     - Broiled
+  - Human Transcribed
 ---
 # Open-Face Sandwiches
 

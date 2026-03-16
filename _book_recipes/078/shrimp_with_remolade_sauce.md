@@ -10,6 +10,7 @@ categories:
     - Finger Food
     - Boiled
     - Chilled
+  - Human Transcribed
 ---
 # Shrimp with Remolade Sauce
 

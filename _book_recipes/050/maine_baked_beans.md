@@ -10,6 +10,7 @@ categories:
   - Boiled
   - Baked
   - Meat
+  - Human Transcribed
 ---
 # Maine Baked Beans
 

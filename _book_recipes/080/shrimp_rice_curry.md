@@ -9,6 +9,7 @@ categories:
   - Shrimp
   - Stovetop
   - Sautéed
+  - Human Transcribed
 ---
 # Shrimp Rice Curry
 

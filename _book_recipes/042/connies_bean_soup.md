@@ -9,6 +9,7 @@ categories:
   - Boiled
   - Pork
   - Meat
+  - Human Transcribed
 ---
 # Connie's Bean Soup
 

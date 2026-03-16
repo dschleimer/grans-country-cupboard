@@ -10,6 +10,7 @@ categories:
     - Finger Food
     - Chilled
     - No Cook
+  - Human Transcribed
 ---
 # Sandwich Loaf for Party
 

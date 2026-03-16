@@ -9,6 +9,7 @@ categories:
   - Side Dish
   - Boiled
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # New Jersey Corn-on-the-Cob
 

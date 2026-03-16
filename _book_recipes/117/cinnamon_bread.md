@@ -8,6 +8,7 @@ categories:
   - Bread
   - Baked
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Cinnamon Bread
 

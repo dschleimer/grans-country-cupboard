@@ -10,6 +10,7 @@ categories:
   - Pork
   - Sautéed
   - Meat
+  - Human Transcribed
 ---
 # Ham with Vegetables
 

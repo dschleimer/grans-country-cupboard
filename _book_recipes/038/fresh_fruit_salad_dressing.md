@@ -10,6 +10,7 @@ categories:
   - Salad
   - Condiment
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Fresh Fruit Salad Dressing
 

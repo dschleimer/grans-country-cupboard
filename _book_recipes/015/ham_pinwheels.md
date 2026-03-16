@@ -11,6 +11,7 @@ categories:
     - Finger Food
     - No Cook
     - Chilled
+  - Human Transcribed
 ---
 # Ham Pinwheels
 

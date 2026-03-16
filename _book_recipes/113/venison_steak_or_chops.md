@@ -9,6 +9,7 @@ categories:
     - Meat
     - Main
     - Stovetop
+  - Human Transcribed
 ---
 # Venison Steak or Chops
 

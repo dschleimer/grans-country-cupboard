@@ -10,6 +10,7 @@ categories:
   - Side Dish
   - Boiled
   - Ovo-Lacto Vegetarian
+  - Human Transcribed
 ---
 # Yellow Squash
 

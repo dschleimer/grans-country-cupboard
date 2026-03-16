@@ -11,6 +11,7 @@ categories:
   - Goulash
   - Beef
   - Meat
+  - Human Transcribed
 ---
 # Hungarian Goulash
 

@@ -9,6 +9,7 @@ categories:
   - Seafood
   - Baked
   - Oysters
+  - Human Transcribed
 ---
 # Oyster Casserole
 

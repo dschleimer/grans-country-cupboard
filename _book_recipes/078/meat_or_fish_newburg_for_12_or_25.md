@@ -12,6 +12,7 @@ categories:
   - Seafood Sauce
   - Chilled
   - Boiled
+  - Human Transcribed
 ---
 # Meat or Fish Newburg for 12 or 25
 

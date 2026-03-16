@@ -8,6 +8,7 @@ categories:
   - No Cook
   - Chilled
   - Condiment
+  - Human Transcribed
 ---
 # Thousand Island Dressing
 
