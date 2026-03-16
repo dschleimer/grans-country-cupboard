@@ -5,12 +5,10 @@ recipe: 015/deviled_melbas
 page_order: 1
 from: Elizabeth McGinley Barmeyer
 categories:
-    - Appetizers
-    - Snacks
-    - Party Food
-    - Finger Food
-    - Broiled
-  - Human Transcribed
+  - Needs Front Matter
+  - Pork
+  - Broiled
+  - Meat
 ---
 # Deviled Melbas
 

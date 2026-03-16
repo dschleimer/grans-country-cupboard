@@ -5,13 +5,9 @@ recipe: 008/steak_on_bamboo_skewers
 page_order: 1
 from: E. Orlovsky
 categories:
-    - Appetizers
-    - Snacks
-    - Party Food
-    - Kebab
-    - Finger Food
-    - Grilled
-  - Human Transcribed
+  - Needs Front Matter
+  - Grilled
+  - Overnight Recipe
 ---
 # Steak on Bamboo Skewers
 

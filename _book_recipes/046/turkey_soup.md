@@ -5,11 +5,12 @@ recipe: 046/turkey_soup
 page_order: 1
 from: Gran
 categories:
-    - Appetizers
-    - Soup
-    - Baked
-    - Boiled
-  - Human Transcribed
+  - Soup
+  - Turkey
+  - Roast
+  - Boiled
+  - Thanksgiving
+  - Poultry
 ---
 # Turkey Soup
 

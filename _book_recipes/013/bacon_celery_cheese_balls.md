@@ -5,11 +5,10 @@ recipe: 013/bacon_celery_cheese_balls
 page_order: 2
 from: Michele McG. Shields - Independence Jr. High - 1974
 categories:
-    - Appetizers
-    - Snacks
-    - Party Food
-    - No Cook
-  - Human Transcribed
+  - Appetizers
+  - Finger Food
+  - Pork
+  - Meat
 ---
 # Bacon, Celery, Cheese Balls
 

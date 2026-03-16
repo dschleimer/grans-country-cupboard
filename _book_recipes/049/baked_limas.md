@@ -5,13 +5,10 @@ recipe: 049/baked_limas
 page_order: 2
 from: Wyoming
 categories:
-    - Vegetables
-    - Side Dish
-    - Casserole
-    - Boiled
-    - Pan Fried
-    - Baked
-  - Human Transcribed
+  - Pork
+  - Baked
+  - Sautéed
+  - Meat
 ---
 # Baked Limas
 

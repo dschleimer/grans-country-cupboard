@@ -4,11 +4,10 @@ page: "026"
 recipe: 026/egg_and_olive_sandwiches
 page_order: 2
 categories:
-    - Sandwich
-    - Cold Sandwich
-    - Finger Food
-    - No Cook
-  - Human Transcribed
+  - Needs Front Matter
+  - Sandwich
+  - Boiled
+  - Ovo-Lacto Vegetarian
 ---
 # Egg and Olive Sandwiches
 

@@ -5,13 +5,10 @@ recipe: 044/she_-_crab_soup
 page_order: 2
 from: The Virginian-Pilot
 categories:
-    - Appetizers
-    - Soup
-    - Seafood
-    - Crab
-    - Seafood Soup
-    - Boiled
-  - Human Transcribed
+  - Soup
+  - Crab
+  - Seafood
+  - Boiled
 ---
 # She - Crab Soup
 

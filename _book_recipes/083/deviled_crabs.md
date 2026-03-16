@@ -4,11 +4,10 @@ page: "083"
 recipe: 083/deviled_crabs
 from: Evie McGinley
 categories:
-    - Seafood
-    - Crab
-    - Boiled
-    - Deep Fried
-  - Human Transcribed
+  - Crab
+  - Seafood
+  - Deep Fried
+  - Boiled
 ---
 # Deviled Crabs
 

@@ -5,11 +5,11 @@ recipe: 050/baked_beans
 page_order: 1
 from: Madge VanSciver
 categories:
-    - Vegetables
-    - Side Dish
-    - Boiled
-    - Baked
-  - Human Transcribed
+  - Pork
+  - Baked
+  - Boiled
+  - Overnight Recipe
+  - Meat
 ---
 # Baked Beans
 

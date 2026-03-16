@@ -4,11 +4,10 @@ page: "106"
 recipe: 106/veal_scallops_with_port
 page_order: 2
 categories:
-    - Meat
-    - Main
-    - Veal
-    - Sauce
-  - Human Transcribed
+  - Needs Front Matter
+  - Veal
+  - Sautéed
+  - Meat
 ---
 # Veal Scallops with Port
 

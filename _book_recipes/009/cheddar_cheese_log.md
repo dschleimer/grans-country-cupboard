@@ -4,13 +4,9 @@ page: "009"
 recipe: 009/cheddar_cheese_log
 page_order: 2
 categories:
-    - Appetizers
-    - Snacks
-    - Party Food
-    - Cheese
-    - No Cook
-    - Chilled
-  - Human Transcribed
+  - Needs Front Matter
+  - Beef
+  - Meat
 ---
 # Cheddar Cheese Log
 

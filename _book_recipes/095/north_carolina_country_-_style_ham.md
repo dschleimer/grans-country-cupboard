@@ -4,11 +4,10 @@ page: "095"
 recipe: 095/north_carolina_country_-_style_ham
 page_order: 1
 categories:
-    - Ham
-    - Boiled
-    - Baked
-    - Roast
-  - Human Transcribed
+  - Pork
+  - Baked
+  - Boiled
+  - Meat
 ---
 # North Carolina Country-Style Ham
 

@@ -5,11 +5,7 @@ recipe: 021/mai_-_tai
 page_order: 1
 from: Tom McGinley - Honolulu
 categories:
-    - Alcohol
-    - Drinks
-    - Cocktail
-    - Mixed Drink
-  - Human Transcribed
+  - Needs Front Matter
 ---
 # Mai - Tai
 

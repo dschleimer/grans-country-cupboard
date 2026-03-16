@@ -4,11 +4,10 @@ page: "061"
 recipe: 061/spanish_rice
 page_order: 2
 categories:
-    - Side Dish
-    - Spanish
-    - Casserole
-    - Baked
-  - Human Transcribed
+  - Needs Front Matter
+  - Pork
+  - Baked
+  - Meat
 ---
 # Spanish Rice
 

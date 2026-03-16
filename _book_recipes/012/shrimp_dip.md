@@ -4,12 +4,10 @@ page: "012"
 recipe: 012/shrimp_dip
 page_order: 3
 categories:
-    - Appetizers
-    - Snacks
-    - Party Food
-    - Dips
-    - No Cook
-  - Human Transcribed
+  - Needs Front Matter
+  - Dip
+  - Shrimp
+  - Seafood
 ---
 # Shrimp Dip
 

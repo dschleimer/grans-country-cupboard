@@ -5,11 +5,10 @@ recipe: 081/crab_imperial
 page_order: 2
 from: Connie
 categories:
-    - Seafood
-    - Crab
-    - Stovetop
-    - Baked
-  - Human Transcribed
+  - Crab
+  - Seafood
+  - Baked
+  - Sautéed
 ---
 # Crab Imperial
 

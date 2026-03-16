@@ -5,11 +5,10 @@ recipe: 055/eggplant_parmesan
 page_order: 3
 from: Yvonne
 categories:
-    - Vegetables
-    - Side Dish
-    - Pan Fried
-    - Boiled
-  - Human Transcribed
+  - Pork
+  - Boiled
+  - Pan Fried
+  - Meat
 ---
 # Eggplant Parmesan
 

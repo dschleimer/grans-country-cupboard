@@ -4,12 +4,10 @@ page: "014"
 recipe: 014/rye_niblets
 page_order: 3
 categories:
-    - Appetizers
-    - Snacks
-    - Party Food
-    - Finger Food
-    - Baked
-  - Human Transcribed
+  - Needs Front Matter
+  - Pork
+  - Baked
+  - Meat
 ---
 # Rye Niblets
 

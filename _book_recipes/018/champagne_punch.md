@@ -5,13 +5,9 @@ recipe: 018/champagne_punch
 page_order: 1
 from: Blanche Johnston
 categories:
-    - Alcohol
-    - Drinks
-    - Punch
-    - Cocktail
-    - Mixed Drink
-    - Batch Drink
-  - Human Transcribed
+  - Needs Front Matter
+  - Punch
+  - Christmas
 ---
 # Champagne Punch
 

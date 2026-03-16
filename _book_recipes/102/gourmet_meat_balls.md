@@ -4,11 +4,11 @@ page: "102"
 recipe: 102/gourmet_meat_balls
 page_order: 2
 categories:
-    - Meatballs
-    - Main
-    - Stovetop
-    - Sauce
-  - Human Transcribed
+  - Beef
+  - Boiled
+  - Sautéed
+  - Pan Fried
+  - Meat
 ---
 # Gourmet Meat-Balls
 

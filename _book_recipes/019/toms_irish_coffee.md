@@ -4,12 +4,9 @@ page: "019"
 recipe: 019/toms_irish_coffee
 page_order: 2
 categories:
-    - Alcohol
-    - Drinks
-    - Cocktail
-    - Mixed Drink
-    - Caffeinated
-  - Human Transcribed
+  - Needs Front Matter
+  - Beverages
+  - Caffeinated
 ---
 # Tom's Irish Coffee
 
@@ -25,7 +22,7 @@ categories:
 ## Method
 
 1. Add Whiskey to Irish Coffee cup
-1. Add Hot Black Coffee to about 1/2 inch of the top of the cup
+1. Add Hot Black Coffee to about ½ inch of the top of the cup
 1. Add Sugar
 1. Add Whipped Cream to float on top of coffee
 

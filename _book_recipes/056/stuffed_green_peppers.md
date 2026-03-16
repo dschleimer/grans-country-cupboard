@@ -5,13 +5,10 @@ recipe: 056/stuffed_green_peppers
 page_order: 2
 from: Dorothy Dessoffy
 categories:
-    - Vegetables
-    - Stuffed Vegetables
-    - Side Dish
-    - Pan Fried
-    - Boiled
-    - Baked
-  - Human Transcribed
+  - Needs Front Matter
+  - Beef
+  - Baked
+  - Meat
 ---
 # Stuffed Green Peppers
 

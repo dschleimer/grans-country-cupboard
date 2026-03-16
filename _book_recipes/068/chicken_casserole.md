@@ -5,12 +5,11 @@ recipe: 068/chicken_casserole
 page_order: 2
 from: Elizabeth McGinley Barmeyer
 categories:
-    - Casserole
-    - Noodles
-    - Boiled
-    - Chilled
-    - Baked
-  - Human Transcribed
+  - Casserole
+  - Chicken
+  - Baked
+  - Overnight Recipe
+  - Poultry
 ---
 # Chicken Casserole
 

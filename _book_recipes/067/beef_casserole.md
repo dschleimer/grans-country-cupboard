@@ -5,12 +5,11 @@ recipe: 067/beef_casserole
 page_order: 1
 from: Gwen W
 categories:
-    - Casserole
-    - Soufflé
-    - Noodles
-    - Pan Fried
-    - Baked
-  - Human Transcribed
+  - Casserole
+  - Beef
+  - Baked
+  - Roast
+  - Meat
 ---
 # Beef Casserole
 

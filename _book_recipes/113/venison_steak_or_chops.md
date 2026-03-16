@@ -4,12 +4,10 @@ page: "113"
 recipe: 113/venison_steak_or_chops
 page_order: 3
 categories:
-    - Game
-    - Venison
-    - Meat
-    - Main
-    - Stovetop
-  - Human Transcribed
+  - Needs Front Matter
+  - Venison
+  - Pan Fried
+  - Meat
 ---
 # Venison Steak or Chops
 

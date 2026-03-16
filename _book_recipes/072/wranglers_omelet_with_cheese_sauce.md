@@ -5,12 +5,15 @@ recipe: 072/wranglers_omelet_with_cheese_sauce
 page_order: 1
 from: Wyoming
 categories:
-    - Omelet
-    - Baked Omelet
-    - Pan Fried
-    - Boiled
-    - Baked
-  - Human Transcribed
+  - Sauce
+  - Condiment
+  - Breakfast
+  - Eggs
+  - Beef
+  - Baked
+  - Boiled
+  - Pan Fried
+  - Meat
 ---
 # Wrangler's Omelet with Cheese Sauce
 

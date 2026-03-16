@@ -5,11 +5,10 @@ recipe: 024/open_-_face_sandwiches
 page_order: 2
 from: Connie
 categories:
-    - Sandwich
-    - Hot Sandwich
-    - Finger Food
-    - Broiled
-  - Human Transcribed
+  - Sandwich
+  - Pork
+  - Baked
+  - Meat
 ---
 # Open-Face Sandwiches
 

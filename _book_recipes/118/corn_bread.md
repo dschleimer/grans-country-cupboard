@@ -4,11 +4,10 @@ page: "118"
 recipe: 118/corn_bread
 page_order: 1
 categories:
-    - Bread
-    - Baked
-    - American
-    - Side
-  - Human Transcribed
+  - Needs Front Matter
+  - Bread
+  - Baked
+  - Ovo-Lacto Vegetarian
 ---
 # Corn Bread
 

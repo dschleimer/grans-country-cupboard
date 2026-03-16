@@ -5,11 +5,11 @@ recipe: 060/beths_spaghetti_for_12+
 page_order: 1
 from: Beth Shields
 categories:
-    - Italian
-    - Noodles
-    - Pan Fried
-    - Boiled
-  - Human Transcribed
+  - Pasta
+  - Beef
+  - Boiled
+  - Sautéed
+  - Meat
 ---
 # Beth's Spaghetti for 12+
 

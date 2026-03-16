@@ -4,13 +4,11 @@ page: "025"
 recipe: 025/sandwich_loaf_for_party
 page_order: 1
 categories:
-    - Sandwich
-    - Cold Sandwich
-    - Party Food
-    - Finger Food
-    - Chilled
-    - No Cook
-  - Human Transcribed
+  - Bread
+  - Sandwich
+  - Pork
+  - Boiled
+  - Meat
 ---
 # Sandwich Loaf for Party
 

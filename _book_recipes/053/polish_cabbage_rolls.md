@@ -5,12 +5,12 @@ recipe: 053/polish_cabbage_rolls
 page_order: 1
 from: Gran
 categories:
-    - Vegetables
-    - Stuffed Vegetables
-    - Wraps
-    - Boiled
-    - Baked
-  - Human Transcribed
+  - Bread
+  - Beef
+  - Pork
+  - Baked
+  - Roast
+  - Meat
 ---
 # Polish Cabbage Rolls
 

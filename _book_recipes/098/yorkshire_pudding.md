@@ -5,12 +5,11 @@ recipe: 098/yorkshire_pudding
 page_order: 2
 from: Isle of Wight - Jana K. - Great Grand Mother
 categories:
-    - Baked
-    - Savory
-    - Roast
-    - Side
-    - Bread
-  - Human Transcribed
+  - Dessert
+  - Beef
+  - Baked
+  - Roast
+  - Meat
 ---
 # Yorkshire Pudding
 

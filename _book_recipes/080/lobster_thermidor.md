@@ -5,12 +5,12 @@ recipe: 080/lobster_thermidor
 page_order: 1
 from: Gran
 categories:
-    - Lobster
-    - Boiled
-    - Stovetop
-    - Broiled
-    - Seafood
-  - Human Transcribed
+  - Lobster
+  - Seafood
+  - Broiled
+  - Boiled
+  - Sautéed
+  - Pan Fried
 ---
 # Lobster Thermidor
 

@@ -5,13 +5,11 @@ recipe: 070/tuna_casserole
 page_order: 2
 from: Osborns
 categories:
-    - Casserole
-    - Seafood
-    - Fish
-    - Pan Fried
-    - Boiled
-    - Baked
-  - Human Transcribed
+  - Casserole
+  - Chicken
+  - Seafood
+  - Baked
+  - Poultry
 ---
 # Tuna Casserole
 

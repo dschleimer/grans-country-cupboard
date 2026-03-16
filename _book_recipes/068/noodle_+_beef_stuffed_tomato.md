@@ -4,12 +4,10 @@ page: "068"
 recipe: 068/noodle_+_beef_stuffed_tomato
 page_order: 1
 categories:
-    - Vegetables
-    - Stuffed Vegetables
-    - Noodles
-    - Boiled
-    - Baked
-  - Human Transcribed
+  - Pasta
+  - Beef
+  - Baked
+  - Meat
 ---
 # Noodle + Beef Stuffed Tomato
 

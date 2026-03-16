@@ -5,13 +5,10 @@ recipe: 010/party_cheese_ball
 page_order: 3
 from: Elizabeth McGinley Barmeyer
 categories:
-    - Appetizers
-    - Snacks
-    - Party Food
-    - Finger Food
-    - No Cook
-    - Chilled
-  - Human Transcribed
+  - Needs Front Matter
+  - Appetizers
+  - Finger Food
+  - Overnight Recipe
 ---
 # Party Cheese Ball
 

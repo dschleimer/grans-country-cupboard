@@ -4,12 +4,12 @@ page: "101"
 recipe: 101/spaghetti_meat_loaf
 page_order: 2
 categories:
-    - Meatloaf
-    - Main
-    - Baked
-    - Casserole
-    - Leftovers
-  - Human Transcribed
+  - Bread
+  - Pasta
+  - Beef
+  - Baked
+  - Leftovers
+  - Meat
 ---
 # Spaghetti Meat Loaf
 

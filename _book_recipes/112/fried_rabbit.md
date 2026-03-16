@@ -5,12 +5,10 @@ recipe: 112/fried_rabbit
 page_order: 2
 from: Gran
 categories:
-    - Main
-    - Meat
-    - Fried
-    - Stovetop
-    - Gravy
-  - Human Transcribed
+  - Needs Front Matter
+  - Rabbit
+  - Pan Fried
+  - Meat
 ---
 # Fried Rabbit
 

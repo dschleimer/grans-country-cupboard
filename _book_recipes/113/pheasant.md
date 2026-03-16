@@ -5,11 +5,9 @@ recipe: 113/pheasant
 page_order: 2
 from: Tom McGinley
 categories:
-    - Poultry
-    - Stovetop
-    - Main
-    - Gravy
-  - Human Transcribed
+  - Needs Front Matter
+  - Boiled
+  - Pan Fried
 ---
 # Pheasant
 

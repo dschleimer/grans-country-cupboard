@@ -5,12 +5,14 @@ recipe: 040/corn_chowder
 page_order: 2
 from: Pat
 categories:
-    - Appetizers
-    - Soup
-    - Chowder
-    - Boiled
-    - Pan Fried
-  - Human Transcribed
+  - Soup
+  - Chicken
+  - Pork
+  - Boiled
+  - Sautéed
+  - Pan Fried
+  - Poultry
+  - Meat
 ---
 # Corn Chowder
 

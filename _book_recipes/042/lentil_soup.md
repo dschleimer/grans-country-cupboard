@@ -5,11 +5,10 @@ recipe: 042/lentil_soup
 page_order: 2
 from: Ruth Jacobi
 categories:
-    - Appetizers
-    - Soup
-    - Beans
-    - Boiled
-  - Human Transcribed
+  - Soup
+  - Beef
+  - Pork
+  - Meat
 ---
 # Lentil Soup
 

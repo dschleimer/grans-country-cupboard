@@ -5,12 +5,7 @@ recipe: 017/mcginley_wedding_cold_duck
 page_order: 1
 from: 
 categories:
-    - Alcohol
-    - Drinks
-    - Punch
-    - Mixed Drink
-    - Batch Drink
-  - Human Transcribed
+  - Needs Front Matter
 ---
 # McGinley Wedding Cold Duck
 

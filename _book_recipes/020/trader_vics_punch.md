@@ -5,12 +5,8 @@ recipe: 020/trader_vics_punch
 page_order: 3
 from: Tom McGinley - Honolulu
 categories:
-    - Alcohol
-    - Drinks
-    - Punch
-    - Cocktail
-    - Mixed Drink
-  - Human Transcribed
+  - Needs Front Matter
+  - Punch
 ---
 # Trader Vic's Punch
 

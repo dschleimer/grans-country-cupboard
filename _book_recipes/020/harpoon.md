@@ -5,11 +5,7 @@ recipe: 020/harpoon
 page_order: 1
 from: Elizabeth McGinley Barmeyer
 categories:
-    - Alcohol
-    - Drinks
-    - Cocktail
-    - Mixed Drink
-  - Human Transcribed
+  - Needs Front Matter
 ---
 # Harpoon
 

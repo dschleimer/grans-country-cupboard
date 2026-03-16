@@ -5,13 +5,11 @@ recipe: 024/devilburgers
 page_order: 1
 from: Connie
 categories:
-    - Sandwich
-    - Hot Sandwich
-    - Burger
-    - Spicy
-    - Finger Food
-    - Broiled
-  - Human Transcribed
+  - Sandwich
+  - Beef
+  - Baked
+  - Broiled
+  - Meat
 ---
 # Devilburgers
 

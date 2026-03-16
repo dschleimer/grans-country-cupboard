@@ -4,11 +4,8 @@ page: "031"
 recipe: 031/hawaiian_fruit_salad
 page_order: 1
 categories:
-    - Salad
-    - Cold Salad
-    - Party Food
-    - No Cook
-  - Human Transcribed
+  - Needs Front Matter
+  - Salad
 ---
 # Hawaiian Fruit Salad
 

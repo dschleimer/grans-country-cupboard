@@ -4,11 +4,10 @@ page: "066"
 recipe: 066/yellow_squash_casserole
 page_order: 1
 categories:
-    - Vegetables
-    - Casserole
-    - Boiled
-    - Baked
-  - Human Transcribed
+  - Needs Front Matter
+  - Casserole
+  - Baked
+  - Ovo-Lacto Vegetarian
 ---
 # Yellow Squash Casserole
 

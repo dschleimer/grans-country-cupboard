@@ -4,11 +4,10 @@ page: "036"
 recipe: 036/boiled_coleslaw_dressing_granny_van_scriver
 page_order: 1
 categories:
-    - Salad Dressing
-    - Salad
-    - Cold Salad
-    - Boiled
-  - Human Transcribed
+  - Salad
+  - Chilled
+  - Boiled
+  - Ovo-Lacto Vegetarian
 ---
 # Boiled Coleslaw Dressing Granny Van Scriver
 

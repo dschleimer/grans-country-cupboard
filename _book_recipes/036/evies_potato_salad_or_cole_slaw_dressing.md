@@ -4,11 +4,10 @@ page: "036"
 recipe: 036/evies_potato_salad_or_cole_slaw_dressing
 page_order: 3
 categories:
-    - Salad Dressing
-    - Salad
-    - Cold Salad
-    - Boiled
-  - Human Transcribed
+  - Needs Front Matter
+  - Salad
+  - Chilled
+  - Ovo-Lacto Vegetarian
 ---
 # Evie's Potato Salad or Cole Slaw Dressing
 

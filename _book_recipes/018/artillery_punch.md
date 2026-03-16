@@ -4,13 +4,8 @@ page: "018"
 recipe: 018/artillery_punch
 page_order: 3
 categories:
-    - Alcohol
-    - Drinks
-    - Punch
-    - Cocktail
-    - Mixed Drink
-    - Batch Drink
-  - Human Transcribed
+  - Needs Front Matter
+  - Punch
 ---
 # Artillery Punch
 

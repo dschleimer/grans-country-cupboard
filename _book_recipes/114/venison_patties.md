@@ -4,11 +4,10 @@ page: "114"
 recipe: 114/venison_patties
 page_order: 2
 categories:
-    - Venison
-    - Meat
-    - Broiled
-    - Main
-  - Human Transcribed
+  - Pork
+  - Venison
+  - Broiled
+  - Meat
 ---
 # Venison Patties
 

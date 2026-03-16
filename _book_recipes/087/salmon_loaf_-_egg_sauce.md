@@ -4,12 +4,12 @@ page: "087"
 recipe: 087/salmon_loaf_-_egg_sauce
 page_order: 1
 categories:
-    - Seafood
-    - Fish
-    - Baked
-    - Stovetop
-    - Main
-  - Human Transcribed
+  - Bread
+  - Sauce
+  - Condiment
+  - Seafood
+  - Baked
+  - Boiled
 ---
 # Salmon Loaf - Egg Sauce
 

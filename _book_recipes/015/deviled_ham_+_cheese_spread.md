@@ -4,11 +4,10 @@ page: "015"
 recipe: 015/deviled_ham_+_cheese_spread
 page_order: 3
 categories:
-    - Appetizers
-    - Party Food
-    - Spread
-    - No Cook
-  - Human Transcribed
+  - Needs Front Matter
+  - Spread
+  - Pork
+  - Meat
 ---
 # Deviled Ham + Cheese Spread
 

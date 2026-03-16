@@ -5,11 +5,9 @@ recipe: 019/pina_colada
 page_order: 4
 from: Mable Allen
 categories:
-    - Alcohol
-    - Drinks
-    - Cocktail
-    - Mixed Drink
-  - Human Transcribed
+  - Needs Front Matter
+  - Cocktail
+  - Alcohol
 ---
 # Pina Colada
 

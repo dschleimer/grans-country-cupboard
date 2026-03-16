@@ -4,13 +4,11 @@ page: "078"
 recipe: 078/shrimp_with_remolade_sauce
 page_order: 1
 categories:
-    - Seafood
-    - Shrimp
-    - Appetizers
-    - Finger Food
-    - Boiled
-    - Chilled
-  - Human Transcribed
+  - Sauce
+  - Condiment
+  - Shrimp
+  - Seafood
+  - Boiled
 ---
 # Shrimp with Remolade Sauce
 

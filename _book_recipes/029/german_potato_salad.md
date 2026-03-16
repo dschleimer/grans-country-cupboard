@@ -5,11 +5,11 @@ recipe: 029/german_potato_salad
 page_order: 1
 from: Wilkie
 categories:
-    - Salad
-    - Hot Salad
-    - Cold Salad
-    - Pan Fried
-  - Human Transcribed
+  - Salad
+  - Pork
+  - Boiled
+  - Pan Fried
+  - Meat
 ---
 # German Potato Salad
 
