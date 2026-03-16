@@ -4,8 +4,8 @@ page: "187"
 recipe: 187/large_eggs_note
 page_order: 3
 categories:
-  - Needs Transcription
-  - Needs Front Matter
+  - Machine Transcribed
+  - Notes
 ---
 # Large Eggs Note
 
@@ -13,15 +13,14 @@ categories:
 
 | Ingredient | Amount | Notes |
 | ---------- | ------ | ----- |
-|  |  | |
 
 ## Method
 
 ## Notes From Gran
 
-* 
+* Most recipes are better when large eggs are used
 
 ## Modern Notes
 
-* 
+* "Large" eggs are the standard size assumed in most American recipes — if a recipe doesn't specify, use large -- Claude (AI)
 

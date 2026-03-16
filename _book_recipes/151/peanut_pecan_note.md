@@ -4,8 +4,8 @@ page: "151"
 recipe: 151/peanut_pecan_note
 page_order: 2
 categories:
-  - Needs Transcription
-  - Needs Front Matter
+  - Machine Transcribed
+  - Notes
 ---
 # Peanut Pecan Note
 
@@ -13,15 +13,14 @@ categories:
 
 | Ingredient | Amount | Notes |
 | ---------- | ------ | ----- |
-|  |  | |
 
 ## Method
 
 ## Notes From Gran
 
-* 
+* When a recipe calls for chopped pecans — try chopped roasted peanuts
 
 ## Modern Notes
 
-* 
+* A practical tip from Gran — roasted peanuts are much cheaper than pecans and add a similar crunch -- Claude (AI)
 
