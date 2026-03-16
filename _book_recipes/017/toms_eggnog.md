@@ -5,10 +5,11 @@ recipe: 017/toms_eggnog
 page_order: 3
 from: Tom McGinley
 categories:
+  - Alcohol
+  - Drinks
+  - Mixed Drink
+  - Batch Drink
   - Human Transcribed
-  - Needs Front Matter
-  - Beverages
-  - Ovo-Lacto Vegetarian
 ---
 # Tom's Eggnog
 

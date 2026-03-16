@@ -5,8 +5,11 @@ recipe: 020/fog_cutter
 page_order: 2
 from: Tom McGinley - Honolulu
 categories:
+  - Alcohol
+  - Drinks
+  - Cocktail
+  - Mixed Drink
   - Human Transcribed
-  - Needs Front Matter
 ---
 # Fog Cutter
 

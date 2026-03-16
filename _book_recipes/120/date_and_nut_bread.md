@@ -4,11 +4,11 @@ page: "120"
 recipe: 120/date_and_nut_bread
 page_order: 2
 categories:
-  - Human Transcribed
   - Bread
   - Baked
-  - Boiled
-  - Ovo-Lacto Vegetarian
+  - Side
+  - Sweet
+  - Human Transcribed
 ---
 # Date and Nut Bread
 

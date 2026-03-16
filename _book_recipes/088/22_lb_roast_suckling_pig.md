@@ -5,12 +5,11 @@ recipe: 088/22_lb_roast_suckling_pig
 page_order: 1
 from: Wilma Swede
 categories:
-  - Human Transcribed
-  - Pork
-  - Baked
   - Roast
-  - Sautéed
-  - Meat
+  - Main
+  - Party Food
+  - All Day Recipe
+  - Human Transcribed
 ---
 # 22 lb Roast Suckling Pig
 

@@ -4,10 +4,13 @@ page: "010"
 recipe: 010/nutty_cheese_ball
 page_order: 2
 categories:
-  - Human Transcribed
-  - Needs Front Matter
   - Appetizers
+  - Snacks
+  - Party Food
   - Finger Food
+  - No Cook
+  - Chilled
+  - Human Transcribed
 ---
 # Nutty Cheese Ball
 

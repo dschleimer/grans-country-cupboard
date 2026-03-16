@@ -5,11 +5,14 @@ recipe: 011/cheese_+_bread_puffs
 page_order: 1
 from: Martha Marter
 categories:
-  - Human Transcribed
-  - Bread
-  - Baked
-  - Double Boiler
+  - Appetizers
+  - Snacks
+  - Party Food
+  - Finger Food
   - Ovo-Lacto Vegetarian
+  - Double Boiler
+  - Chilled
+  - Human Transcribed
 ---
 # Cheese + Bread Puffs
 

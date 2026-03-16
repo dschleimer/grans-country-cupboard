@@ -5,12 +5,11 @@ recipe: 082/15_crab_cakes
 page_order: 1
 from: Carrie, 1930, served in a bar on Friday nights
 categories:
-  - Human Transcribed
-  - Dessert
-  - Cakes
-  - Crab
   - Seafood
-  - Pan Fried
+  - Crab
+  - Stovetop
+  - Fried
+  - Human Transcribed
 ---
 # 15 Crab Cakes
 

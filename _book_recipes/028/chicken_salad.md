@@ -5,11 +5,11 @@ recipe: 028/chicken_salad
 page_order: 1
 from: Aunt Anna Marter
 categories:
-  - Human Transcribed
   - Salad
-  - Chicken
+  - Cold Salad
   - Boiled
-  - Poultry
+  - Chilled
+  - Human Transcribed
 ---
 # Chicken Salad
 

@@ -5,11 +5,11 @@ recipe: 118/french_bread
 page_order: 2
 from: Wyoming
 categories:
-  - Human Transcribed
   - Bread
+  - Side
   - Baked
-  - Boiled
-  - Ovo-Lacto Vegetarian
+  - Stovetop
+  - Human Transcribed
 ---
 # French Bread
 

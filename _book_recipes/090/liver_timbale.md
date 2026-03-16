@@ -4,11 +4,11 @@ page: "090"
 recipe: 090/liver_timbale
 page_order: 3
 categories:
-  - Human Transcribed
-  - Chicken
+  - Liver
+  - Stovetop
   - Baked
-  - Sautéed
-  - Poultry
+  - Chilled
+  - Human Transcribed
 ---
 # Liver Timbale
 

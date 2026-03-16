@@ -4,11 +4,13 @@ page: "106"
 recipe: 106/veal_roast_with_vegetables
 page_order: 1
 categories:
-  - Human Transcribed
-  - Needs Front Matter
-  - Veal
-  - Boiled
   - Meat
+  - Vegetables
+  - Veal
+  - Main
+  - Side
+  - Stovetop
+  - Human Transcribed
 ---
 # Veal Roast with Vegetables
 

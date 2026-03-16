@@ -4,9 +4,12 @@ page: "008"
 recipe: 008/cheese_puffs
 page_order: 2
 categories:
-  - Human Transcribed
-  - Needs Front Matter
+  - Appetizers
+  - Snacks
+  - Party Food
+  - Cheese
   - Baked
+  - Human Transcribed
 ---
 # Cheese Puffs
 

@@ -4,11 +4,12 @@ page: "113"
 recipe: 113/squab_pie
 page_order: 1
 categories:
-  - Human Transcribed
-  - Dessert
+  - Main
+  - Casserole
   - Pie
+  - Poultry
   - Baked
-  - Boiled
+  - Human Transcribed
 ---
 # Squab Pie
 

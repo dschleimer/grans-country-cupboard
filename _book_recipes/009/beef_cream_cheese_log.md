@@ -4,10 +4,11 @@ page: "009"
 recipe: 009/beef_cream_cheese_log
 page_order: 3
 categories:
+  - Appetizers
+  - Party Food
+  - No Cook
+  - Chilled
   - Human Transcribed
-  - Needs Front Matter
-  - Beef
-  - Meat
 ---
 # Beef Cream Cheese Log
 

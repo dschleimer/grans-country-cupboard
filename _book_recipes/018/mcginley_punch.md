@@ -5,9 +5,13 @@ recipe: 018/mcginley_punch
 page_order: 2
 from: Tom McGinley
 categories:
-  - Human Transcribed
-  - Needs Front Matter
+  - Alcohol
+  - Drinks
   - Punch
+  - Cocktail
+  - Mixed Drink
+  - Batch Drink
+  - Human Transcribed
 ---
 # McGinley Punch
 

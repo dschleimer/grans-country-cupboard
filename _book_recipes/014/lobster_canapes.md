@@ -5,11 +5,12 @@ recipe: 014/lobster_canapes
 page_order: 1
 from: Connie
 categories:
-  - Human Transcribed
-  - Lobster
   - Appetizers
-  - Seafood
-  - Pan Fried
+  - Snacks
+  - Party Food
+  - Finger Food
+  - Deep Fried
+  - Human Transcribed
 ---
 # Lobster Canapes
 

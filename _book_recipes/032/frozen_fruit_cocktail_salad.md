@@ -4,11 +4,11 @@ page: "032"
 recipe: 032/frozen_fruit_cocktail_salad
 page_order: 1
 categories:
-  - Human Transcribed
   - Salad
-  - Cocktail
-  - Overnight Recipe
-  - Alcohol
+  - Cold Salad
+  - Frozen
+  - Chilled
+  - Human Transcribed
 ---
 # Frozen Fruit Cocktail Salad
 

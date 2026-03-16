@@ -4,8 +4,12 @@ page: "019"
 recipe: 019/cafe_brulot
 page_order: 1
 categories:
+  - Alcohol
+  - Drinks
+  - Cocktail
+  - Mixed Drink
+  - Caffeinated
   - Human Transcribed
-  - Needs Front Matter
 ---
 # Cafe Brulot
 

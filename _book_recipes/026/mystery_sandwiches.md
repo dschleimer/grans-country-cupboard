@@ -4,11 +4,12 @@ page: "026"
 recipe: 026/mystery_sandwiches
 page_order: 1
 categories:
-  - Human Transcribed
-  - Needs Front Matter
   - Sandwich
-  - Boiled
-  - Ovo-Lacto Vegetarian
+  - Cold Sandwich
+  - Finger Food
+  - No Cook
+  - Chilled
+  - Human Transcribed
 ---
 # Mystery Sandwiches
 

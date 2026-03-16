@@ -4,14 +4,12 @@ page: "100"
 recipe: 100/evies_meat_loaf
 page_order: 2
 categories:
-  - Human Transcribed
-  - Bread
-  - Beef
-  - Pork
-  - Veal
+  - Meatloaf
+  - Main
   - Baked
-  - Boiled
-  - Meat
+  - Stovetop
+  - Casserole
+  - Human Transcribed
 ---
 # Evie's Meat Loaf
 

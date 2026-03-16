@@ -4,10 +4,13 @@ page: "010"
 recipe: 010/dried_beef_ball
 page_order: 1
 categories:
+  - Appetizers
+  - Snacks
+  - Party Food
+  - Finger Food
+  - No Cook
+  - Chilled
   - Human Transcribed
-  - Needs Front Matter
-  - Beef
-  - Meat
 ---
 # Dried Beef Ball
 

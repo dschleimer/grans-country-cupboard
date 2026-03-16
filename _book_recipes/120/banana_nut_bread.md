@@ -5,11 +5,11 @@ recipe: 120/banana_nut_bread
 page_order: 1
 from: Eunie
 categories:
-  - Human Transcribed
-  - Needs Front Matter
   - Bread
   - Baked
-  - Ovo-Lacto Vegetarian
+  - Side
+  - Sweet
+  - Human Transcribed
 ---
 # Banana Nut Bread
 

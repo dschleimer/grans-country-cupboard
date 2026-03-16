@@ -4,11 +4,11 @@ page: "100"
 recipe: 100/grans_meat_loaf
 page_order: 1
 categories:
-  - Human Transcribed
-  - Bread
-  - Beef
+  - Meatloaf
+  - Main
   - Baked
-  - Meat
+  - Casserole
+  - Human Transcribed
 ---
 # Gran's Meat Loaf
 

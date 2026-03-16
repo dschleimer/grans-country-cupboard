@@ -4,10 +4,12 @@ page: "019"
 recipe: 019/toms_irish_coffee
 page_order: 2
 categories:
-  - Human Transcribed
-  - Needs Front Matter
-  - Beverages
+  - Alcohol
+  - Drinks
+  - Cocktail
+  - Mixed Drink
   - Caffeinated
+  - Human Transcribed
 ---
 # Tom's Irish Coffee
 

@@ -5,11 +5,14 @@ recipe: 043/oyster_stew
 page_order: 1
 from: Nanna Marter
 categories:
-  - Human Transcribed
+  - Appetizers
+  - Soup
   - Stew
-  - Oysters
-  - Boiled
   - Seafood
+  - Oysters
+  - Seafood Soup
+  - Boiled
+  - Human Transcribed
 ---
 # Oyster Stew
 
