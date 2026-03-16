@@ -42,6 +42,6 @@ categories:
 
 ## Modern Notes
 
-* This is a spiced raisin cake that needs no icing — the spices and raisins provide all the flavor
-* White raisins (golden raisins/sultanas) are milder and sweeter than dark raisins
+* This is a spiced raisin cake that needs no icing — the spices and raisins provide all the flavor -- Claude (AI)
+* White raisins (golden raisins/sultanas) are milder and sweeter than dark raisins -- Claude (AI)
 

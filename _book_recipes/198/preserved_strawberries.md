@@ -35,6 +35,6 @@ categories:
 
 ## Modern Notes
 
-* This is an old-fashioned strawberry preserve — the overnight sugar maceration draws out juices and keeps berries whole
-* Doing only 1 quart at a time ensures even cooking and proper set
-* Store in sterilized jars using proper canning procedures
+* This is an old-fashioned strawberry preserve — the overnight sugar maceration draws out juices and keeps berries whole -- Claude (AI)
+* Doing only 1 quart at a time ensures even cooking and proper set -- Claude (AI)
+* Store in sterilized jars using proper canning procedures -- Claude (AI)

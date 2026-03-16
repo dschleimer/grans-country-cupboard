@@ -40,6 +40,6 @@ categories:
 
 ## Modern Notes
 
-* A Southern-style dumpling with cornmeal for extra texture and flavor
-* Do not lift the lid while the dumplings cook — the steam is what cooks them through
-* These work best dropped on top of a simmering stew or pot roast
+* A Southern-style dumpling with cornmeal for extra texture and flavor -- Claude (AI)
+* Do not lift the lid while the dumplings cook — the steam is what cooks them through -- Claude (AI)
+* These work best dropped on top of a simmering stew or pot roast -- Claude (AI)

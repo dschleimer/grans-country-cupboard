@@ -39,7 +39,7 @@ categories:
 
 ## Modern Notes
 
-* Scotties are chewy brown sugar bar cookies — similar to blondies
-* Cut while still warm — they become too hard to cut cleanly once fully cooled
-* The high ratio of brown sugar to flour makes these very chewy and butterscotch-flavored
+* Scotties are chewy brown sugar bar cookies — similar to blondies -- Claude (AI)
+* Cut while still warm — they become too hard to cut cleanly once fully cooled -- Claude (AI)
+* The high ratio of brown sugar to flour makes these very chewy and butterscotch-flavored -- Claude (AI)
 

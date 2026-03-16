@@ -38,6 +38,6 @@ categories:
 
 ## Modern Notes
 
-* These are hearty German-style potato dumplings (kartoffelklöße)
-* Squeeze excess moisture from the grated potatoes before adding to the mixture
-* Keep the lid on tight while simmering — lifting it lets the steam escape and the dumplings won't cook through
+* These are hearty German-style potato dumplings (kartoffelklöße) -- Claude (AI)
+* Squeeze excess moisture from the grated potatoes before adding to the mixture -- Claude (AI)
+* Keep the lid on tight while simmering — lifting it lets the steam escape and the dumplings won't cook through -- Claude (AI)

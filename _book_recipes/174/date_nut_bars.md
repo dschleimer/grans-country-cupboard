@@ -41,7 +41,7 @@ categories:
 
 ## Modern Notes
 
-* These are chewy date bars rolled in sugar — a classic mid-century treat
-* Cut and roll while still warm for the best coating
-* Line the pan with parchment for easier removal
+* These are chewy date bars rolled in sugar — a classic mid-century treat -- Claude (AI)
+* Cut and roll while still warm for the best coating -- Claude (AI)
+* Line the pan with parchment for easier removal -- Claude (AI)
 

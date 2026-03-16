@@ -32,9 +32,9 @@ categories:
 
 ## Modern Notes
 
-* From 1900, Nana Snyder, Philadelphia, Pa.
-* This is a very old-fashioned homemade wine recipe — the raisins provide additional sugar and body
-* A "yeast cake" is compressed fresh yeast — substitute 1 packet (2¼ tsp) active dry yeast
-* Fermentation in a crock for 2 weeks produces a mild, slightly sweet wine
-* Modern winemakers would use an airlock rather than an open crock
+* From 1900, Nana Snyder, Philadelphia, Pa. -- Claude (AI)
+* This is a very old-fashioned homemade wine recipe — the raisins provide additional sugar and body -- Claude (AI)
+* A "yeast cake" is compressed fresh yeast — substitute 1 packet (2¼ tsp) active dry yeast -- Claude (AI)
+* Fermentation in a crock for 2 weeks produces a mild, slightly sweet wine -- Claude (AI)
+* Modern winemakers would use an airlock rather than an open crock -- Claude (AI)
 

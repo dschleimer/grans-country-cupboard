@@ -27,8 +27,8 @@ categories:
 
 ## Modern Notes
 
-* A brief note accompanying the furniture care tips on this page
-* "Boiled" linseed oil is heat-treated for faster drying — raw linseed oil takes much longer to cure
-* Store in a cool, dark place with the lid tightly sealed
-* Dispose of linseed-oil-soaked rags carefully — they can spontaneously combust
+* A brief note accompanying the furniture care tips on this page -- Claude (AI)
+* "Boiled" linseed oil is heat-treated for faster drying — raw linseed oil takes much longer to cure -- Claude (AI)
+* Store in a cool, dark place with the lid tightly sealed -- Claude (AI)
+* Dispose of linseed-oil-soaked rags carefully — they can spontaneously combust -- Claude (AI)
 

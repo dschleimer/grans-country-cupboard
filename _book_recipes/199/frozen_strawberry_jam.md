@@ -37,7 +37,7 @@ categories:
 
 ## Modern Notes
 
-* This is a freezer jam — no cooking the fruit, so it tastes very fresh
-* Sure-Jell is a powdered pectin used for jam-making
-* Freezer jam keeps for up to a year frozen, or about 3 weeks in the refrigerator once thawed
+* This is a freezer jam — no cooking the fruit, so it tastes very fresh -- Claude (AI)
+* Sure-Jell is a powdered pectin used for jam-making -- Claude (AI)
+* Freezer jam keeps for up to a year frozen, or about 3 weeks in the refrigerator once thawed -- Claude (AI)
 

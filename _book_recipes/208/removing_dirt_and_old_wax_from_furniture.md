@@ -26,8 +26,8 @@ categories:
 
 ## Modern Notes
 
-* A brief household tip for furniture care, not a food recipe
-* Turpentine is an effective solvent for removing old wax buildup
-* Work in a well-ventilated area
-* Follow up with the "Loving Care for Old Furniture" treatment on the same page
+* A brief household tip for furniture care, not a food recipe -- Claude (AI)
+* Turpentine is an effective solvent for removing old wax buildup -- Claude (AI)
+* Work in a well-ventilated area -- Claude (AI)
+* Follow up with the "Loving Care for Old Furniture" treatment on the same page -- Claude (AI)
 

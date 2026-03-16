@@ -37,7 +37,7 @@ categories:
 
 ## Modern Notes
 
-* These are classic almond or pecan crescent cookies — a Christmas favorite also known as kipferl or Mexican wedding cookies
-* The dough should be firm enough to shape — chill if too soft
-* Roll in confectioners sugar twice for a thick, snowy coating
+* These are classic almond or pecan crescent cookies — a Christmas favorite also known as kipferl or Mexican wedding cookies -- Claude (AI)
+* The dough should be firm enough to shape — chill if too soft -- Claude (AI)
+* Roll in confectioners sugar twice for a thick, snowy coating -- Claude (AI)
 

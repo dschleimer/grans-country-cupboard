@@ -47,6 +47,6 @@ categories:
 
 ## Modern Notes
 
-* This is a no-bake cream cheese pie with a cooked cherry topping — similar to a cherry cheesecake
-* Can be frozen for longer storage or simply chilled for a few hours
+* This is a no-bake cream cheese pie with a cooked cherry topping — similar to a cherry cheesecake -- Claude (AI)
+* Can be frozen for longer storage or simply chilled for a few hours -- Claude (AI)
 

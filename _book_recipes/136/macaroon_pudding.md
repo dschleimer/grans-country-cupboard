@@ -44,6 +44,6 @@ categories:
 
 ## Modern Notes
 
-* Almond macaroons (not to be confused with French macarons) are small, dense almond cookies — often found in Italian bakeries
-* A double boiler prevents the custard from scorching — you can improvise with a heatproof bowl set over a pot of simmering water
+* Almond macaroons (not to be confused with French macarons) are small, dense almond cookies — often found in Italian bakeries -- Claude (AI)
+* A double boiler prevents the custard from scorching — you can improvise with a heatproof bowl set over a pot of simmering water -- Claude (AI)
 

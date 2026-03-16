@@ -46,6 +46,6 @@ categories:
 
 ## Modern Notes
 
-* This is a Bavarian cream filling used to fill and frost an angel food cake — a light, elegant dessert
-* The gelatin sets the cream so it holds its shape when the cake is sliced
+* This is a Bavarian cream filling used to fill and frost an angel food cake — a light, elegant dessert -- Claude (AI)
+* The gelatin sets the cream so it holds its shape when the cake is sliced -- Claude (AI)
 

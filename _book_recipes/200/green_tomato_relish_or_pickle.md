@@ -43,7 +43,7 @@ categories:
 
 ## Modern Notes
 
-* A peck is about 12–14 lbs of tomatoes — this makes a very large batch
-* Green tomato relish is a classic end-of-season recipe for using unripened tomatoes before frost
-* Store in sterilized jars for long-term preservation
+* A peck is about 12–14 lbs of tomatoes — this makes a very large batch -- Claude (AI)
+* Green tomato relish is a classic end-of-season recipe for using unripened tomatoes before frost -- Claude (AI)
+* Store in sterilized jars for long-term preservation -- Claude (AI)
 

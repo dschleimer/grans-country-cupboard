@@ -39,7 +39,7 @@ categories:
 
 ## Modern Notes
 
-* This is a classic icebox dessert — the chocolate mousse-like mixture sets around the lady fingers as it chills
-* This contains raw egg whites — use pasteurized eggs if food safety is a concern
-* "Sweet chocolate" is semi-sweet baking chocolate, such as Baker's German's Sweet Chocolate
+* This is a classic icebox dessert — the chocolate mousse-like mixture sets around the lady fingers as it chills -- Claude (AI)
+* This contains raw egg whites — use pasteurized eggs if food safety is a concern -- Claude (AI)
+* "Sweet chocolate" is semi-sweet baking chocolate, such as Baker's German's Sweet Chocolate -- Claude (AI)
 

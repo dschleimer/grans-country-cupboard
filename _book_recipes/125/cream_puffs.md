@@ -43,6 +43,6 @@ categories:
 
 ## Modern Notes
 
-* This is a classic choux pastry (pâte à choux) — the same dough used for éclairs and profiteroles
-* The key to success is adding the flour all at once and stirring quickly, then letting the dough cool slightly before adding eggs
+* This is a classic choux pastry (pâte à choux) — the same dough used for éclairs and profiteroles -- Claude (AI)
+* The key to success is adding the flour all at once and stirring quickly, then letting the dough cool slightly before adding eggs -- Claude (AI)
 

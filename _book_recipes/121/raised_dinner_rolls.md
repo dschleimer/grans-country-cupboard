@@ -46,6 +46,6 @@ categories:
 
 ## Modern Notes
 
-* One cake of compressed yeast can be substituted with 1 packet (2¼ tsp) active dry yeast
-* "Scald" milk means heating it to just below boiling — about 180°F — then cooling it before adding yeast
+* One cake of compressed yeast can be substituted with 1 packet (2¼ tsp) active dry yeast -- Claude (AI)
+* "Scald" milk means heating it to just below boiling — about 180°F — then cooling it before adding yeast -- Claude (AI)
 

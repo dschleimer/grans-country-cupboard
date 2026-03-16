@@ -40,7 +40,7 @@ categories:
 
 ## Modern Notes
 
-* These are hearty cornmeal pancakes enriched with pecans
-* The boiling water step pre-cooks the cornmeal for a smoother texture
-* Pecan meal can be made by pulsing pecans in a food processor until finely ground
+* These are hearty cornmeal pancakes enriched with pecans -- Claude (AI)
+* The boiling water step pre-cooks the cornmeal for a smoother texture -- Claude (AI)
+* Pecan meal can be made by pulsing pecans in a food processor until finely ground -- Claude (AI)
 

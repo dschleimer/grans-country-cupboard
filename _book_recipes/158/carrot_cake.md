@@ -41,7 +41,7 @@ categories:
 
 ## Modern Notes
 
-* This version uses cooked (not raw) grated carrots, which gives a smoother, moister cake
-* Wesson Oil is a vegetable oil — any neutral cooking oil will work
-* "Scant" means slightly less than the full measurement
+* This version uses cooked (not raw) grated carrots, which gives a smoother, moister cake -- Claude (AI)
+* Wesson Oil is a vegetable oil — any neutral cooking oil will work -- Claude (AI)
+* "Scant" means slightly less than the full measurement -- Claude (AI)
 

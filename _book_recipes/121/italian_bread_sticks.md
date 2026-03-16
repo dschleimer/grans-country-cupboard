@@ -47,6 +47,6 @@ categories:
 
 ## Modern Notes
 
-* One package of active dry yeast is equivalent to 2¼ tsp
-* "Soft shortening" means shortening at room temperature — Crisco or similar vegetable shortening
+* One package of active dry yeast is equivalent to 2¼ tsp -- Claude (AI)
+* "Soft shortening" means shortening at room temperature — Crisco or similar vegetable shortening -- Claude (AI)
 

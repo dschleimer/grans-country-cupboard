@@ -45,8 +45,8 @@ categories:
 
 ## Modern Notes
 
-* Chow-chow is a classic Southern pickled vegetable relish
-* "Pickling salt" is non-iodized salt — iodized salt can cause cloudy brine
-* Turmeric gives the characteristic yellow color
-* Process in a boiling water bath for safe canning
+* Chow-chow is a classic Southern pickled vegetable relish -- Claude (AI)
+* "Pickling salt" is non-iodized salt — iodized salt can cause cloudy brine -- Claude (AI)
+* Turmeric gives the characteristic yellow color -- Claude (AI)
+* Process in a boiling water bath for safe canning -- Claude (AI)
 

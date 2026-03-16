@@ -44,8 +44,8 @@ categories:
 
 ## Modern Notes
 
-* Ice box cookies (now called refrigerator or slice-and-bake cookies) were popular from the 1930s onward
-* The high temperature and very short baking time mean these brown quickly — watch carefully
-* Slice as thin as possible for crispy cookies
-* This recipe dates to the 1930s from Margate, New Jersey
+* Ice box cookies (now called refrigerator or slice-and-bake cookies) were popular from the 1930s onward -- Claude (AI)
+* The high temperature and very short baking time mean these brown quickly — watch carefully -- Claude (AI)
+* Slice as thin as possible for crispy cookies -- Claude (AI)
+* This recipe dates to the 1930s from Margate, New Jersey -- Claude (AI)
 

@@ -52,7 +52,7 @@ categories:
 
 ## Modern Notes
 
-* This is a coffee cake-style toffee cake with a cinnamon swirl and a Heath bar crunch topping
-* Heath bars can be replaced with any toffee bits — Skor bars also work well
-* The sour cream keeps this cake very moist
+* This is a coffee cake-style toffee cake with a cinnamon swirl and a Heath bar crunch topping -- Claude (AI)
+* Heath bars can be replaced with any toffee bits — Skor bars also work well -- Claude (AI)
+* The sour cream keeps this cake very moist -- Claude (AI)
 

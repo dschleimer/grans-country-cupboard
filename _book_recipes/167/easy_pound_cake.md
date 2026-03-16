@@ -43,7 +43,7 @@ categories:
 
 ## Modern Notes
 
-* This is a one-bowl sour cream pound cake — everything goes in together for easy mixing
-* The sour cream gives the cake extra moisture and a tender crumb
-* The baking soda reacts with the sour cream for a slight lift
+* This is a one-bowl sour cream pound cake — everything goes in together for easy mixing -- Claude (AI)
+* The sour cream gives the cake extra moisture and a tender crumb -- Claude (AI)
+* The baking soda reacts with the sour cream for a slight lift -- Claude (AI)
 

@@ -29,5 +29,5 @@ categories:
 
 ## Modern Notes
 
-* This is a basic sweetened whipped cream — a staple topping for pies, cakes, and desserts throughout the cookbook
+* This is a basic sweetened whipped cream — a staple topping for pies, cakes, and desserts throughout the cookbook -- Claude (AI)
 

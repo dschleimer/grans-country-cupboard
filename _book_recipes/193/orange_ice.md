@@ -33,7 +33,7 @@ categories:
 
 ## Modern Notes
 
-* This is a simple citrus ice — halfway between a sherbet and a sorbet
-* Stir the mixture a few times during freezing for a smoother texture
-* The eggs give it a creamier consistency than a plain fruit ice
-* Note: this uses raw eggs — use pasteurized eggs if this is a concern
+* This is a simple citrus ice — halfway between a sherbet and a sorbet -- Claude (AI)
+* Stir the mixture a few times during freezing for a smoother texture -- Claude (AI)
+* The eggs give it a creamier consistency than a plain fruit ice -- Claude (AI)
+* Note: this uses raw eggs — use pasteurized eggs if this is a concern -- Claude (AI)

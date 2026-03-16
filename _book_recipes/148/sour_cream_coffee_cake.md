@@ -49,6 +49,6 @@ categories:
 
 ## Modern Notes
 
-* This is a classic sour cream coffee cake with a streusel and apple layer through the middle
-* The sour cream makes it exceptionally moist and tender
+* This is a classic sour cream coffee cake with a streusel and apple layer through the middle -- Claude (AI)
+* The sour cream makes it exceptionally moist and tender -- Claude (AI)
 

@@ -38,6 +38,6 @@ categories:
 
 ## Modern Notes
 
-* This is a layered Jello salad with a sour cream middle — a classic mid-century party dish
-* The frozen strawberries help the Jello set faster while adding fruit
+* This is a layered Jello salad with a sour cream middle — a classic mid-century party dish -- Claude (AI)
+* The frozen strawberries help the Jello set faster while adding fruit -- Claude (AI)
 

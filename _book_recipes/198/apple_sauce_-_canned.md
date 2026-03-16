@@ -35,7 +35,7 @@ categories:
 
 ## Modern Notes
 
-* This is a simple home-canned applesauce — no sugar added during canning
-* Use proper canning procedures — sterilize jars and process in a boiling water bath for safe preservation
-* Adding sugar at serving time lets each person sweeten to taste
+* This is a simple home-canned applesauce — no sugar added during canning -- Claude (AI)
+* Use proper canning procedures — sterilize jars and process in a boiling water bath for safe preservation -- Claude (AI)
+* Adding sugar at serving time lets each person sweeten to taste -- Claude (AI)
 

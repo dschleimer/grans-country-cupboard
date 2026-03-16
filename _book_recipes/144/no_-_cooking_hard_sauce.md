@@ -36,7 +36,7 @@ categories:
 
 ## Modern Notes
 
-* Hard sauce is a traditional accompaniment for steamed puddings, gingerbread, and fruit desserts
-* It is served cold and melts on contact with warm desserts — essentially a sweet butter sauce
-* The name "hard" refers to its firm, butter-like consistency when chilled
+* Hard sauce is a traditional accompaniment for steamed puddings, gingerbread, and fruit desserts -- Claude (AI)
+* It is served cold and melts on contact with warm desserts — essentially a sweet butter sauce -- Claude (AI)
+* The name "hard" refers to its firm, butter-like consistency when chilled -- Claude (AI)
 

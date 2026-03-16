@@ -39,6 +39,6 @@ categories:
 
 ## Modern Notes
 
-* This is a molded parfait dessert — the jello sets the ice cream and fruit into a sliceable shape
-* Use the juice from the thawed frozen raspberries as part of the liquid for dissolving the jello
-* Unmold by dipping briefly in warm water
+* This is a molded parfait dessert — the jello sets the ice cream and fruit into a sliceable shape -- Claude (AI)
+* Use the juice from the thawed frozen raspberries as part of the liquid for dissolving the jello -- Claude (AI)
+* Unmold by dipping briefly in warm water -- Claude (AI)

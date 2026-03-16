@@ -40,6 +40,6 @@ categories:
 
 ## Modern Notes
 
-* Gran offers three flavoring options: vanilla, sherry, or brandy — the brandy or sherry gives a richer, more complex flavor
-* This is a simpler, smaller pumpkin pie recipe compared to Mary Jane's version on the same page
+* Gran offers three flavoring options: vanilla, sherry, or brandy — the brandy or sherry gives a richer, more complex flavor -- Claude (AI)
+* This is a simpler, smaller pumpkin pie recipe compared to Mary Jane's version on the same page -- Claude (AI)
 

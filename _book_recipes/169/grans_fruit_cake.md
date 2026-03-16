@@ -59,9 +59,9 @@ categories:
 
 ## Modern Notes
 
-* This is Gran's own fruit cake recipe — a very large, rich cake with a huge amount of fruit
-* The overnight fruit soak with spices and liquor deeply flavors the fruit
-* The very low oven temperature (250°F) is critical for such a dense cake
-* Diced fresh apples are an unusual addition that adds moisture
-* A "box" of raisins was typically 15 oz in the 1970s
+* This is Gran's own fruit cake recipe — a very large, rich cake with a huge amount of fruit -- Claude (AI)
+* The overnight fruit soak with spices and liquor deeply flavors the fruit -- Claude (AI)
+* The very low oven temperature (250°F) is critical for such a dense cake -- Claude (AI)
+* Diced fresh apples are an unusual addition that adds moisture -- Claude (AI)
+* A "box" of raisins was typically 15 oz in the 1970s -- Claude (AI)
 

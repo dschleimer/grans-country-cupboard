@@ -43,7 +43,7 @@ categories:
 
 ## Modern Notes
 
-* This is a "wacky cake" or "crazy cake" variation — no eggs or butter needed, making it naturally dairy-free
-* The vinegar reacts with the baking soda for leavening
-* The "three holes" method was a popular Depression-era technique for mixing wet ingredients into dry without dirtying extra bowls
+* This is a "wacky cake" or "crazy cake" variation — no eggs or butter needed, making it naturally dairy-free -- Claude (AI)
+* The vinegar reacts with the baking soda for leavening -- Claude (AI)
+* The "three holes" method was a popular Depression-era technique for mixing wet ingredients into dry without dirtying extra bowls -- Claude (AI)
 

@@ -36,7 +36,7 @@ categories:
 
 ## Modern Notes
 
-* This is a cooked chocolate butter icing — heating it over water gives a smoother, glossier finish than a raw buttercream
-* 2 squares of unsweetened chocolate is 2 oz
-* The brief cooking step melts the sugar for a fudge-like texture
+* This is a cooked chocolate butter icing — heating it over water gives a smoother, glossier finish than a raw buttercream -- Claude (AI)
+* 2 squares of unsweetened chocolate is 2 oz -- Claude (AI)
+* The brief cooking step melts the sugar for a fudge-like texture -- Claude (AI)
 

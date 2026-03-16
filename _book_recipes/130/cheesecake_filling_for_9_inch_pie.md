@@ -35,6 +35,6 @@ categories:
 
 ## Modern Notes
 
-* This is a no-bake cheesecake filling — quick and simple
-* The filling is quite light due to the whipped cream — more of a mousse-style cheesecake
+* This is a no-bake cheesecake filling — quick and simple -- Claude (AI)
+* The filling is quite light due to the whipped cream — more of a mousse-style cheesecake -- Claude (AI)
 

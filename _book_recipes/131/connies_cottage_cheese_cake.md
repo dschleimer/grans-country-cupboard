@@ -50,6 +50,6 @@ categories:
 
 ## Modern Notes
 
-* Sieving the cottage cheese gives it a smooth texture similar to ricotta — you can use a food processor instead
-* Leaving the cake in the turned-off oven prevents cracking from sudden temperature change
+* Sieving the cottage cheese gives it a smooth texture similar to ricotta — you can use a food processor instead -- Claude (AI)
+* Leaving the cake in the turned-off oven prevents cracking from sudden temperature change -- Claude (AI)
 

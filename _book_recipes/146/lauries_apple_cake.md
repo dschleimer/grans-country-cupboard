@@ -41,6 +41,6 @@ categories:
 
 ## Modern Notes
 
-* This is a dense, fruit-heavy cake — 4 cups of apples makes it very moist
-* A loaf pan gives it a bread-like shape that slices well
+* This is a dense, fruit-heavy cake — 4 cups of apples makes it very moist -- Claude (AI)
+* A loaf pan gives it a bread-like shape that slices well -- Claude (AI)
 

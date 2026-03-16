@@ -38,6 +38,6 @@ categories:
 
 ## Modern Notes
 
-* Rolling between wax paper prevents sticking without adding extra flour, which can toughen the crust
-* This makes enough for one 9-inch pie crust — double the recipe for a two-crust pie
+* Rolling between wax paper prevents sticking without adding extra flour, which can toughen the crust -- Claude (AI)
+* This makes enough for one 9-inch pie crust — double the recipe for a two-crust pie -- Claude (AI)
 

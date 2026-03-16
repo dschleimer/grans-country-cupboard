@@ -48,6 +48,6 @@ categories:
 
 ## Modern Notes
 
-* The frosting contains a raw egg — use pasteurized eggs if food safety is a concern
-* German sweet chocolate is a mild, sweetened baking chocolate (Baker's German's Sweet Chocolate is the classic brand)
+* The frosting contains a raw egg — use pasteurized eggs if food safety is a concern -- Claude (AI)
+* German sweet chocolate is a mild, sweetened baking chocolate (Baker's German's Sweet Chocolate is the classic brand) -- Claude (AI)
 

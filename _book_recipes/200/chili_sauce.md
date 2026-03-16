@@ -41,8 +41,8 @@ categories:
 
 ## Modern Notes
 
-* This is a classic homemade chili sauce — a sweet, spiced tomato condiment used on meatloaf, eggs, and sandwiches
-* Not iodized salt is important for canning — iodized salt can cause darkening
-* From Great-Grandmother Marter's recipe collection
-* Do not double — large batches don't reduce properly
+* This is a classic homemade chili sauce — a sweet, spiced tomato condiment used on meatloaf, eggs, and sandwiches -- Claude (AI)
+* Not iodized salt is important for canning — iodized salt can cause darkening -- Claude (AI)
+* From Great-Grandmother Marter's recipe collection -- Claude (AI)
+* Do not double — large batches don't reduce properly -- Claude (AI)
 

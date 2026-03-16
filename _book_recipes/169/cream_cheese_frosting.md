@@ -32,7 +32,7 @@ categories:
 
 ## Modern Notes
 
-* This is a classic cream cheese frosting — perfect for carrot cake, red velvet, or spice cakes
-* A "box" of powdered sugar is 1 lb, about 3¾ cups
-* Make sure butter and cream cheese are at room temperature for smooth mixing
+* This is a classic cream cheese frosting — perfect for carrot cake, red velvet, or spice cakes -- Claude (AI)
+* A "box" of powdered sugar is 1 lb, about 3¾ cups -- Claude (AI)
+* Make sure butter and cream cheese are at room temperature for smooth mixing -- Claude (AI)
 

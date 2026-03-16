@@ -45,7 +45,7 @@ categories:
 
 ## Modern Notes
 
-* This is a rich Southern pecan cake — 2 cups of butter and 6 eggs make it very dense and moist
-* Pecan meal can be made by pulsing pecans in a food processor until finely ground — be careful not to over-process into butter
-* The low baking temperature (325°F) is important for even baking in such a large, rich cake
+* This is a rich Southern pecan cake — 2 cups of butter and 6 eggs make it very dense and moist -- Claude (AI)
+* Pecan meal can be made by pulsing pecans in a food processor until finely ground — be careful not to over-process into butter -- Claude (AI)
+* The low baking temperature (325°F) is important for even baking in such a large, rich cake -- Claude (AI)
 

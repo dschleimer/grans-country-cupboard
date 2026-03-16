@@ -43,7 +43,7 @@ categories:
 
 ## Modern Notes
 
-* These are old-fashioned fruit and oat drop cookies — hearty and not too sweet
-* The low baking temperature (325°F) keeps them soft
-* Currants add a different flavor than raisins — use all raisins if currants are unavailable
+* These are old-fashioned fruit and oat drop cookies — hearty and not too sweet -- Claude (AI)
+* The low baking temperature (325°F) keeps them soft -- Claude (AI)
+* Currants add a different flavor than raisins — use all raisins if currants are unavailable -- Claude (AI)
 

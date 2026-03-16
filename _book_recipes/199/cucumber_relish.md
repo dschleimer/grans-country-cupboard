@@ -38,7 +38,7 @@ categories:
 
 ## Modern Notes
 
-* This is a simple cucumber relish — great for hot dogs and burgers
-* Soaking overnight in salt water draws out excess moisture for a crisper relish
-* Use pickling cucumbers for the best texture
+* This is a simple cucumber relish — great for hot dogs and burgers -- Claude (AI)
+* Soaking overnight in salt water draws out excess moisture for a crisper relish -- Claude (AI)
+* Use pickling cucumbers for the best texture -- Claude (AI)
 

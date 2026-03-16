@@ -39,7 +39,7 @@ categories:
 
 ## Modern Notes
 
-* This is a "dump" style dessert — layers of ingredients with no mixing required
-* A #2 can of pineapple is 20 oz — use a standard large can of crushed pineapple
-* Serve warm for the best flavor — the coconut and pineapple caramelize during baking
+* This is a "dump" style dessert — layers of ingredients with no mixing required -- Claude (AI)
+* A #2 can of pineapple is 20 oz — use a standard large can of crushed pineapple -- Claude (AI)
+* Serve warm for the best flavor — the coconut and pineapple caramelize during baking -- Claude (AI)
 

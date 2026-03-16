@@ -40,7 +40,7 @@ categories:
 
 ## Modern Notes
 
-* This is a classic "fantasy fudge" style recipe — the hot sugar syrup melts the chocolate chips and marshmallow for a smooth, creamy fudge
-* The 6 minutes of boiling is critical — use a timer
-* Makes a large batch — use a 9×13 pan
+* This is a classic "fantasy fudge" style recipe — the hot sugar syrup melts the chocolate chips and marshmallow for a smooth, creamy fudge -- Claude (AI)
+* The 6 minutes of boiling is critical — use a timer -- Claude (AI)
+* Makes a large batch — use a 9×13 pan -- Claude (AI)
 

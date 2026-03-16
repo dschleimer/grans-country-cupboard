@@ -47,7 +47,7 @@ categories:
 
 ## Modern Notes
 
-* This is a yeast-risen version of cinnamon buns — richer and softer than the baking powder version on the same page
-* One cake of compressed yeast can be substituted with 1 packet (2¼ tsp) active dry yeast
-* Some details of this recipe were difficult to read in the original handwriting — the flour amount and rising times are approximate
+* This is a yeast-risen version of cinnamon buns — richer and softer than the baking powder version on the same page -- Claude (AI)
+* One cake of compressed yeast can be substituted with 1 packet (2¼ tsp) active dry yeast -- Claude (AI)
+* Some details of this recipe were difficult to read in the original handwriting — the flour amount and rising times are approximate -- Claude (AI)
 

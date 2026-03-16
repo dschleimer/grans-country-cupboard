@@ -30,6 +30,6 @@ categories:
 
 ## Modern Notes
 
-* This is a very simple 3-ingredient sherbet — the acid from the lemon juice curdles the milk slightly, creating a tangy, refreshing frozen dessert
-* Stir every 30 minutes during freezing for a smoother texture
-* "Sherbert" with the extra R was a common spelling in Gran's era
+* This is a very simple 3-ingredient sherbet — the acid from the lemon juice curdles the milk slightly, creating a tangy, refreshing frozen dessert -- Claude (AI)
+* Stir every 30 minutes during freezing for a smoother texture -- Claude (AI)
+* "Sherbert" with the extra R was a common spelling in Gran's era -- Claude (AI)

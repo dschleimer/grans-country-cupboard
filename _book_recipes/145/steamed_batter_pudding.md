@@ -39,7 +39,7 @@ categories:
 
 ## Modern Notes
 
-* "Sweet milk" means regular whole milk, as opposed to buttermilk
-* Steam by placing filled, greased cups in a pot with an inch of simmering water, covered tightly
-* The hard sauce recipe is on the same page
+* "Sweet milk" means regular whole milk, as opposed to buttermilk -- Claude (AI)
+* Steam by placing filled, greased cups in a pot with an inch of simmering water, covered tightly -- Claude (AI)
+* The hard sauce recipe is on the same page -- Claude (AI)
 

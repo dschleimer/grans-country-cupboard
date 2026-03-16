@@ -44,7 +44,7 @@ categories:
 
 ## Modern Notes
 
-* A simple walnut loaf cake — the margarine instead of butter was common in mid-century baking
-* You can substitute butter for margarine for richer flavor
-* Test for doneness with a toothpick — a loaf pan at 325°F will take about 50–60 minutes
+* A simple walnut loaf cake — the margarine instead of butter was common in mid-century baking -- Claude (AI)
+* You can substitute butter for margarine for richer flavor -- Claude (AI)
+* Test for doneness with a toothpick — a loaf pan at 325°F will take about 50–60 minutes -- Claude (AI)
 

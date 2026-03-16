@@ -33,8 +33,8 @@ categories:
 
 ## Modern Notes
 
-* This is a traditional country wine made from wild cherries (likely chokecherries or wild black cherries)
-* The long fermentation and year-long aging produces a dry, fruity wine
-* "Keep barrel filled to overflowing" prevents air exposure which would turn wine to vinegar
-* Modern winemakers would use a fermentation lock instead of keeping the barrel topped off
+* This is a traditional country wine made from wild cherries (likely chokecherries or wild black cherries) -- Claude (AI)
+* The long fermentation and year-long aging produces a dry, fruity wine -- Claude (AI)
+* "Keep barrel filled to overflowing" prevents air exposure which would turn wine to vinegar -- Claude (AI)
+* Modern winemakers would use a fermentation lock instead of keeping the barrel topped off -- Claude (AI)
 

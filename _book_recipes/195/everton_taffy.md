@@ -35,8 +35,8 @@ categories:
 
 ## Modern Notes
 
-* Everton toffee is a classic English candy from the town of Everton near Liverpool
-* Hard ball stage is 250°F–265°F on a candy thermometer
-* The vinegar prevents crystallization and adds a slight tang
-* Can be pulled while warm for a lighter color and chewier texture, or left to harden for a brittle toffee
+* Everton toffee is a classic English candy from the town of Everton near Liverpool -- Claude (AI)
+* Hard ball stage is 250°F–265°F on a candy thermometer -- Claude (AI)
+* The vinegar prevents crystallization and adds a slight tang -- Claude (AI)
+* Can be pulled while warm for a lighter color and chewier texture, or left to harden for a brittle toffee -- Claude (AI)
 

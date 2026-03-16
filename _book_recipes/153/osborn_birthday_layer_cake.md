@@ -56,5 +56,5 @@ categories:
 
 ## Modern Notes
 
-* This is a unique cake with a streusel-like topping baked right into each layer, then filled with whipped cream
+* This is a unique cake with a streusel-like topping baked right into each layer, then filled with whipped cream -- Claude (AI)
 

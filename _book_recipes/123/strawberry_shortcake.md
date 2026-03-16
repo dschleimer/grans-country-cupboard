@@ -44,7 +44,7 @@ categories:
 
 ## Modern Notes
 
-* This is a classic biscuit-style shortcake, baked as one large round and then split — not individual shortcakes
-* The sugar amount for the batter is not specified in the original — 2–4 Tbsp would be typical for this style
-* Grandmother Marter is Gran's mother
+* This is a classic biscuit-style shortcake, baked as one large round and then split — not individual shortcakes -- Claude (AI)
+* The sugar amount for the batter is not specified in the original — 2–4 Tbsp would be typical for this style -- Claude (AI)
+* Grandmother Marter is Gran's mother -- Claude (AI)
 

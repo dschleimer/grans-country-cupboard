@@ -34,7 +34,7 @@ categories:
 
 ## Modern Notes
 
-* From a 1912 Beacon publication — a household tip for furniture care, not a food recipe
-* This is a classic oil-and-vinegar furniture polish still recommended by some antique restorers
-* Work in a well-ventilated area and dispose of linseed-oil-soaked rags carefully — they can spontaneously combust
+* From a 1912 Beacon publication — a household tip for furniture care, not a food recipe -- Claude (AI)
+* This is a classic oil-and-vinegar furniture polish still recommended by some antique restorers -- Claude (AI)
+* Work in a well-ventilated area and dispose of linseed-oil-soaked rags carefully — they can spontaneously combust -- Claude (AI)
 

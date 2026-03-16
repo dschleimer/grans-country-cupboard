@@ -35,6 +35,6 @@ categories:
 
 ## Modern Notes
 
-* The original recipe does not list baking powder or salt, but most muffin recipes of this era would include 2–3 tsp baking powder and ½ tsp salt — they may have been assumed
-* Fresh or frozen blueberries both work; if using frozen, do not thaw before adding to the batter
+* The original recipe does not list baking powder or salt, but most muffin recipes of this era would include 2–3 tsp baking powder and ½ tsp salt — they may have been assumed -- Claude (AI)
+* Fresh or frozen blueberries both work; if using frozen, do not thaw before adding to the batter -- Claude (AI)
 

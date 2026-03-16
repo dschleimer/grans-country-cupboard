@@ -36,7 +36,7 @@ categories:
 
 ## Modern Notes
 
-* This is a quick, elegant no-bake torte using a store-bought pound cake
-* Kahlúa or Tia Maria are good choices for the coffee liqueur
-* Must be refrigerated — serve cold
+* This is a quick, elegant no-bake torte using a store-bought pound cake -- Claude (AI)
+* Kahlúa or Tia Maria are good choices for the coffee liqueur -- Claude (AI)
+* Must be refrigerated — serve cold -- Claude (AI)
 

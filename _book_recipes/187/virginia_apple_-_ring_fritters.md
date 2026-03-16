@@ -45,6 +45,6 @@ categories:
 
 ## Modern Notes
 
-* Apple-ring fritters are a classic Virginia side dish, traditionally served with roast pork
-* The rings should be about ¼ inch thick — not too thin or they'll fall apart
-* Drain well on paper towels and serve immediately while crisp
+* Apple-ring fritters are a classic Virginia side dish, traditionally served with roast pork -- Claude (AI)
+* The rings should be about ¼ inch thick — not too thin or they'll fall apart -- Claude (AI)
+* Drain well on paper towels and serve immediately while crisp -- Claude (AI)

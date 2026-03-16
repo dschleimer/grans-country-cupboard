@@ -35,7 +35,7 @@ categories:
 
 ## Modern Notes
 
-* This is a fruit mousse/fluff — the egg whites expand dramatically when beaten with the sugar and fruit
-* Beat for at least 10–15 minutes for proper volume
-* Note: this uses raw egg whites — use pasteurized eggs if this is a concern
-* Must be served cold
+* This is a fruit mousse/fluff — the egg whites expand dramatically when beaten with the sugar and fruit -- Claude (AI)
+* Beat for at least 10–15 minutes for proper volume -- Claude (AI)
+* Note: this uses raw egg whites — use pasteurized eggs if this is a concern -- Claude (AI)
+* Must be served cold -- Claude (AI)

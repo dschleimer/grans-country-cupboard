@@ -45,6 +45,6 @@ categories:
 
 ## Modern Notes
 
-* These are a quick baking-powder version of cinnamon rolls — no yeast or rising time needed
-* Standing the slices on end rather than laying them flat gives the characteristic "curl" as the layers separate during baking
+* These are a quick baking-powder version of cinnamon rolls — no yeast or rising time needed -- Claude (AI)
+* Standing the slices on end rather than laying them flat gives the characteristic "curl" as the layers separate during baking -- Claude (AI)
 

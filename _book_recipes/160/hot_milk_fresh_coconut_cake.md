@@ -48,7 +48,7 @@ categories:
 
 ## Modern Notes
 
-* This is a hot-milk sponge cake topped with fresh coconut — the coconut milk soaks into the cake for extra flavor
-* To open a fresh coconut, poke through the eyes to drain the milk, then crack the shell
-* Icing amounts are not specified — use about 4 oz cream cheese, ¼ cup butter, and 2 cups confectioners sugar as a starting point
+* This is a hot-milk sponge cake topped with fresh coconut — the coconut milk soaks into the cake for extra flavor -- Claude (AI)
+* To open a fresh coconut, poke through the eyes to drain the milk, then crack the shell -- Claude (AI)
+* Icing amounts are not specified — use about 4 oz cream cheese, ¼ cup butter, and 2 cups confectioners sugar as a starting point -- Claude (AI)
 

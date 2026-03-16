@@ -47,7 +47,7 @@ categories:
 
 ## Modern Notes
 
-* Italian plums (also called prune plums or Damson plums) are small, oval, and dark purple — they hold their shape well when baked
-* This is a classic European-style fruit kuchen with a biscuit-like base
-* Fresh peaches, apricots, or nectarines also work well as substitutes
+* Italian plums (also called prune plums or Damson plums) are small, oval, and dark purple — they hold their shape well when baked -- Claude (AI)
+* This is a classic European-style fruit kuchen with a biscuit-like base -- Claude (AI)
+* Fresh peaches, apricots, or nectarines also work well as substitutes -- Claude (AI)
 

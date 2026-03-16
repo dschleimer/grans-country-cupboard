@@ -43,7 +43,7 @@ categories:
 
 ## Modern Notes
 
-* Cruellers (also spelled crullers) are twisted fried dough — lighter than a doughnut
-* Oil temperature is important — too hot and they brown before cooking through, too cool and they absorb excess oil
-* Drain well on paper towels and dust generously with confectioners sugar while still warm
+* Cruellers (also spelled crullers) are twisted fried dough — lighter than a doughnut -- Claude (AI)
+* Oil temperature is important — too hot and they brown before cooking through, too cool and they absorb excess oil -- Claude (AI)
+* Drain well on paper towels and dust generously with confectioners sugar while still warm -- Claude (AI)
 

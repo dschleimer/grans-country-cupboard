@@ -49,7 +49,7 @@ categories:
 
 ## Modern Notes
 
-* The brandy and molasses give this gingerbread a rich, deep flavor
-* Use a large tube pan to give the batter room to rise — Gran notes it rises very high
-* Serve with hard sauce (recipes on pages 144–145) or whipped cream
+* The brandy and molasses give this gingerbread a rich, deep flavor -- Claude (AI)
+* Use a large tube pan to give the batter room to rise — Gran notes it rises very high -- Claude (AI)
+* Serve with hard sauce (recipes on pages 144–145) or whipped cream -- Claude (AI)
 

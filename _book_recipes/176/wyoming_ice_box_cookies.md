@@ -41,7 +41,7 @@ categories:
 
 ## Modern Notes
 
-* This is a large-batch ice box cookie recipe — makes many dozens
-* The oatmeal gives these a hearty, chewy texture
-* Slice as thin as possible for crispy cookies — thicker slices will be chewier
+* This is a large-batch ice box cookie recipe — makes many dozens -- Claude (AI)
+* The oatmeal gives these a hearty, chewy texture -- Claude (AI)
+* Slice as thin as possible for crispy cookies — thicker slices will be chewier -- Claude (AI)
 

@@ -33,6 +33,6 @@ categories:
 
 ## Modern Notes
 
-* This is a simple trifle-style dessert — lady fingers, fresh fruit, and pudding layered in a bowl
-* Use instant or cook-and-serve vanilla pudding per your preference
+* This is a simple trifle-style dessert — lady fingers, fresh fruit, and pudding layered in a bowl -- Claude (AI)
+* Use instant or cook-and-serve vanilla pudding per your preference -- Claude (AI)
 

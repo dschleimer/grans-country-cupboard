@@ -43,7 +43,7 @@ categories:
 
 ## Modern Notes
 
-* The classic fork-press crosshatch pattern is traditional for peanut butter cookies
-* Use creamy or chunky peanut butter — either works
-* Don't overbake — they firm up as they cool
+* The classic fork-press crosshatch pattern is traditional for peanut butter cookies -- Claude (AI)
+* Use creamy or chunky peanut butter — either works -- Claude (AI)
+* Don't overbake — they firm up as they cool -- Claude (AI)
 

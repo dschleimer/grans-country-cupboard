@@ -55,7 +55,7 @@ categories:
 
 ## Modern Notes
 
-* This is a sour cream coffee cake with a cinnamon-raisin-nut swirl — similar to a Bundt cake
-* The orange juice and rum glaze soaks in while the cake is still warm for a moist, flavorful finish
-* Use golden raisins (sultanas) for the white raisins
+* This is a sour cream coffee cake with a cinnamon-raisin-nut swirl — similar to a Bundt cake -- Claude (AI)
+* The orange juice and rum glaze soaks in while the cake is still warm for a moist, flavorful finish -- Claude (AI)
+* Use golden raisins (sultanas) for the white raisins -- Claude (AI)
 

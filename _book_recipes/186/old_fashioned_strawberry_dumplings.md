@@ -42,7 +42,7 @@ categories:
 
 ## Modern Notes
 
-* These are baked strawberry dumplings — biscuit dough dropped over sweetened berries
-* The high oven temperature (450°F) gives the dumpling tops a nice golden crust
-* Serve warm — the juices thicken as they cool slightly
+* These are baked strawberry dumplings — biscuit dough dropped over sweetened berries -- Claude (AI)
+* The high oven temperature (450°F) gives the dumpling tops a nice golden crust -- Claude (AI)
+* Serve warm — the juices thicken as they cool slightly -- Claude (AI)
 

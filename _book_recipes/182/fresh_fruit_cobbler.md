@@ -47,7 +47,7 @@ categories:
 
 ## Modern Notes
 
-* Use whatever fresh fruit is in season — peaches, berries, or a mix
-* The biscuit topping should be dropped in rough spoonfuls for a rustic look
-* Serve warm with vanilla ice cream or whipped cream
+* Use whatever fresh fruit is in season — peaches, berries, or a mix -- Claude (AI)
+* The biscuit topping should be dropped in rough spoonfuls for a rustic look -- Claude (AI)
+* Serve warm with vanilla ice cream or whipped cream -- Claude (AI)
 

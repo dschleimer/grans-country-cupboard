@@ -47,7 +47,7 @@ categories:
 
 ## Modern Notes
 
-* Tossing the fruit and nuts in flour prevents them from sinking to the bottom of the cake
-* This is a festive holiday pound cake — the red and green cherries make it colorful for Christmas
-* 2 cups of butter is 1 lb — this is a very rich cake
+* Tossing the fruit and nuts in flour prevents them from sinking to the bottom of the cake -- Claude (AI)
+* This is a festive holiday pound cake — the red and green cherries make it colorful for Christmas -- Claude (AI)
+* 2 cups of butter is 1 lb — this is a very rich cake -- Claude (AI)
 

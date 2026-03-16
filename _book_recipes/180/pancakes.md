@@ -38,7 +38,7 @@ categories:
 
 ## Modern Notes
 
-* A simple, basic pancake recipe — nothing fancy, just good pancakes
-* Beat until just combined — overmixing makes tough pancakes
-* Let the batter rest 5 minutes before cooking for fluffier results
+* A simple, basic pancake recipe — nothing fancy, just good pancakes -- Claude (AI)
+* Beat until just combined — overmixing makes tough pancakes -- Claude (AI)
+* Let the batter rest 5 minutes before cooking for fluffier results -- Claude (AI)
 

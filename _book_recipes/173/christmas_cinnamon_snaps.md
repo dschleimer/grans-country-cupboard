@@ -45,8 +45,8 @@ categories:
 
 ## Modern Notes
 
-* These are thin, crispy ginger-cinnamon snap cookies — perfect for cookie cutters
-* The dough must be well chilled for rolling — at least 2 hours or overnight
-* Roll very thin for snappy cookies — thicker will be chewy
-* 5–6 cups of flour is a wide range — add gradually until the dough is firm and not sticky
+* These are thin, crispy ginger-cinnamon snap cookies — perfect for cookie cutters -- Claude (AI)
+* The dough must be well chilled for rolling — at least 2 hours or overnight -- Claude (AI)
+* Roll very thin for snappy cookies — thicker will be chewy -- Claude (AI)
+* 5–6 cups of flour is a wide range — add gradually until the dough is firm and not sticky -- Claude (AI)
 

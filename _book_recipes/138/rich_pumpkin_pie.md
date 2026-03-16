@@ -40,7 +40,7 @@ categories:
 
 ## Modern Notes
 
-* This is a truly rich pumpkin pie — 6 eggs and 2 cups cream make for a dense, custard-like filling
-* Cognac adds a sophisticated warmth — bourbon or dark rum would also work
-* Serving pumpkin pie with cheese (especially sharp cheddar) is a traditional New England practice
+* This is a truly rich pumpkin pie — 6 eggs and 2 cups cream make for a dense, custard-like filling -- Claude (AI)
+* Cognac adds a sophisticated warmth — bourbon or dark rum would also work -- Claude (AI)
+* Serving pumpkin pie with cheese (especially sharp cheddar) is a traditional New England practice -- Claude (AI)
 

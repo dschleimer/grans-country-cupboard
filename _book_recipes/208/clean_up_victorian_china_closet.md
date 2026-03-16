@@ -31,8 +31,8 @@ categories:
 
 ## Modern Notes
 
-* This is a household tip for restoring finish on Victorian-era china cabinets, not a food recipe
-* Use boiled linseed oil (not raw) for faster drying
-* Work in a well-ventilated area — turpentine fumes are strong
-* Dispose of linseed-oil-soaked rags carefully — they can spontaneously combust
+* This is a household tip for restoring finish on Victorian-era china cabinets, not a food recipe -- Claude (AI)
+* Use boiled linseed oil (not raw) for faster drying -- Claude (AI)
+* Work in a well-ventilated area — turpentine fumes are strong -- Claude (AI)
+* Dispose of linseed-oil-soaked rags carefully — they can spontaneously combust -- Claude (AI)
 

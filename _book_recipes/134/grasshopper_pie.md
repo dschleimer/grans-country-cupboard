@@ -43,7 +43,7 @@ categories:
 
 ## Modern Notes
 
-* A Grasshopper Pie is a frozen mint-chocolate dessert named after the Grasshopper cocktail (crème de menthe + crème de cacao + cream)
-* The green crème de menthe gives it the classic pale green color
-* Keep frozen until ready to serve — let it sit at room temperature for 5–10 minutes before slicing
+* A Grasshopper Pie is a frozen mint-chocolate dessert named after the Grasshopper cocktail (crème de menthe + crème de cacao + cream) -- Claude (AI)
+* The green crème de menthe gives it the classic pale green color -- Claude (AI)
+* Keep frozen until ready to serve — let it sit at room temperature for 5–10 minutes before slicing -- Claude (AI)
 

@@ -39,5 +39,5 @@ categories:
 
 ## Modern Notes
 
-* Folding in the stiffly beaten egg whites separately is what makes these waffles light and crispy
+* Folding in the stiffly beaten egg whites separately is what makes these waffles light and crispy -- Claude (AI)
 

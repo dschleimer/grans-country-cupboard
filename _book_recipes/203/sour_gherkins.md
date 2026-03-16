@@ -36,8 +36,8 @@ categories:
 
 ## Modern Notes
 
-* Gherkins are small pickling cucumbers, typically 1–3 inches long
-* The 3-day brine soak draws out moisture for a crisper pickle
-* Use non-iodized salt (pickling salt or kosher salt) — iodized salt causes cloudy brine
-* Process in a boiling water bath for safe long-term storage
+* Gherkins are small pickling cucumbers, typically 1–3 inches long -- Claude (AI)
+* The 3-day brine soak draws out moisture for a crisper pickle -- Claude (AI)
+* Use non-iodized salt (pickling salt or kosher salt) — iodized salt causes cloudy brine -- Claude (AI)
+* Process in a boiling water bath for safe long-term storage -- Claude (AI)
 

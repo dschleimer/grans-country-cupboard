@@ -43,7 +43,7 @@ categories:
 
 ## Modern Notes
 
-* This is a rich coconut pound cake — ¾ lb butter and 6 eggs make it very dense and moist
-* Coconut milk can be found canned in the Asian foods section — use the full-fat variety, not light
-* Angel Flake coconut is sweetened flaked coconut — about 7 oz total for the two cans
+* This is a rich coconut pound cake — ¾ lb butter and 6 eggs make it very dense and moist -- Claude (AI)
+* Coconut milk can be found canned in the Asian foods section — use the full-fat variety, not light -- Claude (AI)
+* Angel Flake coconut is sweetened flaked coconut — about 7 oz total for the two cans -- Claude (AI)
 

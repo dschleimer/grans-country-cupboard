@@ -39,7 +39,7 @@ categories:
 
 ## Modern Notes
 
-* Bourbon balls are a classic no-bake Southern holiday treat
-* These improve with age — store in an airtight container for a few days before serving
-* The alcohol does not cook off since these are no-bake — they have a real bourbon kick
+* Bourbon balls are a classic no-bake Southern holiday treat -- Claude (AI)
+* These improve with age — store in an airtight container for a few days before serving -- Claude (AI)
+* The alcohol does not cook off since these are no-bake — they have a real bourbon kick -- Claude (AI)
 

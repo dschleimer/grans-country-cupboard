@@ -40,7 +40,7 @@ categories:
 
 ## Modern Notes
 
-* This is a quick icebox-style torte using a cake mix — the graham cracker crumbs add texture
-* Use Cool Whip or any frozen whipped topping, thawed
-* Must be refrigerated — the whipped topping filling needs to stay cold
+* This is a quick icebox-style torte using a cake mix — the graham cracker crumbs add texture -- Claude (AI)
+* Use Cool Whip or any frozen whipped topping, thawed -- Claude (AI)
+* Must be refrigerated — the whipped topping filling needs to stay cold -- Claude (AI)
 

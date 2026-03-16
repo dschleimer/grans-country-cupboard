@@ -42,6 +42,6 @@ categories:
 
 ## Modern Notes
 
-* These are a quick version of cinnamon buns using baking powder instead of yeast — no rising time needed
-* You can substitute butter or shortening for the lard used to grease the pan
+* These are a quick version of cinnamon buns using baking powder instead of yeast — no rising time needed -- Claude (AI)
+* You can substitute butter or shortening for the lard used to grease the pan -- Claude (AI)
 

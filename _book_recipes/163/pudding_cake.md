@@ -40,7 +40,7 @@ categories:
 
 ## Modern Notes
 
-* This is a classic 1970s "dump cake" style recipe using boxed mixes — the pudding mix makes it extra moist
-* Use matching flavors for the pudding and cake mix (lemon with lemon), or mix and match (lemon pudding with yellow cake)
-* The sour cream adds richness and tang — don't substitute milk if you can help it
+* This is a classic 1970s "dump cake" style recipe using boxed mixes — the pudding mix makes it extra moist -- Claude (AI)
+* Use matching flavors for the pudding and cake mix (lemon with lemon), or mix and match (lemon pudding with yellow cake) -- Claude (AI)
+* The sour cream adds richness and tang — don't substitute milk if you can help it -- Claude (AI)
 

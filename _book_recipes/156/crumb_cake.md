@@ -42,6 +42,6 @@ categories:
 
 ## Modern Notes
 
-* This is a classic crumb cake where the same butter-sugar-flour base serves as both the cake batter and the crumb topping
-* The spices give it a warm, old-fashioned flavor similar to gingerbread
+* This is a classic crumb cake where the same butter-sugar-flour base serves as both the cake batter and the crumb topping -- Claude (AI)
+* The spices give it a warm, old-fashioned flavor similar to gingerbread -- Claude (AI)
 

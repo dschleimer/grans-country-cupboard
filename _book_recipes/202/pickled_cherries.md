@@ -35,8 +35,8 @@ categories:
 
 ## Modern Notes
 
-* From Mother Marter's recipe collection
-* This is an old-fashioned preserved cherry — sweet-tart and wonderful with meats or cheese
-* The multi-day standing period allows the sugar to fully penetrate the fruit
-* Store in sterilized jars for preservation
+* From Mother Marter's recipe collection -- Claude (AI)
+* This is an old-fashioned preserved cherry — sweet-tart and wonderful with meats or cheese -- Claude (AI)
+* The multi-day standing period allows the sugar to fully penetrate the fruit -- Claude (AI)
+* Store in sterilized jars for preservation -- Claude (AI)
 

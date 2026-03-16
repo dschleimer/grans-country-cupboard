@@ -56,6 +56,6 @@ categories:
 
 ## Modern Notes
 
-* New Jersey is one of the top blueberry-producing states — this is a classic local recipe
-* The blueberry sauce served warm over the cake is what makes this special
+* New Jersey is one of the top blueberry-producing states — this is a classic local recipe -- Claude (AI)
+* The blueberry sauce served warm over the cake is what makes this special -- Claude (AI)
 

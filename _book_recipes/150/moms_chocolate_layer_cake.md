@@ -49,6 +49,6 @@ categories:
 
 ## Modern Notes
 
-* "Sour milk" can be made by adding 1 Tbsp vinegar or lemon juice to ½ cup milk and letting it sit for 5 minutes
-* This recipe comes from a nurse named "Mom" Arline at Memorial Hospital in Elkins, West Virginia, dated 1935
+* "Sour milk" can be made by adding 1 Tbsp vinegar or lemon juice to ½ cup milk and letting it sit for 5 minutes -- Claude (AI)
+* This recipe comes from a nurse named "Mom" Arline at Memorial Hospital in Elkins, West Virginia, dated 1935 -- Claude (AI)
 

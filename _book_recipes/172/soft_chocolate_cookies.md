@@ -45,8 +45,8 @@ categories:
 
 ## Modern Notes
 
-* 2 squares of chocolate is 2 oz of unsweetened baking chocolate
-* The flour amount is not specified — add enough to make a soft drop cookie dough, about 1½–2 cups
-* These are meant to be soft — underbake slightly for the best texture
-* From Grandmother Marter's collection
+* 2 squares of chocolate is 2 oz of unsweetened baking chocolate -- Claude (AI)
+* The flour amount is not specified — add enough to make a soft drop cookie dough, about 1½–2 cups -- Claude (AI)
+* These are meant to be soft — underbake slightly for the best texture -- Claude (AI)
+* From Grandmother Marter's collection -- Claude (AI)
 

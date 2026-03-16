@@ -42,6 +42,6 @@ categories:
 
 ## Modern Notes
 
-* Dover cake is a classic English pound-style cake — simple and buttery
-* The cold water instead of milk gives a lighter texture than a traditional pound cake
+* Dover cake is a classic English pound-style cake — simple and buttery -- Claude (AI)
+* The cold water instead of milk gives a lighter texture than a traditional pound cake -- Claude (AI)
 

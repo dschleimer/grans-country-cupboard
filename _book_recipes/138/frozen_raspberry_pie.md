@@ -41,7 +41,7 @@ categories:
 
 ## Modern Notes
 
-* The long beating time (15 minutes) is essential — it aerates the mixture into a light, mousse-like filling
-* Use a stand mixer for this, as beating by hand for 15 minutes would be exhausting
-* This contains raw egg whites — use pasteurized eggs if food safety is a concern
+* The long beating time (15 minutes) is essential — it aerates the mixture into a light, mousse-like filling -- Claude (AI)
+* Use a stand mixer for this, as beating by hand for 15 minutes would be exhausting -- Claude (AI)
+* This contains raw egg whites — use pasteurized eggs if food safety is a concern -- Claude (AI)
 

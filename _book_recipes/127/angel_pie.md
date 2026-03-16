@@ -49,7 +49,7 @@ categories:
 
 ## Modern Notes
 
-* Angel pie is a meringue-shell dessert — the shell bakes into a crisp-on-the-outside, marshmallow-like base
-* The 24-hour refrigeration is important — it allows the meringue to soften and meld with the cream and custard layers
-* The custard sugar amount is estimated — the original handwriting is unclear on this detail
+* Angel pie is a meringue-shell dessert — the shell bakes into a crisp-on-the-outside, marshmallow-like base -- Claude (AI)
+* The 24-hour refrigeration is important — it allows the meringue to soften and meld with the cream and custard layers -- Claude (AI)
+* The custard sugar amount is estimated — the original handwriting is unclear on this detail -- Claude (AI)
 

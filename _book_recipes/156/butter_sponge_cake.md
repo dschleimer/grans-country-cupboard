@@ -44,6 +44,6 @@ categories:
 
 ## Modern Notes
 
-* This is an egg-yolk-rich sponge cake — a great way to use up yolks if you have leftover whites from another recipe
-* The large number of egg yolks gives a very rich, golden cake
+* This is an egg-yolk-rich sponge cake — a great way to use up yolks if you have leftover whites from another recipe -- Claude (AI)
+* The large number of egg yolks gives a very rich, golden cake -- Claude (AI)
 

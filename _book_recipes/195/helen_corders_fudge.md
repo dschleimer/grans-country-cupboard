@@ -39,7 +39,7 @@ categories:
 
 ## Modern Notes
 
-* 2 squares of chocolate is 2 oz of unsweetened baking chocolate
-* This recipe dates to 1923 — a simple stovetop fudge
-* Stir constantly during cooking to prevent scorching
+* 2 squares of chocolate is 2 oz of unsweetened baking chocolate -- Claude (AI)
+* This recipe dates to 1923 — a simple stovetop fudge -- Claude (AI)
+* Stir constantly during cooking to prevent scorching -- Claude (AI)
 

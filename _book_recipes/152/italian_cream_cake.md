@@ -46,6 +46,6 @@ categories:
 
 ## Modern Notes
 
-* Frosting: Cream 8 oz cream cheese with ⅛ lb butter until smooth. Add 1 lb confectioners sugar and 1 tsp vanilla. Spread on cake and top with a few chopped pecans
-* Italian Cream Cake is a Southern classic despite its name — it likely has no Italian origin
+* Frosting: Cream 8 oz cream cheese with ⅛ lb butter until smooth. Add 1 lb confectioners sugar and 1 tsp vanilla. Spread on cake and top with a few chopped pecans -- Claude (AI)
+* Italian Cream Cake is a Southern classic despite its name — it likely has no Italian origin -- Claude (AI)
 

@@ -54,6 +54,6 @@ categories:
 
 ## Modern Notes
 
-* This is a Texas sheet cake — a thin, rich chocolate cake with a poured-on fudge icing
-* The icing is applied while the cake is still hot so it sets into a glossy, fudgy glaze
+* This is a Texas sheet cake — a thin, rich chocolate cake with a poured-on fudge icing -- Claude (AI)
+* The icing is applied while the cake is still hot so it sets into a glossy, fudgy glaze -- Claude (AI)
 

@@ -38,9 +38,9 @@ categories:
 
 ## Modern Notes
 
-* From Aunt Emma W.'s recipe collection
-* This is a classic spiced fruit preserve — wonderful with ham or pork
-* "Pared and pitted" — peel and remove pits/cores before weighing
-* The overnight soak in sugar syrup helps the fruit hold its shape during cooking
-* Use a spice bag (cheesecloth) for the powdered spices so they can be removed cleanly
+* From Aunt Emma W.'s recipe collection -- Claude (AI)
+* This is a classic spiced fruit preserve — wonderful with ham or pork -- Claude (AI)
+* "Pared and pitted" — peel and remove pits/cores before weighing -- Claude (AI)
+* The overnight soak in sugar syrup helps the fruit hold its shape during cooking -- Claude (AI)
+* Use a spice bag (cheesecloth) for the powdered spices so they can be removed cleanly -- Claude (AI)
 

@@ -42,6 +42,6 @@ categories:
 
 ## Modern Notes
 
-* This is a fresh strawberry pie with a cooked glaze — the berries stay mostly fresh and bright
-* The cooked portion thickens the filling while the uncooked berries provide fresh flavor and texture
+* This is a fresh strawberry pie with a cooked glaze — the berries stay mostly fresh and bright -- Claude (AI)
+* The cooked portion thickens the filling while the uncooked berries provide fresh flavor and texture -- Claude (AI)
 

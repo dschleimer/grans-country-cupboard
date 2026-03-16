@@ -34,7 +34,7 @@ categories:
 
 ## Modern Notes
 
-* Home canning corn requires a pressure canner — corn is a low-acid food and must be pressure processed, not water-bath canned
-* Modern USDA guidelines recommend processing pint jars at 10 lbs pressure for 55 minutes
-* This vintage method should be updated with current safe canning practices
+* Home canning corn requires a pressure canner — corn is a low-acid food and must be pressure processed, not water-bath canned -- Claude (AI)
+* Modern USDA guidelines recommend processing pint jars at 10 lbs pressure for 55 minutes -- Claude (AI)
+* This vintage method should be updated with current safe canning practices -- Claude (AI)
 

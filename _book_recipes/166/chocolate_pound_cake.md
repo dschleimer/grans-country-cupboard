@@ -49,7 +49,7 @@ categories:
 
 ## Modern Notes
 
-* The very low oven temperature (275°F) and long bake time produce an incredibly dense, fudgy pound cake
-* 7 small Hershey bars is about 10 oz of milk chocolate — you can substitute chocolate chips melted in a double boiler
-* The combination of chocolate syrup and melted chocolate bars gives a deep chocolate flavor
+* The very low oven temperature (275°F) and long bake time produce an incredibly dense, fudgy pound cake -- Claude (AI)
+* 7 small Hershey bars is about 10 oz of milk chocolate — you can substitute chocolate chips melted in a double boiler -- Claude (AI)
+* The combination of chocolate syrup and melted chocolate bars gives a deep chocolate flavor -- Claude (AI)
 

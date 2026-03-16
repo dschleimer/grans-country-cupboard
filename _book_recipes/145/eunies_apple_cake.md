@@ -42,6 +42,6 @@ categories:
 
 ## Modern Notes
 
-* This is more of a dense, moist bar than a traditional layer cake — the apple keeps it very moist
-* The small amount of flour (½ cup) makes it almost like a brownie texture
+* This is more of a dense, moist bar than a traditional layer cake — the apple keeps it very moist -- Claude (AI)
+* The small amount of flour (½ cup) makes it almost like a brownie texture -- Claude (AI)
 

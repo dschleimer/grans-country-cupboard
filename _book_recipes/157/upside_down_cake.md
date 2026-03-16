@@ -48,6 +48,6 @@ categories:
 
 ## Modern Notes
 
-* This is a classic American upside-down cake — the caramelized brown sugar and fruit become the topping when flipped
-* Can use a cast iron skillet for both the stovetop caramel step and the baking
+* This is a classic American upside-down cake — the caramelized brown sugar and fruit become the topping when flipped -- Claude (AI)
+* Can use a cast iron skillet for both the stovetop caramel step and the baking -- Claude (AI)
 

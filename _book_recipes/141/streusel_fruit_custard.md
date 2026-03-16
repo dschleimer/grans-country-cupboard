@@ -43,6 +43,6 @@ categories:
 
 ## Modern Notes
 
-* This is a versatile dessert — Gran notes it works with fruit cocktail, sliced peaches, or apricot halves
-* The sour cream custard layer gives it a tangy richness under the crunchy streusel top
+* This is a versatile dessert — Gran notes it works with fruit cocktail, sliced peaches, or apricot halves -- Claude (AI)
+* The sour cream custard layer gives it a tangy richness under the crunchy streusel top -- Claude (AI)
 

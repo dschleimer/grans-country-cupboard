@@ -41,8 +41,8 @@ categories:
 
 ## Modern Notes
 
-* This is a classic custard-based ice cream made in a hand-crank freezer
-* If you don't have an ice cream maker, pour into a container and freeze, stirring every 30 minutes for the first 2 hours
-* The flour helps stabilize the custard base
-* Recipe dates to 1920
+* This is a classic custard-based ice cream made in a hand-crank freezer -- Claude (AI)
+* If you don't have an ice cream maker, pour into a container and freeze, stirring every 30 minutes for the first 2 hours -- Claude (AI)
+* The flour helps stabilize the custard base -- Claude (AI)
+* Recipe dates to 1920 -- Claude (AI)
 

@@ -41,7 +41,7 @@ categories:
 
 ## Modern Notes
 
-* These are a crunchy date cookie with cornflakes for extra texture
-* Drop by spoonfuls onto a greased cookie sheet
-* The cornflakes add a satisfying crunch that complements the chewy dates
+* These are a crunchy date cookie with cornflakes for extra texture -- Claude (AI)
+* Drop by spoonfuls onto a greased cookie sheet -- Claude (AI)
+* The cornflakes add a satisfying crunch that complements the chewy dates -- Claude (AI)
 

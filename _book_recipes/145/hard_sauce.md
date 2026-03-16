@@ -39,6 +39,6 @@ categories:
 
 ## Modern Notes
 
-* This is a cooked version of hard sauce, unlike the no-cook version on page 144
-* Traditionally served with steamed puddings — like the batter pudding on this same page
+* This is a cooked version of hard sauce, unlike the no-cook version on page 144 -- Claude (AI)
+* Traditionally served with steamed puddings — like the batter pudding on this same page -- Claude (AI)
 

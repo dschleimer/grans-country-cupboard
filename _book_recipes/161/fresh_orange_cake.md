@@ -50,7 +50,7 @@ categories:
 
 ## Modern Notes
 
-* This is a classic orange pound-style cake soaked with fresh orange syrup
-* Use golden raisins (sultanas) for the white raisins
-* The orange syrup soaks in best while the cake is still warm — poke a few holes with a skewer for even absorption
+* This is a classic orange pound-style cake soaked with fresh orange syrup -- Claude (AI)
+* Use golden raisins (sultanas) for the white raisins -- Claude (AI)
+* The orange syrup soaks in best while the cake is still warm — poke a few holes with a skewer for even absorption -- Claude (AI)
 

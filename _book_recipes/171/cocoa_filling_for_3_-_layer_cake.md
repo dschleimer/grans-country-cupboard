@@ -34,7 +34,7 @@ categories:
 
 ## Modern Notes
 
-* This is an uncooked cocoa filling — quick and easy for layer cakes
-* The 2 cups cream seems generous — you may want to start with less and add until you reach the right consistency
-* Use heavy cream for a richer filling
+* This is an uncooked cocoa filling — quick and easy for layer cakes -- Claude (AI)
+* The 2 cups cream seems generous — you may want to start with less and add until you reach the right consistency -- Claude (AI)
+* Use heavy cream for a richer filling -- Claude (AI)
 

@@ -34,8 +34,8 @@ categories:
 
 ## Modern Notes
 
-* This is a citrus-based country wine — the daily sugar additions feed the yeast gradually for a controlled fermentation
-* A "yeast cake" is compressed fresh yeast — substitute 1 packet (2¼ tsp) active dry yeast
-* The total sugar is about 6 lbs (2 lbs initially + ~1 cup/day until 4 lbs more are used)
-* The raisins add body, tannin, and additional fermentable sugars
+* This is a citrus-based country wine — the daily sugar additions feed the yeast gradually for a controlled fermentation -- Claude (AI)
+* A "yeast cake" is compressed fresh yeast — substitute 1 packet (2¼ tsp) active dry yeast -- Claude (AI)
+* The total sugar is about 6 lbs (2 lbs initially + ~1 cup/day until 4 lbs more are used) -- Claude (AI)
+* The raisins add body, tannin, and additional fermentable sugars -- Claude (AI)
 

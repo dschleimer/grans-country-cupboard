@@ -46,7 +46,7 @@ categories:
 
 ## Modern Notes
 
-* This is a classic two-layer fudge cake — rich with 3 squares of chocolate
-* Three squares of unsweetened chocolate is typically 3 oz
-* The recipe dates to 1924 based on the original notation
+* This is a classic two-layer fudge cake — rich with 3 squares of chocolate -- Claude (AI)
+* Three squares of unsweetened chocolate is typically 3 oz -- Claude (AI)
+* The recipe dates to 1924 based on the original notation -- Claude (AI)
 

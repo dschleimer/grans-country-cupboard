@@ -41,8 +41,8 @@ categories:
 
 ## Modern Notes
 
-* This is a classic mixed-citrus marmalade — the tangerines and pink grapefruit give it a festive Christmas color
-* Test for jelling by placing a spoonful on a cold plate — it should wrinkle when pushed
-* This recipe dates to 1931 from St. Stephen's Church
-* Makes a large batch — a wonderful holiday gift
+* This is a classic mixed-citrus marmalade — the tangerines and pink grapefruit give it a festive Christmas color -- Claude (AI)
+* Test for jelling by placing a spoonful on a cold plate — it should wrinkle when pushed -- Claude (AI)
+* This recipe dates to 1931 from St. Stephen's Church -- Claude (AI)
+* Makes a large batch — a wonderful holiday gift -- Claude (AI)
 

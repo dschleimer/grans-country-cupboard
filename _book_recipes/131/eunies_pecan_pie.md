@@ -39,6 +39,6 @@ categories:
 
 ## Modern Notes
 
-* Karo is a brand of corn syrup — the dark label variety has a deeper, more molasses-like flavor than the light version
-* Starting at a higher temperature sets the crust quickly, then the lower temperature gently cooks the filling through
+* Karo is a brand of corn syrup — the dark label variety has a deeper, more molasses-like flavor than the light version -- Claude (AI)
+* Starting at a higher temperature sets the crust quickly, then the lower temperature gently cooks the filling through -- Claude (AI)
 

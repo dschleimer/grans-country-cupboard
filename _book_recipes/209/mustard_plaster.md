@@ -38,7 +38,7 @@ This historical home remedy is included only for completeness. <strong>Do not us
 
 ## Modern Notes
 
-* From a 1920 family doctor — a historical home remedy, **not modern medical advice**
-* Mustard plasters were widely used in the 19th and early 20th centuries as a counter-irritant for chest congestion
-* The mustard causes skin irritation and warmth, which was believed to draw out congestion — this is not supported by modern evidence
+* From a 1920 family doctor — a historical home remedy, **not modern medical advice** -- Claude (AI)
+* Mustard plasters were widely used in the 19th and early 20th centuries as a counter-irritant for chest congestion -- Claude (AI)
+* The mustard causes skin irritation and warmth, which was believed to draw out congestion — this is not supported by modern evidence -- Claude (AI)
 

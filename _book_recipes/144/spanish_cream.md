@@ -43,6 +43,6 @@ categories:
 
 ## Modern Notes
 
-* Spanish cream is a classic molded custard dessert — the egg whites create a light, two-toned effect when set, with a clear layer on top and creamy layer on the bottom
-* Dipping molds in cold water helps the custard release cleanly
+* Spanish cream is a classic molded custard dessert — the egg whites create a light, two-toned effect when set, with a clear layer on top and creamy layer on the bottom -- Claude (AI)
+* Dipping molds in cold water helps the custard release cleanly -- Claude (AI)
 

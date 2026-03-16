@@ -49,7 +49,7 @@ categories:
 
 ## Modern Notes
 
-* These are thin, crispy rolled molasses cookies — the rolling and cutting makes them more elegant than drop cookies
-* To make sour milk, add 1 tsp vinegar or lemon juice to ¼ cup milk and let stand 5 minutes
-* Chill the dough well before rolling — at least 1 hour
+* These are thin, crispy rolled molasses cookies — the rolling and cutting makes them more elegant than drop cookies -- Claude (AI)
+* To make sour milk, add 1 tsp vinegar or lemon juice to ¼ cup milk and let stand 5 minutes -- Claude (AI)
+* Chill the dough well before rolling — at least 1 hour -- Claude (AI)
 

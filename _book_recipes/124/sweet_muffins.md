@@ -36,6 +36,6 @@ categories:
 
 ## Modern Notes
 
-* "Sweet milk" simply means regular whole milk, as opposed to buttermilk — a common distinction in older Southern recipes
-* The instructions are minimal — combine wet and dry ingredients, mix well, and bake
+* "Sweet milk" simply means regular whole milk, as opposed to buttermilk — a common distinction in older Southern recipes -- Claude (AI)
+* The instructions are minimal — combine wet and dry ingredients, mix well, and bake -- Claude (AI)
 

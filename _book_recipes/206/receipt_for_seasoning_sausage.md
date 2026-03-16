@@ -33,9 +33,9 @@ categories:
 
 ## Modern Notes
 
-* "Receipt" is the old-fashioned word for "recipe" — common usage through the early 1900s
-* From Ezra Buel Marter, dated December 13, 1900
-* This makes a large batch of seasoning mix meant to be used over a whole hog butchering season
-* The ratio works out to about 1 tsp seasoning per pound of ground pork
-* This is a traditional sage-and-pepper country sausage seasoning
+* "Receipt" is the old-fashioned word for "recipe" — common usage through the early 1900s -- Claude (AI)
+* From Ezra Buel Marter, dated December 13, 1900 -- Claude (AI)
+* This makes a large batch of seasoning mix meant to be used over a whole hog butchering season -- Claude (AI)
+* The ratio works out to about 1 tsp seasoning per pound of ground pork -- Claude (AI)
+* This is a traditional sage-and-pepper country sausage seasoning -- Claude (AI)
 

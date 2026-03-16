@@ -56,8 +56,8 @@ categories:
 
 ## Modern Notes
 
-* This is a classic Southern bourbon fruit cake — the overnight bourbon soak deeply flavors the fruit
-* The very low temperature (275°F) and long baking time are essential for even baking of such a dense, heavy cake
-* Fruit amounts are not specified — use about 4–5 cups total of mixed candied fruit and raisins
-* Fruit cake improves with age — wrap tightly and store for several weeks, brushing occasionally with bourbon
+* This is a classic Southern bourbon fruit cake — the overnight bourbon soak deeply flavors the fruit -- Claude (AI)
+* The very low temperature (275°F) and long baking time are essential for even baking of such a dense, heavy cake -- Claude (AI)
+* Fruit amounts are not specified — use about 4–5 cups total of mixed candied fruit and raisins -- Claude (AI)
+* Fruit cake improves with age — wrap tightly and store for several weeks, brushing occasionally with bourbon -- Claude (AI)
 

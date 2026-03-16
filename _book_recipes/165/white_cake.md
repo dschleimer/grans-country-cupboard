@@ -44,7 +44,7 @@ categories:
 
 ## Modern Notes
 
-* This is a classic all-white cake using only egg whites — no yolks — for a pure white crumb
-* The low baking temperature (300°F) helps keep the cake from browning
-* This recipe dates to 1920 — a very traditional American white cake
+* This is a classic all-white cake using only egg whites — no yolks — for a pure white crumb -- Claude (AI)
+* The low baking temperature (300°F) helps keep the cake from browning -- Claude (AI)
+* This recipe dates to 1920 — a very traditional American white cake -- Claude (AI)
 

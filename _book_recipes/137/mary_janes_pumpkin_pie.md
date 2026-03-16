@@ -45,6 +45,6 @@ categories:
 
 ## Modern Notes
 
-* This is a richer, spicier pumpkin pie than Gran's version — the molasses and brandy give it a deeper, more complex flavor
-* The flour helps set the filling a bit firmer than egg-only custard pies
+* This is a richer, spicier pumpkin pie than Gran's version — the molasses and brandy give it a deeper, more complex flavor -- Claude (AI)
+* The flour helps set the filling a bit firmer than egg-only custard pies -- Claude (AI)
 

@@ -43,5 +43,5 @@ categories:
 
 ## Modern Notes
 
-* This recipe is from Mrs. Murray of Kimball, West Virginia, dated 1950
+* This recipe is from Mrs. Murray of Kimball, West Virginia, dated 1950 -- Claude (AI)
 

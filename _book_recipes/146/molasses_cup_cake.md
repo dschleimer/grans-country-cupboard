@@ -40,6 +40,6 @@ categories:
 
 ## Modern Notes
 
-* "Cup cake" in this era often meant individual cakes baked in cups or muffin tins — the same as what we call cupcakes today
-* Watch these carefully at 425°F — they may bake in 15–20 minutes depending on your oven and pan size
+* "Cup cake" in this era often meant individual cakes baked in cups or muffin tins — the same as what we call cupcakes today -- Claude (AI)
+* Watch these carefully at 425°F — they may bake in 15–20 minutes depending on your oven and pan size -- Claude (AI)
 

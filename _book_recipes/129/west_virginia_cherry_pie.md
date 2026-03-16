@@ -43,6 +43,6 @@ categories:
 
 ## Modern Notes
 
-* Quick tapioca acts as the thickener instead of cornstarch or flour — it produces a clearer, glossier filling
-* The foil on the edges prevents over-browning during the initial bake — a common technique for fruit pies
+* Quick tapioca acts as the thickener instead of cornstarch or flour — it produces a clearer, glossier filling -- Claude (AI)
+* The foil on the edges prevents over-browning during the initial bake — a common technique for fruit pies -- Claude (AI)
 

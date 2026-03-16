@@ -51,7 +51,7 @@ categories:
 
 ## Modern Notes
 
-* Hermits are a classic New England spiced cookie — these are a fruit-heavy version perfect for the holidays
-* The brandy keeps them moist during storage — they actually improve after a few days
-* Do not overbake — they should be soft and chewy, not crisp
+* Hermits are a classic New England spiced cookie — these are a fruit-heavy version perfect for the holidays -- Claude (AI)
+* The brandy keeps them moist during storage — they actually improve after a few days -- Claude (AI)
+* Do not overbake — they should be soft and chewy, not crisp -- Claude (AI)
 

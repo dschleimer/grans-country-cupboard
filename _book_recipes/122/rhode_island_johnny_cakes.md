@@ -38,6 +38,6 @@ categories:
 
 ## Modern Notes
 
-* Johnny cakes (also spelled "johnnycakes") are a traditional New England cornmeal flatcake, especially associated with Rhode Island
-* These are more like corn pancakes than the thin, crispy johnnycakes some Rhode Islanders prefer — this version uses a thicker batter with flour added
+* Johnny cakes (also spelled "johnnycakes") are a traditional New England cornmeal flatcake, especially associated with Rhode Island -- Claude (AI)
+* These are more like corn pancakes than the thin, crispy johnnycakes some Rhode Islanders prefer — this version uses a thicker batter with flour added -- Claude (AI)
 

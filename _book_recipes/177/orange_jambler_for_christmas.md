@@ -40,7 +40,7 @@ categories:
 
 ## Modern Notes
 
-* A "jambler" is an old-fashioned term for a small, round cookie — also spelled "jumble" or "jumbal"
-* These are simple orange-flavored drop cookies, traditional for Christmas
-* Don't overbake — they should be just barely golden
+* A "jambler" is an old-fashioned term for a small, round cookie — also spelled "jumble" or "jumbal" -- Claude (AI)
+* These are simple orange-flavored drop cookies, traditional for Christmas -- Claude (AI)
+* Don't overbake — they should be just barely golden -- Claude (AI)
 

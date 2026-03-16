@@ -40,6 +40,6 @@ categories:
 
 ## Modern Notes
 
-* The water bath (bain-marie) ensures gentle, even cooking and prevents the custard from curdling or cracking
-* "Rich milk" means whole milk — you can use half-and-half for an even richer custard
+* The water bath (bain-marie) ensures gentle, even cooking and prevents the custard from curdling or cracking -- Claude (AI)
+* "Rich milk" means whole milk — you can use half-and-half for an even richer custard -- Claude (AI)
 

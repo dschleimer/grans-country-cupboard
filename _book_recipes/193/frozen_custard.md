@@ -41,7 +41,7 @@ categories:
 
 ## Modern Notes
 
-* This is a rich egg custard frozen dessert — 6 eggs and a quart of cream make it very luxurious
-* The custard must coat the back of a spoon (about 170°F) — do not let it boil or the eggs will curdle
-* Cool completely before adding cream and freezing
+* This is a rich egg custard frozen dessert — 6 eggs and a quart of cream make it very luxurious -- Claude (AI)
+* The custard must coat the back of a spoon (about 170°F) — do not let it boil or the eggs will curdle -- Claude (AI)
+* Cool completely before adding cream and freezing -- Claude (AI)
 

@@ -45,6 +45,6 @@ categories:
 
 ## Modern Notes
 
-* This is a classic Southern coconut layer cake — all egg whites (no yolks) keep the cake snowy white
-* Pat's White Frosting recipe is on the same page
+* This is a classic Southern coconut layer cake — all egg whites (no yolks) keep the cake snowy white -- Claude (AI)
+* Pat's White Frosting recipe is on the same page -- Claude (AI)
 

@@ -30,6 +30,6 @@ categories:
 
 ## Modern Notes
 
-* These are instructions for freezing fresh strawberries for later use
-* Spread berries in a single layer on a sheet pan to freeze individually before bagging — prevents clumping
-* Frozen berries keep well for up to a year
+* These are instructions for freezing fresh strawberries for later use -- Claude (AI)
+* Spread berries in a single layer on a sheet pan to freeze individually before bagging — prevents clumping -- Claude (AI)
+* Frozen berries keep well for up to a year -- Claude (AI)

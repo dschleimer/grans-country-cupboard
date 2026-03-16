@@ -38,6 +38,6 @@ categories:
 
 ## Modern Notes
 
-* The "magic" is that the acid in the lemon juice reacts with the condensed milk to thicken the filling without cooking
-* This is a very simple no-bake pie filling — similar in concept to Key lime pie
+* The "magic" is that the acid in the lemon juice reacts with the condensed milk to thicken the filling without cooking -- Claude (AI)
+* This is a very simple no-bake pie filling — similar in concept to Key lime pie -- Claude (AI)
 

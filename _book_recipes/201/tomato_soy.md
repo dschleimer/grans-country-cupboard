@@ -51,8 +51,8 @@ categories:
 
 ## Modern Notes
 
-* Tomato soy is an old-fashioned spiced green tomato relish — "soy" here refers to a soy-sauce-like condiment, not soybeans
-* A peck of tomatoes is about 12–14 lbs
-* The sweet-sour-spicy flavor makes this a wonderful condiment for meats
-* Use proper canning procedures for safe preservation
+* Tomato soy is an old-fashioned spiced green tomato relish — "soy" here refers to a soy-sauce-like condiment, not soybeans -- Claude (AI)
+* A peck of tomatoes is about 12–14 lbs -- Claude (AI)
+* The sweet-sour-spicy flavor makes this a wonderful condiment for meats -- Claude (AI)
+* Use proper canning procedures for safe preservation -- Claude (AI)
 

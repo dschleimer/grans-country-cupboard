@@ -46,6 +46,6 @@ categories:
 
 ## Modern Notes
 
-* Leaving the cheesecake in the turned-off oven to cool gradually helps prevent cracking
-* This is a classic Italian-American style cheesecake — the combination of ricotta and cream cheese gives it a lighter texture than an all-cream-cheese version
+* Leaving the cheesecake in the turned-off oven to cool gradually helps prevent cracking -- Claude (AI)
+* This is a classic Italian-American style cheesecake — the combination of ricotta and cream cheese gives it a lighter texture than an all-cream-cheese version -- Claude (AI)
 

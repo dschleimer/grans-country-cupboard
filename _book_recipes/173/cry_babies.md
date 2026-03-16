@@ -43,8 +43,8 @@ categories:
 
 ## Modern Notes
 
-* Cry babies are old-fashioned soft molasses cookies — the name comes from their crinkly, "crying" appearance when baked
-* These are a New England classic, popular in school bake sales
-* Drop by spoonfuls — they spread during baking
-* From the Glendon School recipe collection
+* Cry babies are old-fashioned soft molasses cookies — the name comes from their crinkly, "crying" appearance when baked -- Claude (AI)
+* These are a New England classic, popular in school bake sales -- Claude (AI)
+* Drop by spoonfuls — they spread during baking -- Claude (AI)
+* From the Glendon School recipe collection -- Claude (AI)
 

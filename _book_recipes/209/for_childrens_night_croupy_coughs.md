@@ -36,7 +36,7 @@ This historical home remedy is included only for completeness. <strong>Do not us
 
 ## Modern Notes
 
-* From 1903, Mother Marter — a historical home remedy, **not modern medical advice**
-* Alum (potassium aluminum sulfate) was commonly used in folk medicine as an astringent
-* This type of syrup-and-fat remedy was a standard approach to childhood croup before modern medicine
+* From 1903, Mother Marter — a historical home remedy, **not modern medical advice** -- Claude (AI)
+* Alum (potassium aluminum sulfate) was commonly used in folk medicine as an astringent -- Claude (AI)
+* This type of syrup-and-fat remedy was a standard approach to childhood croup before modern medicine -- Claude (AI)
 

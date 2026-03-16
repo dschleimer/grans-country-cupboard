@@ -48,8 +48,8 @@ categories:
 
 ## Modern Notes
 
-* 2 squares of chocolate is 2 oz of unsweetened baking chocolate
-* The trick of cutting with a wet knife and returning briefly to the oven helps get clean cuts
-* These are fudgy-style brownies — the low flour ratio keeps them dense and rich
-* This recipe dates to 1939
+* 2 squares of chocolate is 2 oz of unsweetened baking chocolate -- Claude (AI)
+* The trick of cutting with a wet knife and returning briefly to the oven helps get clean cuts -- Claude (AI)
+* These are fudgy-style brownies — the low flour ratio keeps them dense and rich -- Claude (AI)
+* This recipe dates to 1939 -- Claude (AI)
 

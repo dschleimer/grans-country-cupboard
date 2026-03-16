@@ -41,6 +41,6 @@ categories:
 
 ## Modern Notes
 
-* Tangier Island is a small island in the Chesapeake Bay, Virginia, known for its traditional Southern cooking
-* Country ham is a salt-cured, dry-aged ham common in the Southern US — regular deli ham can be substituted but the flavor will be milder
+* Tangier Island is a small island in the Chesapeake Bay, Virginia, known for its traditional Southern cooking -- Claude (AI)
+* Country ham is a salt-cured, dry-aged ham common in the Southern US — regular deli ham can be substituted but the flavor will be milder -- Claude (AI)
 

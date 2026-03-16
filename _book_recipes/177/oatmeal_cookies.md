@@ -45,7 +45,7 @@ categories:
 
 ## Modern Notes
 
-* These are old-fashioned molasses oatmeal cookies — darker and chewier than the typical brown sugar version
-* The molasses gives these a deep, rich flavor
-* Flatten the balls well — they don't spread much on their own
+* These are old-fashioned molasses oatmeal cookies — darker and chewier than the typical brown sugar version -- Claude (AI)
+* The molasses gives these a deep, rich flavor -- Claude (AI)
+* Flatten the balls well — they don't spread much on their own -- Claude (AI)
 

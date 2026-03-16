@@ -45,6 +45,6 @@ categories:
 
 ## Modern Notes
 
-* This is the classic Toll House chocolate chip cookie recipe, invented by Ruth Wakefield in the 1930s
-* Do not overbake — they should be slightly underdone in the center as they continue to set while cooling
+* This is the classic Toll House chocolate chip cookie recipe, invented by Ruth Wakefield in the 1930s -- Claude (AI)
+* Do not overbake — they should be slightly underdone in the center as they continue to set while cooling -- Claude (AI)
 

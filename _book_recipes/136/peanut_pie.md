@@ -44,6 +44,6 @@ categories:
 
 ## Modern Notes
 
-* This is similar to a chess pie with the addition of peanuts, coconut, and raisins — a Southern classic
-* The vinegar helps balance the sweetness and sets the filling
+* This is similar to a chess pie with the addition of peanuts, coconut, and raisins — a Southern classic -- Claude (AI)
+* The vinegar helps balance the sweetness and sets the filling -- Claude (AI)
 

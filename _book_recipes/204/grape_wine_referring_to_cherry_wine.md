@@ -30,7 +30,7 @@ categories:
 
 ## Modern Notes
 
-* This is a variation of the Wild Cherry Wine recipe above, adapted for grapes
-* The higher sugar content (2 lbs vs 1½ lbs) compensates for grape juice being less sweet than the cherry/water mixture
-* From K.D.M. — likely a family member or friend's initials
+* This is a variation of the Wild Cherry Wine recipe above, adapted for grapes -- Claude (AI)
+* The higher sugar content (2 lbs vs 1½ lbs) compensates for grape juice being less sweet than the cherry/water mixture -- Claude (AI)
+* From K.D.M. — likely a family member or friend's initials -- Claude (AI)
 

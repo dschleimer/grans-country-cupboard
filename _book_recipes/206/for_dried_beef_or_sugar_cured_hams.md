@@ -37,9 +37,9 @@ categories:
 
 ## Modern Notes
 
-* From Great-Grand-Dad Marter's recipe — a traditional dry-cure for preserving beef and ham
-* Saltpeter (potassium nitrate) was the traditional curing agent — modern curing salt (Prague powder #1 or #2) is the safer substitute
-* This is a very large-batch recipe (100 lbs of meat) meant for whole-animal butchering
-* The 2-week cure followed by air-drying is the classic method for country hams and dried beef
-* Always follow modern food safety guidelines when curing meats
+* From Great-Grand-Dad Marter's recipe — a traditional dry-cure for preserving beef and ham -- Claude (AI)
+* Saltpeter (potassium nitrate) was the traditional curing agent — modern curing salt (Prague powder #1 or #2) is the safer substitute -- Claude (AI)
+* This is a very large-batch recipe (100 lbs of meat) meant for whole-animal butchering -- Claude (AI)
+* The 2-week cure followed by air-drying is the classic method for country hams and dried beef -- Claude (AI)
+* Always follow modern food safety guidelines when curing meats -- Claude (AI)
 

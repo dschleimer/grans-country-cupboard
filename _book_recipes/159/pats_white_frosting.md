@@ -37,6 +37,6 @@ categories:
 
 ## Modern Notes
 
-* This is a boiled-syrup meringue frosting — lighter and glossier than a buttercream
-* Work quickly once the syrup is ready — it needs to be poured hot into the egg whites
+* This is a boiled-syrup meringue frosting — lighter and glossier than a buttercream -- Claude (AI)
+* Work quickly once the syrup is ready — it needs to be poured hot into the egg whites -- Claude (AI)
 

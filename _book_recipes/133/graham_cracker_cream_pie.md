@@ -50,5 +50,5 @@ categories:
 
 ## Modern Notes
 
-* "Coats a silver spoon" means the custard is thick enough that when you dip a spoon and run your finger across the back, it leaves a clean line — about 170°F
+* "Coats a silver spoon" means the custard is thick enough that when you dip a spoon and run your finger across the back, it leaves a clean line — about 170°F -- Claude (AI)
 

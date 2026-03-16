@@ -42,6 +42,6 @@ categories:
 
 ## Modern Notes
 
-* "Gem pans" is an old-fashioned term for muffin or cupcake tins
-* Two squares of unsweetened chocolate is typically 2 oz
+* "Gem pans" is an old-fashioned term for muffin or cupcake tins -- Claude (AI)
+* Two squares of unsweetened chocolate is typically 2 oz -- Claude (AI)
 

@@ -44,7 +44,7 @@ categories:
 
 ## Modern Notes
 
-* This is an elegant no-bake icebox torte — the lady fingers soften overnight from the fruit juices
-* A springform pan is essential for unmolding
-* Must chill at least 12 hours for the layers to set properly
+* This is an elegant no-bake icebox torte — the lady fingers soften overnight from the fruit juices -- Claude (AI)
+* A springform pan is essential for unmolding -- Claude (AI)
+* Must chill at least 12 hours for the layers to set properly -- Claude (AI)
 

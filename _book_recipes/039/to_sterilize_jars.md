@@ -27,6 +27,6 @@ categories:
 
 ## Modern Notes
 
-* This is a general technique note for sterilizing canning jars before filling with preserves or relishes
-* Modern canning guides recommend boiling jars in water for 10 minutes (at altitudes up to 1,000 ft) as the preferred sterilization method
+* This is a general technique note for sterilizing canning jars before filling with preserves or relishes -- Claude (AI)
+* Modern canning guides recommend boiling jars in water for 10 minutes (at altitudes up to 1,000 ft) as the preferred sterilization method ([USDA Complete Guide to Home Canning](https://nchfp.uga.edu/publications/publications_usda.html)) -- Claude (AI)
 

@@ -42,6 +42,6 @@ categories:
 
 ## Modern Notes
 
-* Concord grapes have seeds that must be removed — slipping the skins and sieving the pulp is the traditional method
-* This pie has an intense grape flavor quite different from anything made with grape juice or jelly
+* Concord grapes have seeds that must be removed — slipping the skins and sieving the pulp is the traditional method -- Claude (AI)
+* This pie has an intense grape flavor quite different from anything made with grape juice or jelly -- Claude (AI)
 

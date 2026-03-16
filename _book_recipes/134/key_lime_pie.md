@@ -41,6 +41,6 @@ categories:
 
 ## Modern Notes
 
-* This is the classic Key lime pie — the acid in the lime juice reacts with the condensed milk to thicken the filling without baking
-* Key limes are smaller and more tart than regular (Persian) limes — bottled Key lime juice works well as a substitute
+* This is the classic Key lime pie — the acid in the lime juice reacts with the condensed milk to thicken the filling without baking -- Claude (AI)
+* Key limes are smaller and more tart than regular (Persian) limes — bottled Key lime juice works well as a substitute -- Claude (AI)
 

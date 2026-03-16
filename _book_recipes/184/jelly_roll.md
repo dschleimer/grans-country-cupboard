@@ -44,7 +44,7 @@ categories:
 
 ## Modern Notes
 
-* The key to a good jelly roll is not overbaking — the cake must be flexible enough to roll without cracking
-* Roll while still warm — it becomes brittle as it cools
-* Use any flavor of jelly or jam you prefer
+* The key to a good jelly roll is not overbaking — the cake must be flexible enough to roll without cracking -- Claude (AI)
+* Roll while still warm — it becomes brittle as it cools -- Claude (AI)
+* Use any flavor of jelly or jam you prefer -- Claude (AI)
 

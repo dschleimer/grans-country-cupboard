@@ -49,7 +49,7 @@ categories:
 
 ## Modern Notes
 
-* This is a gelatin-set pie that uses melted ice cream as part of the filling — a popular technique in mid-century desserts
-* California port wine gives this its "jubilee" character — you could substitute cherry juice for a non-alcoholic version
-* The cookie-style crust (butter, sugar, egg yolk, flour) is a pâte sucrée rather than a traditional pie crust
+* This is a gelatin-set pie that uses melted ice cream as part of the filling — a popular technique in mid-century desserts -- Claude (AI)
+* California port wine gives this its "jubilee" character — you could substitute cherry juice for a non-alcoholic version -- Claude (AI)
+* The cookie-style crust (butter, sugar, egg yolk, flour) is a pâte sucrée rather than a traditional pie crust -- Claude (AI)
 

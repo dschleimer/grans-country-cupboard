@@ -34,6 +34,6 @@ categories:
 
 ## Modern Notes
 
-* This is a quick no-bake treat — similar to Rice Krispie treats but with butterscotch and peanut butter instead of marshmallow
-* Can also be dropped by spoonfuls onto wax paper instead of pressed into a pan
+* This is a quick no-bake treat — similar to Rice Krispie treats but with butterscotch and peanut butter instead of marshmallow -- Claude (AI)
+* Can also be dropped by spoonfuls onto wax paper instead of pressed into a pan -- Claude (AI)
 

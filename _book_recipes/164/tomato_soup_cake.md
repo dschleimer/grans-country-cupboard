@@ -52,8 +52,8 @@ categories:
 
 ## Modern Notes
 
-* Tomato soup cake was a Depression-era classic — the soup adds moisture, acidity, and a subtle tang without any tomato flavor
-* The warm spices completely mask any tomato taste
-* This recipe dates to 1922, predating the Depression — it was already a popular frugal recipe
-* Use one standard 10.75 oz can of Campbell's condensed tomato soup, undiluted
+* Tomato soup cake was a Depression-era classic — the soup adds moisture, acidity, and a subtle tang without any tomato flavor -- Claude (AI)
+* The warm spices completely mask any tomato taste -- Claude (AI)
+* This recipe dates to 1922, predating the Depression — it was already a popular frugal recipe -- Claude (AI)
+* Use one standard 10.75 oz can of Campbell's condensed tomato soup, undiluted -- Claude (AI)
 

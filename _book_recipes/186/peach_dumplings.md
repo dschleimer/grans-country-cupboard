@@ -49,7 +49,7 @@ categories:
 
 ## Modern Notes
 
-* These are baked fruit dumplings — like a fruit-filled cinnamon roll baked in a sweet sauce
-* The sauce bubbles up around the dumplings during baking for a caramelized finish
-* Can also be made with apples or other stone fruit in season
+* These are baked fruit dumplings — like a fruit-filled cinnamon roll baked in a sweet sauce -- Claude (AI)
+* The sauce bubbles up around the dumplings during baking for a caramelized finish -- Claude (AI)
+* Can also be made with apples or other stone fruit in season -- Claude (AI)
 

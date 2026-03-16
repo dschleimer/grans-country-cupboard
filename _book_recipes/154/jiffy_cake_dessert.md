@@ -33,6 +33,6 @@ categories:
 
 ## Modern Notes
 
-* This is a "dump cake" — an extremely simple dessert where dry cake mix is layered over fruit and topped with melted butter
-* Jiffy is a brand of inexpensive cake mix — any yellow cake mix will work
+* This is a "dump cake" — an extremely simple dessert where dry cake mix is layered over fruit and topped with melted butter -- Claude (AI)
+* Jiffy is a brand of inexpensive cake mix — any yellow cake mix will work -- Claude (AI)
 

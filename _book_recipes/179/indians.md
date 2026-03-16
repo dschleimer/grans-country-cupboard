@@ -29,6 +29,6 @@ categories:
 
 ## Modern Notes
 
-* "Indians" is a variation on brownies — the extra egg and dates make them chewier and fruitier
-* The name is a vintage cookie name from early 20th century American baking
+* "Indians" is a variation on brownies — the extra egg and dates make them chewier and fruitier -- Claude (AI)
+* The name is a vintage cookie name from early 20th century American baking -- Claude (AI)
 

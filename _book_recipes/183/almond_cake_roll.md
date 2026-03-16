@@ -54,7 +54,7 @@ categories:
 
 ## Modern Notes
 
-* Roll the cake while warm — if it cools flat, it will crack when you try to roll it
-* The towel prevents the cake from sticking to itself while cooling
-* This makes an elegant holiday dessert
+* Roll the cake while warm — if it cools flat, it will crack when you try to roll it -- Claude (AI)
+* The towel prevents the cake from sticking to itself while cooling -- Claude (AI)
+* This makes an elegant holiday dessert -- Claude (AI)
 

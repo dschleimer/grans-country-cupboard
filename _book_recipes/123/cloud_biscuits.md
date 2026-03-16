@@ -42,5 +42,5 @@ categories:
 
 ## Modern Notes
 
-* Not twisting the biscuit cutter helps the biscuits rise evenly — twisting seals the edges and prevents proper layering
+* Not twisting the biscuit cutter helps the biscuits rise evenly — twisting seals the edges and prevents proper layering -- Claude (AI)
 

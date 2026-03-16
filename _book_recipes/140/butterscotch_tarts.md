@@ -42,5 +42,5 @@ categories:
 
 ## Modern Notes
 
-* Use the leftover egg whites to make the meringue topping — beat until stiff with a little sugar
+* Use the leftover egg whites to make the meringue topping — beat until stiff with a little sugar -- Claude (AI)
 

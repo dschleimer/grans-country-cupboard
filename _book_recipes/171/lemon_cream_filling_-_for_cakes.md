@@ -42,7 +42,7 @@ categories:
 
 ## Modern Notes
 
-* This is a lemon curd-style filling lightened with whipped cream — perfect between cake layers
-* The double boiler prevents the egg from scrambling
-* Make sure the filling is fully chilled before folding in the whipped cream
+* This is a lemon curd-style filling lightened with whipped cream — perfect between cake layers -- Claude (AI)
+* The double boiler prevents the egg from scrambling -- Claude (AI)
+* Make sure the filling is fully chilled before folding in the whipped cream -- Claude (AI)
 

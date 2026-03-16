@@ -33,7 +33,7 @@ categories:
 
 ## Modern Notes
 
-* This is a simple uncooked vanilla icing — the egg yolks give it a rich, golden color
-* Note: this uses raw egg yolks — use pasteurized eggs if this is a concern
-* Add cream gradually — you want a thick but spreadable consistency
+* This is a simple uncooked vanilla icing — the egg yolks give it a rich, golden color -- Claude (AI)
+* Note: this uses raw egg yolks — use pasteurized eggs if this is a concern -- Claude (AI)
+* Add cream gradually — you want a thick but spreadable consistency -- Claude (AI)
 

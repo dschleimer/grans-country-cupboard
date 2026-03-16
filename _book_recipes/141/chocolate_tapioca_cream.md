@@ -47,6 +47,6 @@ categories:
 
 ## Modern Notes
 
-* One square of unsweetened baking chocolate is typically 1 oz
-* A double boiler prevents the chocolate and milk from scorching — you can use a heatproof bowl over simmering water
+* One square of unsweetened baking chocolate is typically 1 oz -- Claude (AI)
+* A double boiler prevents the chocolate and milk from scorching — you can use a heatproof bowl over simmering water -- Claude (AI)
 

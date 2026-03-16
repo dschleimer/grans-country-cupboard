@@ -43,7 +43,7 @@ categories:
 
 ## Modern Notes
 
-* This is a meringue-based torte — crispy on the outside, chewy inside
-* The graham cracker crumbs and coconut give it substance and flavor
-* Must be completely cool before serving or it will collapse
+* This is a meringue-based torte — crispy on the outside, chewy inside -- Claude (AI)
+* The graham cracker crumbs and coconut give it substance and flavor -- Claude (AI)
+* Must be completely cool before serving or it will collapse -- Claude (AI)
 

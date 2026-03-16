@@ -43,6 +43,6 @@ categories:
 
 ## Modern Notes
 
-* This is a classic white layer cake — egg whites only (no yolks) keep it pure white
-* The half and half makes it richer than a cake made with regular milk
+* This is a classic white layer cake — egg whites only (no yolks) keep it pure white -- Claude (AI)
+* The half and half makes it richer than a cake made with regular milk -- Claude (AI)
 

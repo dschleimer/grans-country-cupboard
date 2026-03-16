@@ -42,6 +42,6 @@ categories:
 
 ## Modern Notes
 
-* This is a three-layer Jello mold — fruit gelatin, sour cream/cream cheese, then more fruit gelatin
-* Strawberry-banana Jello was a popular flavor in the 1970s — if unavailable, use strawberry Jello and add an extra banana
+* This is a three-layer Jello mold — fruit gelatin, sour cream/cream cheese, then more fruit gelatin -- Claude (AI)
+* Strawberry-banana Jello was a popular flavor in the 1970s — if unavailable, use strawberry Jello and add an extra banana -- Claude (AI)
 

@@ -50,8 +50,8 @@ categories:
 
 ## Modern Notes
 
-* This is a white fruit cake — no brown sugar or molasses, so the cake stays light-colored
-* The sugar amount appears to be missing from the original recipe — use about 2 cups
-* The very low starting temperature (250°F) with a brief increase at the end is traditional for fruit cakes
-* Blanched almonds keep the cake white — unblanched would add brown flecks
+* This is a white fruit cake — no brown sugar or molasses, so the cake stays light-colored -- Claude (AI)
+* The sugar amount appears to be missing from the original recipe — use about 2 cups -- Claude (AI)
+* The very low starting temperature (250°F) with a brief increase at the end is traditional for fruit cakes -- Claude (AI)
+* Blanched almonds keep the cake white — unblanched would add brown flecks -- Claude (AI)
 

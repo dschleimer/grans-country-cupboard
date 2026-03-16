@@ -58,7 +58,7 @@ categories:
 
 ## Modern Notes
 
-* This is an impressive 6-layer chocolate torte with a rich cream filling
-* Splitting cake layers requires a long serrated knife and a steady hand — chill the cakes first for easier cutting
-* Must be refrigerated due to the cream filling
+* This is an impressive 6-layer chocolate torte with a rich cream filling -- Claude (AI)
+* Splitting cake layers requires a long serrated knife and a steady hand — chill the cakes first for easier cutting -- Claude (AI)
+* Must be refrigerated due to the cream filling -- Claude (AI)
 

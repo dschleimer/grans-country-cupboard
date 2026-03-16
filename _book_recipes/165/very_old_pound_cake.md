@@ -41,8 +41,8 @@ categories:
 
 ## Modern Notes
 
-* This is a true pound cake in the original sense — a pound each of butter, sugar, eggs, and flour
-* 12 eggs is roughly 1 pound of eggs
-* The very low oven temperature (275°F) and large volume of batter means a long baking time — check at 1½ hours
-* Wine and brandy were traditional leavening aids and flavorings in pound cakes before baking powder was widely available
+* This is a true pound cake in the original sense — a pound each of butter, sugar, eggs, and flour -- Claude (AI)
+* 12 eggs is roughly 1 pound of eggs -- Claude (AI)
+* The very low oven temperature (275°F) and large volume of batter means a long baking time — check at 1½ hours -- Claude (AI)
+* Wine and brandy were traditional leavening aids and flavorings in pound cakes before baking powder was widely available -- Claude (AI)
 
