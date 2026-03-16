@@ -266,6 +266,52 @@ def normalize_temperature(lines: List[str]) -> List[str]:
     # Apply the transformation to every line.
     return [temp_re.sub(repl, line) for line in lines]
 
+def normalize_front_matter(lines: List[str]) -> List[str]:
+    """
+    Normalize YAML front matter indentation:
+      - Replace tab indentation with 2-space indentation
+      - Normalize category list items to exactly 2-space indent
+    """
+    # Find front matter boundaries
+    if not lines or lines[0].rstrip("\n") != "---":
+        return lines
+
+    end_idx = None
+    for i in range(1, len(lines)):
+        if lines[i].rstrip("\n") == "---":
+            end_idx = i
+            break
+    if end_idx is None:
+        return lines
+
+    new_lines = list(lines)
+    in_categories = False
+    for i in range(1, end_idx):
+        line = new_lines[i]
+        # Replace any leading tabs with 2 spaces each
+        if "\t" in line:
+            # Replace tabs in the leading whitespace
+            stripped = line.lstrip("\t ")
+            leading = line[: len(line) - len(stripped)]
+            leading = leading.replace("\t", "  ")
+            line = leading + stripped
+            new_lines[i] = line
+
+        # Track whether we're in the categories list
+        if re.match(r"^categories:\s*$", line.rstrip("\n")):
+            in_categories = True
+            continue
+        if in_categories:
+            m = re.match(r"^(\s+)-\s+(.+)$", line.rstrip("\n"))
+            if m:
+                # Normalize to exactly 2-space indent
+                new_lines[i] = f"  - {m.group(2)}\n"
+            else:
+                in_categories = False
+
+    return new_lines
+
+
 def process_file(path: Path) -> None:
     """
     Read *path*, reformat any markdown tables it contains, and write the
@@ -273,6 +319,11 @@ def process_file(path: Path) -> None:
     """
     with path.open("r", encoding="utf-8") as f:
         lines = f.readlines()
+
+    new_lines = normalize_front_matter(lines)
+    if new_lines != lines:
+        print(f"Normalized front matter in '{path}'.")
+        lines = new_lines
 
     new_lines = normalize_temperature(lines)
     if new_lines != lines:
