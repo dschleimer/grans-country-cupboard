@@ -1,6 +1,6 @@
 # Transcribe Recipes
 
-Machine-transcribe untranscribed recipes from page scan images. Progress is tracked per recipe file in `.recipe_stats/transcribe_progress.json`. For fully automated unattended transcription of all recipes, use `bash _tools/run_transcribe.sh` from the terminal instead.
+Machine-transcribe untranscribed recipes from page scan images. Progress is tracked per recipe file in `.recipe_stats/transcribe_progress.json`.
 
 ---
 
