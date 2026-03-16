@@ -16,3 +16,4 @@ node_modules/
 .dev.vars
 # my own tooling dumps stuff here
 .recipe_stats/
+__pycache__/
