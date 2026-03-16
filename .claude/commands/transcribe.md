@@ -1,6 +1,6 @@
 # Transcribe Recipes
 
-Machine-transcribe untranscribed recipes from page scan images. Progress is tracked per recipe file in `.recipe_stats/transcribe_progress.json`.
+Machine-transcribe all remaining untranscribed recipes from page scan images, processing them in batches. Progress is tracked per recipe file in `.recipe_stats/transcribe_progress.json` — safe to interrupt and resume.
 
 ---
 
@@ -36,17 +36,23 @@ Machine-transcribe untranscribed recipes from page scan images. Progress is trac
 python _tools/transcribe.py status
 ```
 
-### 2. Get next batch
+If already complete (0 remaining), report "Done!" and stop.
+
+### 2. Loop: process batches until done
+
+Repeat the following until `next-batch` returns empty output:
+
+#### 2a. Get next batch
 
 ```bash
 python _tools/transcribe.py next-batch -n 10
 ```
 
-If the output is empty, all recipes have been transcribed — report "Done!" and stop.
+If empty, break out of the loop — all done.
 
 The output format is one line per page: `NNN file1.md file2.md ...`
 
-### 3. Transcribe each page
+#### 2b. Transcribe each page
 
 For each page in the batch:
 
@@ -67,34 +73,33 @@ For each page in the batch:
    python _tools/transcribe.py mark-done <filepath1> <filepath2> ...
    ```
 
-### 4. Fix categories
+#### 2c. Fix categories, format, and commit this batch
 
+Fix categories:
 ```bash
 python _tools/fix_categories.py _book_recipes/
 ```
 
-This removes `Needs Transcription`, infers categories, etc.
-
-### 5. Format changed files
-
+Format changed files:
 ```bash
 python _tools/format_recipes.py $(git diff --name-only HEAD | grep '\.md$' | tr '\n' ' ')
 ```
-
 Skip if no files were changed.
 
-### 6. Commit and summarize
-
-If any files were changed, commit them:
-
+If any files were changed, commit:
 ```bash
 git add _book_recipes/
 git commit -m "[transcribe] machine transcribe pages NNN–NNN"
 ```
-
 Replace `NNN–NNN` with the actual page range of files processed in this batch.
 
-Then report:
-- How many recipes were transcribed
-- Any recipes skipped in this batch and why
-- Current overall progress (`python _tools/transcribe.py status`)
+#### 2d. Continue to next batch
+
+Print a brief batch summary (recipes transcribed, recipes skipped and why), then loop back to step 2a.
+
+### 3. Final report
+
+After the loop completes:
+- Total recipes transcribed across all batches
+- All recipes skipped and why: `python _tools/transcribe.py skipped`
+- Final status: `python _tools/transcribe.py status`

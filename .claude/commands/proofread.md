@@ -1,8 +1,6 @@
 # Proofread Recipes
 
-Run this command to proofread a single batch of transcribed recipes for typos and spelling errors. For fully automated unattended proofreading of all recipes, use `bash _tools/run_proofread.sh` from the terminal instead.
-
-Progress is tracked in `.recipe_stats/proofread_progress.json` and shared between this skill and the shell script — you can mix both as needed.
+Proofread all remaining transcribed recipes for typos and spelling errors, processing them in batches. Progress is tracked in `.recipe_stats/proofread_progress.json` — safe to interrupt and resume.
 
 ---
 
@@ -49,15 +47,21 @@ Progress is tracked in `.recipe_stats/proofread_progress.json` and shared betwee
 python _tools/proofread.py status
 ```
 
-### 2. Get next batch
+If already complete (0 remaining), report "Done!" and stop.
+
+### 2. Loop: process batches until done
+
+Repeat the following until `next-batch` returns empty output:
+
+#### 2a. Get next batch
 
 ```bash
 python _tools/proofread.py next-batch -n 15
 ```
 
-If the output is empty, all recipes have been proofread — report "Done!" and stop.
+If empty, break out of the loop — all done.
 
-### 3. Proofread each file
+#### 2b. Proofread each file
 
 Process **one file at a time**:
 
@@ -70,28 +74,29 @@ Process **one file at a time**:
    ```
 5. Move to the next file.
 
-### 4. Format changed files
+#### 2c. Format and commit this batch
 
+Format any changed files:
 ```bash
-git diff --name-only HEAD
 python _tools/format_recipes.py $(git diff --name-only HEAD | grep '\.md$' | tr '\n' ' ')
 ```
-
 Skip if no files were changed.
 
-### 5. Commit and summarize
-
-If any files were changed, commit them:
-
+If any files were changed, commit:
 ```bash
 git add _book_recipes/
 git commit -m "[proofread] fix typos in pages NNN–NNN"
 ```
-
 Replace `NNN–NNN` with the actual page range of files processed in this batch.
 
-Then report:
-- How many recipes were checked
-- Each fix made (file + what changed)
+#### 2d. Continue to next batch
+
+Print a brief batch summary (files checked, fixes made), then loop back to step 2a.
+
+### 3. Final report
+
+After the loop completes:
+- Total recipes checked across all batches
+- Summary of all fixes made
 - Any ambiguous cases left unchanged (and why)
-- Current overall progress (`python _tools/proofread.py status`)
+- Final status: `python _tools/proofread.py status`
