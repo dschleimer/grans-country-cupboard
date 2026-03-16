@@ -5,11 +5,11 @@ recipe: 022/toms_typhoon_bracer_for_1961_tiki_party_in_surf_city_nj
 page_order: 1
 from: Tom McGinley - Surf City NJ - 1961 Tiki Party
 categories:
-    - Alcohol
-    - Drinks
-    - Cocktail
-    - Mixed Drink
-    - Batch Drink
+  - Alcohol
+  - Drinks
+  - Cocktail
+  - Mixed Drink
+  - Batch Drink
   - Human Transcribed
 ---
 # Tom's Typhoon Bracer for 1961 Tiki Party in Surf City NJ
