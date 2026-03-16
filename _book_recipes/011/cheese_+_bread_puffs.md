@@ -5,6 +5,7 @@ recipe: 011/cheese_+_bread_puffs
 page_order: 1
 from: Martha Marter
 categories:
+  - Human Transcribed
   - Bread
   - Baked
   - Double Boiler

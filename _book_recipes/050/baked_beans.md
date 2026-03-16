@@ -5,6 +5,7 @@ recipe: 050/baked_beans
 page_order: 1
 from: Madge VanSciver
 categories:
+  - Human Transcribed
   - Pork
   - Baked
   - Boiled

@@ -4,6 +4,7 @@ page: "118"
 recipe: 118/corn_bread
 page_order: 1
 categories:
+  - Human Transcribed
   - Needs Front Matter
   - Bread
   - Baked

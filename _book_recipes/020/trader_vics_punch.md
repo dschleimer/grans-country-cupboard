@@ -5,6 +5,7 @@ recipe: 020/trader_vics_punch
 page_order: 3
 from: Tom McGinley - Honolulu
 categories:
+  - Human Transcribed
   - Needs Front Matter
   - Punch
 ---

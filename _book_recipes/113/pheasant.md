@@ -5,6 +5,7 @@ recipe: 113/pheasant
 page_order: 2
 from: Tom McGinley
 categories:
+  - Human Transcribed
   - Needs Front Matter
   - Boiled
   - Pan Fried

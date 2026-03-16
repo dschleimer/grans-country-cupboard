@@ -5,6 +5,7 @@ recipe: 055/eggplant_parmesan
 page_order: 3
 from: Yvonne
 categories:
+  - Human Transcribed
   - Pork
   - Boiled
   - Pan Fried

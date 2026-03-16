@@ -4,6 +4,7 @@ page: "100"
 recipe: 100/evies_meat_loaf
 page_order: 2
 categories:
+  - Human Transcribed
   - Bread
   - Beef
   - Pork

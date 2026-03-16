@@ -5,6 +5,7 @@ recipe: 053/polish_cabbage_rolls
 page_order: 1
 from: Gran
 categories:
+  - Human Transcribed
   - Bread
   - Beef
   - Pork

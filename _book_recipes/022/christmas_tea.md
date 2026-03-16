@@ -5,6 +5,7 @@ recipe: 022/christmas_tea
 page_order: 2
 from: Cindy Smith
 categories:
+  - Human Transcribed
   - Needs Front Matter
   - Beverages
   - Caffeinated

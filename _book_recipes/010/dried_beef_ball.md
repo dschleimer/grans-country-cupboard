@@ -4,6 +4,7 @@ page: "010"
 recipe: 010/dried_beef_ball
 page_order: 1
 categories:
+  - Human Transcribed
   - Needs Front Matter
   - Beef
   - Meat

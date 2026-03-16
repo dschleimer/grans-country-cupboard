@@ -5,6 +5,7 @@ recipe: 015/ham_pinwheels
 page_order: 2
 from: Elizabeth McGinley Barmeyer
 categories:
+  - Human Transcribed
   - Needs Front Matter
   - Pork
   - Meat

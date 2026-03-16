@@ -5,6 +5,7 @@ recipe: 024/open_-_face_sandwiches
 page_order: 2
 from: Connie
 categories:
+  - Human Transcribed
   - Sandwich
   - Pork
   - Baked

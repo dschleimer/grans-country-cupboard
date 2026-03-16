@@ -4,6 +4,7 @@ page: "026"
 recipe: 026/mystery_sandwiches
 page_order: 1
 categories:
+  - Human Transcribed
   - Needs Front Matter
   - Sandwich
   - Boiled

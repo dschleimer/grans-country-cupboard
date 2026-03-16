@@ -5,6 +5,7 @@ recipe: 018/mcginley_punch
 page_order: 2
 from: Tom McGinley
 categories:
+  - Human Transcribed
   - Needs Front Matter
   - Punch
 ---

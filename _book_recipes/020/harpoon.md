@@ -5,6 +5,7 @@ recipe: 020/harpoon
 page_order: 1
 from: Elizabeth McGinley Barmeyer
 categories:
+  - Human Transcribed
   - Needs Front Matter
 ---
 # Harpoon

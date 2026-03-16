@@ -4,6 +4,7 @@ page: "051"
 recipe: 051/sauteed_broccoli_parmesan
 page_order: 2
 categories:
+  - Human Transcribed
   - Pork
   - Sautéed
   - Pan Fried

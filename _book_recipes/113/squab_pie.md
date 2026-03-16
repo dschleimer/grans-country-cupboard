@@ -4,6 +4,7 @@ page: "113"
 recipe: 113/squab_pie
 page_order: 1
 categories:
+  - Human Transcribed
   - Dessert
   - Pie
   - Baked

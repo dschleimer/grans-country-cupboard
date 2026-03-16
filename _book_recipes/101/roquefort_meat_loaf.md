@@ -5,6 +5,7 @@ recipe: 101/roquefort_meat_loaf
 page_order: 1
 from: California
 categories:
+  - Human Transcribed
   - Bread
   - Beef
   - Baked

@@ -4,6 +4,7 @@ page: "083"
 recipe: 083/deviled_crabs
 from: Evie McGinley
 categories:
+  - Human Transcribed
   - Crab
   - Seafood
   - Deep Fried

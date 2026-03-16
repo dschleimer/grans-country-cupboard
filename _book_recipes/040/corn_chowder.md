@@ -5,6 +5,7 @@ recipe: 040/corn_chowder
 page_order: 2
 from: Pat
 categories:
+  - Human Transcribed
   - Soup
   - Chicken
   - Pork

@@ -5,6 +5,7 @@ recipe: 017/easter_eggnog
 page_order: 2
 from: Grand Dad Marter
 categories:
+  - Human Transcribed
   - Needs Front Matter
   - Beverages
   - Ovo-Lacto Vegetarian

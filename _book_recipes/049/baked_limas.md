@@ -5,6 +5,7 @@ recipe: 049/baked_limas
 page_order: 2
 from: Wyoming
 categories:
+  - Human Transcribed
   - Pork
   - Baked
   - Sautéed

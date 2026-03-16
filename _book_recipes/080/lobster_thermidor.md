@@ -5,6 +5,7 @@ recipe: 080/lobster_thermidor
 page_order: 1
 from: Gran
 categories:
+  - Human Transcribed
   - Lobster
   - Seafood
   - Broiled

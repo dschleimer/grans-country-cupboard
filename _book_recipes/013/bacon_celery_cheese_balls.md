@@ -5,6 +5,7 @@ recipe: 013/bacon_celery_cheese_balls
 page_order: 2
 from: Michele McG. Shields - Independence Jr. High - 1974
 categories:
+  - Human Transcribed
   - Appetizers
   - Finger Food
   - Pork

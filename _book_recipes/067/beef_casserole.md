@@ -5,6 +5,7 @@ recipe: 067/beef_casserole
 page_order: 1
 from: Gwen W
 categories:
+  - Human Transcribed
   - Casserole
   - Beef
   - Baked

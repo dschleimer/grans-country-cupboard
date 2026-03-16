@@ -4,6 +4,7 @@ page: "078"
 recipe: 078/shrimp_with_remolade_sauce
 page_order: 1
 categories:
+  - Human Transcribed
   - Sauce
   - Condiment
   - Shrimp

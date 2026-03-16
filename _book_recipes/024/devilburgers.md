@@ -5,6 +5,7 @@ recipe: 024/devilburgers
 page_order: 1
 from: Connie
 categories:
+  - Human Transcribed
   - Sandwich
   - Beef
   - Baked

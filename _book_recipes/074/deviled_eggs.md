@@ -4,6 +4,7 @@ page: "074"
 recipe: 074/deviled_eggs
 page_order: 1
 categories:
+  - Human Transcribed
   - Needs Front Matter
   - Boiled
   - Ovo-Lacto Vegetarian

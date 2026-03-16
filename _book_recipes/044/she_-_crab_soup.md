@@ -5,6 +5,7 @@ recipe: 044/she_-_crab_soup
 page_order: 2
 from: The Virginian-Pilot
 categories:
+  - Human Transcribed
   - Soup
   - Crab
   - Seafood

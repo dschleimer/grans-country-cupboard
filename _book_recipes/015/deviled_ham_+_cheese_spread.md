@@ -4,6 +4,7 @@ page: "015"
 recipe: 015/deviled_ham_+_cheese_spread
 page_order: 3
 categories:
+  - Human Transcribed
   - Needs Front Matter
   - Spread
   - Pork

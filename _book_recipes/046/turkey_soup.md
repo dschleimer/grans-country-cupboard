@@ -5,6 +5,7 @@ recipe: 046/turkey_soup
 page_order: 1
 from: Gran
 categories:
+  - Human Transcribed
   - Soup
   - Turkey
   - Roast

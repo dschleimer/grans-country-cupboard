@@ -4,6 +4,7 @@ page: "025"
 recipe: 025/sandwich_loaf_for_party
 page_order: 1
 categories:
+  - Human Transcribed
   - Bread
   - Sandwich
   - Pork

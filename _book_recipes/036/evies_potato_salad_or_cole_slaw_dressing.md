@@ -4,6 +4,7 @@ page: "036"
 recipe: 036/evies_potato_salad_or_cole_slaw_dressing
 page_order: 3
 categories:
+  - Human Transcribed
   - Needs Front Matter
   - Salad
   - Chilled

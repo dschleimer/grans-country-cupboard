@@ -5,6 +5,7 @@ recipe: 070/tuna_casserole
 page_order: 2
 from: Osborns
 categories:
+  - Human Transcribed
   - Casserole
   - Chicken
   - Seafood

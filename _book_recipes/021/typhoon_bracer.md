@@ -5,6 +5,7 @@ recipe: 021/typhoon_bracer
 page_order: 2
 from: Tom McGinley - Honolulu
 categories:
+  - Human Transcribed
   - Needs Front Matter
 ---
 # Typhoon Bracer

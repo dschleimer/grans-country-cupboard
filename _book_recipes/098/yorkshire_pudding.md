@@ -5,6 +5,7 @@ recipe: 098/yorkshire_pudding
 page_order: 2
 from: Isle of Wight - Jana K. - Great Grand Mother
 categories:
+  - Human Transcribed
   - Dessert
   - Beef
   - Baked

@@ -5,6 +5,7 @@ recipe: 081/crab_imperial
 page_order: 2
 from: Connie
 categories:
+  - Human Transcribed
   - Crab
   - Seafood
   - Baked

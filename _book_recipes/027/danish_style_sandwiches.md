@@ -4,6 +4,7 @@ page: "027"
 recipe: 027/danish_style_sandwiches
 page_order: 1
 categories:
+  - Human Transcribed
   - Sandwich
   - Beef
   - Pork

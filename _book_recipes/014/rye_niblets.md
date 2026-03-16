@@ -4,6 +4,7 @@ page: "014"
 recipe: 014/rye_niblets
 page_order: 3
 categories:
+  - Human Transcribed
   - Needs Front Matter
   - Pork
   - Baked

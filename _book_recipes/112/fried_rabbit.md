@@ -5,6 +5,7 @@ recipe: 112/fried_rabbit
 page_order: 2
 from: Gran
 categories:
+  - Human Transcribed
   - Needs Front Matter
   - Rabbit
   - Pan Fried

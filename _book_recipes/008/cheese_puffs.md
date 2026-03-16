@@ -4,6 +4,7 @@ page: "008"
 recipe: 008/cheese_puffs
 page_order: 2
 categories:
+  - Human Transcribed
   - Needs Front Matter
   - Baked
 ---

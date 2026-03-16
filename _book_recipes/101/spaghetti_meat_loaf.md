@@ -4,6 +4,7 @@ page: "101"
 recipe: 101/spaghetti_meat_loaf
 page_order: 2
 categories:
+  - Human Transcribed
   - Bread
   - Pasta
   - Beef

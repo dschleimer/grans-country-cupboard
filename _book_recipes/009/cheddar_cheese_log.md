@@ -4,6 +4,7 @@ page: "009"
 recipe: 009/cheddar_cheese_log
 page_order: 2
 categories:
+  - Human Transcribed
   - Needs Front Matter
   - Beef
   - Meat

@@ -5,6 +5,7 @@ recipe: 028/chicken_salad
 page_order: 1
 from: Aunt Anna Marter
 categories:
+  - Human Transcribed
   - Salad
   - Chicken
   - Boiled

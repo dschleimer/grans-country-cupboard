@@ -5,6 +5,7 @@ recipe: 118/french_bread
 page_order: 2
 from: Wyoming
 categories:
+  - Human Transcribed
   - Bread
   - Baked
   - Boiled

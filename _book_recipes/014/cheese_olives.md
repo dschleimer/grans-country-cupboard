@@ -4,6 +4,7 @@ page: "014"
 recipe: 014/cheese_olives
 page_order: 2
 categories:
+  - Human Transcribed
   - Needs Front Matter
   - Pork
   - Baked
