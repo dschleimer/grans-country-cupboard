@@ -20,6 +20,7 @@ categories:
 | Confectioners Sugar | 1 Cup  | |
 | Butter              | ½ Cup  | |
 | Boiling Water       | 2 tsp  | |
+| Egg                 | 1 yolk | |
 | Vanilla             | 1 tsp  | Or rum |
 
 ## Method
@@ -27,6 +28,7 @@ categories:
 1. Cream the butter well
 1. Add confectioners sugar gradually, beating until smooth
 1. Add vanilla (or rum)
+1. Beat in egg yolk
 1. Add the boiling water carefully and beat until light
 1. Set in a cool place until ready to use
 

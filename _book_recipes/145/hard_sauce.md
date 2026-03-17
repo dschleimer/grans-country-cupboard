@@ -21,7 +21,7 @@ categories:
 | Egg           | 1      | |
 | Flour         | 1 Tbsp | |
 | Butter        | ⅛ lb   | |
-| Salt          | ⅛ tsp  | For consistency |
+| Salt          | ⅛ tsp  | |
 | Boiling Water |        | Add for desired consistency |
 | Vanilla       | 1 Tbsp | |
 

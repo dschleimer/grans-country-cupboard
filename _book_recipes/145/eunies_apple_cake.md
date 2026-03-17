@@ -33,7 +33,7 @@ categories:
 1. Stir in ½ cup sifted flour, 2 tsp baking powder, ½ tsp salt, and a dash each of cinnamon and nutmeg
 1. Add ½ cup chopped nuts and 1 cup peeled chopped apples
 1. Add 2 tsp vanilla
-1. Pour into a greased and floured 8×10×2-inch pan
+1. Pour into a greased and floured 8×10½-inch pan
 1. Bake at 350°F for 35 minutes
 
 ## Notes From Gran

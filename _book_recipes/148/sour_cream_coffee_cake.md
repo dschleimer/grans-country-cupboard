@@ -14,34 +14,38 @@ categories:
 
 ## Ingredients
 
-| Ingredient                | Amount | Notes |
-| ------------------------- | ------ | ----- |
-| Chopped Pecans or Walnuts | ½ Cup  | For streusel |
-| Cinnamon                  | ½ tsp  | For streusel |
-| Sugar                     | ½ Cup  | For streusel |
-| Butter                    | ½ Cup  | |
-| Sugar                     | 1 Cup  | |
-| Eggs                      | 2      | |
-| Vanilla                   | 1 tsp  | |
-| Flour                     | 2 Cups | |
-| Salt                      | ½ tsp  | |
-| Baking Powder             | 1 tsp  | |
-| Baking Soda               | 1 tsp  | |
-| Sour Cream                | 1 Cup  | |
-| Apples                    |        | Peeled and sliced |
+| Ingredient    | Amount  | Notes |
+| ------------- | ------- | ----- |
+| Pecan Meats   | ½ Cup   | For streusel |
+| Cinnamon      | ½ tsp   | For streusel |
+| Sugar         | ¼ Cup   | For streusel |
+| Butter        | 1 Cup   | |
+| Sugar         | 1 Cup   | |
+| Egg Yolks     | 3       | |
+| Sour Cream    | 1 Cup   | |
+| Flour         | 1¾ Cups | Sifted |
+| Baking Powder | 1 tsp   | |
+| Baking Soda   | 1 tsp   | |
+| Salt          | ⅛ tsp   | |
+| Egg Whites    | 3       | Beaten stiff |
+| Vanilla       | 1 tsp   | |
 
 ## Method
 
-1. Mix chopped nuts, ½ tsp cinnamon, and ½ cup sugar together and set aside
-1. Cream ½ cup butter with 1 cup sugar
-1. Add eggs and vanilla
-1. Sift together flour, salt, baking powder, and baking soda
-1. Blend dry ingredients into the butter mixture alternately with sour cream
-1. Pour half the batter into a greased and floured 10-inch tube pan
-1. Sprinkle with half the nut mixture and half the sliced apples
-1. Add the remaining batter and top with the rest of the nut mixture
-1. Bake at 375°F for 40 minutes
-1. Cool about 30 minutes before removing from pan
+1. Mix pecan meats, ½ tsp cinnamon, and ¼ cup sugar together and set aside
+1. Cream butter with 1 cup sugar
+1. Add egg yolks and beat until light
+1. Add sour cream
+1. Sift together flour, baking powder, baking soda, and salt
+1. Add dry ingredients to batter
+1. Beat 3 egg whites stiff
+1. Pour batter with 1 tsp vanilla
+1. Fold in egg whites
+1. Pour batter into a well greased and floured tube pan
+1. Sprinkle with streusel topping
+1. Dot with butter
+1. Bake at 325 °F for 40 minutes to 1 hour
+1. Cool in pan 15 minutes before turning out
 
 ## Notes From Gran
 

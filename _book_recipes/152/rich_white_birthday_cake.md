@@ -21,7 +21,7 @@ categories:
 | Flour          | 3 Cups  | |
 | Baking Powder  | 1 tsp   | |
 | Salt           | 1 tsp   | |
-| Half and Half  | 1⅓ Cups | |
+| Milk and Water | 1⅓ Cups | Half milk, half water |
 | Vanilla        | 2 tsp   | |
 | Almond Extract | ¼ tsp   | |
 | Egg Whites     | 6       | Beaten stiff |

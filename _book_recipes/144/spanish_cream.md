@@ -40,7 +40,7 @@ categories:
 
 ## Notes From Gran
 
-* Use more gelatin (1 Tbsp) if a firmer set is needed
+* Use more gelatin if a large mold is used
 
 ## Modern Notes
 
