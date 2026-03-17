@@ -17,7 +17,7 @@ categories:
 | Ingredient    | Amount  | Notes |
 | ------------- | ------- | ----- |
 | Eggs          | 2       | |
-| Milk          | 2½ Cups | |
+| Milk          | 2½ Cups | Buttermilk or sweet milk |
 | Flour         | 2½ Cups | |
 | Sugar         | 2 Tbsp  | |
 | Shortening    | 4 Tbsp  | |

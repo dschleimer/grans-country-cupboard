@@ -27,8 +27,8 @@ categories:
 | Salt          | 1 tsp  | |
 | Quick oatmeal | 2 cups | |
 | Rice Krispies | 2 cups | |
-| Coconut       | 1 cup  | shredded |
-| Walnuts       | 1 cup  | chopped |
+| Coconut       | 2 cups | shredded |
+| Walnuts       | 2 cups | chopped |
 
 ## Method
 1. Preheat oven to 375°F.

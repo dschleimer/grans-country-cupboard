@@ -28,7 +28,7 @@ categories:
 | Brown Sugar             | ¼ Cup  | |
 | Molasses                | ¾ Cup  | |
 | Sour Milk or Buttermilk | ¼ Cup  | |
-| Vanilla                 | 1 tsp  | |
+| Vanilla                 | ½ tsp  | |
 
 ## Method
 

@@ -23,7 +23,7 @@ categories:
 | Milk        | ½ Cup  | |
 | Baking Soda | 1 tsp  | |
 | Nutmeg      | 1 tsp  | |
-| Cinnamon    | 2 tsp  | |
+| Cinnamon    | 2½ tsp | |
 | Salt        | ½ tsp  | |
 | Molasses    | 1 Cup  | |
 | Flour       | 4 Cups | |
