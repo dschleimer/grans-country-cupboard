@@ -24,12 +24,12 @@ categories:
 
 ## Method
 
-1. Soak fresh broccoli in cold salted water for 1 minutes
+1. Soak fresh broccoli in cold salted water for 1 minute
 1. Drain
 1. Cook about 20 minutes until almost tender
 1. While broccoli is cooking break up bacon into pieces and fry
 1. When broccoli is done drain it well
-1. Remove bacon from it's grease
+1. Remove bacon from its grease
 1. Add butter to bacon pan
 1. Saute broccoli in bacon grease and butter until slightly browned
 1. Add bacon pieces and sprinkle with parmesan
