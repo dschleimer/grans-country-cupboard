@@ -46,7 +46,7 @@ categories:
 1. Mix up in the baking pans
 1. Sprinkle parmesan on top
 1. Do not stir
-1. Bake at 400 °F until tender
+1. Bake at 400 °F until it bubbles
 1. Reduce to 300 °F and bake at least 2 hours more
 1. If not wet when tested, add 1 cup boiling water
 

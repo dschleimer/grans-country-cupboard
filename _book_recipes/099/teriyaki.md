@@ -29,7 +29,7 @@ categories:
 1. Crush garlic
 1. Combine Soy Sauce, garlic, ginger and sherry into marinade
 1. Marinate the beef in the refrigerator for 1 hour
-1. Cook quickly in pan or on barbeque for 2 minutes
+1. Cook quickly in pan or on barbeque for 3 minutes
 1. Baste with marinade
 
 ## Notes From Gran
