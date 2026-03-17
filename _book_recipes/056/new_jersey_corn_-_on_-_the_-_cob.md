@@ -30,7 +30,7 @@ categories:
 1. Add 1 tsp sugar
 1. Do *not* salt
 1. Bring to a boil - covered
-1. Boil 2-3 minutes at most
+1. Boil 3-5 minutes at most
 1. Serve with Butter, Salt, and Pepper
 
 ## Notes From Gran

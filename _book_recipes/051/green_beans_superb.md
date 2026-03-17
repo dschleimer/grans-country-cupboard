@@ -21,7 +21,7 @@ categories:
 | Onion        | 2 Tbsp   | Chopped |
 | Green Pepper | 1 Tbsp   | Chopped |
 | Butter       | 3 Tbsp   | |
-| Flour        | 2 Tbsp   | |
+| Flour        | 3 Tbsp   | |
 | Salt         | 1 tsp    | |
 | Paprika      | ½ tsp    | |
 | Pepper       | To Taste | |

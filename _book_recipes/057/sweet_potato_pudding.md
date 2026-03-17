@@ -22,7 +22,7 @@ categories:
 | Lemon Juice    | 1 tsp  | |
 | Ginger         | pinch  | |
 | Cinnamon       | pinch  | |
-| Ground Cloves  |        | |
+| Ground Cloves  | pinch  | |
 | Salt           | ½ tsp  | |
 | Brown Sugar    | 1 cup  | |
 | Eggs           | 2      | |
@@ -37,6 +37,7 @@ categories:
 1. Add lemon juice, seasonings, sugar and eggs
 1. Blend well
 1. Pour into greased baking pan
+1. Top with nuts if using
 1. Bake for 1 hour
 
 ## Notes From Gran
