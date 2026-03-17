@@ -1,7 +1,7 @@
 ---
 layout: recipe
 page: "110"
-recipe: 110/stewed_ham_and_dumplings
+recipe: 110/stewed_hen_and_dumplings
 page_order: 3
 from: Gran
 categories:
@@ -12,7 +12,7 @@ categories:
   - Poultry
   - Human Transcribed
 ---
-# Stewed Ham and Dumplings
+# Stewed Hen and Dumplings
 
 ## Ingredients
 

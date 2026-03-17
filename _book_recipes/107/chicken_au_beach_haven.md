@@ -46,7 +46,8 @@ categories:
 1. Add Sauterne or Sherry
 1. Add bag of frozen onions, if desired
 1. Refrigerate at this point, if preparing ahead of time
-1. Bake 1 hour
+1. Cover and bake 1 hour
+1. Do not turn chicken
 
 ## Notes From Gran
 

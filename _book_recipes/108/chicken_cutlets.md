@@ -41,6 +41,7 @@ categories:
 ## Notes From Gran
 
 * Serve with Asparagus covered with Hollandaise Sauce
+* Serves 6
 
 ## Modern Notes
 

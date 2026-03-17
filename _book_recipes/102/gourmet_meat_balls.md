@@ -29,7 +29,7 @@ categories:
 ## Method
 
 1. Chop one onion fine and slice one onion, keeping chopped and sliced separate
-1. Mix together beef, chopped onion, Seasoned salt, and Italian seasoning
+1. Mix together beef, chopped onion, Seasoned salt, and Italian bread crumbs
 1. Make into small meat balls and brown in butter
 1. Remove meat balls from skillet and set aside
 1. Saute sliced onion and mushroom pieces in the skillet used for meatballs

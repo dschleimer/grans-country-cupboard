@@ -34,7 +34,7 @@ categories:
 1. Add remaining ingredients
 1. Cover tight
 1. Bake for 1 hour
-1. Add 1 cup of water if chicken seems to get too dry
+1. Add ½ cup of water if chicken seems to get too dry
 
 ## Notes From Gran
 
