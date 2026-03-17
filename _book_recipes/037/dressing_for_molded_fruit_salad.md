@@ -19,7 +19,7 @@ categories:
 | Sour Cream           | 1 cup  | |
 | Fruit Syrup          | 2 Tbsp | From canned fruit used in salad |
 | Salt                 | Dash   | |
-| Confectioner's Sugar |        | |
+| Confectioner's Sugar | 1 Tbsp | |
 
 ## Method
 

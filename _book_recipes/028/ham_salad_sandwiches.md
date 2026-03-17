@@ -20,7 +20,7 @@ categories:
 | Ham                  |        | |
 | Celery               | 1 cup  | |
 | Carrots              | 2      | |
-| Relish               | 1 Tbsp | |
+| Relish               | 3 Tbsp | |
 | Mustard              | 1 Tbsp | |
 | Worcestershire Sauce |        | |
 | Mayonnaise           |        | |

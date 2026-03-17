@@ -26,7 +26,7 @@ categories:
 | Sugar            | ¼ cup  | |
 | Vinegar          | ⅔ cup  | |
 | Salad Oil        | ⅓ cup  | |
-| Salt             | ½ tsp  | |
+| Salt             | 1½ tsp | |
 | Pepper           | ½ tsp  | Recipe specifies Black pepper |
 
 ## Method
