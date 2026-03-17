@@ -3,7 +3,7 @@ layout: recipe
 page: "199"
 recipe: 199/christmas_marmelade
 page_order: 2
-from: 1931 St. Stephen's Church
+from: 1931 St. Stephen's Church, Beverly, N.J.
 categories:
   - Machine Transcribed
   - Boiled

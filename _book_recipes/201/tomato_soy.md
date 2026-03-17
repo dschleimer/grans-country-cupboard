@@ -26,8 +26,8 @@ categories:
 | Celery Seed     | 2 Tbsp   | |
 | Whole Cloves    | 2 Tbsp   | |
 | Stick Cinnamon  | 2        | Broken up |
-| Powdered Ginger | 2 tsp    | |
-| Salt            | 1 tsp    | |
+| Powdered Ginger | 2 Tbsp   | |
+| Salt            | 1 Tbsp   | |
 | Garlic Powder   | 1 tsp    | |
 | Green Peppers   | 12       | Sweet |
 | Red Peppers     | 6        | Sweet |

@@ -29,7 +29,7 @@ categories:
 1. Beat until the mixture expands to fill a quart bowl and is very stiff — this takes a while
 1. Fold in whipped cream
 1. Pile into parfait glasses and chill thoroughly
-1. Garnish with a whole strawberry and serve
+1. Garnish with a ripe strawberry and serve
 
 ## Notes From Gran
 
