@@ -22,11 +22,11 @@ categories:
 | Sugar         | 1½ cups         | |
 | Flour         | 2¼ cups + extra | Sifted |
 | Baking Soda   | 2 tsp           | |
-| Baking Powder | ¼ tsp           | |
+| Baking Powder | ½ tsp           | |
 | Salt          | ½ tsp           | |
 | Butter        | 2 Tbsp          | Melted |
 | Vanilla       | 1 tsp           | |
-| Nuts          |                 | Floured and Chopped |
+| Nuts          | 1 cup           | Floured and Chopped |
 
 ## Method
 

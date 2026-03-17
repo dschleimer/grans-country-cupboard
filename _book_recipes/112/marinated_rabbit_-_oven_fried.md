@@ -20,7 +20,7 @@ categories:
 | Wine Vinegar | 2 cups        | |
 | Parsley      | 2 cups        | Chopped |
 | Garlic       | 2 cloves      | Chopped |
-| Salt         | 2 tsp + extra | |
+| Salt         | ½ tsp + extra | |
 | Pepper       | ½ tsp + extra | |
 | Rabbit       |               | |
 | Flour        |               | |
@@ -30,7 +30,7 @@ categories:
 
 1. Chop garlic and parsley
 1. Add to vinegar to make marinade
-1. Add 2tsp salt and ½ tsp pepper to marinade
+1. Add ½ tsp salt and ½ tsp pepper to marinade
 1. Marinate rabbit in refrigerator for 24 hours
 1. Preheat oven to 425 °F
 1. Add butter to oven pan

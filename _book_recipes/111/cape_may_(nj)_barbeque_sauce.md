@@ -22,8 +22,8 @@ categories:
 | Pepper            | ¾ tsp   | |
 | Vinegar           | 1 cup   | |
 | Egg               | 1       | |
-| Cooking oil       | ½ °C    | |
-| Chickens          | 2 whole | |
+| Cooking oil       | ½ cup   | |
+| Chickens          | 2 to 3  | |
 
 ## Method
 1. Mix poultry seasoning, salt, pepper, and vinegar in a tight container.

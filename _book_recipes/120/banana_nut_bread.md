@@ -30,7 +30,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 350 °F
+1. Preheat oven to 325 °F
 1. Cream together butter and sugar
 1. Mash bananas
 1. Beat eggs until light and fluffy

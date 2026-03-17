@@ -21,7 +21,7 @@ categories:
 | Flour         |        | |
 | Butter        | ½ cup  | |
 | Onions        | 2      | Chopped |
-| White Wine    | 2 cups | Dinner Wine |
+| White Wine    | ½ cup  | Dinner Wine |
 | Salt          |        | |
 | Pepper        |        | |
 | Garlic Powder |        | |

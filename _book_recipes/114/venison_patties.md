@@ -23,7 +23,6 @@ categories:
 | Pepper         |          | |
 | Onion Salt     |          | |
 | Bacon          | 4 strips | |
-| Bacon          |          | |
 
 ## Method
 

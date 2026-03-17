@@ -17,7 +17,7 @@ categories:
 
 | Ingredient        | Amount        | Notes |
 | ----------------- | ------------- | ----- |
-| Dove Breasts      | 24            | |
+| Dove Breasts      | 2-4           | |
 | Butter            | 1 cup or more | |
 | White Wine        | 1½ cups       | Dinner Wine |
 | Onion             | ½ cup chopped | |
