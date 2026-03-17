@@ -25,8 +25,8 @@ categories:
 | Tomato Soup         | 1 Can   | Campbell's |
 | Flour               | 1½ Cups | |
 | Cinnamon            | 1 tsp   | |
-| Cloves              | 1 tsp   | |
-| Nutmeg              | 1 tsp   | |
+| Cloves              | ½ tsp   | |
+| Nutmeg              | ½ tsp   | |
 | Raisins             | 1 Cup   | |
 | Chopped Nuts        | 1 Cup   | |
 | Cream Cheese        | 1       | Small pkg, for icing |

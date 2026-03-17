@@ -27,7 +27,7 @@ categories:
 | Buttermilk      | 1 Cup   | |
 | Baking Soda     | ½ tsp   | Mixed with buttermilk |
 | Chocolate Syrup | ⅔ Cup   | Hershey's |
-| Hershey Bars    | 7       | Small bars, melted |
+| Hershey Bars    | 7       | Small bars (1½ oz size), melted |
 
 ## Method
 

@@ -21,7 +21,7 @@ categories:
 | Butter              | 1½ Tbsp | |
 | Cocoa               | 8 tsp   | |
 | Vanilla             | 1 tsp   | |
-| Cream               | 2 Cups  | |
+| Cream               | 2 tsp   | |
 | Warm Milk           | 2 Tbsp  | |
 
 ## Method
@@ -37,6 +37,5 @@ categories:
 ## Modern Notes
 
 * This is an uncooked cocoa filling — quick and easy for layer cakes -- Claude (AI)
-* The 2 cups cream seems generous — you may want to start with less and add until you reach the right consistency -- Claude (AI)
 * Use heavy cream for a richer filling -- Claude (AI)
 

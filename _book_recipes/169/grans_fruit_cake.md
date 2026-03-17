@@ -15,30 +15,30 @@ categories:
 
 ## Ingredients
 
-| Ingredient                | Amount | Notes |
-| ------------------------- | ------ | ----- |
-| Sugar                     | 2 Cups | |
-| Butter                    | 1 lb   | |
-| Eggs                      | 8      | Separated |
-| Seedless Raisins          | 1 Box  | |
-| White Raisins             | 1 Box  | |
-| Currants                  | ½ lb   | |
-| Citron                    | ½ lb   | |
-| Mixed Lemon + Orange Peel | ½ lb   | Candied |
-| Candied Cherries          | ½ lb   | |
-| Candied Pineapple         | ½ lb   | |
-| Pecans or Walnuts         | ½ lb   | Chopped |
-| Apples                    | 4      | Peeled and diced |
-| Molasses                  | 1 Tbsp | |
-| Sour Cream                | 1 Cup  | |
-| Flour                     | 6 Cups | |
-| Baking Soda               | ½ tsp  | |
-| Baking Powder             | 1 tsp  | |
-| Salt                      | 1 tsp  | |
-| Cinnamon                  | 1 tsp  | |
-| Cloves                    | 1 tsp  | |
-| Mace                      | 1 tsp  | |
-| Nutmeg                    | 1 tsp  | |
+| Ingredient                | Amount  | Notes |
+| ------------------------- | ------- | ----- |
+| Sugar                     | 2 Cups  | |
+| Butter                    | 1 lb    | |
+| Eggs                      | 8       | Separated |
+| Seedless Raisins          | 1 Box   | |
+| White Raisins             | 1 Box   | |
+| Currants                  | ½ lb    | |
+| Citron                    | ½ lb    | |
+| Mixed Lemon + Orange Peel | ½ lb    | Candied |
+| Candied Cherries          | ½ lb    | |
+| Candied Pineapple         | ½ lb    | |
+| Pecans or Walnuts         | ½ lb    | Chopped |
+| Apples                    | 4       | Peeled and diced |
+| Molasses                  | 1 Tbsp  | |
+| Sour Cream                | 1 Cup   | |
+| Flour                     | 6½ Cups | |
+| Baking Soda               | ½ tsp   | |
+| Baking Powder             | 1 tsp   | |
+| Salt                      | 1 tsp   | |
+| Cinnamon                  | 1 tsp   | |
+| Cloves                    | 1 tsp   | |
+| Mace                      | 1 tsp   | |
+| Nutmeg                    | 1 tsp   | |
 
 ## Method
 

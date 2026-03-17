@@ -3,6 +3,7 @@ layout: recipe
 page: "170"
 recipe: 170/white_fruit_cake
 page_order: 1
+from: Mabel Giles
 categories:
   - Machine Transcribed
   - Dessert
@@ -29,7 +30,7 @@ categories:
 | Blanched Almonds    | 1 lb   | Finely chopped |
 | Butter              | 1 Cup  | |
 | Lemon Juice         | 1 Tbsp | |
-| Eggs                | 10     | Separated |
+| Egg Whites          | 10     | Beaten stiff |
 
 ## Method
 
