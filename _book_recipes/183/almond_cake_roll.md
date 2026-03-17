@@ -41,7 +41,7 @@ categories:
 1. Turn into a 10×15×¾-inch pan lined with greased wax paper
 1. Bake at 375°F for 15–20 minutes
 1. Turn out on a towel dusted with confectioners sugar
-1. Strip off wax paper and roll up the jelly-roll style quickly — wrap in towel and let cool
+1. Strip off wax paper and roll up jelly-roll style quickly — wrap in towel and let cool
 1. To fill: whip 2 cups whipping cream with ¼ cup confectioners sugar and 1 tsp vanilla until stiff
 1. Unroll cake, fill with half of the whipped cream mixture, roll up gently
 1. Spread outside with remaining whipped cream
