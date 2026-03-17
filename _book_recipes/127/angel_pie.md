@@ -18,7 +18,7 @@ categories:
 | Ingredient      | Amount | Notes |
 | --------------- | ------ | ----- |
 | Egg Whites      | 3      | For meringue shell |
-| Cream of Tartar | ¼ tsp  | |
+| Cream of Tartar | ¾ tsp  | |
 | Sugar           | ¾ Cup  | For meringue |
 | Lemon           | 1      | Rind grated and juiced |
 | Egg Yolks       | 3      | For lemon custard |

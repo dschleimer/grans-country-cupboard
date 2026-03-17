@@ -21,7 +21,7 @@ categories:
 | Quick Tapioca        | 3 Tbsp    | |
 | Salt                 | ⅛ tsp     | |
 | Almond Extract       | ¼ tsp     | |
-| Lemon Juice          | ½ Tbsp    | |
+| Lemon Juice          | ½ tsp     | |
 | Butter               | 1 Tbsp    | |
 | Pie Crust            |           | For 9-inch pie |
 

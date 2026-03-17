@@ -18,10 +18,10 @@ categories:
 | -------------- | ------ | ----- |
 | Flour          | 2 cups | sifted |
 | Baking powder  | 3 tsp  | |
-| Sugar          | 1 cup  | |
+| Sugar          | 1 tsp  | |
 | Salt           | 1 tsp  | |
 | Cheddar cheese | 1 cup  | coarsely chopped |
-| Margarine      | ⅓ cup  | softened |
+| Margarine      | ⅓ cup  | Or oil |
 | Milk           | ⅔ cup  | |
 
 ## Method
@@ -31,7 +31,7 @@ categories:
 4. Mix lightly with a fork to make a soft dough.
 5. Shape into a round, pat and knead 3-4 times.
 6. Pat out ½" thick.
-7. Cut out 12 rolls with a biscuit cutter.
+7. Cut out 12 large biscuits with a biscuit cutter.
 8. Bake on ungreased cookie sheet for 15 mins or until golden brown.
 ## Notes From Gran
 

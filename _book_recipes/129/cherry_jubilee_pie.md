@@ -21,7 +21,7 @@ categories:
 | Egg Yolk             | 1      | For crust |
 | Flour                | 1 Cup  | For crust |
 | Dark Sweet Cherries  | 1 can  | Drained |
-| Cherry Gelatin       | 1 pkg  | 3 oz |
+| Black Cherry Gelatin | 1 pkg  | 3 oz |
 | California Port Wine | ½ Cup  | |
 | Salt                 | ⅛ tsp  | |
 | Vanilla Ice Cream    | 1 pint | |

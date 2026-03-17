@@ -20,8 +20,7 @@ categories:
 | Butter      | 2 Tbsp | |
 | Egg         | 1      | |
 | Milk        | 1 Cup  | |
-| Sugar       | ¼ Cup  | |
-| Salt        | ½ tsp  | |
+| Sugar       | ½ Cup  | |
 | Blueberries | 1 pint | |
 
 ## Method
