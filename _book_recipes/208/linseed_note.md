@@ -18,7 +18,7 @@ categories:
 
 ## Method
 
-1. Store and use boiled linseed oil
+1. Store real boiled linseed oil
 
 ## Notes From Gran
 

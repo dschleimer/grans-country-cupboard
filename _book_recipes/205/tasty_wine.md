@@ -28,7 +28,7 @@ categories:
 
 1. Squeeze fruit, add raisins and yeast and 2 gallons warm water and 2 lbs sugar
 2. Add a cup of sugar every day and stir
-3. Continue until all sugar is used up — let rest for 2 days
+3. Continue until sugar is used — set rest for 2 days
 4. Drain, strain, and bottle juice
 
 ## Notes From Gran

@@ -3,7 +3,7 @@ layout: recipe
 page: "209"
 recipe: 209/mustard_plaster
 page_order: 1
-from: 1920 Family Doctor
+from: 1920 Old Family Doctor
 categories:
   - Machine Transcribed
   - Notes
