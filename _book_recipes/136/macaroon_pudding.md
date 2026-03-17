@@ -22,7 +22,7 @@ categories:
 | Salt             | ½ tsp   | |
 | Milk             | 1 quart | |
 | Egg Yolks        | 4       | |
-| Almond Extract   | 1 tsp   | |
+| Almond Extract   | 1 tsp   | Or vanilla |
 | Butter           | 4 tsp   | |
 | Almond Macaroons | ½ lb    | |
 

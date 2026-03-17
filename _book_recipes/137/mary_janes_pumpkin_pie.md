@@ -24,7 +24,7 @@ categories:
 | Nutmeg            | ⅛ tsp   | |
 | Pumpkin           | 2 Cups  | |
 | Molasses          | 1½ Tbsp | |
-| Melted Butter     | ½ Tbsp  | |
+| Melted Butter     | ⅓ Tbsp  | |
 | Eggs              | 3       | |
 | Milk              | 1¾ Cups | |
 | Brandy            | 1 Tbsp  | |

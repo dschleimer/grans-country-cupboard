@@ -16,11 +16,11 @@ categories:
 
 | Ingredient               | Amount | Notes |
 | ------------------------ | ------ | ----- |
-| Sweetened Condensed Milk | ⅓ Cup  | |
+| Sweetened Condensed Milk | 1⅓ Cup | |
 | Egg Yolks                | 2      | |
 | Lemon Juice              | ½ Cup  | |
 | Sugar                    | 2 Tbsp | |
-| Lemon Peel               | 2 tsp  | Grated |
+| Lemon Peel               | 2 Tbsp | Grated |
 | Baked Pie Shell          | 1      | |
 | Sweetened Whipped Cream  | ⅓ Cup  | Or meringue |
 

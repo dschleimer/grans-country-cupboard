@@ -25,7 +25,7 @@ categories:
 | Eggs              | 2      | Slightly beaten |
 | White Vinegar     | 2 tsp  | |
 | Ground Cloves     | ¼ tsp  | |
-| Cinnamon          | ¼ tsp  | |
+| Cinnamon          | ½ tsp  | |
 | Chopped Peanuts   | ½ Cup  | For topping |
 | Unbaked Pie Shell | 1      | |
 
