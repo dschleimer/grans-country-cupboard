@@ -21,7 +21,7 @@ categories:
 | Soft Bread Crumbs | ¼ lb    | About 1 slice |
 | Flour             | 1 Tbsp  | |
 | Chopped Onion     | 1 Tbsp  | |
-| Minced Parsley    | ½ tsp   | |
+| Minced Parsley    | ½ Tbsp  | |
 | Salt              | ½ tsp   | |
 | Raw Potatoes      | 2½ Cups | Grated |
 

@@ -22,7 +22,7 @@ categories:
 | Water               | 5 Tbsp | |
 | Flour               | 1 Cup  | |
 | Salt                | ½ tsp  | |
-| Baking Powder       | ½ tsp  | |
+| Baking Powder       | 1½ tsp | |
 | Vanilla             | 1 tsp  | |
 | Jelly               |        | To taste |
 | Confectioners Sugar |        | For dusting |

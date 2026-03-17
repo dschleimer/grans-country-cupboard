@@ -26,7 +26,7 @@ categories:
 | Egg           | 1      | Beat slightly |
 | Milk          | ½ Cup  | |
 | Melted Butter | 1 Tbsp | |
-| Lemon Juice   | 1 tsp  | |
+| Lemon Juice   | 1 Tbsp | |
 | Vegetable Oil |        | For frying |
 
 ## Method

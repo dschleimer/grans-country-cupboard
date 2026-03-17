@@ -22,7 +22,7 @@ categories:
 | Flour         | 1 Tbsp  | |
 | Boiling Milk  | 1 Pint  | Generous |
 | Cream         | 1 Quart | |
-| Crushed Fruit | 1 Cup   | Peaches or strawberries |
+| Crushed Fruit | 1 Quart | Peaches or strawberries |
 | Sugar         | 1 Cup   | For fruit |
 
 ## Method
