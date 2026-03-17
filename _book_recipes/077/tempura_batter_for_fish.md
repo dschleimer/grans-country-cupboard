@@ -21,7 +21,7 @@ categories:
 | ------------- | ------- | ----- |
 | Flour         | 1¾ cups | |
 | Egg           | 1       | Well-beaten |
-| Water         | 1¾ cups | |
+| Water         | 1¼ cups | |
 | Salt          | dash    | |
 | Filet of Fish |         | |
 
@@ -32,7 +32,7 @@ categories:
 1. Refrigerate at least ½ hour
 1. Trim dark meat from filet
 1. Cut filet diagonally into pieces
-1. Heat deep oil to 305 °F - 370 °F
+1. Heat deep oil to 350 °F - 370 °F
 1. Dip fish in mixture
 1. Fry until cooked through
 

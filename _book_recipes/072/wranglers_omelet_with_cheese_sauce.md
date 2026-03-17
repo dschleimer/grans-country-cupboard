@@ -49,7 +49,7 @@ categories:
 1. Preheat Oven to 325 °F
 1. Separate Egg whites from yolks
 1. Beat Egg Yolks with a dash pepper until brown colored
-1. Fold in ½ cup sour cream to egg yolks
+1. Fold in ⅓ cup sour cream to egg yolks
 1. Beat egg whites with Cream of Tartar until stiff
 1. Fold Yolks into whites
 1. Fold in dried beef

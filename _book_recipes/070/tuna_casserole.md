@@ -21,7 +21,7 @@ categories:
 | ------------ | ---------------- | ----- |
 | Onion        | 1 Medium         | Chopped |
 | Green Pepper | ⅓ cup            | Chopped |
-| Margarine    | 2 Tbsp           | |
+| Margarine    | 3 Tbsp           | |
 | Salt         | 1 tsp            | |
 | Flour        | 2 Tbsp           | |
 | Chicken Soup | 1 can            | |

@@ -31,7 +31,7 @@ categories:
 1. Brown sausage in pan
 1. Brown Mushroom and Onion together in pan
 1. Put all ingredients together in Casserole dish
-1. Bake about 50 minutes
+1. Bake about 40 minutes
 
 ## Notes From Gran
 
