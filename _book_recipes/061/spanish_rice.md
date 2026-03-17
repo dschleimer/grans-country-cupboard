@@ -26,7 +26,7 @@ categories:
 
 ## Method
 
-1. Preheat oven to 450 °F
+1. Preheat oven to 350 °F
 1. Thinly slice onions
 1. Cut cheese finely if not pre-shredded
 1. Combine all ingredients in Casserole dish
