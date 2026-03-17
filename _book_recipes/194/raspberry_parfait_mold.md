@@ -6,8 +6,10 @@ page_order: 2
 from: Barbara McFable
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Chilled
+  - Dessert
+  - No Cook
+  - Gelatin Dessert
 ---
 # Raspberry Parfait Mold
 

@@ -5,7 +5,11 @@ recipe: 170/chocolate_butter_icing
 page_order: 2
 categories:
   - Machine Transcribed
-  - Needs Front Matter
+  - Dessert
+  - Cakes
+  - Double Boiler
+  - Vegetarian
+  - Ovo-Lacto Vegetarian
 ---
 # Chocolate Butter Icing
 

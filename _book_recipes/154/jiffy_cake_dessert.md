@@ -5,9 +5,12 @@ recipe: 154/jiffy_cake_dessert
 page_order: 2
 from: Grace Sawin, Mich.
 categories:
-  - Needs Front Matter
   - Machine Transcribed
   - Baked
+  - Dessert
+  - Cakes
+  - Vegetarian
+  - Ovo-Lacto Vegetarian
 ---
 # Jiffy Cake Dessert
 

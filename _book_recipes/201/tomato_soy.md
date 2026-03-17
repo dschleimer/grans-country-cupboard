@@ -6,9 +6,10 @@ page_order: 1
 from: Mildred Johnson
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Boiled
   - Overnight Recipe
+  - Condiment
+  - Vegetables
 ---
 # Tomato Soy
 

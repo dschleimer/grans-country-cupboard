@@ -6,9 +6,11 @@ page_order: 2
 from: Mother Marter
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Condiment
   - Overnight Recipe
+  - No Cook
+  - Vegetarian
+  - Ovo-Lacto Vegetarian
 ---
 # Pickled Cherries
 

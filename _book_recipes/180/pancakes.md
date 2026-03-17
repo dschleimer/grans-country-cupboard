@@ -5,9 +5,10 @@ recipe: 180/pancakes
 page_order: 3
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Breakfast
   - Ovo-Lacto Vegetarian
+  - Stovetop
+  - Eggs
 ---
 # Pancakes
 

@@ -6,10 +6,11 @@ page_order: 2
 from: Barbara Fable
 categories:
   - Machine Transcribed
-  - Needs Front Matter
-  - Cocktail
   - Christmas
   - Alcohol
+  - Dessert
+  - No Cook
+  - Cocktail
 ---
 # Bourbon Balls
 

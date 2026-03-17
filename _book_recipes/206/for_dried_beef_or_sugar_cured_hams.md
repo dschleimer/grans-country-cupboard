@@ -6,10 +6,11 @@ page_order: 1
 from: Great-Grand-Dad Marter
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Beef
   - Pork
   - Meat
+  - No Cook
+  - All Day Recipe
 ---
 # for Dried Beef or Sugar Cured Hams
 

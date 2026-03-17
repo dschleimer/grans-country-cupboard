@@ -6,8 +6,10 @@ page_order: 1
 from: Nanna Marter
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Boiled
+  - Dessert
+  - Snacks
+  - Stovetop
 ---
 # Everton Taffy
 

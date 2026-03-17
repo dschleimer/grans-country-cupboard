@@ -5,8 +5,10 @@ recipe: 194/strawberry_fluff
 page_order: 3
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Ovo-Lacto Vegetarian
+  - Dessert
+  - Chilled
+  - No Cook
 ---
 # Strawberry Fluff
 

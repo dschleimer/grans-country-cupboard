@@ -6,9 +6,10 @@ page_order: 3
 from: Florence Marter
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Baked
   - Ovo-Lacto Vegetarian
+  - Dessert
+  - Cookies
 ---
 # Scotties
 

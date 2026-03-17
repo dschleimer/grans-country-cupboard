@@ -5,9 +5,10 @@ recipe: 130/cheesecake_filling_for_9_inch_pie
 page_order: 1
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Dessert
   - Pie
+  - Cakes
+  - Chilled
 ---
 # Cheesecake Filling for 9 Inch Pie
 

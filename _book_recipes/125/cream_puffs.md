@@ -5,11 +5,11 @@ recipe: 125/cream_puffs
 page_order: 2
 from: Abbie Bull, Bethesda
 categories:
-  - Needs Front Matter
   - Machine Transcribed
   - Baked
   - Boiled
   - Ovo-Lacto Vegetarian
+  - Dessert
 ---
 # Cream Puffs
 

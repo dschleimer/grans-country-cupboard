@@ -6,9 +6,10 @@ page_order: 1
 from: Riverside Town &c.
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Pan Fried
   - Ovo-Lacto Vegetarian
+  - Dessert
+  - Breakfast
 ---
 # Cruellers
 

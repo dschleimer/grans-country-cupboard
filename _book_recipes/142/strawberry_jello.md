@@ -5,10 +5,11 @@ recipe: 142/strawberry_jello
 page_order: 3
 from: Elna L.
 categories:
-  - Needs Front Matter
   - Machine Transcribed
   - Chilled
   - Boiled
+  - Jello Salad
+  - Salad
 ---
 # Strawberry Jello
 

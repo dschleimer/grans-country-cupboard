@@ -5,11 +5,11 @@ recipe: 121/raised_dinner_rolls
 page_order: 2
 from: "\"Mom\" Smith"
 categories:
-  - Needs Front Matter
   - Machine Transcribed
   - Bread
   - Baked
   - Ovo-Lacto Vegetarian
+  - Eggs
 ---
 # Raised Dinner Rolls
 

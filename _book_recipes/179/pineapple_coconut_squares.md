@@ -6,8 +6,11 @@ page_order: 3
 from: Pat Osborn
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Baked
+  - Cookies
+  - Dessert
+  - Vegetarian
+  - Ovo-Lacto Vegetarian
 ---
 # Pineapple Coconut Squares
 

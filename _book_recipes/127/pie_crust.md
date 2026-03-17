@@ -6,10 +6,11 @@ page_order: 1
 from: Pat Osborn
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Dessert
   - Pie
   - Baked
+  - Vegetarian
+  - Ovo-Lacto Vegetarian
 ---
 # Pie Crust
 

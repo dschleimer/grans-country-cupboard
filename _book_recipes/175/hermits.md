@@ -6,10 +6,11 @@ page_order: 1
 from: Nanna Marter
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Baked
   - Christmas
   - Ovo-Lacto Vegetarian
+  - Cookies
+  - Dessert
 ---
 # Hermits
 

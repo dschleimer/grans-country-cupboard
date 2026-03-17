@@ -5,10 +5,11 @@ recipe: 144/spanish_cream
 page_order: 1
 from: "\"Aunt\" Minnie"
 categories:
-  - Needs Front Matter
   - Machine Transcribed
   - Double Boiler
   - Ovo-Lacto Vegetarian
+  - Dessert
+  - Chilled
 ---
 # Spanish Cream
 

@@ -5,7 +5,6 @@ recipe: 208/clean_up_victorian_china_closet
 page_order: 1
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Notes
 ---
 # Clean Up Victorian China Closet

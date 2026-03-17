@@ -6,9 +6,10 @@ page_order: 2
 from: Ezra Buel Marter, Dec. 13, 1900
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Pork
   - Meat
+  - Condiment
+  - No Cook
 ---
 # "Receipt" for Seasoning Sausage
 

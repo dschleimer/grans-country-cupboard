@@ -6,9 +6,10 @@ page_order: 2
 from: Aggie Bull
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Baked
   - Ovo-Lacto Vegetarian
+  - Cookies
+  - Dessert
 ---
 # Date Nut Bars
 

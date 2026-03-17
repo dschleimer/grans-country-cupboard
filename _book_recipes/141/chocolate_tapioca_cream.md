@@ -4,10 +4,11 @@ page: "141"
 recipe: 141/chocolate_tapioca_cream
 page_order: 2
 categories:
-  - Needs Front Matter
   - Machine Transcribed
   - Double Boiler
   - Ovo-Lacto Vegetarian
+  - Dessert
+  - Chilled
 ---
 # Chocolate Tapioca Cream
 

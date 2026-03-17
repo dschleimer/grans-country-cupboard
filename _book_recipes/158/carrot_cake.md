@@ -5,11 +5,11 @@ recipe: 158/carrot_cake
 page_order: 2
 from: Josephine D'Anna, Chicago
 categories:
-  - Needs Front Matter
   - Machine Transcribed
   - Dessert
   - Cakes
   - Baked
+  - Vegetables
 ---
 # Carrot Cake
 

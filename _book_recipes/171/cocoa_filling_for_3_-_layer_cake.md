@@ -5,9 +5,11 @@ recipe: 171/cocoa_filling_for_3_-_layer_cake
 page_order: 1
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Dessert
   - Cakes
+  - No Cook
+  - Vegetarian
+  - Ovo-Lacto Vegetarian
 ---
 # Cocoa Filling for 3 - Layer Cake
 

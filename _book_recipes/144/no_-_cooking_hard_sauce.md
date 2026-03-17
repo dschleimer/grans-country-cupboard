@@ -5,10 +5,10 @@ recipe: 144/no_-_cooking_hard_sauce
 page_order: 2
 from: Grandma Colwell, Rhode Island
 categories:
-  - Needs Front Matter
   - Machine Transcribed
   - Sauce
   - Condiment
+  - Dessert
   - Boiled
 ---
 # No-Cooking Hard Sauce

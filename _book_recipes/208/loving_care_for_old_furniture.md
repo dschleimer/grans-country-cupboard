@@ -6,7 +6,6 @@ page_order: 2
 from: 1912 Beacon
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Notes
   - Boiled
 ---

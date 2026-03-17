@@ -5,7 +5,6 @@ recipe: 208/linseed_note
 page_order: 4
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Notes
   - Boiled
 ---

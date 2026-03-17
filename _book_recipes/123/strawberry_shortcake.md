@@ -5,10 +5,11 @@ recipe: 123/strawberry_shortcake
 page_order: 2
 from: Grandmother Marter
 categories:
-  - Needs Front Matter
   - Machine Transcribed
   - Baked
   - Ovo-Lacto Vegetarian
+  - Dessert
+  - Eggs
 ---
 # Strawberry Shortcake
 

@@ -6,9 +6,10 @@ page_order: 2
 from: Pat Osborn
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Dessert
   - Boiled
+  - Snacks
+  - Stovetop
 ---
 # Famous Fudge
 

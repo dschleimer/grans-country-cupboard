@@ -5,10 +5,11 @@ recipe: 173/christmas_cinnamon_snaps
 page_order: 1
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Baked
   - Christmas
   - Overnight Recipe
+  - Cookies
+  - Dessert
 ---
 # Christmas Cinnamon Snaps
 

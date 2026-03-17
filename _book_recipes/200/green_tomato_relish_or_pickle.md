@@ -6,10 +6,10 @@ page_order: 1
 from: Bill Adams' Mother
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Condiment
   - Boiled
   - Overnight Recipe
+  - Vegetables
 ---
 # Green Tomato Relish or Pickle
 

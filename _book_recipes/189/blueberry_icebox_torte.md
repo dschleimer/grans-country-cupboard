@@ -6,10 +6,10 @@ page_order: 2
 from: Adelia
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Dessert
   - Cakes
   - Overnight Recipe
+  - Chilled
 ---
 # Blueberry Icebox Torte
 

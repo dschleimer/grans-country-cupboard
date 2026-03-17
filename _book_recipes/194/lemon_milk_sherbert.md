@@ -5,7 +5,11 @@ recipe: 194/lemon_milk_sherbert
 page_order: 1
 categories:
   - Machine Transcribed
-  - Needs Front Matter
+  - Dessert
+  - Frozen
+  - Vegetarian
+  - No Cook
+  - Ovo-Lacto Vegetarian
 ---
 # Lemon Milk Sherbert
 

@@ -6,10 +6,10 @@ page_order: 2
 from: Peg Clifford
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Dessert
   - Cookies
   - Baked
+  - Ovo-Lacto Vegetarian
 ---
 # Molasses Cookies
 

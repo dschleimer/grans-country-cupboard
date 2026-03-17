@@ -5,8 +5,10 @@ recipe: 179/indians
 page_order: 2
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Ovo-Lacto Vegetarian
+  - Dessert
+  - Cookies
+  - Baked
 ---
 # Indians
 

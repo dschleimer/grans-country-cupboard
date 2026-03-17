@@ -4,10 +4,11 @@ page: "145"
 recipe: 145/steamed_batter_pudding
 page_order: 1
 categories:
-  - Needs Front Matter
   - Machine Transcribed
   - Dessert
   - Ovo-Lacto Vegetarian
+  - Boiled
+  - Eggs
 ---
 # Steamed Batter Pudding
 

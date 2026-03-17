@@ -5,8 +5,10 @@ recipe: 171/vanilla_icing
 page_order: 4
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Ovo-Lacto Vegetarian
+  - Dessert
+  - Cakes
+  - No Cook
 ---
 # Vanilla Icing
 

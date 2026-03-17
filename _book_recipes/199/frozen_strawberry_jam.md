@@ -6,9 +6,11 @@ page_order: 1
 from: Pat Osborn
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Condiment
   - Boiled
+  - Frozen
+  - Vegetarian
+  - Ovo-Lacto Vegetarian
 ---
 # Frozen Strawberry Jam
 

@@ -5,8 +5,11 @@ recipe: 186/old_fashioned_strawberry_dumplings
 page_order: 2
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Baked
+  - Boiled
+  - Dessert
+  - Ovo-Lacto Vegetarian
+  - Side Dish
 ---
 # Old Fashioned Strawberry Dumplings
 

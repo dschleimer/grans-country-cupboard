@@ -5,8 +5,11 @@ recipe: 205/tasty_wine
 page_order: 1
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Alcohol
+  - All Day Recipe
+  - No Cook
+  - Vegetarian
+  - Ovo-Lacto Vegetarian
 ---
 # Tasty Wine
 

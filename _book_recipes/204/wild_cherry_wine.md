@@ -5,8 +5,11 @@ recipe: 204/wild_cherry_wine
 page_order: 2
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Alcohol
+  - All Day Recipe
+  - No Cook
+  - Vegetarian
+  - Ovo-Lacto Vegetarian
 ---
 # Wild Cherry Wine
 

@@ -4,11 +4,11 @@ page: "122"
 recipe: 122/rhode_island_johnny_cakes
 page_order: 1
 categories:
-  - Needs Front Matter
   - Machine Transcribed
   - Dessert
   - Cakes
   - Ovo-Lacto Vegetarian
+  - Bread
 ---
 # Rhode Island Johnny Cakes
 

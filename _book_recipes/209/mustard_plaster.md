@@ -6,7 +6,6 @@ page_order: 1
 from: 1920 Family Doctor
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Notes
 ---
 # Mustard Plaster

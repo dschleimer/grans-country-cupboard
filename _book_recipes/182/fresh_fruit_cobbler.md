@@ -6,10 +6,10 @@ page_order: 2
 from: Gran
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Dessert
   - Pie
   - Baked
+  - Ovo-Lacto Vegetarian
 ---
 # Fresh Fruit Cobbler
 

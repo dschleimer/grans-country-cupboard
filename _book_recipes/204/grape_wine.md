@@ -6,8 +6,11 @@ page_order: 1
 from: 1900 Nana Snyder - Phila. Pa.
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Alcohol
+  - All Day Recipe
+  - No Cook
+  - Vegetarian
+  - Ovo-Lacto Vegetarian
 ---
 # Grape Wine
 

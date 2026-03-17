@@ -4,11 +4,11 @@ page: "123"
 recipe: 123/blueberry_muffins
 page_order: 3
 categories:
-  - Needs Front Matter
   - Machine Transcribed
   - Bread
   - Baked
   - Ovo-Lacto Vegetarian
+  - Breakfast
 ---
 # Blueberry Muffins
 

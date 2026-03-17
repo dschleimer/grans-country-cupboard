@@ -5,11 +5,11 @@ recipe: 124/sweet_muffins
 page_order: 1
 from: Mrs. Robt. K. Major
 categories:
-  - Needs Front Matter
   - Machine Transcribed
   - Bread
   - Baked
   - Ovo-Lacto Vegetarian
+  - Breakfast
 ---
 # Sweet Muffins
 

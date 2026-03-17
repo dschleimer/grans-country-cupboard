@@ -6,9 +6,11 @@ page_order: 1
 from: Aunt Hannah Scott
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Baked
   - Boiled
+  - Dessert
+  - Ovo-Lacto Vegetarian
+  - Side Dish
 ---
 # Peach Dumplings
 

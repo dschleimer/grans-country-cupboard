@@ -5,11 +5,11 @@ recipe: 124/cinnamon_buns
 page_order: 3
 from: Aunt Anna Marter
 categories:
-  - Needs Front Matter
   - Machine Transcribed
   - Bread
   - Baked
   - Ovo-Lacto Vegetarian
+  - Breakfast
 ---
 # Cinnamon Buns
 

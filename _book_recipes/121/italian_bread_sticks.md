@@ -4,11 +4,11 @@ page: "121"
 recipe: 121/italian_bread_sticks
 page_order: 1
 categories:
-  - Needs Front Matter
   - Machine Transcribed
   - Bread
   - Baked
   - Ovo-Lacto Vegetarian
+  - Snacks
 ---
 # Italian Bread Sticks
 

@@ -5,9 +5,10 @@ recipe: 190/sara_lee_torte
 page_order: 2
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Dessert
   - Cakes
+  - Chilled
+  - No Cook
 ---
 # Sara Lee Torte
 

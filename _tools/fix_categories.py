@@ -60,6 +60,10 @@ STATUS_TAGS = {"Needs Transcription", "Needs Front Matter", "Machine Transcribed
 # have before Needs Front Matter is cleared.
 MIN_PROPER_TAGS = 4
 
+# Notes entries are not recipes — exempt from the MIN_PROPER_TAGS threshold.
+# They only need the "Notes" tag to be considered complete.
+NOTES_EXEMPT = True
+
 # Canonical course-level tags (used to check if a recipe has a course)
 CANONICAL_COURSE_TAGS = {
     "Appetizers", "Main", "Side Dish", "Soup", "Salad",
@@ -300,13 +304,28 @@ _FILENAME_RULES = [
     (r'aspic',                                    ["Aspic", "Chilled"]),
     (r'gelatin|jello|mold',                       ["Chilled"]),
     (r'ice_cream|sherbet|sorbet',                ["Dessert", "Frozen"]),
-    (r'relish|chutney|pickle|jam|jelly|marmalade',["Condiment"]),
+    (r'relish|chutney|pickle|jam|jelly|marmalade|marmelade|preserv',["Condiment"]),
     (r'pate|terrine',                            ["Pate"]),
-    (r'fudge|candy|toffee|brittle|praline',      ["Dessert"]),
-    (r'waffle|pancake|french_toast',             ["Breakfast"]),
+    (r'fudge|candy|toffee|taffy|brittle|praline',["Dessert"]),
+    (r'waffle|pancake|griddle_cake|french_toast', ["Breakfast"]),
     (r'omelet|omelette',                         ["Breakfast"]),
     (r'canape|appetizer|hors',                   ["Appetizers"]),
     (r'finger|snack|nibble|bite',                ["Finger Food"]),
+    (r'frosting|icing|filling',                  ["Dessert", "Cakes"]),
+    (r'sherbert',                                ["Dessert", "Frozen"]),
+    (r'dumpling',                                ["Side Dish", "Boiled"]),
+    (r'wine',                                    ["Alcohol"]),
+    (r'(?:^|_)freezing$|(?:^|_)frozen_',         ["Frozen"]),
+    (r'(?:^|_)canned$|(?:^|_)canning$',          ["Condiment"]),
+    (r'shortcake',                               ["Dessert"]),
+    (r'cream_puff',                              ["Dessert"]),
+    (r'johnny_cake',                             ["Bread"]),
+    (r'(?:^|_)ice$',                             ["Dessert", "Frozen"]),
+    (r'parfait|mousse(?!.*ham)',                  ["Dessert", "Chilled"]),
+    (r'fluff',                                   ["Dessert", "Chilled"]),
+    (r'tapioca',                                 ["Dessert"]),
+    (r'snap|hermit|cry_bab',                     ["Cookies"]),
+    (r'squares|bars(?:$|_)',                      ["Cookies"]),
 ]
 
 # (pattern against ingredient text, tag)
@@ -416,6 +435,8 @@ _TAG_IMPLIES_TAGS = [
     ("Boiled Eggs",    ["Eggs", "Breakfast"]),
     ("Gravy",          ["Side Dish"]),
     ("Cocktail",       ["Alcohol"]),
+    ("Cookies",        ["Dessert"]),
+    ("Punch",          ["Beverages"]),
     # Protein sub-type → umbrella (mirrors normalize_tags umbrella logic for NFM inference)
     ("Chicken",        ["Poultry"]),
     ("Turkey",         ["Poultry"]),
@@ -569,9 +590,11 @@ def process_file(path, dry_run=False):
     # Raise Needs Front Matter on any transcribed recipe that has fewer than
     # MIN_PROPER_TAGS proper tags, regardless of whether it previously cleared
     # the threshold (e.g. after the threshold is raised).
-    if (status == "transcribed"
+    is_notes = "Notes" in categories
+    if (status in ("transcribed", "gray_method_only")
             and "Needs Transcription" not in categories
             and "Needs Front Matter" not in categories
+            and not is_notes
             and count_proper_tags(categories) < MIN_PROPER_TAGS):
         categories.append("Needs Front Matter")
         changes["added_needs_front_matter"] = True
@@ -583,8 +606,10 @@ def process_file(path, dry_run=False):
             categories.extend(inferred)
             changes["inferred_categories"] = inferred
 
-        # Remove Needs Front Matter once ≥MIN_PROPER_TAGS proper tags exist
-        if count_proper_tags(categories) >= MIN_PROPER_TAGS and "Needs Transcription" not in categories:
+        # Remove Needs Front Matter once ≥MIN_PROPER_TAGS proper tags exist,
+        # or immediately for Notes entries (which are exempt from the threshold).
+        if "Needs Transcription" not in categories and (
+                count_proper_tags(categories) >= MIN_PROPER_TAGS or is_notes):
             categories.remove("Needs Front Matter")
             changes["removed_needs_front_matter"] = True
 

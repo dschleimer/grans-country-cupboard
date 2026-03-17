@@ -5,10 +5,10 @@ recipe: 202/chow_-_chow
 page_order: 1
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Condiment
   - Boiled
   - Overnight Recipe
+  - Vegetables
 ---
 # Chow - Chow
 

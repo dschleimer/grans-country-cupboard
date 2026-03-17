@@ -5,10 +5,12 @@ recipe: 139/butterscotch_curls
 page_order: 2
 from: Mrs. See
 categories:
-  - Needs Front Matter
   - Machine Transcribed
-  - Cocktail
   - Baked
+  - Bread
+  - Ovo-Lacto Vegetarian
+  - Snacks
+  - Cocktail
   - Alcohol
 ---
 # Butterscotch Curls

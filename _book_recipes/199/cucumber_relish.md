@@ -6,9 +6,10 @@ page_order: 3
 from: Aunt Mattie
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Condiment
   - Overnight Recipe
+  - Boiled
+  - Vegetables
 ---
 # Cucumber Relish
 

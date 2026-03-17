@@ -5,10 +5,10 @@ recipe: 139/strawberry_pie
 page_order: 1
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Dessert
   - Pie
   - Baked
+  - Chilled
 ---
 # Strawberry Pie
 

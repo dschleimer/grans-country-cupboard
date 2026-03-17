@@ -6,8 +6,11 @@ page_order: 3
 from: K.D.M.
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Alcohol
+  - Notes
+  - No Cook
+  - Vegetarian
+  - Ovo-Lacto Vegetarian
 ---
 # Grape Wine Referring To Cherry Wine
 

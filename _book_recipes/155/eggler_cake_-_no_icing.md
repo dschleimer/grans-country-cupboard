@@ -4,10 +4,11 @@ page: "155"
 recipe: 155/eggler_cake_-_no_icing
 page_order: 2
 categories:
-  - Needs Front Matter
   - Machine Transcribed
   - Baked
   - Ovo-Lacto Vegetarian
+  - Dessert
+  - Cakes
 ---
 # Eggler Cake - No Icing
 

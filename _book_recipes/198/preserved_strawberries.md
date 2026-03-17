@@ -6,9 +6,11 @@ page_order: 4
 from: Mrs. Sonia P. Alane, N.J.
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Boiled
   - Overnight Recipe
+  - Condiment
+  - Vegetarian
+  - Ovo-Lacto Vegetarian
 ---
 # Preserved Strawberries
 

@@ -4,11 +4,11 @@ page: "125"
 recipe: 125/waffles
 page_order: 1
 categories:
-  - Needs Front Matter
   - Machine Transcribed
   - Breakfast
   - Baked
   - Ovo-Lacto Vegetarian
+  - Eggs
 ---
 # Waffles
 

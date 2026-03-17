@@ -5,9 +5,10 @@ recipe: 172/jennys_or_almond_crescents
 page_order: 1
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Baked
   - Christmas
+  - Dessert
+  - Cookies
 ---
 # Jenny's or Almond Crescents
 

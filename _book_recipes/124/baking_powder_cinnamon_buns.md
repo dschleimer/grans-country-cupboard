@@ -5,10 +5,11 @@ recipe: 124/baking_powder_cinnamon_buns
 page_order: 2
 from: Mrs. Thompson
 categories:
-  - Needs Front Matter
   - Machine Transcribed
   - Bread
   - Baked
+  - Ovo-Lacto Vegetarian
+  - Breakfast
 ---
 # Baking Powder Cinnamon Buns
 

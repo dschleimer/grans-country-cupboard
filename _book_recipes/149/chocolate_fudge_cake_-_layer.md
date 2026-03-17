@@ -4,11 +4,11 @@ page: "149"
 recipe: 149/chocolate_fudge_cake_-_layer
 page_order: 2
 categories:
-  - Needs Front Matter
   - Machine Transcribed
   - Dessert
   - Baked
   - Ovo-Lacto Vegetarian
+  - Cakes
 ---
 # Chocolate Fudge Cake-Layer
 

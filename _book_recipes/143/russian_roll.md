@@ -5,10 +5,11 @@ recipe: 143/russian_roll
 page_order: 2
 from: Gran
 categories:
-  - Needs Front Matter
   - Machine Transcribed
-  - Bread
   - Ovo-Lacto Vegetarian
+  - Dessert
+  - Chilled
+  - Bread
 ---
 # Russian Roll
 

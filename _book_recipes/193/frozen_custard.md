@@ -6,9 +6,10 @@ page_order: 2
 from: 1935 Mary McFarland
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Dessert
   - Ovo-Lacto Vegetarian
+  - Frozen
+  - Eggs
 ---
 # Frozen Custard
 

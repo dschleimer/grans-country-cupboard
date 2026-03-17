@@ -5,7 +5,11 @@ recipe: 198/strawberries_-_freezing
 page_order: 3
 categories:
   - Machine Transcribed
-  - Needs Front Matter
+  - Frozen
+  - Notes
+  - Condiment
+  - Vegetarian
+  - Ovo-Lacto Vegetarian
 ---
 # Strawberries - Freezing
 

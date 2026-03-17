@@ -4,11 +4,11 @@ page: "148"
 recipe: 148/gingerbread
 page_order: 2
 categories:
-  - Needs Front Matter
   - Machine Transcribed
   - Bread
   - Baked
   - Ovo-Lacto Vegetarian
+  - Dessert
 ---
 # Gingerbread
 

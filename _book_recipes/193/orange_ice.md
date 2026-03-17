@@ -6,8 +6,10 @@ page_order: 3
 from: Aunt Edith Sebright
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Ovo-Lacto Vegetarian
+  - Dessert
+  - Frozen
+  - Eggs
 ---
 # Orange Ice
 

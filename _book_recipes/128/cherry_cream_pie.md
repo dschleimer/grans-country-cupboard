@@ -5,10 +5,10 @@ recipe: 128/cherry_cream_pie
 page_order: 1
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Dessert
   - Pie
   - Baked
+  - Chilled
 ---
 # Cherry Cream Pie
 

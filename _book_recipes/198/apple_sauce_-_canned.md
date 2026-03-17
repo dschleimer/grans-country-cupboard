@@ -6,10 +6,11 @@ page_order: 1
 from: Mary Scott
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Sauce
   - Condiment
   - Boiled
+  - Vegetarian
+  - Ovo-Lacto Vegetarian
 ---
 # Apple Sauce - Canned
 

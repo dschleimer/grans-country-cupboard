@@ -5,10 +5,10 @@ recipe: 129/west_virginia_cherry_pie
 page_order: 1
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Dessert
   - Pie
   - Baked
+  - Ovo-Lacto Vegetarian
 ---
 # West Virginia Cherry Pie
 

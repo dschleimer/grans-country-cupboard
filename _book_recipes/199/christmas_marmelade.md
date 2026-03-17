@@ -6,10 +6,10 @@ page_order: 2
 from: 1931 St. Stephen's Church
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Boiled
   - Christmas
   - Overnight Recipe
+  - Condiment
 ---
 # Christmas Marmelade
 

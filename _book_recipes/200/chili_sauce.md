@@ -6,10 +6,10 @@ page_order: 2
 from: Great-Grandmother Marter
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Sauce
   - Condiment
   - Boiled
+  - Vegetables
 ---
 # Chili Sauce
 

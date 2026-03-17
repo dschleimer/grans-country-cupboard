@@ -5,11 +5,11 @@ recipe: 123/cloud_biscuits
 page_order: 1
 from: Pat D. Brown
 categories:
-  - Needs Front Matter
   - Machine Transcribed
   - Bread
   - Baked
   - Ovo-Lacto Vegetarian
+  - Eggs
 ---
 # Cloud Biscuits
 

@@ -6,8 +6,11 @@ page_order: 2
 from: Mrs. Rena Smith
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Boiled
+  - Condiment
+  - Vegetables
+  - Vegetarian
+  - Ovo-Lacto Vegetarian
 ---
 # Corn - Canned
 

@@ -5,10 +5,11 @@ recipe: 143/strawberry_banana_mold
 page_order: 1
 from: Sig. B.
 categories:
-  - Needs Front Matter
   - Machine Transcribed
   - Chilled
   - Boiled
+  - Jello Salad
+  - Salad
 ---
 # Strawberry Banana Mold
 

@@ -4,11 +4,11 @@ page: "140"
 recipe: 140/grans_baked_custard
 page_order: 2
 categories:
-  - Needs Front Matter
   - Machine Transcribed
   - Dessert
   - Baked
   - Ovo-Lacto Vegetarian
+  - Eggs
 ---
 # Gran's Baked Custard
 

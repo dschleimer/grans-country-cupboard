@@ -5,10 +5,10 @@ recipe: 203/sour_gherkins
 page_order: 2
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Condiment
   - Boiled
   - Overnight Recipe
+  - Vegetables
 ---
 # Sour Gherkins
 

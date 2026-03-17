@@ -6,7 +6,11 @@ page_order: 2
 from: N. Carolina
 categories:
   - Machine Transcribed
-  - Needs Front Matter
+  - Dessert
+  - Cakes
+  - No Cook
+  - Vegetarian
+  - Ovo-Lacto Vegetarian
 ---
 # Cream Cheese Frosting
 

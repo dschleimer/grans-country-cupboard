@@ -6,9 +6,10 @@ page_order: 2
 from: Southern
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Roast
   - Ovo-Lacto Vegetarian
+  - Side Dish
+  - Boiled
 ---
 # Corn Meal Dumplings
 

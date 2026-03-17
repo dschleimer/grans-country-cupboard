@@ -6,9 +6,10 @@ page_order: 3
 from: Anna Ditch
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Boiled
   - Ovo-Lacto Vegetarian
+  - Side Dish
+  - Vegetables
 ---
 # Potato Dumplings
 

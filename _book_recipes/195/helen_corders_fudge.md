@@ -6,9 +6,10 @@ page_order: 3
 from: Helen Corder
 categories:
   - Machine Transcribed
-  - Needs Front Matter
   - Dessert
   - Boiled
+  - Snacks
+  - Stovetop
 ---
 # Helen Corder's Fudge
 

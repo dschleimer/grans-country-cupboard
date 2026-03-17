@@ -4,8 +4,12 @@ page: "142"
 recipe: 142/grans_orange_blossom_bowl
 page_order: 2
 categories:
-  - Needs Front Matter
   - Machine Transcribed
+  - Dessert
+  - Chilled
+  - No Cook
+  - Vegetarian
+  - Ovo-Lacto Vegetarian
 ---
 # Gran's Orange Blossom Bowl
 

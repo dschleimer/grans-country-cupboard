@@ -4,10 +4,11 @@ page: "159"
 recipe: 159/pats_white_frosting
 page_order: 2
 categories:
-  - Needs Front Matter
   - Machine Transcribed
   - Boiled
   - Ovo-Lacto Vegetarian
+  - Dessert
+  - Cakes
 ---
 # Pat's White Frosting
 

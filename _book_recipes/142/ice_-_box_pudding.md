@@ -5,10 +5,11 @@ recipe: 142/ice_-_box_pudding
 page_order: 1
 from: Sit Davis
 categories:
-  - Needs Front Matter
   - Machine Transcribed
   - Dessert
   - Ovo-Lacto Vegetarian
+  - Chilled
+  - Overnight Recipe
 ---
 # Ice-Box Pudding
 
