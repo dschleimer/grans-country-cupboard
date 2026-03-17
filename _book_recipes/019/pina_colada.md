@@ -17,7 +17,7 @@ categories:
 
 | Ingredient       | Amount | Notes |
 | ---------------- | ------ | ----- |
-| Cream of Coconut | 1 oz   | |
+| Cream of Coconut | 2 oz   | |
 | Pineapple Juice  | 4 oz   | Unsweetened |
 | White Rum        | 1½ oz  | |
 | Ice              | 1 cup  | Crushed |

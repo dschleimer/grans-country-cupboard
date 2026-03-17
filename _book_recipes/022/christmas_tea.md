@@ -24,7 +24,7 @@ categories:
 | Sugar                | 1½ cup | |
 | Cloves               | 1 tsp  | |
 | Allspice             | 1 tsp  | |
-| Cinnamon             | 1 tsp  | |
+| Cinnamon             | 2 tsp  | |
 
 ## Method
 

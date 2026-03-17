@@ -38,7 +38,7 @@ categories:
 | Whole Wheat Bread  | Pimento Cheese (slice) | Shrimp                        | (bit of) Pimento |
 | Whole Wheat Bread  | Cream Cheese           | (slice of) Cucumber           | |
 | White Bread        | American Cheese        | (slice of) Egg                | Paprika |
-| White Bread        | American Cheese        | (slice of) Egg                | |
+| White Bread        | American Cheese        | (slice of) Egg                | Olive (slice) |
 | White Bread        | Pimento Cheese         | Anchovy (fillet)              | |
 | White Bread        | Marinated Mushroom     | Pimento (strips)              | |
 | White Bread        | Pimento Cheese         | (slice of) Egg                | (ripe) Olive (strips) |

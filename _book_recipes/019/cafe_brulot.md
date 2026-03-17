@@ -18,7 +18,7 @@ categories:
 | Ingredient | Amount        | Notes |
 | ---------- | ------------- | ----- |
 | Sugar      | 2 cubes       | White sugar |
-| Lemon Peel |               | Thin-sliced |
+| Lemon Peel | 2 thin slices | |
 | Cloves     | 2 whole       | |
 | Cinnamon   | 1 small stick | |
 | Brandy     | 1 Jigger      | Likely 1.5 Oz |

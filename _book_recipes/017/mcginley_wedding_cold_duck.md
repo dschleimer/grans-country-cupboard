@@ -3,7 +3,7 @@ layout: recipe
 page: "017"
 recipe: 017/mcginley_wedding_cold_duck
 page_order: 1
-from: 
+from: Tom McGinley
 categories:
   - Alcohol
   - Drinks

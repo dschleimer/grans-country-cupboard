@@ -28,7 +28,7 @@ categories:
 | Pepper               | To Taste | |
 | Accent               | ¼ tsp    | This is MSG, sold as [Ac'cent](https://accentflavor.com/) today |
 | Prepared Mustard     | 2 tsp    | |
-| Bread                | 1 loaf   | Fresh |
+| French Bread         | 1 loaf   | |
 
 ## Method
 
