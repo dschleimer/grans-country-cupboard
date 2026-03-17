@@ -7,9 +7,9 @@ from: "\"Aunt\" Minnie"
 categories:
   - Machine Transcribed
   - Double Boiler
-  - Ovo-Lacto Vegetarian
   - Dessert
   - Chilled
+  - Eggs
 ---
 # Spanish Cream
 

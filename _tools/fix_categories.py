@@ -403,7 +403,10 @@ def detect_conflicts(path, categories, body_text):
         # Content-level conflicts
         for pattern, label in _ANIMAL_INGREDIENT_PATTERNS:
             if pattern.search(ingredient_text):
-                conflicts.append(f"Vegetarian + '{label}' in ingredients")
+                if label == "Gelatin":
+                    conflicts.append("AUTO: Ovo-Lacto Vegetarian + Gelatin in ingredients (remove Ovo-Lacto Vegetarian)")
+                else:
+                    conflicts.append(f"Vegetarian + '{label}' in ingredients")
         # Missing Ovo-Lacto Vegetarian (auto-fixable only when no other conflicts)
         if not has_ovo and not conflicts:
             conflicts.append("AUTO: Vegetarian without Ovo-Lacto Vegetarian (should carry both)")
@@ -418,7 +421,7 @@ def detect_conflicts(path, categories, body_text):
                 conflicts.append(f"Ovo-Lacto Vegetarian + '{label}' in ingredients")
         # Gelatin disqualifies Ovo-Lacto Vegetarian too (animal-derived collagen)
         if _GELATIN_PATTERN.search(ingredient_text):
-            conflicts.append("Ovo-Lacto Vegetarian + 'Gelatin' in ingredients")
+            conflicts.append("AUTO: Ovo-Lacto Vegetarian + Gelatin in ingredients (remove Ovo-Lacto Vegetarian)")
 
     return conflicts
 
@@ -518,7 +521,9 @@ def infer_categories(filename_stem, body_text, existing_categories):
     # protein tag was added or already existed.
     all_so_far = existing | set(additions)
     has_meat = bool(_MEAT_PROTEIN_TAGS & all_so_far)
+    has_gelatin = bool(_GELATIN_PATTERN.search(ingredient_text))
     if (not has_meat
+            and not has_gelatin
             and _EGG_PATTERN.search(ingredient_text)
             and "Vegetarian" not in all_so_far
             and "Ovo-Lacto Vegetarian" not in all_so_far):
@@ -623,6 +628,12 @@ def process_file(path, dry_run=False):
         if "Vegetarian without Ovo-Lacto Vegetarian" in c:
             categories.append("Ovo-Lacto Vegetarian")
             changes["ovo_lacto_added"] = True
+        if "Ovo-Lacto Vegetarian + Gelatin" in c:
+            if "Ovo-Lacto Vegetarian" in categories:
+                categories.remove("Ovo-Lacto Vegetarian")
+            if "Vegetarian" in categories:
+                categories.remove("Vegetarian")
+            changes["gelatin_vegetarian_removed"] = True
 
     if real_conflicts:
         changes["conflicts"] = real_conflicts

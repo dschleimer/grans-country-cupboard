@@ -9,7 +9,6 @@ categories:
   - Pie
   - Baked
   - Boiled
-  - Ovo-Lacto Vegetarian
 ---
 # Cherry Jubilee Pie
 

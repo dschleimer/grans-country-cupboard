@@ -6,10 +6,10 @@ page_order: 2
 from: Gran
 categories:
   - Machine Transcribed
-  - Ovo-Lacto Vegetarian
   - Dessert
   - Chilled
-  - Bread
+  - Cakes
+  - Eggs
 ---
 # Russian Roll
 
