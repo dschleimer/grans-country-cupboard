@@ -32,7 +32,9 @@ categories:
 3. Brown chops in greased skillet
 4. Place chop in a shallow baking dish
 5. Combine Soup, 1 soup can of water, and Catsup
- 
+1. Pour soup mixture over meat
+1. Cover with foil
+1. Bake 1 hour or until tender
 
 ## Notes From Gran
 

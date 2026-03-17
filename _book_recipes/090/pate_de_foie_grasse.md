@@ -28,6 +28,7 @@ categories:
 
 ## Method
 
+1. Boil liver for a few minutes
 1. Grind together all ingredients except crackers
 1. Chill
 1. Serve pate on crackers

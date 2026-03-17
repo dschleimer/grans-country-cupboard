@@ -22,7 +22,7 @@ categories:
 | Garlic     | 4 cloves | |
 | Salt       | Lots     | |
 | Pepper     | Lots     | |
-| Mature     | Lots     | |
+| Mature     | 4 oz     | |
 
 ## Method
 

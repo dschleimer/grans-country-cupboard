@@ -3,6 +3,7 @@ layout: recipe
 page: "086"
 recipe: 086/roast_loin_of_pork
 page_order: 3
+from: Gran
 categories:
   - Roast
   - Pork
@@ -37,7 +38,9 @@ categories:
 
 ## Notes From Gran
 
-* 
+* Sprinkle with salt
+* Serve
+* Good hot or cold
 
 ## Modern Notes
 

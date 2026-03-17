@@ -20,7 +20,7 @@ categories:
 | ------------- | -------------- | ----- |
 | Lump Crabmeat | 1 lb           | |
 | Butter        | 4 + 2 Tbsp     | |
-| Green Peppers | 2 Tbsp         | Chopped |
+| Green Peppers | 2              | Chopped |
 | Mushrooms     | ½ lb (8oz can) | Sliced |
 | Pimento       | 1              | Diced |
 | Flour         | 2 Tbsp         | |
@@ -33,6 +33,7 @@ categories:
 1. Chop Green peppers
 1. Slice Mushrooms if not pre-sliced
 1. Sauté green pepper and mushrooms in 2 Tbsp butter
+1. Add flour and stir
 1. Add pimento and cream
 1. Stir until thickened
 1. Add crab and sherry

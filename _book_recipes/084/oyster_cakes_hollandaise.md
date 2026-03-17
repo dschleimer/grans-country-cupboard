@@ -16,7 +16,7 @@ categories:
 
 | Ingredient        | Amount                          | Notes |
 | ----------------- | ------------------------------- | ----- |
-| Onions            | 1 Tbsp                          | Finely chopped |
+| Onions            | 2 Tbsp                          | Finely chopped |
 | Butter            | 2 + 2 Tbsp                      | |
 | Eggs              | 2                               | Beaten |
 | Bread Crumbs      | 3 cups                          | Soft - Crumble 4 slices soft bread |
@@ -26,8 +26,8 @@ categories:
 | Parsley           | 2 Tbsp snipped OR 1 Tbsp flakes | |
 | Lemon Juice       | 1 Tbsp                          | |
 | Bread Crumbs      | ¾ cup                           | Fine dry crumbs |
-| Salt              | ¼ tsp                           | |
-| Paprika           | ½ tsp                           | |
+| Salt              | ½ tsp                           | |
+| Paprika           | ¼ tsp                           | |
 | Hollandaise sauce |                                 | |
 
 ## Method

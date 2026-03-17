@@ -21,12 +21,12 @@ categories:
 | Onion            | ½ cup           | minced |
 | Green Peppers    | ⅓ cup           | Chopped |
 | Celery           | ⅓ cup           | Chopped |
-| Bread Crumbs     | 1⅓ cup          | Dry Bread Crumbs |
+| Bread Crumbs     | ⅓ cup           | Dry Bread Crumbs |
 | Heavy Cream      | 1 cup           | |
 | Eggs             | 2               | Beaten |
 | Butter           | 3 Tbsp          | Melted |
 | Prepared Mustard | 2 tsp           | |
-| Salt             | 1½ tsp          | |
+| Salt             | ½ tsp           | |
 | Pepper           | 1 tsp           | |
 | Parmesan         |                 | Grated |
 | Bacon            | ½ inch per clam | |
