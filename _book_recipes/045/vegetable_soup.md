@@ -27,7 +27,7 @@ categories:
 | Carrots          | 6           | Cut up |
 | Lentils          | ½ cup       | Dried |
 | Peas             | ½ cup       | Dried |
-| Parsley          | 1 Tbsp      | Parsley Flakes |
+| Parsley          | 2 Tbsp      | Parsley Flakes |
 | Potatoes         | 2           | Cut up - White potatoes |
 | Turnip           | 1           | Optional - cut up |
 | Limas            | 1 box       | Frozen |

@@ -21,7 +21,7 @@ categories:
 | Ingredient           | Amount    | Notes |
 | -------------------- | --------- | ----- |
 | Oysters              | 1 pint    | shucked |
-| Butter               | 1 cup     | |
+| Butter               | ½ cup     | |
 | Salt                 | ½ tsp     | |
 | Cayenne              | Dash      | |
 | Pepper               | ⅛ tsp     | |

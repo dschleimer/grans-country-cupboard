@@ -25,8 +25,8 @@ categories:
 | Catsup                     | ½ cup         | |
 | Tomatoes                   | 1 large can   | Can also use peeled fresh tomatoes |
 | Ham Hocks                  | 3-6           | Meaty |
-| Ham bones                  |               | |
-| Parsley                    | 2 Tbsp        | Dried |
+| Ham bones                  | 2             | |
+| Parsley                    | 1 Tbsp        | Dried |
 | Worcestershire Sauce       | few shakes    | |
 | Tabasco Sauce              | Couple shakes | |
 | Seasoned Salt              | To taste      | |
