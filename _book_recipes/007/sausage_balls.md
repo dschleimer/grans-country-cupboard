@@ -19,7 +19,7 @@ categories:
 | -------------------- | ------ | ----- |
 | Prepared Biscuit Mix | 3 cups | |
 | Hot or Mild Sausage  | 1 lb   | |
-| Sharp Cheese         | ½ lb   | |
+| Sharp Cheese         | ½ lb   | Grated |
 
 ## Prepare in Advance
 1. Mix biscuit as directed on package

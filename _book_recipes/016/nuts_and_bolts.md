@@ -24,7 +24,7 @@ categories:
 | Cheerio Oats         | 2 cups | |
 | Pecans               | 1 lb   | |
 | Butter               | ¼ lbs  | |
-| Bacon Grease         | ¼ cup  | |
+| Bacon Grease         | ½ cup  | |
 | Worcestershire Sauce | 2 Tbsp | |
 | Garlic Salt          | 2 Tbsp | |
 | Tabasco Sauce        | 1 Tbsp | |

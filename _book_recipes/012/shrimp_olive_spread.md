@@ -17,7 +17,7 @@ categories:
 
 | Ingredient             | Amount | Notes |
 | ---------------------- | ------ | ----- |
-| Shrimp                 | 1 can  | Recipe calls for a 5 oz can, though it appears to be sold as 6oz cans today |
+| Shrimp                 | 1 can  | Chopped. Recipe calls for a 5 oz can, though it appears to be sold as 6oz cans today |
 | Lemon Rind             | ¾ tsp  | Grated |
 | Mayonnaise             | ¼ cup  | |
 | Pimento Stuffed Olives | ¼ cup  | Chopped |

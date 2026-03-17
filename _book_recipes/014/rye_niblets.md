@@ -18,7 +18,7 @@ categories:
 | Ingredient           | Amount    | Notes |
 | -------------------- | --------- | ----- |
 | Sharp Cheddar Cheese | ½ lb      | Grated |
-| Green Pepper         | 1 large   | Chopped |
+| Green Pepper         | ½ large   | Chopped |
 | Onion                | 1 Medium  | Minced |
 | Bacon                | 10 slices | Crisp - Crumbled |
 | Mayonnaise           | 3 Tbsp    | |

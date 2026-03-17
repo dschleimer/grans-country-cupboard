@@ -16,11 +16,12 @@ categories:
 
 | Ingredient  | Amount | Notes |
 | ----------- | ------ | ----- |
-| Flour       | 2 Cups | |
+| Bisquick    | 2 Cups | |
 | Butter      | 2 Tbsp | |
 | Egg         | 1      | |
 | Milk        | 1 Cup  | |
-| Sugar       | ½ Cup  | |
+| Sugar       | ¼ Cup  | |
+| Salt        | ½ tsp  | |
 | Blueberries | 1 pint | |
 
 ## Method
@@ -35,6 +36,5 @@ categories:
 
 ## Modern Notes
 
-* The original recipe does not list baking powder or salt, but most muffin recipes of this era would include 2–3 tsp baking powder and ½ tsp salt — they may have been assumed -- Claude (AI)
 * Fresh or frozen blueberries both work; if using frozen, do not thaw before adding to the batter -- Claude (AI)
 

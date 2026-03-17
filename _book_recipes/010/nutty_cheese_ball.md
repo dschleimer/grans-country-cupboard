@@ -16,13 +16,13 @@ categories:
 
 ## Ingredients
 
-| Ingredient           | Amount   | Notes |
-| -------------------- | -------- | ----- |
-| Chopped Pecans       | 1.5 cups | Reserve 1.2 cup for rolling |
-| Cream Cheese         | 24 Oz    | |
-| Accent               | 1 Tbsp   | This is MSG, sold as [Ac'cent](https://accentflavor.com/) today |
-| Worcestershire Sauce | 2 tbsp   | |
-| Horseradish          | 1 tbsp   | Optional |
+| Ingredient           | Amount  | Notes |
+| -------------------- | ------- | ----- |
+| Chopped Pecans       | 1½ cups | Reserve ½ cup for rolling |
+| Cream Cheese         | 24 Oz   | |
+| Accent               | 1 Tbsp  | This is MSG, sold as [Ac'cent](https://accentflavor.com/) today |
+| Worcestershire Sauce | 2 tbsp  | |
+| Horseradish          | 1 tbsp  | Optional |
 
 ## Method
 1. Let cheese and cream cheese come to room temperature
