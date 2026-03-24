@@ -28,7 +28,9 @@ categories:
 | Worcestershire Sauce | 1 Tbsp      | |
 | Horseradish          | ⅓ cup       | |
 | Mayonnaise           | 3 cups      | |
-| Cooked Seafood       | 6 cups      | Shrimp, Crab, or Lobster |
+| Cooked Shrimp       | 6 cups      | Total of 6 cups cooked seafood |
+| Cooked Crab       | 6 cups      | Total of 6 cups cooked seafood |
+| Cooked Lobster       | 6 cups      | Total of 6 cups cooked seafood |
 | Chopped Celery       | 3 cups      | |
 
 ## Method

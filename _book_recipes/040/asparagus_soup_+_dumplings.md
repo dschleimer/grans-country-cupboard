@@ -30,7 +30,7 @@ categories:
 | Ingredient       | Amount  | Notes |
 | ---------------- | ------- | ----- |
 | Salt Pork        | ½ lb    | |
-| Raw Potatoes     | 1 cup   | diced |
+| Diced Raw Potatoes     | 1 cup   | |
 | Cooked Asparagus | 1½ cups | keep liquid |
 | Hot Milk         | 1 quart | not boiling |
 
