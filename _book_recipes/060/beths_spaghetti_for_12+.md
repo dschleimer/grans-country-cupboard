@@ -18,9 +18,9 @@ categories:
 | Ingredient               | Amount       | Notes |
 | ------------------------ | ------------ | ----- |
 | Ground Chuck             | 3 lbs        | |
-| Cut Up Fine Onions       | 8 large      | |
-| Cut Up Fine Celery       | 3 ribs       | |
-| Cut Up Fine Green Pepper | 1            | |
+| Onions Cut Up Fine      | 8 large      | |
+| Celery Cut Up Fine      | 3 ribs       | |
+| Green Pepper Cut Up Fine | 1            | |
 | Mushrooms                | 1 large can  | Recipe calls for stems and pieces |
 | Tomatoes                 | 2 large cans | |
 | Ragu Sauce               | 32 Oz        | Recipe calls for 2 large jars and then specifies 32 Oz, presumably fluid ounces |

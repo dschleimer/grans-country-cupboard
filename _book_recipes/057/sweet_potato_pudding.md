@@ -17,7 +17,7 @@ categories:
 
 | Ingredient              | Amount | Notes |
 | ----------------------- | ------ | ----- |
-| Uncooked Sweet Potatoes | 2 cups | Grated |
+| Raw Sweet Potatoes | 2 cups | Grated |
 | Melted Butter           | ¼ cup  | |
 | Lemon Juice             | 1 tsp  | |
 | Ginger                  | pinch  | |

@@ -25,7 +25,7 @@ categories:
 | Cabbage       | 2 heads      | |
 | Ground Beef   | 5 lbs        | |
 | Ground Pork   | 3 lbs        | |
-| Uncooked Rice | 1 lbs        | |
+| Raw Rice | 1 lbs        | |
 | Salt          |              | |
 | Pepper        |              | |
 | Onions        | 6 large      | |
