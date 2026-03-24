@@ -15,18 +15,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient          | Amount          | Notes |
-| ------------------- | --------------- | ----- |
-| Butter              | 1 cup           | Softened |
-| Sugar               | 1 cup           | |
-| Eggs                | 2               | |
-| Flour               | 2 cups (slight) | |
-| Baking Powder       | ½ tsp           | |
-| Salt                | ¼ tsp           | |
-| White Raisins       | ½ cup           | |
-| Maraschino Cherries | 12              | Cut Up |
-| Cherry Juice        | 1 Tbsp          | |
-| Vanilla             | 1 tsp           | |
+| Ingredient                 | Amount          | Notes |
+| -------------------------- | --------------- | ----- |
+| Softened Butter            | 1 cup           | |
+| Sugar                      | 1 cup           | |
+| Eggs                       | 2               | |
+| Flour                      | 2 cups (slight) | |
+| Baking Powder              | ½ tsp           | |
+| Salt                       | ¼ tsp           | |
+| White Raisins              | ½ cup           | |
+| Cut Up Maraschino Cherries | 12              | |
+| Cherry Juice               | 1 Tbsp          | |
+| Vanilla                    | 1 tsp           | |
 
 ## Method
 

@@ -18,13 +18,13 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount      | Notes |
-| ------------- | ----------- | ----- |
-| Cauliflower   |             | Whole head(s) |
-| Butter        |             | |
-| Cheddar Soup  | 1 or 2 cans | Undiluted |
-| Seasoned Salt |             | |
-| Pepper        |             | |
+| Ingredient             | Amount      | Notes |
+| ---------------------- | ----------- | ----- |
+| Cauliflower            |             | Whole head(s) |
+| Butter                 |             | |
+| Undiluted Cheddar Soup | 1 or 2 cans | |
+| Seasoned Salt          |             | |
+| Pepper                 |             | |
 
 ## Method
 

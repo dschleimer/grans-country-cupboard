@@ -17,18 +17,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient           | Amount   | Notes |
-| -------------------- | -------- | ----- |
-| Top Round Beef       | 1½ lbs   | Ground |
-| Onion                | ½ cup    | Finely Chopped |
-| Chili Sauce          | ¼ cup    | |
-| Horseradish          | 2 tsp    | |
-| Worcestershire Sauce | 1 tsp    | |
-| Salt                 | 1¼ tsp   | |
-| Pepper               | To Taste | |
-| Accent               | ¼ tsp    | This is MSG, sold as [Ac'cent](https://accentflavor.com/) today |
-| Prepared Mustard     | 2 tsp    | |
-| French Bread         | 1 loaf   | |
+| Ingredient            | Amount   | Notes |
+| --------------------- | -------- | ----- |
+| Ground Top Round Beef | 1½ lbs   | |
+| Finely Chopped Onion  | ½ cup    | |
+| Chili Sauce           | ¼ cup    | |
+| Horseradish           | 2 tsp    | |
+| Worcestershire Sauce  | 1 tsp    | |
+| Salt                  | 1¼ tsp   | |
+| Pepper                | To Taste | |
+| Accent                | ¼ tsp    | This is MSG, sold as [Ac'cent](https://accentflavor.com/) today |
+| Prepared Mustard      | 2 tsp    | |
+| French Bread          | 1 loaf   | |
 
 ## Method
 

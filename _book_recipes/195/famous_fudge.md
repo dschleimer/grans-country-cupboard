@@ -15,15 +15,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient       | Amount  | Notes |
-| ---------------- | ------- | ----- |
-| Chocolate Chips  | 2 pkgs  | For bowl |
-| Marshmallow Whip | 1 jar   | 7 oz, for bowl |
-| Chopped Nuts     | 2 Cups  | For bowl |
-| Vanilla          | 2 tsp   | For bowl |
-| Sugar            | 4½ Cups | For saucepan |
-| Evaporated Milk  | 1 Can   | Large, for saucepan |
-| Butter           | ½ lb    | For saucepan |
+| Ingredient            | Amount  | Notes |
+| --------------------- | ------- | ----- |
+| Chocolate Chips       | 2 pkgs  | For bowl |
+| Marshmallow Whip      | 1 jar   | 7 oz, for bowl |
+| Chopped Nuts          | 2 Cups  | For bowl |
+| Vanilla               | 2 tsp   | For bowl |
+| Sugar                 | 4½ Cups | For saucepan |
+| Large Evaporated Milk | 1 Can   | for saucepan |
+| Butter                | ½ lb    | For saucepan |
 
 ## Method
 

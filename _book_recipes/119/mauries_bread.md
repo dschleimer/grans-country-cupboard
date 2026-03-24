@@ -19,7 +19,7 @@ categories:
 | Dry Yeast   | 2 pkg          | |
 | Sugar       | ½ cup + 1 tsp  | |
 | Cooking Oil | ½ cup          | |
-| Water       | 3 cups + 1 cup | warm |
+| Warm Water  | 3 cups + 1 cup | |
 | Flour       | 8-9 cups       | |
 | Salt        | 1 Tbsp         | |
 | Wheat Germ  | ½ cup          | Optional |

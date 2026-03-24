@@ -15,20 +15,20 @@ categories:
 
 ## Ingredients
 
-| Ingredient          | Amount | Notes |
-| ------------------- | ------ | ----- |
-| Butter              | 3 Tbsp | For topping |
-| Brown Sugar         | 1 Cup  | For topping |
-| Pineapple Slices    |        | Or canned peaches |
-| Cherries            |        | A few |
-| Nuts                |        | A few |
-| Brown Sugar         | ½ Cup  | For batter |
-| Egg                 | 1      | Well beaten |
-| Salt                | ¼ tsp  | |
-| Hot Milk            | ½ Cup  | |
-| Cinnamon            | ½ tsp  | |
-| Flour               | 1 Cup  | |
-| Baking Powder       | 1½ tsp | |
+| Ingredient       | Amount | Notes |
+| ---------------- | ------ | ----- |
+| Butter           | 3 Tbsp | For topping |
+| Brown Sugar      | 1 Cup  | For topping |
+| Pineapple Slices |        | Or canned peaches |
+| Cherries         |        | A few |
+| Nuts             |        | A few |
+| Brown Sugar      | ½ Cup  | For batter |
+| Egg              | 1      | Well beaten |
+| Salt             | ¼ tsp  | |
+| Hot Milk         | ½ Cup  | |
+| Cinnamon         | ½ tsp  | |
+| Flour            | 1 Cup  | |
+| Baking Powder    | 1½ tsp | |
 
 ## Method
 

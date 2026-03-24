@@ -19,7 +19,7 @@ categories:
 | Flour                           | ¾ Cup  | |
 | Baking Powder                   | 1 tsp  | |
 | Salt                            | ¼ tsp  | |
-| Eggs                            | 4      | Separated |
+| Separated Eggs                  | 4      | |
 | Sugar                           | ¾ Cup  | |
 | Almond Extract                  | 1½ tsp | |
 | Water                           | 2 Tbsp | |

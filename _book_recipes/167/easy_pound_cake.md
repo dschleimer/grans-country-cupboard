@@ -14,17 +14,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient  | Amount  | Notes |
-| ----------- | ------- | ----- |
-| Flour       | 2¼ Cups | |
-| Sugar       | 1½ Cups | |
-| Salt        | ½ tsp   | |
-| Baking Soda | ¼ tsp   | |
-| Lemon Rind  | 1 tsp   | Grated, optional |
-| Vanilla     | 1 tsp   | |
-| Butter      | 1 Cup   | Softened |
-| Sour Cream  | 1 Cup   | |
-| Eggs        | 3       | |
+| Ingredient        | Amount  | Notes |
+| ----------------- | ------- | ----- |
+| Flour             | 2¼ Cups | |
+| Sugar             | 1½ Cups | |
+| Salt              | ½ tsp   | |
+| Baking Soda       | ¼ tsp   | |
+| Grated Lemon Rind | 1 tsp   | optional |
+| Vanilla           | 1 tsp   | |
+| Softened Butter   | 1 Cup   | |
+| Sour Cream        | 1 Cup   | |
+| Eggs              | 3       | |
 
 ## Method
 

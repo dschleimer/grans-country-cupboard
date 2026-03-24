@@ -18,8 +18,8 @@ categories:
 | Ingredient             | Amount | Notes |
 | ---------------------- | ------ | ----- |
 | Lettuce                |        | |
-| Cucumber               | 1      | Sliced |
-| Red Onion              | 1      | Chopped |
+| Sliced Cucumber        | 1      | |
+| Chopped Red Onion      | 1      | |
 | Scallions              |        | Optional - May substitute for Onion |
 | Oil                    |        | |
 | Garlic Salt            |        | |
@@ -27,7 +27,7 @@ categories:
 | Artichoke Hearts       |        | |
 | Marinated Greek Olives |        | |
 | Croutons               |        | |
-| Egg                    |        | Chopped - \[presumably hard boiled first\] |
+| Chopped Egg            |        | \[presumably hard boiled first\] |
 | Ground Pepper          |        | |
 
 ## Method

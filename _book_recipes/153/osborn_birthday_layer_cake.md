@@ -14,25 +14,25 @@ categories:
 
 ## Ingredients
 
-| Ingredient          | Amount  | Notes |
-| ------------------- | ------- | ----- |
-| Chocolate Chips     | ⅓ Cup   | Melted, for batter |
-| Graham Crumbs       | ½ Cup   | For topping |
-| Flaked Coconut      | ½ Cup   | For topping |
-| Melted Butter       | ½ Cup   | For topping |
-| Chopped Nuts        | ½ Cup   | For topping |
-| Chocolate Chips     | ⅓ Cup   | For topping |
-| Butter              | ½ Cup   | For cake |
-| Sugar               | 1½ Cups | Plus 2 Tbsp |
-| Eggs                | 2       | One at a time |
-| Vanilla             | 1 tsp   | |
-| Flour               | 2 Cups  | |
-| Baking Soda         | 1 tsp   | |
-| Salt                | 1 tsp   | |
-| Buttermilk          | 1¼ Cups | Or sour cream |
-| Heavy Cream         | 1 Cup   | For frosting |
-| Confectioners Sugar | 2 Tbsp  | For frosting |
-| Vanilla             | 1 tsp   | For frosting |
+| Ingredient             | Amount  | Notes |
+| ---------------------- | ------- | ----- |
+| Melted Chocolate Chips | ⅓ Cup   | for batter |
+| Graham Crumbs          | ½ Cup   | For topping |
+| Flaked Coconut         | ½ Cup   | For topping |
+| Melted Butter          | ½ Cup   | For topping |
+| Chopped Nuts           | ½ Cup   | For topping |
+| Chocolate Chips        | ⅓ Cup   | For topping |
+| Butter                 | ½ Cup   | For cake |
+| Sugar                  | 1½ Cups | Plus 2 Tbsp |
+| Eggs                   | 2       | One at a time |
+| Vanilla                | 1 tsp   | |
+| Flour                  | 2 Cups  | |
+| Baking Soda            | 1 tsp   | |
+| Salt                   | 1 tsp   | |
+| Buttermilk             | 1¼ Cups | Or sour cream |
+| Heavy Cream            | 1 Cup   | For frosting |
+| Confectioners Sugar    | 2 Tbsp  | For frosting |
+| Vanilla                | 1 tsp   | For frosting |
 
 ## Method
 

@@ -15,17 +15,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient           | Amount                    | Notes |
-| -------------------- | ------------------------- | ----- |
-| Flour                | 2 cups                    | |
-| Salt                 | 1 tsp                     | |
-| Granulated sugar     | 1 Tblsp + ¾ cup           | |
-| Baking powder        | 4 tsp                     | |
-| Butter               | 3 Tblsp + 2 Tblsp + ¼ cup | |
-| Milk                 | ¾ cup                     | |
-| Blueberries          | 2 cups                    | |
-| Confectioner's sugar | ¾ cup                     | sifted |
-| Orange juice         | 2 Tblsp                   | |
+| Ingredient                  | Amount                    | Notes |
+| --------------------------- | ------------------------- | ----- |
+| Flour                       | 2 cups                    | |
+| Salt                        | 1 tsp                     | |
+| Granulated sugar            | 1 Tblsp + ¾ cup           | |
+| Baking powder               | 4 tsp                     | |
+| Butter                      | 3 Tblsp + 2 Tblsp + ¼ cup | |
+| Milk                        | ¾ cup                     | |
+| Blueberries                 | 2 cups                    | |
+| Sifted Confectioner's sugar | ¾ cup                     | |
+| Orange juice                | 2 Tblsp                   | |
 
 ## Method
 1. Preheat oven to 375°F.

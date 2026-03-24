@@ -15,12 +15,12 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Water      | 1 Cup  | |
-| Butter     | ½ Cup  | |
-| Flour      | 1 Cup  | Sifted |
-| Eggs       | 4      | |
+| Ingredient   | Amount | Notes |
+| ------------ | ------ | ----- |
+| Water        | 1 Cup  | |
+| Butter       | ½ Cup  | |
+| Sifted Flour | 1 Cup  | |
+| Eggs         | 4      | |
 
 ## Method
 

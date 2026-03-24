@@ -22,7 +22,7 @@ categories:
 | Shortening    | 2 Cups | |
 | Quick Oatmeal | 2 Cups | |
 | Flour         | 6 Cups | |
-| Eggs          | 4      | Large |
+| Large Eggs    | 4      | |
 | Salt          | 1 tsp  | |
 | Baking Soda   | 1 tsp  | |
 | Chopped Nuts  | 2 Cups | |

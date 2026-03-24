@@ -29,7 +29,7 @@ categories:
 | Horseradish          | ⅓ cup       | |
 | Mayonnaise           | 3 cups      | |
 | Cooked Seafood       | 6 cups      | Shrimp, Crab, or Lobster |
-| Celery               | 3 cups      | Chopped |
+| Chopped Celery       | 3 cups      | |
 
 ## Method
 

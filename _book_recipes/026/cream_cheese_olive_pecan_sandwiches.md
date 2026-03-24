@@ -17,13 +17,13 @@ categories:
 
 ## Ingredients
 
-| Ingredient     | Amount | Notes |
-| -------------- | ------ | ----- |
-| Cream Cheese   | 8 oz   | |
-| Milk           | 3 Tbsp | |
-| Pimento Olives | ½ cup  | Chopped |
-| Pecans         | ½ cup  | Chopped |
-| Pecan Meal     | ½ cup  | may substitute for Chopped Pecans |
+| Ingredient             | Amount | Notes |
+| ---------------------- | ------ | ----- |
+| Cream Cheese           | 8 oz   | |
+| Milk                   | 3 Tbsp | |
+| Chopped Pimento Olives | ½ cup  | |
+| Chopped Pecans         | ½ cup  | |
+| Pecan Meal             | ½ cup  | may substitute for Chopped Pecans |
 
 ## Method
 

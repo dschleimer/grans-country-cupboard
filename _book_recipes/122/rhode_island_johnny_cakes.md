@@ -18,7 +18,7 @@ categories:
 | ------------- | ------- | ----- |
 | Margarine     | ½ Cup   | |
 | Sugar         | ⅓ Cup   | |
-| Eggs          | 3       | Beaten |
+| Beaten Eggs   | 3       | |
 | Milk          | 1 Cup   | |
 | Flour         | 1½ Cups | |
 | Corn Meal     | 1 Cup   | |

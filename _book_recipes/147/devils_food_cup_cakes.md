@@ -15,15 +15,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient            | Amount    | Notes |
-| --------------------- | --------- | ----- |
-| Sugar                 | 1 Cup     | |
-| Butter                | ½ Cup     | |
-| Flour                 | 1 Cup     | Sifted |
-| Baking Soda           | 1 tsp     | Dissolved in milk |
-| Milk                  | ½ Cup     | |
-| Vanilla               | 1 tsp     | |
-| Chocolate             | 2 squares | Melted |
+| Ingredient       | Amount    | Notes |
+| ---------------- | --------- | ----- |
+| Sugar            | 1 Cup     | |
+| Butter           | ½ Cup     | |
+| Sifted Flour     | 1 Cup     | |
+| Baking Soda      | 1 tsp     | Dissolved in milk |
+| Milk             | ½ Cup     | |
+| Vanilla          | 1 tsp     | |
+| Melted Chocolate | 2 squares | |
 
 ## Method
 

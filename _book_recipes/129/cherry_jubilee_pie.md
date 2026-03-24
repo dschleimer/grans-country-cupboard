@@ -14,18 +14,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient           | Amount | Notes |
-| -------------------- | ------ | ----- |
-| Butter               | ½ Cup  | For crust |
-| Sugar                | 3 Tbsp | For crust |
-| Egg Yolk             | 1      | For crust |
-| Flour                | 1 Cup  | For crust |
-| Dark Sweet Cherries  | 1 can  | Drained |
-| Black Cherry Gelatin | 1 pkg  | 3 oz |
-| California Port Wine | ½ Cup  | |
-| Salt                 | ⅛ tsp  | |
-| Vanilla Ice Cream    | 1 pint | |
-| Whipped Cream        |        | For serving |
+| Ingredient                  | Amount | Notes |
+| --------------------------- | ------ | ----- |
+| Butter                      | ½ Cup  | For crust |
+| Sugar                       | 3 Tbsp | For crust |
+| Egg Yolk                    | 1      | For crust |
+| Flour                       | 1 Cup  | For crust |
+| Drained Dark Sweet Cherries | 1 can  | |
+| Black Cherry Gelatin        | 1 pkg  | 3 oz |
+| California Port Wine        | ½ Cup  | |
+| Salt                        | ⅛ tsp  | |
+| Vanilla Ice Cream           | 1 pint | |
+| Whipped Cream               |        | For serving |
 
 ## Method
 

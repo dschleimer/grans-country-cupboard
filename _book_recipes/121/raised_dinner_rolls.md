@@ -17,7 +17,7 @@ categories:
 
 | Ingredient        | Amount | Notes |
 | ----------------- | ------ | ----- |
-| Milk              | 1 Cup  | Scalded |
+| Scalded Milk      | 1 Cup  | |
 | Cake Yeast        | 1      | |
 | Flour             | 3 Cups | |
 | Sugar             | 3 Tbsp | |

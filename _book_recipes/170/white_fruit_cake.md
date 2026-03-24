@@ -15,22 +15,22 @@ categories:
 
 ## Ingredients
 
-| Ingredient          | Amount | Notes |
-| ------------------- | ------ | ----- |
-| Sifted Flour        | 4 Cups | |
-| Baking Powder       | 1 tsp  | |
-| Baking Soda         | ½ tsp  | |
-| Salt                | ½ tsp  | |
-| Candied Orange Peel | ½ lb   | |
-| Candied Lemon Peel  | ½ lb   | |
-| Candied Pineapple   | ½ lb   | |
-| Red Cherries        | ½ lb   | Candied |
-| Citron              | ½ lb   | |
-| White Raisins       | 1 Box  | |
-| Blanched Almonds    | 1 lb   | Finely chopped |
-| Butter              | 1 Cup  | |
-| Lemon Juice         | 1 Tbsp | |
-| Egg Whites          | 10     | Beaten stiff |
+| Ingredient                      | Amount | Notes |
+| ------------------------------- | ------ | ----- |
+| Sifted Flour                    | 4 Cups | |
+| Baking Powder                   | 1 tsp  | |
+| Baking Soda                     | ½ tsp  | |
+| Salt                            | ½ tsp  | |
+| Candied Orange Peel             | ½ lb   | |
+| Candied Lemon Peel              | ½ lb   | |
+| Candied Pineapple               | ½ lb   | |
+| Candied Red Cherries            | ½ lb   | |
+| Citron                          | ½ lb   | |
+| White Raisins                   | 1 Box  | |
+| Finely Chopped Blanched Almonds | 1 lb   | |
+| Butter                          | 1 Cup  | |
+| Lemon Juice                     | 1 Tbsp | |
+| Beaten Stiff Egg Whites         | 10     | |
 
 ## Method
 

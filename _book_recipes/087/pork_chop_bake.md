@@ -16,14 +16,14 @@ categories:
 
 ## Ingredients
 
-| Ingredient     | Amount     | Notes |
-| -------------- | ---------- | ----- |
-| Pork Chops     | 6          | 1 inch thick |
-| Potatoes       | 4 med      | Raw, peeled, thinly sliced |
-| Mushrooms      | 4 oz       | Sliced, drained |
-| Water          | 1 cup      | |
-| Onion Soup Mix | 1 envelope | Recipe specifies Lipton brand |
-| Butter         |            | For baking dish |
+| Ingredient       | Amount     | Notes |
+| ---------------- | ---------- | ----- |
+| Pork Chops       | 6          | 1 inch thick |
+| Raw Potatoes     | 4 med      | peeled, thinly sliced |
+| Sliced Mushrooms | 4 oz       | drained |
+| Water            | 1 cup      | |
+| Onion Soup Mix   | 1 envelope | Recipe specifies Lipton brand |
+| Butter           |            | For baking dish |
 
 ## Method
 

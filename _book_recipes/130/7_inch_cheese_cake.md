@@ -14,17 +14,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient      | Amount        | Notes |
-| --------------- | ------------- | ----- |
-| Graham crackers | 10            | crumbled |
-| Butter          | ¼ lb          | |
-| Nutmeg          | ⅛ tsp         | |
-| Cinnamon        | ¼ tsp         | |
-| Cream cheese    | 6 oz          | softened |
-| Egg             | 1             | beaten |
-| Sugar           | ¼ cup + 1 tsp | |
-| Vanilla         | ½ tsp + 1 tsp | |
-| Sour cream      | 1 cup         | |
+| Ingredient               | Amount        | Notes |
+| ------------------------ | ------------- | ----- |
+| Crumbled Graham crackers | 10            | |
+| Butter                   | ¼ lb          | |
+| Nutmeg                   | ⅛ tsp         | |
+| Cinnamon                 | ¼ tsp         | |
+| Softened Cream cheese    | 6 oz          | |
+| Beaten Egg               | 1             | |
+| Sugar                    | ¼ cup + 1 tsp | |
+| Vanilla                  | ½ tsp + 1 tsp | |
+| Sour cream               | 1 cup         | |
 
 ## Method
 1. Preheat oven to 350°F.

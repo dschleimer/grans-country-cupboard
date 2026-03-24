@@ -16,13 +16,13 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Chicken    | 1 Hen  | |
-| Onions     | 2      | Cut up |
-| Celery     | 2 ribs | Cut up |
-| Salt       |        | |
-| Dumplings  |        | [See Recipe](/book_recipes/185/12_stew_dumplings) |
+| Ingredient    | Amount | Notes |
+| ------------- | ------ | ----- |
+| Chicken       | 1 Hen  | |
+| Cut Up Onions | 2      | |
+| Cut Up Celery | 2 ribs | |
+| Salt          |        | |
+| Dumplings     |        | [See Recipe](/book_recipes/185/12_stew_dumplings) |
 
 
 ## Method

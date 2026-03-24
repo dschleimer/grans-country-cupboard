@@ -14,16 +14,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient             | Amount   | Notes |
-| ---------------------- | -------- | ----- |
-| Eggs                   | 4        | Hard Boiled - Chopped |
-| Pimento Stuffed Olives | ½ cup    | Chopped |
-| Celery                 | ½ cup    | Chopped fine |
-| Mayonnaise             | ¼ cup    | |
-| Chili Sauce            | 1 Tbsp   | |
-| Dry Mustard            | ¼ tsp    | |
-| Salt                   | To Taste | |
-| Pepper                 | To Taste | |
+| Ingredient                     | Amount   | Notes |
+| ------------------------------ | -------- | ----- |
+| Eggs                           | 4        | Hard Boiled - Chopped |
+| Chopped Pimento Stuffed Olives | ½ cup    | |
+| Chopped Fine Celery            | ½ cup    | |
+| Mayonnaise                     | ¼ cup    | |
+| Chili Sauce                    | 1 Tbsp   | |
+| Dry Mustard                    | ¼ tsp    | |
+| Salt                           | To Taste | |
+| Pepper                         | To Taste | |
 
 ## Method
 

@@ -17,20 +17,20 @@ categories:
 
 ## Ingredients
 
-| Ingredient        | Amount | Notes |
-| ----------------- | ------ | ----- |
-| Mushroom Soup     | 1 can  | |
-| Milk              | ⅔ cup  | |
-| Salt              | ½ tsp  | |
-| Poultry Seasoning | ½ tsp  | |
-| Cream Cheese      | 6 oz   | Cream cheese used to be sold in 3oz "small" packages.  The recipe called for 2 |
-| Cottage Cheese    | 1 cup  | |
-| Stuffed Olives    | ½ cup  | Sliced |
-| Onion             | ⅓ cup  | Chopped |
-| Green Pepper      | ⅓ cup  | Cut up |
-| Parsley           | ¼ cup  | |
-| Turkey            | 3 cup  | Cubed |
-| Noodles           | 3 cup  | Cooked |
+| Ingredient            | Amount | Notes |
+| --------------------- | ------ | ----- |
+| Mushroom Soup         | 1 can  | |
+| Milk                  | ⅔ cup  | |
+| Salt                  | ½ tsp  | |
+| Poultry Seasoning     | ½ tsp  | |
+| Cream Cheese          | 6 oz   | Cream cheese used to be sold in 3oz "small" packages.  The recipe called for 2 |
+| Cottage Cheese        | 1 cup  | |
+| Sliced Stuffed Olives | ½ cup  | |
+| Chopped Onion         | ⅓ cup  | |
+| Cut Up Green Pepper   | ⅓ cup  | |
+| Parsley               | ¼ cup  | |
+| Cubed Turkey          | 3 cup  | |
+| Cooked Noodles        | 3 cup  | |
 
 ## Method
 

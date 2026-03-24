@@ -15,15 +15,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount     | Notes |
-| ------------- | ---------- | ----- |
-| Gelatin       | ½ envelope | |
-| Milk          | 3 Cups     | |
-| Eggs          | 3          | Separated |
-| Sugar         | ½ Cup      | |
-| Salt          | ¼ tsp      | |
-| Vanilla       | 1 tsp      | |
-| Whipped Cream |            | For serving |
+| Ingredient     | Amount     | Notes |
+| -------------- | ---------- | ----- |
+| Gelatin        | ½ envelope | |
+| Milk           | 3 Cups     | |
+| Separated Eggs | 3          | |
+| Sugar          | ½ Cup      | |
+| Salt           | ¼ tsp      | |
+| Vanilla        | 1 tsp      | |
+| Whipped Cream  |            | For serving |
 
 ## Method
 

@@ -22,7 +22,7 @@ categories:
 | Baking Powder | 1 tsp  | |
 | Salt          | ¼ tsp  | |
 | Shortening    | ½ Cup  | Cut in |
-| Egg           | 1      | Beaten |
+| Beaten Egg    | 1      | |
 | Milk          | ⅓ Cup  | |
 | Italian Plums | 2 lbs  | About 9, halved and pitted |
 | Sugar         | 4 tsp  | For topping |

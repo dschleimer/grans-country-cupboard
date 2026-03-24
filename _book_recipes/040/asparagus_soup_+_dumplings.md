@@ -27,12 +27,12 @@ categories:
 
 #### For Soup
 
-| Ingredient | Amount  | Notes |
-| ---------- | ------- | ----- |
-| Salt Pork  | ½ lb    | |
-| Potatoes   | 1 cup   | Raw - diced |
-| Asparagus  | 1½ cups | cooked - keep liquid |
-| Milk       | 1 quart | Hot - not boiling |
+| Ingredient       | Amount  | Notes |
+| ---------------- | ------- | ----- |
+| Salt Pork        | ½ lb    | |
+| Raw Potatoes     | 1 cup   | diced |
+| Cooked Asparagus | 1½ cups | keep liquid |
+| Hot Milk         | 1 quart | not boiling |
 
 ## Method
 

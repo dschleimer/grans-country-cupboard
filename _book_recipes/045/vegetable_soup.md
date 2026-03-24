@@ -16,26 +16,26 @@ categories:
 
 ## Ingredients
 
-| Ingredient       | Amount      | Notes |
-| ---------------- | ----------- | ----- |
-| Roast Beef Bones |             | Cooked or raw |
-| Soup Bones       |             | |
-| Beef Shank       |             | Referred to as "shin meat" in the recipe |
-| Onions           | 6           | Cut up |
-| Celery           | 2 stalks    | Stalks, not ribs - Cut up |
-| Tomatoes         | 1 large can | |
-| Carrots          | 6           | Cut up |
-| Lentils          | ½ cup       | Dried |
-| Peas             | ½ cup       | Dried |
-| Parsley          | 2 Tbsp      | Parsley Flakes |
-| Potatoes         | 2           | Cut up - White potatoes |
-| Turnip           | 1           | Optional - cut up |
-| Limas            | 1 box       | Frozen |
-| Green Beans      | 1 box       | Frozen |
-| Salt             |             | |
-| Pepper           |             | |
-| Tabasco Sauce    | Few dashes  | |
-| Broad Noodles    | 1 large bag | Pennsylvania Dutch |
+| Ingredient         | Amount      | Notes |
+| ------------------ | ----------- | ----- |
+| Roast Beef Bones   |             | Cooked or raw |
+| Soup Bones         |             | |
+| Beef Shank         |             | Referred to as "shin meat" in the recipe |
+| Cut Up Onions      | 6           | |
+| Celery             | 2 stalks    | Stalks, not ribs - Cut up |
+| Tomatoes           | 1 large can | |
+| Cut Up Carrots     | 6           | |
+| Dried Lentils      | ½ cup       | |
+| Dried Peas         | ½ cup       | |
+| Parsley            | 2 Tbsp      | Parsley Flakes |
+| Cut Up Potatoes    | 2           | White potatoes |
+| Turnip             | 1           | Optional - cut up |
+| Frozen Limas       | 1 box       | |
+| Frozen Green Beans | 1 box       | |
+| Salt               |             | |
+| Pepper             |             | |
+| Tabasco Sauce      | Few dashes  | |
+| Broad Noodles      | 1 large bag | Pennsylvania Dutch |
 
 ## Method
 

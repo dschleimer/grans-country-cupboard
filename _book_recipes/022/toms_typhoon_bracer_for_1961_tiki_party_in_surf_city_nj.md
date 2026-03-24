@@ -16,17 +16,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount   | Notes |
-| ------------ | -------- | ----- |
-| Light Rum    | 9 oz     | |
-| Dark Rum     | 9 oz     | 151 proof |
-| Rum          | 15 oz    | Jamaican |
-| Orgeat       | 15 oz    | |
-| Lemon Juice  | 30 oz    | Fresh |
-| Lime Juice   | 30 oz    | Fresh |
-| Fruit Juice  | 90 oz    | Heart's Delight |
-| Papaya Juice | 30 oz    | |
-| Grenadine    | to color | Cherry Grenadine |
+| Ingredient        | Amount   | Notes |
+| ----------------- | -------- | ----- |
+| Light Rum         | 9 oz     | |
+| Dark Rum          | 9 oz     | 151 proof |
+| Rum               | 15 oz    | Jamaican |
+| Orgeat            | 15 oz    | |
+| Fresh Lemon Juice | 30 oz    | |
+| Fresh Lime Juice  | 30 oz    | |
+| Fruit Juice       | 90 oz    | Heart's Delight |
+| Papaya Juice      | 30 oz    | |
+| Grenadine         | to color | Cherry Grenadine |
 
 ## Method
 

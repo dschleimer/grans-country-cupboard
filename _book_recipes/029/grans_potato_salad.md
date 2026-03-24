@@ -14,22 +14,22 @@ categories:
 
 ## Ingredients
 
-| Ingredient           | Amount     | Notes |
-| -------------------- | ---------- | ----- |
-| White potatoes       | 6          | Cooked |
-| Onion                | 3 Tbsp     | Minced |
-| Salt                 | To Taste   | |
-| Pepper               | To Taste   | |
-| Cayenne              | dash       | |
-| Water                | 2 Tbsp     | |
-| Vinegar              | 2 Tbsp     | |
-| Mayonnaise           | 6 Tbsp     | |
-| Eggs                 | 3          | Hard Boiled - sliced |
-| Celery               | 1 cup      | Chopped  fine |
-| Parsley              | ⅛ cup      | minced |
-| Pimento Olives       | 12         | sliced |
-| Prepared Mustard     | 1 tsp      | |
-| Worcestershire Sauce | Few dashes | |
+| Ingredient            | Amount     | Notes |
+| --------------------- | ---------- | ----- |
+| Cooked White potatoes | 6          | |
+| Minced Onion          | 3 Tbsp     | |
+| Salt                  | To Taste   | |
+| Pepper                | To Taste   | |
+| Cayenne               | dash       | |
+| Water                 | 2 Tbsp     | |
+| Vinegar               | 2 Tbsp     | |
+| Mayonnaise            | 6 Tbsp     | |
+| Eggs                  | 3          | Hard Boiled - sliced |
+| Celery                | 1 cup      | Chopped  fine |
+| Minced Parsley        | ⅛ cup      | |
+| Sliced Pimento Olives | 12         | |
+| Prepared Mustard      | 1 tsp      | |
+| Worcestershire Sauce  | Few dashes | |
 
 ## Method
 

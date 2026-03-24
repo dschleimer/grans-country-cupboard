@@ -14,21 +14,21 @@ categories:
 
 ## Ingredients
 
-| Ingredient        | Amount                          | Notes |
-| ----------------- | ------------------------------- | ----- |
-| Onions            | 2 Tbsp                          | Finely chopped |
-| Butter            | 2 + 2 Tbsp                      | |
-| Eggs              | 2                               | Beaten |
-| Bread Crumbs      | 3 cups                          | Soft - Crumble 4 slices soft bread |
-| Oysters           | 1 pint                          | Drained - Chopped - 2 cups after chopping |
-| Celery            | ½ cup                           | Finely chopped |
-| Milk              | ¼ cup                           | |
-| Parsley           | 2 Tbsp snipped OR 1 Tbsp flakes | |
-| Lemon Juice       | 1 Tbsp                          | |
-| Bread Crumbs      | ¾ cup                           | Fine dry crumbs |
-| Salt              | ½ tsp                           | |
-| Paprika           | ¼ tsp                           | |
-| Hollandaise sauce |                                 | |
+| Ingredient            | Amount                          | Notes |
+| --------------------- | ------------------------------- | ----- |
+| Finely Chopped Onions | 2 Tbsp                          | |
+| Butter                | 2 + 2 Tbsp                      | |
+| Beaten Eggs           | 2                               | |
+| Soft Bread Crumbs     | 3 cups                          | Crumble 4 slices soft bread |
+| Drained Oysters       | 1 pint                          | Chopped - 2 cups after chopping |
+| Finely Chopped Celery | ½ cup                           | |
+| Milk                  | ¼ cup                           | |
+| Parsley               | 2 Tbsp snipped OR 1 Tbsp flakes | |
+| Lemon Juice           | 1 Tbsp                          | |
+| Bread Crumbs          | ¾ cup                           | Fine dry crumbs |
+| Salt                  | ½ tsp                           | |
+| Paprika               | ¼ tsp                           | |
+| Hollandaise sauce     |                                 | |
 
 ## Method
 

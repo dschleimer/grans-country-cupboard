@@ -15,16 +15,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount        | Notes |
-| ------------ | ------------- | ----- |
-| Wine Vinegar | 2 cups        | |
-| Parsley      | 2 cups        | Chopped |
-| Garlic       | 2 cloves      | Chopped |
-| Salt         | ½ tsp + extra | |
-| Pepper       | ½ tsp + extra | |
-| Rabbit       |               | |
-| Flour        |               | |
-| Butter       | ½ cup         | |
+| Ingredient      | Amount        | Notes |
+| --------------- | ------------- | ----- |
+| Wine Vinegar    | 2 cups        | |
+| Chopped Parsley | 2 cups        | |
+| Chopped Garlic  | 2 cloves      | |
+| Salt            | ½ tsp + extra | |
+| Pepper          | ½ tsp + extra | |
+| Rabbit          |               | |
+| Flour           |               | |
+| Butter          | ½ cup         | |
 
 ## Method
 

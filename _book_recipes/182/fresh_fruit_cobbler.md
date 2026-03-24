@@ -15,20 +15,20 @@ categories:
 
 ## Ingredients
 
-| Ingredient             | Amount | Notes |
-| ---------------------- | ------ | ----- |
-| Fresh Fruit            | 3 Cups | Peaches, raspberries, or strawberries |
-| Sugar                  | ½ Cup  | For fruit |
-| Flour                  | 2 Tbsp | For fruit - Use Flour or Quick Tapioca, not both |
-| Quick Tapioca          | 2 Tbsp | For fruit - Use Flour or Quick Tapioca, not both |
-| Cinnamon               | ½ tsp  | For fruit |
-| Butter                 | 2 Tbsp | For dotting fruit |
-| Flour                  | 2 Cups | For topping |
-| Sugar                  | 2 Tbsp | For topping |
-| Baking Powder          | ½ tsp  | For topping |
-| Salt                   | ½ tsp  | For topping |
-| Shortening             | ½ Cup  | For topping |
-| Milk                   | 3 Tbsp | For topping |
+| Ingredient    | Amount | Notes |
+| ------------- | ------ | ----- |
+| Fresh Fruit   | 3 Cups | Peaches, raspberries, or strawberries |
+| Sugar         | ½ Cup  | For fruit |
+| Flour         | 2 Tbsp | For fruit - Use Flour or Quick Tapioca, not both |
+| Quick Tapioca | 2 Tbsp | For fruit - Use Flour or Quick Tapioca, not both |
+| Cinnamon      | ½ tsp  | For fruit |
+| Butter        | 2 Tbsp | For dotting fruit |
+| Flour         | 2 Cups | For topping |
+| Sugar         | 2 Tbsp | For topping |
+| Baking Powder | ½ tsp  | For topping |
+| Salt          | ½ tsp  | For topping |
+| Shortening    | ½ Cup  | For topping |
+| Milk          | 3 Tbsp | For topping |
 
 ## Method
 

@@ -25,7 +25,7 @@ categories:
 | Dry Mustard              | 2 tsp   | |
 | Pepper                   | ½ tsp   | |
 | Salt                     | 1½ Tbsp | |
-| Onion                    | 1 large | Quartered |
+| Quartered Onion          | 1 large | |
 | Maple syrup              | 1 cup   | Optional - Substitute for Molasses if making variant |
 | Catsup                   | 1 cup   | Optional - for Variation |
 | Vinegar                  | 1 Tbsp  | Optional - for Variation |

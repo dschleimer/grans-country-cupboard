@@ -15,18 +15,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient             | Amount  | Notes |
-| ---------------------- | ------- | ----- |
-| Butter                 | 2 Cups  | |
-| Sugar                  | 2¼ Cups | |
-| Vanilla                | 2 tsp   | |
-| Lemon Peel             | 1 tsp   | Grated |
-| Eggs                   | 9       | Large, add one at a time |
-| Candied Cherries       | 1 Cup   | Chopped |
-| Candied Green Cherries | 1 Cup   | Chopped |
-| Pecans                 | 1 Cup   | Finely chopped |
-| Flour                  | 3½ Cups | Plus 1 cup for tossing |
-| Baking Powder          | 1½ tsp  | |
+| Ingredient                     | Amount  | Notes |
+| ------------------------------ | ------- | ----- |
+| Butter                         | 2 Cups  | |
+| Sugar                          | 2¼ Cups | |
+| Vanilla                        | 2 tsp   | |
+| Grated Lemon Peel              | 1 tsp   | |
+| Large Eggs                     | 9       | add one at a time |
+| Chopped Candied Cherries       | 1 Cup   | |
+| Chopped Candied Green Cherries | 1 Cup   | |
+| Finely Chopped Pecans          | 1 Cup   | |
+| Flour                          | 3½ Cups | Plus 1 cup for tossing |
+| Baking Powder                  | 1½ tsp  | |
 
 ## Method
 

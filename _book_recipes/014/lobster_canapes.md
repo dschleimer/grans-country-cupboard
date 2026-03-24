@@ -19,8 +19,8 @@ categories:
 | Ingredient   | Amount | Notes |
 | ------------ | ------ | ----- |
 | Lobster Meat | ¾ lb   | Cooked and Ground |
-| Onion        | 2 Tbsp | Minced |
-| Eggs         | 2      | Beaten |
+| Minced Onion | 2 Tbsp | |
+| Beaten Eggs  | 2      | |
 | Salt         | ½ tsp  | |
 | Black Pepper |        | Freshly Ground |
 | Corn Meal    | ¾ cup  | Yellow Corn Meal |

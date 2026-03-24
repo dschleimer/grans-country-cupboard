@@ -15,14 +15,14 @@ categories:
 
 ## Ingredients
 
-| Ingredient          | Amount    | Notes |
-| ------------------- | --------- | ----- |
-| Confectioners Sugar | 1 Box     | 1 lb |
-| Evaporated Milk     | 1 Can     | Small |
-| Chocolate           | 2 Squares | |
-| Butter              | ⅛ lb      | |
-| Marshmallow Whip    | 4 oz      | |
-| Vanilla             | 1 tsp     | |
+| Ingredient            | Amount    | Notes |
+| --------------------- | --------- | ----- |
+| Confectioners Sugar   | 1 Box     | 1 lb |
+| Small Evaporated Milk | 1 Can     | |
+| Chocolate             | 2 Squares | |
+| Butter                | ⅛ lb      | |
+| Marshmallow Whip      | 4 oz      | |
+| Vanilla               | 1 tsp     | |
 
 ## Method
 

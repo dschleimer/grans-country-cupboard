@@ -19,7 +19,7 @@ categories:
 | -------------------- | ------------- | ----- |
 | Top Round Beef       | 3 lbs         | |
 | Mushrooms            | 2 large cans  | |
-| Onions               | 5             | Chopped |
+| Chopped Onions       | 5             | |
 | Butter               | ¼ lb          | |
 | Tomato Paste         | 2 Tbsp        | |
 | Prepared Mustard     | 1 Tbsp        | |

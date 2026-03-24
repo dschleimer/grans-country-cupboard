@@ -16,21 +16,21 @@ categories:
 
 ## Ingredients
 
-| Ingredient       | Amount   | Notes |
-| ---------------- | -------- | ----- |
-| Butter           | 3 Tbsp   | |
-| Onions           | 3 med    | Chopped |
-| Green Pepper     | 1 med    | Sliced |
-| Mushrooms        | ½ lb     | Sliced - Fresh or Canned |
-| Light Cream      | 1½ cups  | |
-| Flour            | 1½ Tbsp  | |
-| Ham              | 1 cup    | Cooked - Diced |
-| Pimento          | 1        | Diced |
-| Egg              | 1 yolk   | Slightly beaten |
-| Salt             | to taste | |
-| Pepper           | to taste | |
-| Prepared Mustard | ½ tsp    | |
-| Spaghetti        | ½ lb     | Cooked |
+| Ingredient          | Amount   | Notes |
+| ------------------- | -------- | ----- |
+| Butter              | 3 Tbsp   | |
+| Chopped Onions      | 3 med    | |
+| Sliced Green Pepper | 1 med    | |
+| Sliced Mushrooms    | ½ lb     | Fresh or Canned |
+| Light Cream         | 1½ cups  | |
+| Flour               | 1½ Tbsp  | |
+| Cooked Ham          | 1 cup    | Diced |
+| Diced Pimento       | 1        | |
+| Egg                 | 1 yolk   | Slightly beaten |
+| Salt                | to taste | |
+| Pepper              | to taste | |
+| Prepared Mustard    | ½ tsp    | |
+| Cooked Spaghetti    | ½ lb     | |
 
 ## Method
 

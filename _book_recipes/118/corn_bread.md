@@ -16,7 +16,7 @@ categories:
 
 | Ingredient      | Amount | Notes |
 | --------------- | ------ | ----- |
-| Flour           | 1 cup  | sifted |
+| Sifted Flour    | 1 cup  | |
 | Sugar           | ¼ cup  | |
 | Baking powder   | 2 tsp  | |
 | Salt            | ¾ tsp  | |

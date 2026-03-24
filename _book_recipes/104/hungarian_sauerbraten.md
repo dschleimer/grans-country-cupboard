@@ -16,22 +16,22 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount | Notes |
-| ------------ | ------ | ----- |
-| Top Round    | 2 lbs  | Boneless |
-| Oil          | 3 Tbsp | |
-| Onions       | 2      | Quartered |
-| Carrots      | 2      | Peeled - Chopped |
-| Green Pepper | 1      | Cut up |
-| Celery       | 1 rib  | Cut fine |
-| Tomato       | 1      | Quartered |
-| Bay Leaves   | 4      | |
-| Flour        | 3 Tbsp | |
-| Sugar        | ½ Tbsp | |
-| Mustard      | ½ Tbsp | |
-| Paprika      | ½ Tbsp | |
-| Vinegar      | 3 Tbsp | |
-| Sour Cream   | ½ cup  | |
+| Ingredient          | Amount | Notes |
+| ------------------- | ------ | ----- |
+| Boneless Top Round  | 2 lbs  | |
+| Oil                 | 3 Tbsp | |
+| Quartered Onions    | 2      | |
+| Peeled Carrots      | 2      | Chopped |
+| Cut Up Green Pepper | 1      | |
+| Cut Fine Celery     | 1 rib  | |
+| Quartered Tomato    | 1      | |
+| Bay Leaves          | 4      | |
+| Flour               | 3 Tbsp | |
+| Sugar               | ½ Tbsp | |
+| Mustard             | ½ Tbsp | |
+| Paprika             | ½ Tbsp | |
+| Vinegar             | 3 Tbsp | |
+| Sour Cream          | ½ cup  | |
 
 ## Method
 

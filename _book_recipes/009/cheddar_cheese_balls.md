@@ -20,7 +20,7 @@ categories:
 | -------------------- | ------ | ----- |
 | Cream Cheese         | 8 oz   | |
 | Sharp Cheddar        | 1 lb   | |
-| Onion                | 1 tsp  | Grated |
+| Grated Onion         | 1 tsp  | |
 | Worcestershire Sauce | 1 tsp  | |
 | Paprika              | ½ tsp  | |
 | Parsley              |        | For outside of balls |

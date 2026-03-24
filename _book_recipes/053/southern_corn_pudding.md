@@ -14,19 +14,19 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Crushed Corn | 1 can   | |
-| Fresh corn   | 5 cups  | Optional - May substitute for canned corn |
-| Eggs         | 2       | |
-| Salt         | 1 tsp   | |
-| Pepper       | ⅛ tsp   | |
-| Cornstarch   | 1 Tbsp  | |
-| Flour        | 2 Tbsp  | Optional - May substitute for Cornstarch |
-| Sugar        | 2 Tbsp  | |
-| Butter       | 2 Tbsp  | Melted |
-| Milk         | 1½ cups | |
-| Sherry       | 1½ oz   | Recipe called for 1 jigger |
+| Ingredient    | Amount  | Notes |
+| ------------- | ------- | ----- |
+| Crushed Corn  | 1 can   | |
+| Fresh corn    | 5 cups  | Optional - May substitute for canned corn |
+| Eggs          | 2       | |
+| Salt          | 1 tsp   | |
+| Pepper        | ⅛ tsp   | |
+| Cornstarch    | 1 Tbsp  | |
+| Flour         | 2 Tbsp  | Optional - May substitute for Cornstarch |
+| Sugar         | 2 Tbsp  | |
+| Melted Butter | 2 Tbsp  | |
+| Milk          | 1½ cups | |
+| Sherry        | 1½ oz   | Recipe called for 1 jigger |
 
 ## Method
 

@@ -19,7 +19,7 @@ categories:
 | Ingredient        | Amount     | Notes |
 | ----------------- | ---------- | ----- |
 | Chickens          | 2          | Cut-up |
-| Onion             | 1          | Cut up |
+| Cut Up Onion      | 1          | |
 | Season Salt       |            | |
 | Pepper            |            | |
 | Italian Seasoning |            | |

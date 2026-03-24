@@ -32,22 +32,22 @@ Pick one protein
 
 #### Sauce
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Sherry       | ½ cup   | Dry Sherry |
-| Lemon Juice  | 1 Tbsp  | |
-| Curry Powder | ¼ tsp   | |
-| Nutmeg       | dash    | |
-| Protein      |         | |
-| Butter       | ¾ Cup   | |
-| Flour        | ½ cup   | Sifted |
-| Light Cream  | 1 quart | Scalded - May use Half + Half instead |
-| Half + Half  | 1 quart | Scalded - May use Light Cream instead |
-| Salt         | 1 tsp   | |
-| Heavy Cream  | 1 cup   | |
-| Eggs         | 5       | Yolks only |
-| Patty Shells |         | For serving - May use toast instead |
-| Toast        |         | For serving - May use patty shells instead |
+| Ingredient          | Amount  | Notes |
+| ------------------- | ------- | ----- |
+| Sherry              | ½ cup   | Dry Sherry |
+| Lemon Juice         | 1 Tbsp  | |
+| Curry Powder        | ¼ tsp   | |
+| Nutmeg              | dash    | |
+| Protein             |         | |
+| Butter              | ¾ Cup   | |
+| Sifted Flour        | ½ cup   | |
+| Scalded Light Cream | 1 quart | May use Half + Half instead |
+| Scalded Half + Half | 1 quart | May use Light Cream instead |
+| Salt                | 1 tsp   | |
+| Heavy Cream         | 1 cup   | |
+| Eggs                | 5       | Yolks only |
+| Patty Shells        |         | For serving - May use toast instead |
+| Toast               |         | For serving - May use patty shells instead |
 
 ## Method
 

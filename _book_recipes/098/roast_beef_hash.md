@@ -20,7 +20,7 @@ categories:
 | Ingredient           | Amount  | Notes |
 | -------------------- | ------- | ----- |
 | Roast Beef           | 1 part  | Leftovers |
-| Potatoes             | ¼ part  | Raw - Ground |
+| Raw Potatoes         | ¼ part  | Ground |
 | Onion                | 1 small | |
 | Salt                 |         | |
 | Pepper               |         | |

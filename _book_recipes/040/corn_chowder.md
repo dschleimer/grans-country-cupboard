@@ -19,8 +19,8 @@ categories:
 | Ingredient      | Amount  | Notes |
 | --------------- | ------- | ----- |
 | Salt Pork       | ½ lb    | |
-| Onion           | 1 large | Chopped |
-| Potatoes        | 2 med.  | Cubed |
+| Chopped Onion   | 1 large | |
+| Cubed Potatoes  | 2 med.  | |
 | Chicken Broth   | 2 cups  | |
 | Salt            | 1 tsp   | |
 | Corn            | 1½ cups | Cut from the cob |

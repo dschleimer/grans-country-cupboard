@@ -22,7 +22,7 @@ categories:
 | Shrimp               | 1 can  | Recipe calls for a 5 oz can, though it appears to be sold as 6oz cans today | |
 | Catsup               | 1 Tbsp |                                                                             | |
 | Worcestershire Sauce | ½ tsp  |                                                                             | |
-| Onions               | 1 Tbsp | Chopped                                                                     | |
+| Chopped Onions       | 1 Tbsp |                                                                             | |
 | Salt                 | Pinch  |                                                                             | |
 | Mayonnaise           |        | For consistency                                                             | |
 

@@ -15,16 +15,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount | Notes |
-| ------------- | ------ | ----- |
-| Filet of Fish |        | Any fish |
-| Butter        |        | |
-| Shallots      |        | Chopped |
-| Parsley       |        | |
-| Salt          |        | |
-| Pepper        |        | |
-| Bread Crumbs  | a few  | Original recipe just says "few crumbs" |
-| White Wine    | ½ cup  | Dry White Wine |
+| Ingredient       | Amount | Notes |
+| ---------------- | ------ | ----- |
+| Filet of Fish    |        | Any fish |
+| Butter           |        | |
+| Chopped Shallots |        | |
+| Parsley          |        | |
+| Salt             |        | |
+| Pepper           |        | |
+| Bread Crumbs     | a few  | Original recipe just says "few crumbs" |
+| White Wine       | ½ cup  | Dry White Wine |
 
 ## Method
 

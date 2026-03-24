@@ -17,20 +17,20 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount      | Notes |
-| ------------ | ----------- | ----- |
-| Lemon Jello  | 3 oz        | Recipe wrote it as 1-3 oz, presumably referring to one packet of the 3oz size |
-| Hot Water    | 1 cup       | |
-| Chunk tuna   | 14 oz       | Recipe calls for two 7 oz cans |
-| Pimento      | 1 small jar | Diced |
-| Cream Cheese | 8 oz        | |
-| Onion        | 1 Tbsp      | Minced |
-| Green Pepper | 2 Tbsp      | Diced |
-| Celery       | ½ cup       | Diced |
-| Half + Half  | ½ cup       | |
-| Mayonnaise   | ¼ cup       | |
-| Eggs         | 3           | Hard boiled - Cut up |
-| Salt         | ¼ tsp       | |
+| Ingredient         | Amount      | Notes |
+| ------------------ | ----------- | ----- |
+| Lemon Jello        | 3 oz        | Recipe wrote it as 1-3 oz, presumably referring to one packet of the 3oz size |
+| Hot Water          | 1 cup       | |
+| Chunk tuna         | 14 oz       | Recipe calls for two 7 oz cans |
+| Diced Pimento      | 1 small jar | |
+| Cream Cheese       | 8 oz        | |
+| Minced Onion       | 1 Tbsp      | |
+| Diced Green Pepper | 2 Tbsp      | |
+| Diced Celery       | ½ cup       | |
+| Half + Half        | ½ cup       | |
+| Mayonnaise         | ¼ cup       | |
+| Eggs               | 3           | Hard boiled - Cut up |
+| Salt               | ¼ tsp       | |
 
 ## Method
 

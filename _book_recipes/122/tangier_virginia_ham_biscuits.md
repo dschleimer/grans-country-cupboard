@@ -14,15 +14,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient        | Amount | Notes |
-| ----------------- | ------ | ----- |
-| Flour             | 2 Cups | |
-| Salt              | ¼ tsp  | |
-| Shortening        | 2 Tbsp | |
-| Baking Powder     | 2 tsp  | |
-| Milk              | ¾ Cup  | |
-| Egg               | 1      | Beaten |
-| Baked Country Ham | ¼ Cup  | Coarsely chopped |
+| Ingredient                         | Amount | Notes |
+| ---------------------------------- | ------ | ----- |
+| Flour                              | 2 Cups | |
+| Salt                               | ¼ tsp  | |
+| Shortening                         | 2 Tbsp | |
+| Baking Powder                      | 2 tsp  | |
+| Milk                               | ¾ Cup  | |
+| Beaten Egg                         | 1      | |
+| Coarsely Chopped Baked Country Ham | ¼ Cup  | |
 
 ## Method
 

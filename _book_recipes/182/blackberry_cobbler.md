@@ -26,7 +26,7 @@ categories:
 | Flour         | 1 cup + 2 Tblsp | |
 | Baking powder | 1 tsp           | |
 | Milk          | ½ cup           | |
-| Water         | 1 cup           | boiling |
+| Boiling Water | 1 cup           | |
 
 ## Method
 1. Preheat oven to 350°F.

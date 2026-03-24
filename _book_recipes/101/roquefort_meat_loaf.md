@@ -16,19 +16,19 @@ categories:
 
 ## Ingredients
 
-| Ingredient        | Amount  | Notes |
-| ----------------- | ------- | ----- |
-| Butter            | ¼ cup   | |
-| Onion             | 1       | Chopped |
-| Garlic            | 1 clove | Chopped |
-| Celery            | ½ cup   | Chopped |
-| Bread Crumbs      | 2 cups  | Soft |
-| Eggs              | 2 + 4   | 2 eggs required - 4 Hard-Boiled eggs optional |
-| Roquefort Cheese  | ½ cup   | Crumbled |
-| Ground Chuck Beef | 2 lbs   | |
-| Salt              | 1 tsp   | |
-| Pepper            | ¼ tsp   | |
-| Poultry Seasoning | ½ tsp   | |
+| Ingredient                | Amount  | Notes |
+| ------------------------- | ------- | ----- |
+| Butter                    | ¼ cup   | |
+| Chopped Onion             | 1       | |
+| Chopped Garlic            | 1 clove | |
+| Chopped Celery            | ½ cup   | |
+| Soft Bread Crumbs         | 2 cups  | |
+| Eggs                      | 2 + 4   | 2 eggs required - 4 Hard-Boiled eggs optional |
+| Crumbled Roquefort Cheese | ½ cup   | |
+| Ground Chuck Beef         | 2 lbs   | |
+| Salt                      | 1 tsp   | |
+| Pepper                    | ¼ tsp   | |
+| Poultry Seasoning         | ½ tsp   | |
 
 ## Method
 

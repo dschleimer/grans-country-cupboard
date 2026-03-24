@@ -15,18 +15,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount                      | Notes |
-| ------------- | --------------------------- | ----- |
-| Squabs        | 2                           | Split in half |
-| Potatoes      | 4                           | Diced |
-| Onion         | 1                           | Chopped |
-| Parsley       | 1 Tbsp                      | Chopped |
-| Pepper        | ¼ tsp                       | |
-| Salt          | 1 + 1¼ tsp                  | |
-| Flour         | 2 cups                      | |
-| Baking Powder | 4 tsp                       | |
-| Butter        | ⅔ cup + extra               | |
-| Water         | ½ cup cold + 3 cups boiling | |
+| Ingredient      | Amount                      | Notes |
+| --------------- | --------------------------- | ----- |
+| Squabs          | 2                           | Split in half |
+| Diced Potatoes  | 4                           | |
+| Chopped Onion   | 1                           | |
+| Chopped Parsley | 1 Tbsp                      | |
+| Pepper          | ¼ tsp                       | |
+| Salt            | 1 + 1¼ tsp                  | |
+| Flour           | 2 cups                      | |
+| Baking Powder   | 4 tsp                       | |
+| Butter          | ⅔ cup + extra               | |
+| Water           | ½ cup cold + 3 cups boiling | |
 
 ## Method
 

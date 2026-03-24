@@ -19,10 +19,10 @@ categories:
 | Ingredient       | Amount | Notes |
 | ---------------- | ------ | ----- |
 | Deviled Ham      | 1 can  | Recipe calls for 4.5 oz can, but this seems to be sold in 4.25 oz cans in 2025. |
-| Egg              | 1      | Raw - separate yolk from white |
+| Raw Egg          | 1      | separate yolk from white |
 | Prepared Mustard | 1 tsp  | |
 | Mayonnaise       | ¼ cup  | |
-| Onion            |        | Grated |
+| Grated Onion     |        | |
 | Melba Rounds     |        | |
 | Grated Cheese    |        | |
 

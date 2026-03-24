@@ -15,14 +15,14 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount | Notes |
-| ------------ | ------ | ----- |
-| Butter       | ¼ lb   | Melted |
-| Brown Sugar  | 2 Cups | |
-| Flour        | 1 Cup  | |
-| Chopped Nuts | 1 Cup  | |
-| Eggs         | 2      | |
-| Vanilla      | 1 tsp  | |
+| Ingredient    | Amount | Notes |
+| ------------- | ------ | ----- |
+| Melted Butter | ¼ lb   | |
+| Brown Sugar   | 2 Cups | |
+| Flour         | 1 Cup  | |
+| Chopped Nuts  | 1 Cup  | |
+| Eggs          | 2      | |
+| Vanilla       | 1 tsp  | |
 
 ## Method
 

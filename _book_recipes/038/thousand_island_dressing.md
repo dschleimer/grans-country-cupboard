@@ -20,7 +20,7 @@ categories:
 | Mayonnaise           | 2 cups | |
 | Lemon                | ½      | Juiced |
 | Horseradish          | 1 Tbsp | |
-| Celery               | ¼ cup  | Minced |
+| Minced Celery        | ¼ cup  | |
 | Relish               | ½ cup  | |
 | Worcestershire Sauce | 1 tsp  | |
 

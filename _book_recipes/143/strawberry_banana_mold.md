@@ -15,16 +15,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient              | Amount      | Notes |
-| ----------------------- | ----------- | ----- |
-| Strawberry-Banana Jello | 2 pkgs      | |
-| Boiling Water           | 2 Cups      | |
-| Frozen Strawberries     | 2 pkgs      | |
-| Crushed Pineapple       | 1 large can | Drained |
-| Chopped Nuts            | ½ Cup       | |
-| Bananas                 | 2           | Sliced |
-| Sour Cream              | 1 pint      | |
-| Cream Cheese            | 3 oz        | |
+| Ingredient                | Amount      | Notes |
+| ------------------------- | ----------- | ----- |
+| Strawberry-Banana Jello   | 2 pkgs      | |
+| Boiling Water             | 2 Cups      | |
+| Frozen Strawberries       | 2 pkgs      | |
+| Drained Crushed Pineapple | 1 large can | |
+| Chopped Nuts              | ½ Cup       | |
+| Sliced Bananas            | 2           | |
+| Sour Cream                | 1 pint      | |
+| Cream Cheese              | 3 oz        | |
 
 ## Method
 

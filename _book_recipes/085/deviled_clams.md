@@ -15,21 +15,21 @@ categories:
 
 ## Ingredients
 
-| Ingredient       | Amount          | Notes |
-| ---------------- | --------------- | ----- |
-| Clams            | 2 cups          | Finely minced |
-| Onion            | ½ cup           | minced |
-| Green Peppers    | ⅓ cup           | Chopped |
-| Celery           | ⅓ cup           | Chopped |
-| Bread Crumbs     | ⅓ cup           | Dry Bread Crumbs |
-| Heavy Cream      | 1 cup           | |
-| Eggs             | 2               | Beaten |
-| Butter           | 3 Tbsp          | Melted |
-| Prepared Mustard | 2 tsp           | |
-| Salt             | ½ tsp           | |
-| Pepper           | 1 tsp           | |
-| Parmesan         |                 | Grated |
-| Bacon            | ½ inch per clam | |
+| Ingredient            | Amount          | Notes |
+| --------------------- | --------------- | ----- |
+| Clams                 | 2 cups          | Finely minced |
+| Minced Onion          | ½ cup           | |
+| Chopped Green Peppers | ⅓ cup           | |
+| Chopped Celery        | ⅓ cup           | |
+| Bread Crumbs          | ⅓ cup           | Dry Bread Crumbs |
+| Heavy Cream           | 1 cup           | |
+| Beaten Eggs           | 2               | |
+| Melted Butter         | 3 Tbsp          | |
+| Prepared Mustard      | 2 tsp           | |
+| Salt                  | ½ tsp           | |
+| Pepper                | 1 tsp           | |
+| Grated Parmesan       |                 | |
+| Bacon                 | ½ inch per clam | |
 
 ## Method
 

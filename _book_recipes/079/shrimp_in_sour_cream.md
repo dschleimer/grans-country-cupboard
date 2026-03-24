@@ -16,17 +16,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount | Notes |
-| ------------ | ------ | ----- |
-| Shrimp       | 1½ lbs | Peeled |
-| Sour Cream   | 2 cups | |
-| Sherry       | ¼ cup  | |
-| Butter       | ½ cup  | Melted |
-| Shallots     | 2      | Minced |
-| Mushrooms    | ½ lb   | Sliced |
-| Flour        | 2 Tbsp | |
-| Salt         | 1 tsp  | |
-| Black Pepper |        | Fresh Ground |
+| Ingredient       | Amount | Notes |
+| ---------------- | ------ | ----- |
+| Peeled Shrimp    | 1½ lbs | |
+| Sour Cream       | 2 cups | |
+| Sherry           | ¼ cup  | |
+| Melted Butter    | ½ cup  | |
+| Minced Shallots  | 2      | |
+| Sliced Mushrooms | ½ lb   | |
+| Flour            | 2 Tbsp | |
+| Salt             | 1 tsp  | |
+| Black Pepper     |        | Fresh Ground |
 
 ## Method
 

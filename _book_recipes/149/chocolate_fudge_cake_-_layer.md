@@ -14,19 +14,19 @@ categories:
 
 ## Ingredients
 
-| Ingredient            | Amount    | Notes |
-| --------------------- | --------- | ----- |
-| Flour                 | 2 Cups    | |
-| Baking Powder         | 2 tsp     | |
-| Baking Soda           | ½ tsp     | |
-| Salt                  | ¼ tsp     | |
-| Butter                | ¼ lb      | |
-| Sugar                 | 1 Cup     | |
-| Egg Yolks             | 2         | Well beaten |
-| Chocolate             | 3 squares | Melted |
-| Milk                  | 1½ Cups   | |
-| Vanilla               | 1 tsp     | |
-| Egg Whites            | 2         | Beaten stiff |
+| Ingredient              | Amount    | Notes |
+| ----------------------- | --------- | ----- |
+| Flour                   | 2 Cups    | |
+| Baking Powder           | 2 tsp     | |
+| Baking Soda             | ½ tsp     | |
+| Salt                    | ¼ tsp     | |
+| Butter                  | ¼ lb      | |
+| Sugar                   | 1 Cup     | |
+| Egg Yolks               | 2         | Well beaten |
+| Melted Chocolate        | 3 squares | |
+| Milk                    | 1½ Cups   | |
+| Vanilla                 | 1 tsp     | |
+| Beaten Stiff Egg Whites | 2         | |
 
 ## Method
 

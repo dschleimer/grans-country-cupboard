@@ -15,17 +15,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount   | Notes |
-| ------------ | -------- | ----- |
-| Ground Ham   |          | leftover from baked ham |
-| Cream Sauce  |          | Thick |
-| Carrot       | some     | Ground |
-| Celery       | some     | Ground |
-| Mustard      | a little | |
-| Bread Crumbs |          | Seasoned |
-| Egg          |          | Beaten |
-| Milk         | a little | |
-| Butter       |          | |
+| Ingredient        | Amount   | Notes |
+| ----------------- | -------- | ----- |
+| Ground Ham        |          | leftover from baked ham |
+| Thick Cream Sauce |          | |
+| Ground Carrot     | some     | |
+| Ground Celery     | some     | |
+| Mustard           | a little | |
+| Bread Crumbs      |          | Seasoned |
+| Beaten Egg        |          | |
+| Milk              | a little | |
+| Butter            |          | |
 
 ## Method
 

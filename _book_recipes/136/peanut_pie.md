@@ -15,19 +15,19 @@ categories:
 
 ## Ingredients
 
-| Ingredient        | Amount | Notes |
-| ----------------- | ------ | ----- |
-| Butter            | ¼ lb   | Melted |
-| Sugar             | 1 Cup  | |
-| Coconut           | ½ Cup  | |
-| Raisins           | ½ Cup  | |
-| Roasted Peanuts   | ½ Cup  | Chopped |
-| Eggs              | 2      | Slightly beaten |
-| White Vinegar     | 2 tsp  | |
-| Ground Cloves     | ¼ tsp  | |
-| Cinnamon          | ½ tsp  | |
-| Chopped Peanuts   | ½ Cup  | For topping |
-| Unbaked Pie Shell | 1      | |
+| Ingredient              | Amount | Notes |
+| ----------------------- | ------ | ----- |
+| Melted Butter           | ¼ lb   | |
+| Sugar                   | 1 Cup  | |
+| Coconut                 | ½ Cup  | |
+| Raisins                 | ½ Cup  | |
+| Chopped Roasted Peanuts | ½ Cup  | |
+| Eggs                    | 2      | Slightly beaten |
+| White Vinegar           | 2 tsp  | |
+| Ground Cloves           | ¼ tsp  | |
+| Cinnamon                | ½ tsp  | |
+| Chopped Peanuts         | ½ Cup  | For topping |
+| Unbaked Pie Shell       | 1      | |
 
 ## Method
 

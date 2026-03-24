@@ -19,7 +19,7 @@ categories:
 | -------------- | -------- | ----- |
 | Top Round Beef |          | ½ inch thick |
 | Soy Sauce      | 1 cup    | |
-| Garlic         | 2 cloves | Crushed |
+| Crushed Garlic | 2 cloves | |
 | Ginger         | 1 tsp    | |
 | Sherry         | ½ cup    | Dry Sherry |
 

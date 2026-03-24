@@ -22,7 +22,7 @@ categories:
 | Baking Powder | 4 tsp  | |
 | Salt          | ½ tsp  | |
 | Shortening    | ⅓ Cup  | |
-| Eggs          | 2      | Beaten |
+| Beaten Eggs   | 2      | |
 | Milk          | ⅔ Cup  | |
 
 ## Method

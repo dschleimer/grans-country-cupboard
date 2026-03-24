@@ -15,21 +15,21 @@ categories:
 
 ## Ingredients
 
-| Ingredient      | Amount | Notes |
-| --------------- | ------ | ----- |
-| Sugar           | ¾ Cup  | For cinnamon topping |
-| Cinnamon        | 1 tsp  | For cinnamon topping |
-| Flour           | 2 Cups | |
-| Sugar           | 1 Cup  | |
-| Baking Powder   | 1½ tsp | |
-| Baking Soda     | 1 tsp  | |
-| Vanilla         | 1 tsp  | |
-| Sour Cream      | 1 Cup  | |
-| Butter          | ½ Cup  | |
-| Eggs            | 2      | |
-| Chocolate Chips | ¾ Cup  | For topping |
-| Heath Bars      | 6      | Small, chopped |
-| Melted Butter   | ½ Cup  | For topping |
+| Ingredient       | Amount | Notes |
+| ---------------- | ------ | ----- |
+| Sugar            | ¾ Cup  | For cinnamon topping |
+| Cinnamon         | 1 tsp  | For cinnamon topping |
+| Flour            | 2 Cups | |
+| Sugar            | 1 Cup  | |
+| Baking Powder    | 1½ tsp | |
+| Baking Soda      | 1 tsp  | |
+| Vanilla          | 1 tsp  | |
+| Sour Cream       | 1 Cup  | |
+| Butter           | ½ Cup  | |
+| Eggs             | 2      | |
+| Chocolate Chips  | ¾ Cup  | For topping |
+| Small Heath Bars | 6      | chopped |
+| Melted Butter    | ½ Cup  | For topping |
 
 ## Method
 

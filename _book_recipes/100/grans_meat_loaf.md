@@ -23,7 +23,7 @@ categories:
 | Parsley              | 1 Tbsp flakes | |
 | Bread                | 2 slices      | Broken up |
 | Milk                 | 1 cup         | |
-| Onions               | 4             | Cut up |
+| Cut Up Onions        | 4             | |
 | Salt                 | To Taste      | |
 | Pepper               | To Taste      | |
 | Catsup               | ½ cup         | |

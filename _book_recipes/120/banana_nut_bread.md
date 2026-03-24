@@ -15,18 +15,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient  | Amount  | Notes |
-| ----------- | ------- | ----- |
-| Butter      | ¾ cup   | |
-| Sugar       | 1½ cups | |
-| Bananas     | 3       | Mashed |
-| Eggs        | 2       | Beaten light |
-| Vanilla     | 1 tsp   | |
-| Flour       | 2 cups  | sifted |
-| Baking Soda | 1 tsp   | |
-| Salt        | ¾ tsp   | |
-| Sour Cream  | 1 cup   | |
-| Pecans      | ¾ cup   | Chopped - May substitute pecan meal |
+| Ingredient        | Amount  | Notes |
+| ----------------- | ------- | ----- |
+| Butter            | ¾ cup   | |
+| Sugar             | 1½ cups | |
+| Mashed Bananas    | 3       | |
+| Beaten Light Eggs | 2       | |
+| Vanilla           | 1 tsp   | |
+| Sifted Flour      | 2 cups  | |
+| Baking Soda       | 1 tsp   | |
+| Salt              | ¾ tsp   | |
+| Sour Cream        | 1 cup   | |
+| Chopped Pecans    | ¾ cup   | May substitute pecan meal |
 
 ## Method
 

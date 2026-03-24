@@ -14,13 +14,13 @@ categories:
 
 ## Ingredients
 
-| Ingredient          | Amount | Notes |
-| ------------------- | ------ | ----- |
-| Egg Whites          | 2      | |
-| Gran. Sugar         | ½ Cup  | |
-| Frozen Strawberries | 1 pkg  | Thawed |
-| Whipped Cream       | ½ Cup  | |
-| Lemon Juice         |        | A few drops |
+| Ingredient                 | Amount | Notes |
+| -------------------------- | ------ | ----- |
+| Egg Whites                 | 2      | |
+| Gran. Sugar                | ½ Cup  | |
+| Thawed Frozen Strawberries | 1 pkg  | |
+| Whipped Cream              | ½ Cup  | |
+| Lemon Juice                |        | A few drops |
 
 ## Method
 

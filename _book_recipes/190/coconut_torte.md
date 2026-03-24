@@ -15,16 +15,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient            | Amount | Notes |
-| --------------------- | ------ | ----- |
-| Graham Cracker Crumbs | 1 Cup  | |
-| Flaked Coconut        | ½ Cup  | Chopped |
-| Nuts                  | ½ Cup  | |
-| Egg Whites            | 4      | |
-| Salt                  | ¼ tsp  | |
-| Vanilla               | 1 tsp  | |
-| Sugar                 | 1 Cup  | |
-| Ice Cream             | 1 Pint | For serving |
+| Ingredient             | Amount | Notes |
+| ---------------------- | ------ | ----- |
+| Graham Cracker Crumbs  | 1 Cup  | |
+| Chopped Flaked Coconut | ½ Cup  | |
+| Nuts                   | ½ Cup  | |
+| Egg Whites             | 4      | |
+| Salt                   | ¼ tsp  | |
+| Vanilla                | 1 tsp  | |
+| Sugar                  | 1 Cup  | |
+| Ice Cream              | 1 Pint | For serving |
 
 ## Method
 

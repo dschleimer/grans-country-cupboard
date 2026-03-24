@@ -15,22 +15,22 @@ categories:
 
 ## Ingredients
 
-| Ingredient      | Amount   | Notes |
-| --------------- | -------- | ----- |
-| Green Tomatoes  | 1 Peck   | Sliced |
-| Onions          | 2 Quarts | Thin |
-| Salt            | 1 Cup    | For overnight |
-| Cider Vinegar   | 3 Cups   | For syrup |
-| Brown Sugar     | 4 lbs    | For syrup |
-| Dry Mustard     | 2 Tbsp   | |
-| Celery Seed     | 2 Tbsp   | |
-| Whole Cloves    | 2 Tbsp   | |
-| Stick Cinnamon  | 2        | Broken up |
-| Powdered Ginger | 1 Tbsp   | |
-| Salt            | 1 Tbsp   | |
-| Garlic Powder   | 1 tsp    | |
-| Green Peppers   | 12       | Sweet |
-| Red Peppers     | 6        | Sweet |
+| Ingredient            | Amount   | Notes |
+| --------------------- | -------- | ----- |
+| Sliced Green Tomatoes | 1 Peck   | |
+| Thin Onions           | 2 Quarts | |
+| Salt                  | 1 Cup    | For overnight |
+| Cider Vinegar         | 3 Cups   | For syrup |
+| Brown Sugar           | 4 lbs    | For syrup |
+| Dry Mustard           | 2 Tbsp   | |
+| Celery Seed           | 2 Tbsp   | |
+| Whole Cloves          | 2 Tbsp   | |
+| Stick Cinnamon        | 2        | Broken up |
+| Powdered Ginger       | 1 Tbsp   | |
+| Salt                  | 1 Tbsp   | |
+| Garlic Powder         | 1 tsp    | |
+| Green Peppers         | 12       | Sweet |
+| Red Peppers           | 6        | Sweet |
 
 ## Method
 

@@ -16,7 +16,7 @@ categories:
 
 | Ingredient            | Amount | Notes |
 | --------------------- | ------ | ----- |
-| Eggs                  | 2      | Beaten |
+| Beaten Eggs           | 2      | |
 | Dark Brown Sugar      | 1 Cup  | |
 | Sifted Flour          | ½ Cup  | |
 | Baking Powder         | 2 tsp  | |

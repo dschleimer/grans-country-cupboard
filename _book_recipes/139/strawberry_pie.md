@@ -14,16 +14,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient              | Amount  | Notes |
-| ----------------------- | ------- | ----- |
-| Fresh Strawberries      | 1 quart | Cut up |
-| Sugar                   | 1 Cup   | |
-| Lemon Juice             | 1 Tbsp  | |
-| Cornstarch              | 3 Tbsp  | |
-| Butter                  | ½ Tbsp  | |
-| Water                   | 1 Cup   | |
-| Baked Pie Shell         | 1       | |
-| Sweetened Whipped Cream | 1 Cup   | For topping |
+| Ingredient                | Amount  | Notes |
+| ------------------------- | ------- | ----- |
+| Cut Up Fresh Strawberries | 1 quart | |
+| Sugar                     | 1 Cup   | |
+| Lemon Juice               | 1 Tbsp  | |
+| Cornstarch                | 3 Tbsp  | |
+| Butter                    | ½ Tbsp  | |
+| Water                     | 1 Cup   | |
+| Baked Pie Shell           | 1       | |
+| Sweetened Whipped Cream   | 1 Cup   | For topping |
 
 ## Method
 

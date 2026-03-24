@@ -19,10 +19,10 @@ categories:
 
 | Ingredient           | Amount  | Notes |
 | -------------------- | ------- | ----- |
-| Limas                | 2 cups  | Dried |
+| Dried Limas          | 2 cups  | |
 | Salt Pork            | ½ lb    | |
-| Onion                | 1 large | Chopped |
-| Garlic               | 1 clove | Minced |
+| Chopped Onion        | 1 large | |
+| Minced Garlic        | 1 clove | |
 | Mazola oil           | 2 Tbsp  | |
 | Tomato Soup          | 1 can   | |
 | Worcestershire Sauce | 2 tsp   | |

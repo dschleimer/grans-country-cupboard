@@ -19,13 +19,13 @@ categories:
 
 | Ingredient           | Amount   | Notes |
 | -------------------- | -------- | ----- |
-| Onions               | ¼ cup    | Sliced |
+| Sliced Onions        | ¼ cup    | |
 | She-Crab Meat        | 2 cups   | with eggs |
 | Butter               | 2 Tbsp   | |
 | Flour                | 2 Tbsp   | |
 | Milk                 | 4 cups   | |
 | Cream                | 1 cup    | |
-| Corn                 | 1 cup    | Cooked |
+| Cooked Corn          | 1 cup    | |
 | Worcestershire Sauce | 1 tsp    | |
 | Salt                 | To Taste | |
 | Pepper               | To Taste | |

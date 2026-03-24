@@ -14,15 +14,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient     | Amount | Notes |
-| -------------- | ------ | ----- |
-| Flour          | 2 cups | sifted |
-| Baking powder  | 3 tsp  | |
-| Sugar          | 1 tsp  | |
-| Salt           | 1 tsp  | |
-| Cheddar cheese | 1 cup  | coarsely chopped |
-| Margarine      | ⅓ cup  | Or oil |
-| Milk           | ⅔ cup  | |
+| Ingredient                      | Amount | Notes |
+| ------------------------------- | ------ | ----- |
+| Sifted Flour                    | 2 cups | |
+| Baking powder                   | 3 tsp  | |
+| Sugar                           | 1 tsp  | |
+| Salt                            | 1 tsp  | |
+| Coarsely Chopped Cheddar cheese | 1 cup  | |
+| Margarine                       | ⅓ cup  | Or oil |
+| Milk                            | ⅔ cup  | |
 
 ## Method
 1. Preheat oven to 450°F.

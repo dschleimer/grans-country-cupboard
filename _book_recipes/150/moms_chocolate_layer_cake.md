@@ -18,7 +18,7 @@ categories:
 
 | Ingredient              | Amount   | Notes |
 | ----------------------- | -------- | ----- |
-| Chocolate               | 4 blocks | Melted |
+| Melted Chocolate        | 4 blocks | |
 | Butter                  | ¼ lb     | |
 | Boiling Water           | 1 Cup    | |
 | Sugar                   | 1 Cup    | |
@@ -28,8 +28,8 @@ categories:
 | Buttermilk              | ½ Cup    | May substitute for Sour Milk |
 | Salt                    | ½ tsp    | |
 | Vanilla                 | 1 tsp    | |
-| Egg Whites              | 2        | Beaten stiff |
-| Egg Yolks               | 2        | Beaten, added last |
+| Beaten Stiff Egg Whites | 2        | |
+| Beaten Egg Yolks        | 2        | added last |
 
 ## Method
 

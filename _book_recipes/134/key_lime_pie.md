@@ -16,7 +16,7 @@ categories:
 
 | Ingredient               | Amount | Notes |
 | ------------------------ | ------ | ----- |
-| Egg Yolks                | 3      | Beaten |
+| Beaten Egg Yolks         | 3      | |
 | Sweetened Condensed Milk | 1 can  | |
 | Lime Juice               | ¾ Cup  | Key lime |
 | Graham Cracker Crust     | 1      | 9-inch |

@@ -16,20 +16,20 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount   | Notes |
-| ------------ | -------- | ----- |
-| Onion        | 2 Tbsp   | Chopped |
-| Green Pepper | 1 Tbsp   | Chopped |
-| Butter       | 3 Tbsp   | |
-| Flour        | 3 Tbsp   | |
-| Salt         | 1 tsp    | |
-| Paprika      | ½ tsp    | |
-| Pepper       | To Taste | |
-| Milk         | 1 cup    | |
-| Bean Liquor  | ½ cup    | |
-| Pimento      | 1        | Chopped |
-| Cheese       | ¼ cup    | Grated |
-| Green Beans  | 2 cups   | Cooked and still Hot |
+| Ingredient           | Amount   | Notes |
+| -------------------- | -------- | ----- |
+| Chopped Onion        | 2 Tbsp   | |
+| Chopped Green Pepper | 1 Tbsp   | |
+| Butter               | 3 Tbsp   | |
+| Flour                | 3 Tbsp   | |
+| Salt                 | 1 tsp    | |
+| Paprika              | ½ tsp    | |
+| Pepper               | To Taste | |
+| Milk                 | 1 cup    | |
+| Bean Liquor          | ½ cup    | |
+| Chopped Pimento      | 1        | |
+| Grated Cheese        | ¼ cup    | |
+| Green Beans          | 2 cups   | Cooked and still Hot |
 
 ## Method
 

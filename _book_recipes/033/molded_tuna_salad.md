@@ -22,11 +22,11 @@ categories:
 | Mayonnaise           | ½ cup   | |
 | Pimento Cream Cheese | 5 oz    | |
 | Milk                 | ½ cup   | Recipe calls for "rich milk" presumably whole milk |
-| Onion                | 1 Tbsp  | Grated |
+| Grated Onion         | 1 Tbsp  | |
 | Celery               | ½ cup   | Finely cut |
 | Seasoned Salt        | ¼ Tsp   | |
 | Pepper               | ¼ tsp   | Black Pepper |
-| Green Pepper         | 2 Tbsp  | Diced |
+| Diced Green Pepper   | 2 Tbsp  | |
 | Eggs                 | 3       | Hard Boiled - Diced |
 | Tuna                 | 14 oz   | Recipe calls for two 7oz size cans of tuna |
 | Lettuce              |         | For serving |

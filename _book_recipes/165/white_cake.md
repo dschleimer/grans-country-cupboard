@@ -15,16 +15,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount  | Notes |
-| ------------- | ------- | ----- |
-| Sugar         | 1½ Cups | |
-| Butter        | ½ Cup   | |
-| Milk          | 1 Cup   | |
-| Flour         | 2 Cups  | |
-| Baking Powder | 2 tsp   | |
-| Salt          | ¼ tsp   | |
-| Vanilla       | 1 tsp   | |
-| Egg Whites    | 5       | Stiffly beaten |
+| Ingredient                | Amount  | Notes |
+| ------------------------- | ------- | ----- |
+| Sugar                     | 1½ Cups | |
+| Butter                    | ½ Cup   | |
+| Milk                      | 1 Cup   | |
+| Flour                     | 2 Cups  | |
+| Baking Powder             | 2 tsp   | |
+| Salt                      | ¼ tsp   | |
+| Vanilla                   | 1 tsp   | |
+| Stiffly Beaten Egg Whites | 5       | |
 
 ## Method
 

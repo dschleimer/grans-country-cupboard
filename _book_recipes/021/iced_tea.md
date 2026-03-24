@@ -19,7 +19,7 @@ categories:
 | Ingredient | Amount | Notes |
 | ---------- | ------ | ----- |
 | Tea        | 6 bags | |
-| Water      | 1 gal  | Cold |
+| Cold Water | 1 gal  | |
 
 ## Method
 

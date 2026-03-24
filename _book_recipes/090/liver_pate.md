@@ -18,7 +18,7 @@ categories:
 | Ingredient                         | Amount        | Notes |
 | ---------------------------------- | ------------- | ----- |
 | Gelatin                            | 1 envelope    | Unflavored |
-| Water                              | ¼ cup         | Cold |
+| Cold Water                         | ¼ cup         | |
 | Condensed Consommé Madrilène (red) | 1 can (13 oz) | See modern notes |
 | Cream Cheese                       | 3 oz          | 3oz was the standard "small" package |
 | Liver Paté                         | 4½ oz (1 can) | Sellner's is very good |

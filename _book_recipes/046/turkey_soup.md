@@ -23,8 +23,8 @@ categories:
 | Potatoes             | 2 large        | |
 | Onions               | 6 large        | |
 | Bay Leaves           | 2              | Remove before serving |
-| Parsley              | 1½ Tbsp        | Dried |
-| Rice                 | 1 cup          | Uncooked |
+| Dried Parsley        | 1½ Tbsp        | |
+| Uncooked Rice        | 1 cup          | |
 | Turkey Gravy         | 2 cups         | More if available |
 | Tabasco Sauce        | 3 good shakes  | |
 | Worcestershire Sauce | 1 Tbsp         | |

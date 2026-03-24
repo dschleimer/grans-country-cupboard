@@ -16,18 +16,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Whiskey      | 1 fifth | |
-| Vodka        | 1 fifth | |
-| Claret Wine  | 1 fifth | |
-| Ginger Ale   | 1 quart | |
-| Club Soda    | 1 quart | |
-| Lemons       | 6       | See modern notes below |
-| Sugar        | 1 cup   | See modern notes below |
-| Oranges      |         | Sliced |
-| Cherries     |         | |
-| Cherry Juice | "some"  | See modern notes below |
+| Ingredient     | Amount  | Notes |
+| -------------- | ------- | ----- |
+| Whiskey        | 1 fifth | |
+| Vodka          | 1 fifth | |
+| Claret Wine    | 1 fifth | |
+| Ginger Ale     | 1 quart | |
+| Club Soda      | 1 quart | |
+| Lemons         | 6       | See modern notes below |
+| Sugar          | 1 cup   | See modern notes below |
+| Sliced Oranges |         | |
+| Cherries       |         | |
+| Cherry Juice   | "some"  | See modern notes below |
 
 ## Method
 

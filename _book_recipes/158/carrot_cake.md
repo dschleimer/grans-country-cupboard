@@ -19,7 +19,7 @@ categories:
 | --------------------- | ------- | ----- |
 | Wesson Oil            | 1⅓ Cups | Scant |
 | Sugar                 | 2 Cups  | |
-| Flour                 | 2 Cups  | Sifted |
+| Sifted Flour          | 2 Cups  | |
 | Baking Powder         | 1 tsp   | |
 | Baking Soda           | 1 tsp   | |
 | Cinnamon              | 1 tsp   | |

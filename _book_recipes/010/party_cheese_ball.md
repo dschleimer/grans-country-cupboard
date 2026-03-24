@@ -17,18 +17,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient           | Amount | Notes |
-| -------------------- | ------ | ----- |
-| Cream Cheese         | 16 Oz  | |
-| Sharp Cheddar        | 8 oz   | Shredded |
-| Roquefort            | 6 Oz   | |
-| Onion                | 2 Tbsp | Minced |
-| Pimento              | 1 Tbsp | Optional - Chopped |
-| Green Pepper         | 1 Tbsp | Optional - Chopped |
-| Worcestershire Sauce | 2 tsp  | |
-| Garlic Salt          | Dash   | |
-| Cayenne Pepper       | Dash   | |
-| Chopped Nuts         | 1 cup  | Chopped |
+| Ingredient             | Amount | Notes |
+| ---------------------- | ------ | ----- |
+| Cream Cheese           | 16 Oz  | |
+| Shredded Sharp Cheddar | 8 oz   | |
+| Roquefort              | 6 Oz   | |
+| Minced Onion           | 2 Tbsp | |
+| Pimento                | 1 Tbsp | Optional - Chopped |
+| Green Pepper           | 1 Tbsp | Optional - Chopped |
+| Worcestershire Sauce   | 2 tsp  | |
+| Garlic Salt            | Dash   | |
+| Cayenne Pepper         | Dash   | |
+| Chopped Nuts           | 1 cup  | Chopped |
 
 ## Method
 1. Mince onion

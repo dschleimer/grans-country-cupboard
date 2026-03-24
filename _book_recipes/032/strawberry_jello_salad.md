@@ -15,13 +15,13 @@ categories:
 
 ## Ingredients
 
-| Ingredient        | Amount      | Notes |
-| ----------------- | ----------- | ----- |
-| Strawberry Jello  | 2 pkgs      | |
-| Boiling water     | 2 cups      | |
-| Crushed Pineapple | 1 small can | |
-| Strawberries      | 1 pkg       | Frozen |
-| Sour Cream        | 1 carton    | |
+| Ingredient          | Amount      | Notes |
+| ------------------- | ----------- | ----- |
+| Strawberry Jello    | 2 pkgs      | |
+| Boiling water       | 2 cups      | |
+| Crushed Pineapple   | 1 small can | |
+| Frozen Strawberries | 1 pkg       | |
+| Sour Cream          | 1 carton    | |
 
 ## Method
 

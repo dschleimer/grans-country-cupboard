@@ -15,17 +15,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount | Notes |
-| ------------- | ------ | ----- |
-| Shortening    | ½ cup  | |
-| Sugar         | 1 cup  | |
-| Eggs          | 2      | separated |
-| Salt          | ½ tsp  | |
-| Flour         | 2 cups | |
-| Baking powder | 2 tsp  | |
-| Strong coffee | 1 cup  | cold |
-| Nuts          | ¾ cup  | chopped |
-| Vanilla       | 1 tsp  | |
+| Ingredient         | Amount | Notes |
+| ------------------ | ------ | ----- |
+| Shortening         | ½ cup  | |
+| Sugar              | 1 cup  | |
+| Separated Eggs     | 2      | |
+| Salt               | ½ tsp  | |
+| Flour              | 2 cups | |
+| Baking powder      | 2 tsp  | |
+| Cold Strong coffee | 1 cup  | |
+| Chopped Nuts       | ¾ cup  | |
+| Vanilla            | 1 tsp  | |
 
 ## Method
 1. Preheat oven to 350 °F.

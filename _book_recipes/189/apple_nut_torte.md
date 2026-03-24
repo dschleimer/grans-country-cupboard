@@ -17,7 +17,7 @@ categories:
 
 | Ingredient     | Amount | Notes |
 | -------------- | ------ | ----- |
-| Egg            | 1      | beaten |
+| Beaten Egg     | 1      | |
 | Sugar          | ¾ cup  | |
 | Flour          | ½ cup  | |
 | Baking powder  | 2 tsp  | |
@@ -25,8 +25,8 @@ categories:
 | Cinnamon       | ¼ tsp  | |
 | Nutmeg         | ⅛ tsp  | |
 | Almond extract | ½ tsp  | |
-| Apple          | ½ cup  | chopped |
-| Nuts           | ½ cup  | chopped |
+| Chopped Apple  | ½ cup  | |
+| Chopped Nuts   | ½ cup  | |
 
 ## Method
 1. Preheat oven to 325 °F.

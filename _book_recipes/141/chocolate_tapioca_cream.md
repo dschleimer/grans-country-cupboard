@@ -14,20 +14,20 @@ categories:
 
 ## Ingredients
 
-| Ingredient            | Amount   | Notes |
-| --------------------- | -------- | ----- |
-| Chocolate             | 1 square | |
-| Milk                  | 2 Cups   | |
-| Instant Tapioca       | 3 Tbsp   | |
-| Egg Yolk              | 1        | |
-| Sugar                 | ¼ Cup    | |
-| Salt                  | ¼ tsp    | |
-| Egg White             | 1        | Stiffly beaten |
-| Sugar                 | 1 Tbsp   | For egg white |
-| Vanilla               | 1 tsp    | |
-| Heavy Cream           | ⅓ Cup    | Whipped, for topping |
-| Confectioners Sugar   | 2 tsp    | For topping |
-| Vanilla               | ½ tsp    | For topping |
+| Ingredient               | Amount   | Notes |
+| ------------------------ | -------- | ----- |
+| Chocolate                | 1 square | |
+| Milk                     | 2 Cups   | |
+| Instant Tapioca          | 3 Tbsp   | |
+| Egg Yolk                 | 1        | |
+| Sugar                    | ¼ Cup    | |
+| Salt                     | ¼ tsp    | |
+| Stiffly Beaten Egg White | 1        | |
+| Sugar                    | 1 Tbsp   | For egg white |
+| Vanilla                  | 1 tsp    | |
+| Whipped Heavy Cream      | ⅓ Cup    | for topping |
+| Confectioners Sugar      | 2 tsp    | For topping |
+| Vanilla                  | ½ tsp    | For topping |
 
 ## Method
 

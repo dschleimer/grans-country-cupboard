@@ -16,20 +16,20 @@ categories:
 
 ## Ingredients
 
-| Ingredient  | Amount  | Notes |
-| ----------- | ------- | ----- |
-| Flour       | 2 Tbsp  | |
-| Salt        | 1½ tsp  | |
-| Pepper      | Dash    | |
-| Beef Chuck  | 1½ lbs  | 1 inch cubes |
-| Shortening  | 2 Tbsp  | |
-| Tomato Soup | 2 cans  | |
-| Water       | 2½ cups | |
-| Onion       | 1½ cups | Chopped |
-| Basil       | ½ tsp   | |
-| Potatoes    | 6       | pared, quartered |
-| Carrots     | 6       | pared |
-| Red Wine    | ½ cup   | Dry Wine - May substitute with water |
+| Ingredient    | Amount  | Notes |
+| ------------- | ------- | ----- |
+| Flour         | 2 Tbsp  | |
+| Salt          | 1½ tsp  | |
+| Pepper        | Dash    | |
+| Beef Chuck    | 1½ lbs  | 1 inch cubes |
+| Shortening    | 2 Tbsp  | |
+| Tomato Soup   | 2 cans  | |
+| Water         | 2½ cups | |
+| Chopped Onion | 1½ cups | |
+| Basil         | ½ tsp   | |
+| Potatoes      | 6       | pared, quartered |
+| Carrots       | 6       | pared |
+| Red Wine      | ½ cup   | Dry Wine - May substitute with water |
 
 ## Method
 

@@ -17,7 +17,7 @@ categories:
 
 | Ingredient    | Amount         | Notes |
 | ------------- | -------------- | ----- |
-| Nuts          | 1 cup          | Chopped |
+| Chopped Nuts  | 1 cup          | |
 | Flour         | 4 cups + extra | |
 | Sugar         | 1 cup          | |
 | Milk          | 1½ cups        | |

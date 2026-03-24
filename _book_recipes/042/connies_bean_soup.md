@@ -18,15 +18,15 @@ categories:
 | Ingredient                 | Amount        | Notes |
 | -------------------------- | ------------- | ----- |
 | Little Michigan Navy Beans | 4 lbs         | |
-| Baby Lima Beans            | 1 lb          | Dried |
-| Onions                     | 6-10          | Cut up |
-| Carrots                    | 1 lb          | Cut up |
+| Dried Baby Lima Beans      | 1 lb          | |
+| Cut Up Onions              | 6-10          | |
+| Cut Up Carrots             | 1 lb          | |
 | Bay Leaves                 | 2             | Remember when done |
 | Catsup                     | ½ cup         | |
 | Tomatoes                   | 1 large can   | Can also use peeled fresh tomatoes |
 | Ham Hocks                  | 3-6           | Meaty |
 | Ham bones                  |               | |
-| Parsley                    | 1 Tbsp        | Dried |
+| Dried Parsley              | 1 Tbsp        | |
 | Worcestershire Sauce       | few shakes    | |
 | Tabasco Sauce              | Couple shakes | |
 | Seasoned Salt              | To taste      | |

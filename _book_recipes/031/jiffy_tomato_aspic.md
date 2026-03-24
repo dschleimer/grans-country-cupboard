@@ -14,16 +14,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount | Notes |
-| ------------ | ------ | ----- |
-| Tomato Juice | 14 oz  | Recipe specifies a 14 oz can |
-| Lemon Jello  | 1 pkg  | |
-| Vinegar      | 1 Tbsp | |
-| Celery       | 1 cup  | Minced |
-| Green Pepper | 2 Tbsp | Minced |
-| Onion        | 1 Tbsp | Grated |
-| Salt         | ½ Tbsp | |
-| Mayonnaise   |        | For Serving |
+| Ingredient          | Amount | Notes |
+| ------------------- | ------ | ----- |
+| Tomato Juice        | 14 oz  | Recipe specifies a 14 oz can |
+| Lemon Jello         | 1 pkg  | |
+| Vinegar             | 1 Tbsp | |
+| Minced Celery       | 1 cup  | |
+| Minced Green Pepper | 2 Tbsp | |
+| Grated Onion        | 1 Tbsp | |
+| Salt                | ½ Tbsp | |
+| Mayonnaise          |        | For Serving |
 
 ## Method
 

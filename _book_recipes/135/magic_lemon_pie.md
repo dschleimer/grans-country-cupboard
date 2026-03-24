@@ -20,7 +20,7 @@ categories:
 | Egg Yolks                | 2      | |
 | Lemon Juice              | ½ Cup  | |
 | Sugar                    | 2 Tbsp | |
-| Lemon Peel               | 2 Tbsp | Grated |
+| Grated Lemon Peel        | 2 Tbsp | |
 | Baked Pie Shell          | 1      | |
 | Sweetened Whipped Cream  | ⅓ Cup  | Or meringue |
 

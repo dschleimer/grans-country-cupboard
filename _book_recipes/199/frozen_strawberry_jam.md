@@ -16,13 +16,13 @@ categories:
 
 ## Ingredients
 
-| Ingredient       | Amount  | Notes |
-| ---------------- | ------- | ----- |
-| Water            | ¾ Cup   | |
-| Sure-Jell        | 1 Box   | |
-| Mashed Berries   | 4 Cups  | |
-| White Karo       | 1 Cup   | |
-| Sugar            | 5½ Cups | |
+| Ingredient     | Amount  | Notes |
+| -------------- | ------- | ----- |
+| Water          | ¾ Cup   | |
+| Sure-Jell      | 1 Box   | |
+| Mashed Berries | 4 Cups  | |
+| White Karo     | 1 Cup   | |
+| Sugar          | 5½ Cups | |
 
 ## Method
 

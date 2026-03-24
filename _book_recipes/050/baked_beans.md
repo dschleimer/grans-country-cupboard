@@ -15,15 +15,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient  | Amount  | Notes |
-| ----------- | ------- | ----- |
-| Dried Beans | 1½ cups | |
-| Dry Mustard | 1 Tbsp  | |
-| Salt        | 1 tsp   | |
-| Brown Sugar | 3 Tbsp  | |
-| Molasses    | 2 Tbsp  | More to Taste |
-| Salt Pork   | ¼ lb    | Cut Up |
-| Onion       | ¼ cup   | Sliced |
+| Ingredient       | Amount  | Notes |
+| ---------------- | ------- | ----- |
+| Dried Beans      | 1½ cups | |
+| Dry Mustard      | 1 Tbsp  | |
+| Salt             | 1 tsp   | |
+| Brown Sugar      | 3 Tbsp  | |
+| Molasses         | 2 Tbsp  | More to Taste |
+| Cut Up Salt Pork | ¼ lb    | |
+| Sliced Onion     | ¼ cup   | |
 
 ## Method
 

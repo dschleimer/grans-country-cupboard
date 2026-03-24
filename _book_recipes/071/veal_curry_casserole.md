@@ -19,8 +19,8 @@ categories:
 
 | Ingredient             | Amount      | Notes |
 | ---------------------- | ----------- | ----- |
-| Veal                   | 3 lbs       | Cubed |
-| Onion                  | 1 cup       | Chopped |
+| Cubed Veal             | 3 lbs       | |
+| Chopped Onion          | 1 cup       | |
 | Cream of Mushroom Soup | 1 can       | |
 | Milk                   | 1¼ cups     | |
 | Curry                  | 1 or 2 Tbsp | |

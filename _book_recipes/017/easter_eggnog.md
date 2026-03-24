@@ -23,7 +23,7 @@ categories:
 | Whole Milk      | 1 pint | |
 | Blended Whiskey | 1 pint | |
 | Jamaican Rum    | 1.5 oz | |
-| Nutmeg          |        | Grated |
+| Grated Nutmeg   |        | |
 
 ## Method
 1. Beat egg whites to very stiff peaks

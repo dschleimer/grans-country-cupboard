@@ -14,11 +14,11 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-|            |        | Use brownie recipe above |
-| Egg        | 1      | Extra |
-| Dates      | ½ Cup  | Cut up |
+| Ingredient   | Amount | Notes |
+| ------------ | ------ | ----- |
+|              |        | Use brownie recipe above |
+| Egg          | 1      | Extra |
+| Cut Up Dates | ½ Cup  | |
 
 ## Method
 

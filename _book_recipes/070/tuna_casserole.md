@@ -17,18 +17,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount           | Notes |
-| ------------ | ---------------- | ----- |
-| Onion        | 1 Medium         | Chopped |
-| Green Pepper | ⅓ cup            | Chopped |
-| Margarine    | 3 Tbsp           | |
-| Salt         | 1 tsp            | |
-| Flour        | 2 Tbsp           | |
-| Chicken Soup | 1 can            | |
-| Milk         | See Modern Notes | |
-| Tuna         | 7 oz             | Recipe specifies a 7 oz can |
-| Lemon Juice  | 1 Tbsp           | |
-| Cheese       |                  | Grated |
+| Ingredient           | Amount           | Notes |
+| -------------------- | ---------------- | ----- |
+| Chopped Onion        | 1 Medium         | |
+| Chopped Green Pepper | ⅓ cup            | |
+| Margarine            | 3 Tbsp           | |
+| Salt                 | 1 tsp            | |
+| Flour                | 2 Tbsp           | |
+| Chicken Soup         | 1 can            | |
+| Milk                 | See Modern Notes | |
+| Tuna                 | 7 oz             | Recipe specifies a 7 oz can |
+| Lemon Juice          | 1 Tbsp           | |
+| Grated Cheese        |                  | |
 
 ## Method
 

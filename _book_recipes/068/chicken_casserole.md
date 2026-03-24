@@ -16,18 +16,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient      | Amount    | Notes |
-| --------------- | --------- | ----- |
-| Noodles         | 1 Package | Cooked |
-| Chicken Breasts | 3         | Boneless - Skinless - Cooked - Cut bite size |
-| Celery          | 1 cup     | Cut fine |
-| Cheese Soup     | 1 can     | |
-| Celery Soup     | 1 can     | Use Celery *OR* Mushroom soup, not both |
-| Mushroom Soup   | 1 can     | Use Celery *OR* Mushroom soup, not both |
-| Cheddar Cheese  | 1 cup     | Grated |
-| Milk            | 1½ cups   | To thin |
-| Salt            | To Taste  | |
-| Pepper          | To Taste  | |
+| Ingredient               | Amount    | Notes |
+| ------------------------ | --------- | ----- |
+| Cooked Noodles           | 1 Package | |
+| Boneless Chicken Breasts | 3         | Skinless - Cooked - Cut bite size |
+| Cut Fine Celery          | 1 cup     | |
+| Cheese Soup              | 1 can     | |
+| Celery Soup              | 1 can     | Use Celery *OR* Mushroom soup, not both |
+| Mushroom Soup            | 1 can     | Use Celery *OR* Mushroom soup, not both |
+| Grated Cheddar Cheese    | 1 cup     | |
+| Milk                     | 1½ cups   | To thin |
+| Salt                     | To Taste  | |
+| Pepper                   | To Taste  | |
 
 ## Method
 

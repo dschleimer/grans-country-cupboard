@@ -16,7 +16,7 @@ categories:
 
 | Ingredient           | Amount | Notes |
 | -------------------- | ------ | ----- |
-| Dark Cherries        | 2 cups | Pitted |
+| Pitted Dark Cherries | 2 cups | |
 | Butter               | 2 Tbsp | Separated into 1 Tbsp pats |
 | Granulated Sugar     | ½ cup  | Separated into ¼ cups |
 | Milk                 | 1½ cup | |

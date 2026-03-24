@@ -15,15 +15,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount  | Notes |
-| ------------- | ------- | ----- |
-| Eggs          | 2       | |
-| Sugar         | 1 Cup   | |
-| Flour         | 1 Tbsp  | |
-| Boiling Milk  | 1 Pint  | Generous |
-| Cream         | 1 Quart | |
+| Ingredient                      | Amount  | Notes |
+| ------------------------------- | ------- | ----- |
+| Eggs                            | 2       | |
+| Sugar                           | 1 Cup   | |
+| Flour                           | 1 Tbsp  | |
+| Boiling Milk                    | 1 Pint  | Generous |
+| Cream                           | 1 Quart | |
 | Crushed Peaches Or Strawberries | 1 Quart | |
-| Sugar         | 1 Cup   | For fruit |
+| Sugar                           | 1 Cup   | For fruit |
 
 ## Method
 

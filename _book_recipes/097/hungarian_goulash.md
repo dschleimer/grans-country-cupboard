@@ -17,19 +17,19 @@ categories:
 
 ## Ingredients
 
-| Ingredient        | Amount | Notes |
-| ----------------- | ------ | ----- |
-| Hamburger         | 1 lb   | |
-| Tomatoes          | 1 can  | |
-| Tomato Puree      | 1 can  | |
-| Italian Seasoning |        | |
-| Salt              |        | |
-| Pepper            |        | |
-| Green Pepper      | 1      | Cut up |
-| Onion             | 1 med  | Cut up |
-| Creamettes        | 1 pkg  | This is a brand of pasta - Use Creamettes or Macaroni, not both |
-| Macaroni          | ½ pkg  | Use Creamettes or Macaroni, not both |
-| Parmesan Cheese   |        | |
+| Ingredient          | Amount | Notes |
+| ------------------- | ------ | ----- |
+| Hamburger           | 1 lb   | |
+| Tomatoes            | 1 can  | |
+| Tomato Puree        | 1 can  | |
+| Italian Seasoning   |        | |
+| Salt                |        | |
+| Pepper              |        | |
+| Cut Up Green Pepper | 1      | |
+| Cut Up Onion        | 1 med  | |
+| Creamettes          | 1 pkg  | This is a brand of pasta - Use Creamettes or Macaroni, not both |
+| Macaroni            | ½ pkg  | Use Creamettes or Macaroni, not both |
+| Parmesan Cheese     |        | |
 
 ## Method
 

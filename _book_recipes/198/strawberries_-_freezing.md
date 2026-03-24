@@ -15,10 +15,10 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount | Notes |
-| ------------ | ------ | ----- |
-| Strawberries |        | Fresh, with caps |
-| Sugar        |        | A little |
+| Ingredient         | Amount | Notes |
+| ------------------ | ------ | ----- |
+| Fresh Strawberries |        | with caps |
+| Sugar              |        | A little |
 
 ## Method
 

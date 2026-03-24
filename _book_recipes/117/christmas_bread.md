@@ -25,7 +25,7 @@ categories:
 | Flour       | 2 Quarts    | |
 | Salt        | 1 Tbsp      | |
 | Yeast Cakes | 1           | |
-| Water       | ⅓ + 2⅔ cups | Warm |
+| Warm Water  | ⅓ + 2⅔ cups | |
 
 #### For Dough
 
@@ -33,7 +33,7 @@ categories:
 | ---------------- | -------- | ----- |
 | Flour            | 5-8 Cups | enough "to make bread dough" |
 | Yeast Cakes      | 1        | |
-| Water            | ⅓ cups   | Warm |
+| Warm Water       | ⅓ cups   | |
 | Granulated Sugar | 2 cups   | |
 | White Raisins    | 2 boxes  | |
 | Eggs             | 5        | Well Beaten |

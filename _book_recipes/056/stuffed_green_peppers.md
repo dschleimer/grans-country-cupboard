@@ -20,7 +20,7 @@ categories:
 | Ingredient           | Amount   | Notes |
 | -------------------- | -------- | ----- |
 | Ground Beef          | 1½ lbs   | Recipe calls for Chuck |
-| Onions               | 4        | Cut up |
+| Cut Up Onions        | 4        | |
 | Green Peppers        | 6        | |
 | Worcestershire Sauce | To Taste | |
 | Seasoned Salt        | To Taste | |
@@ -29,7 +29,7 @@ categories:
 | Rice                 | 2 cups   | |
 | Sugar                | 1 tsp    | |
 | Ragu Sauce           | 2 cups   | |
-| Cheese               |          | Grated - Optional |
+| Grated Cheese        |          | Optional |
 
 ## Method
 

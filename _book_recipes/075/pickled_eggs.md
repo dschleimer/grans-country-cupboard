@@ -28,7 +28,7 @@ categories:
 | Garlic                                   | 1 clove | |
 | Bay Leaf                                 | 1       | |
 | Eggs                                     | 12      | Hard-Boiled - Shelled |
-| Onion                                    | 1 small | Sliced - Separated into rings |
+| Sliced Onion                             | 1 small | Separated into rings |
 
 ## Method
 

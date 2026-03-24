@@ -14,13 +14,13 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount           | Notes |
-| ------------- | ---------------- | ----- |
-| Peaches       | 6 medium         | Peeled - Sliced |
-| Bourbon       | ⅓ cup           | |
-| Ascorbic Acid | See modern Notes |  |
-| Sour Cream    |                  | For serving |
-| Brown Sugar   |                  | For serving |
+| Ingredient     | Amount           | Notes |
+| -------------- | ---------------- | ----- |
+| Peeled Peaches | 6 medium         | Sliced |
+| Bourbon        | ⅓ cup            | |
+| Ascorbic Acid  | See modern Notes | |
+| Sour Cream     |                  | For serving |
+| Brown Sugar    |                  | For serving |
 
 ## Method
 

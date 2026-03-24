@@ -18,7 +18,7 @@ categories:
 | Ingredient           | Amount | Notes |
 | -------------------- | ------ | ----- |
 | Crab meat            | 1 lb.  | |
-| Egg                  | 1      | beaten |
+| Beaten Egg           | 1      | |
 | Worcestershire sauce | 1 tsp. | |
 | Dry mustard          | 1 tsp. | |
 | Mayonnaise           | 1 cup  | |

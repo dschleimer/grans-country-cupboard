@@ -20,7 +20,7 @@ categories:
 | Butter      | 1 Cup  | |
 | Sugar       | 1 Cup  | |
 | Milk        | 1 Cup  | |
-| Eggs        | 2      | Beaten |
+| Beaten Eggs | 2      | |
 | Flour       | 2 Cups | |
 | Baking Soda | ¼ tsp  | |
 | Currants    | ¾ Cup  | |

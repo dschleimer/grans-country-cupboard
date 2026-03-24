@@ -17,7 +17,7 @@ categories:
 
 | Ingredient           | Amount     | Notes |
 | -------------------- | ---------- | ----- |
-| Shrimp               | 1½ lbs     | Cooked |
+| Cooked Shrimp        | 1½ lbs     | |
 | Butter               | 3 Tbsp     | |
 | Flour                | 2½ Tbsp    | |
 | Milk                 | 1½ cups    | Use Milk or Cream not both |

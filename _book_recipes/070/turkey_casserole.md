@@ -19,12 +19,12 @@ categories:
 
 | Ingredient        | Amount | Notes |
 | ----------------- | ------ | ----- |
-| Turkey            | 2 cups | Cut up |
-| Celery            | 1 cup  | Chopped |
-| Onion             | ½ cup  | Chopped |
+| Cut Up Turkey     | 2 cups | |
+| Chopped Celery    | 1 cup  | |
+| Chopped Onion     | ½ cup  | |
 | Butter            |        | |
 | Mushroom Soup     | 1 can  | |
-| Macaroni          | 2 cups | Cooked |
+| Cooked Macaroni   | 2 cups | |
 | Salt              |        | |
 | Pepper            |        | |
 | Poultry Seasoning |        | |

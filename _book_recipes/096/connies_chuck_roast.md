@@ -18,7 +18,7 @@ categories:
 
 | Ingredient             | Amount | Notes |
 | ---------------------- | ------ | ----- |
-| Chuck Roast            | 4 lb   | Boneless |
+| Boneless Chuck Roast   | 4 lb   | |
 | Cream of Mushroom Soup | 1 can  | |
 | Golden Mushroom Soup   | 1 can  | |
 | Onion Soup Mix         | 1      | Lipton's brand |

@@ -16,17 +16,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient  | Amount    | Notes |
-| ----------- | --------- | ----- |
-| Brown Sugar | 1 Cup     | |
-| Butter      | ¼ Cup     | |
-| Egg         | 1         | Well beaten |
-| Chocolate   | 2 Squares | Melted |
-| Milk        | ½ Cup     | |
-| Flour       |           | Alternately with milk |
-| Baking Soda | ½ tsp     | In hot water, add to milk |
-| Vanilla     | 1 tsp     | |
-| Ground Nuts | 1 Cup     | |
+| Ingredient       | Amount    | Notes |
+| ---------------- | --------- | ----- |
+| Brown Sugar      | 1 Cup     | |
+| Butter           | ¼ Cup     | |
+| Egg              | 1         | Well beaten |
+| Melted Chocolate | 2 Squares | |
+| Milk             | ½ Cup     | |
+| Flour            |           | Alternately with milk |
+| Baking Soda      | ½ tsp     | In hot water, add to milk |
+| Vanilla          | 1 tsp     | |
+| Ground Nuts      | 1 Cup     | |
 
 ## Method
 

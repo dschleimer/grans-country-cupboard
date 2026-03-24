@@ -16,24 +16,24 @@ categories:
 
 ## Ingredients
 
-| Ingredient                  | Amount  | Notes |
-| --------------------------- | ------- | ----- |
-| Butter                      | 1 Cup   | |
-| Sugar                       | 1½ Cups | |
-| Eggs                        | 3       | Beat in one at a time |
-| Flour                       | 2 Cups  | |
-| Salt                        | ¼ tsp   | |
-| Nuts                        | 1 Cup   | Chopped (pecans) |
-| White Raisins               | 1 Cup   | |
-| Figs                        | 6       | Cut up fine |
-| Citron                      |         | Cut up - Combined 1½ Cups with Orange and Lemon Peel |
-| Orange Peel                 |         | Cut up - Combined 1½ Cups with Citron and Lemon Peel |
-| Lemon Peel                  |         | Cut up - Combined 1½ Cups with Citron and Orange Peel |
-| Lemon Rind                  | 1 tsp   | Grated |
-| Cinnamon                    | 1 tsp   | |
-| Cloves                      | ¼ tsp   | |
-| Allspice                    | ¼ tsp   | |
-| Brandy                      | 4 oz    | Or cognac |
+| Ingredient         | Amount  | Notes |
+| ------------------ | ------- | ----- |
+| Butter             | 1 Cup   | |
+| Sugar              | 1½ Cups | |
+| Eggs               | 3       | Beat in one at a time |
+| Flour              | 2 Cups  | |
+| Salt               | ¼ tsp   | |
+| Nuts               | 1 Cup   | Chopped (pecans) |
+| White Raisins      | 1 Cup   | |
+| Cut Up Fine Figs   | 6       | |
+| Cut Up Citron      |         | Combined 1½ Cups with Orange and Lemon Peel |
+| Cut Up Orange Peel |         | Combined 1½ Cups with Citron and Lemon Peel |
+| Cut Up Lemon Peel  |         | Combined 1½ Cups with Citron and Orange Peel |
+| Grated Lemon Rind  | 1 tsp   | |
+| Cinnamon           | 1 tsp   | |
+| Cloves             | ¼ tsp   | |
+| Allspice           | ¼ tsp   | |
+| Brandy             | 4 oz    | Or cognac |
 
 ## Method
 

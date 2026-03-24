@@ -15,14 +15,14 @@ categories:
 
 ## Ingredients
 
-| Ingredient          | Amount | Notes |
-| ------------------- | ------ | ----- |
-| Sweet Chocolate     | ½ lb   | |
-| Confectioners Sugar | 4 Tbsp | |
-| Evaporated Milk     | 4 Tbsp | Or heavy cream |
-| Egg Yolks           | 3      | Well beaten |
-| Egg Whites          | 3      | Beaten stiff |
-| Lady Fingers        |        | Split |
+| Ingredient              | Amount | Notes |
+| ----------------------- | ------ | ----- |
+| Sweet Chocolate         | ½ lb   | |
+| Confectioners Sugar     | 4 Tbsp | |
+| Evaporated Milk         | 4 Tbsp | Or heavy cream |
+| Egg Yolks               | 3      | Well beaten |
+| Beaten Stiff Egg Whites | 3      | |
+| Lady Fingers            |        | Split |
 
 ## Method
 

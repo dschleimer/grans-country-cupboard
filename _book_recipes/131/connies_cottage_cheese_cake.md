@@ -17,16 +17,16 @@ categories:
 | Ingredient            | Amount  | Notes |
 | --------------------- | ------- | ----- |
 | Graham Cracker Crumbs | 1½ Cups | For crust |
-| Butter                | ¼ lb    | Melted, for crust |
+| Melted Butter         | ¼ lb    | for crust |
 | Cottage Cheese        | 3 Cups  | Drained and sieved |
 | Sugar                 | 1 Cup   | For filling |
 | Flour                 | ⅓ Cup   | |
 | Salt                  | ½ tsp   | |
 | Lemon Juice           | 2 Tbsp  | |
 | Vanilla               | 1 tsp   | |
-| Eggs                  | 3       | Separated |
+| Separated Eggs        | 3       | |
 | Sugar                 | ½ Cup   | For egg whites |
-| Heavy Cream           | 1 Cup   | Whipped |
+| Whipped Heavy Cream   | 1 Cup   | |
 
 ## Method
 

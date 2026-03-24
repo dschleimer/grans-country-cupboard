@@ -16,14 +16,14 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount  | Notes |
-| ---------- | ------- | ----- |
-| Eggs       | 3       | separated |
-| Corn       | 1½ cups | grated fresh |
-| Salt       | ½ tsp   | |
-| Pepper     | ⅛ tsp   | |
-| Flour      | ½ cup   | |
-| Crisco     | ⅓ cup   | for frying |
+| Ingredient     | Amount  | Notes |
+| -------------- | ------- | ----- |
+| Separated Eggs | 3       | |
+| Corn           | 1½ cups | grated fresh |
+| Salt           | ½ tsp   | |
+| Pepper         | ⅛ tsp   | |
+| Flour          | ½ cup   | |
+| Crisco         | ⅓ cup   | for frying |
 
 ## Method
 1. Grate corn off the cobs.

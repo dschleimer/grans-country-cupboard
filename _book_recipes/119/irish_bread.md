@@ -20,7 +20,7 @@ categories:
 | Flour         | 2 cups | |
 | Sugar         | ½ cup  | |
 | Eggs          | 2      | |
-| Butter        | ¼ lb   | Melted |
+| Melted Butter | ¼ lb   | |
 | Milk          | ½ cup  | |
 | Raisins       | 1 cup  | |
 | Baking Powder | 3 tsp  | |

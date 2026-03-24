@@ -16,13 +16,13 @@ categories:
 
 | Ingredient    | Amount    | Notes |
 | ------------- | --------- | ----- |
-| Apples        | 5-7       | sliced |
+| Sliced Apples | 5-7       | |
 | Flour         | 1 cup     | |
 | Sugar         | ½ - 1 cup | |
 | Baking powder | 1 tsp     | |
 | Salt          | ¾ tsp     | |
 | Egg           | 1         | unbeaten |
-| Butter        | ¼ cup     | melted |
+| Melted Butter | ¼ cup     | |
 | Cinnamon      | ½ tsp     | |
 | Whipped cream |           | |
 

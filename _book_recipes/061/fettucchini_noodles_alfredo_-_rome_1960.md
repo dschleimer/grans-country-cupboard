@@ -18,10 +18,10 @@ categories:
 | ------------- | -------- | ----- |
 | Salt          | 2½ tsp   | Separated as 2 tsp and ½ tsp |
 | Eggs          | 2        | Well beaten |
-| Flour         | 1½ cups  | sifted - have additional on hand |
+| Sifted Flour  | 1½ cups  | have additional on hand |
 | Boiling water | 3 quarts | |
 | Parmesan      | ¾ cups   | Freshly Grated |
-| Butter        | ½ cup    | Melted |
+| Melted Butter | ½ cup    | |
 
 ## Method
 

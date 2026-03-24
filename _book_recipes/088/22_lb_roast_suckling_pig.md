@@ -15,28 +15,28 @@ categories:
 
 ## Ingredients
 
-| Ingredient        | Amount                  | Notes |
-| ----------------- | ----------------------- | ----- |
-| Whole Pig         | 22 lbs                  | |
-| Salt              |                         | |
-| Brandy            | 1 oz                    | |
-| Mushrooms         | ½ lb                    | Chop - Saute |
-| White Bread Cubes | 3½ cups                 | Soft |
-| Butter            | ⅓ cup                   | Melted |
-| Garlic            | Touch                   | |
-| Apple             | 1 cup chopped + 1 whole | Whole apple should be shiny red |
-| Parsley           | 3 Tbsp                  | |
-| Salt              |                         | |
-| Pepper            |                         | |
-| Eggs              | 2                       | |
-| White Wine        | ½ cup                   | Dry |
-| Peanut oil        |                         | |
-| Meat Stock        | 1 cup                   | "Strong Meat stock - Use Meat Stock or Bouillon |
-| Bouillon          |                         | Use Meat Stock or Bouillon |
-| Cream             |                         | Very thick cream |
-| Butter            |                         | Fresh butter |
-| Cranberries       |                         | |
-| Flour             | 3 Tbsp                  | Optional - For Gravy |
+| Ingredient             | Amount                  | Notes |
+| ---------------------- | ----------------------- | ----- |
+| Whole Pig              | 22 lbs                  | |
+| Salt                   |                         | |
+| Brandy                 | 1 oz                    | |
+| Mushrooms              | ½ lb                    | Chop - Saute |
+| Soft White Bread Cubes | 3½ cups                 | |
+| Melted Butter          | ⅓ cup                   | |
+| Garlic                 | Touch                   | |
+| Apple                  | 1 cup chopped + 1 whole | Whole apple should be shiny red |
+| Parsley                | 3 Tbsp                  | |
+| Salt                   |                         | |
+| Pepper                 |                         | |
+| Eggs                   | 2                       | |
+| Dry White Wine         | ½ cup                   | |
+| Peanut oil             |                         | |
+| Meat Stock             | 1 cup                   | "Strong Meat stock - Use Meat Stock or Bouillon |
+| Bouillon               |                         | Use Meat Stock or Bouillon |
+| Cream                  |                         | Very thick cream |
+| Butter                 |                         | Fresh butter |
+| Cranberries            |                         | |
+| Flour                  | 3 Tbsp                  | Optional - For Gravy |
 
 ## Method
 

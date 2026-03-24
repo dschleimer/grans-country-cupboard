@@ -19,7 +19,7 @@ categories:
 | ------------------- | ------- | ----- |
 | Butter              | ½ cup   | |
 | Sugar               | 1½ cups | |
-| Eggs                | 3       | Separated |
+| Separated Eggs      | 3       | |
 | Milk                |         | ⅔ cup Milk + Water total |
 | Water               |         | ⅔ cup Milk + Water total |
 | Flour               | 2½ cups | |

@@ -14,15 +14,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient      | Amount         | Notes |
-| --------------- | -------------- | ----- |
-| Tomatoes        | 1 Large can    | |
-| Sharp Cheese    | ½ lb           | Cut fine |
-| Onions          | 5 med          | Sliced Thin |
-| Rice            | 6 Tbsp         | Uncooked |
-| Hot Water       | ½ cup          | |
-| Stuffed Olives  | 1 Small bottle | Including Juice |
-| Bacon Drippings | 1 Tbsp         | |
+| Ingredient            | Amount         | Notes |
+| --------------------- | -------------- | ----- |
+| Tomatoes              | 1 Large can    | |
+| Cut Fine Sharp Cheese | ½ lb           | |
+| Onions                | 5 med          | Sliced Thin |
+| Uncooked Rice         | 6 Tbsp         | |
+| Hot Water             | ½ cup          | |
+| Stuffed Olives        | 1 Small bottle | Including Juice |
+| Bacon Drippings       | 1 Tbsp         | |
 
 ## Method
 

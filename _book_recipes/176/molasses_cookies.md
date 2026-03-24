@@ -15,21 +15,21 @@ categories:
 
 ## Ingredients
 
-| Ingredient              | Amount | Notes |
-| ----------------------- | ------ | ----- |
-| Sifted Flour            | 3 Cups | |
-| Baking Powder           | 2 tsp  | |
-| Baking Soda             | ½ tsp  | |
-| Salt                    | ½ tsp  | |
-| Cinnamon                | ½ tsp  | |
-| Nutmeg                  | ½ tsp  | |
-| Cloves                  | ½ tsp  | |
-| Butter                  | ½ Cup  | |
-| Brown Sugar             | ¼ Cup  | |
-| Molasses                | ¾ Cup  | |
-| Sour Milk               | ¼ Cup  | May substitute Buttermilk |
-| Buttermilk              | ¼ Cup  | May substitute for Sour Milk |
-| Vanilla                 | ½ tsp  | |
+| Ingredient    | Amount | Notes |
+| ------------- | ------ | ----- |
+| Sifted Flour  | 3 Cups | |
+| Baking Powder | 2 tsp  | |
+| Baking Soda   | ½ tsp  | |
+| Salt          | ½ tsp  | |
+| Cinnamon      | ½ tsp  | |
+| Nutmeg        | ½ tsp  | |
+| Cloves        | ½ tsp  | |
+| Butter        | ½ Cup  | |
+| Brown Sugar   | ¼ Cup  | |
+| Molasses      | ¾ Cup  | |
+| Sour Milk     | ¼ Cup  | May substitute Buttermilk |
+| Buttermilk    | ¼ Cup  | May substitute for Sour Milk |
+| Vanilla       | ½ tsp  | |
 
 ## Method
 

@@ -14,21 +14,21 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount        | Notes |
-| ------------- | ------------- | ----- |
-| Pecans        | ½ cup         | Chopped - Use Pecans or Walnuts, not both |
-| Walnuts       | ½ cup         | Chopped - Use Pecans or Walnuts, not both |
-| Cinnamon      | 2 tsp         | |
-| Sugar         | ½ cup + 1 cup | |
-| Butter        | ½ cup         | softened |
-| Eggs          | 2             | |
-| Vanilla       | 1 tsp         | |
-| Flour         | 2 cups        | |
-| Salt          | ½ tsp         | |
-| Baking powder | 1 tsp         | |
-| Baking soda   | 1 tsp         | |
-| Sour cream    | 1 cup         | |
-| Apples        | 2 large       | |
+| Ingredient      | Amount        | Notes |
+| --------------- | ------------- | ----- |
+| Chopped Pecans  | ½ cup         | Use Pecans or Walnuts, not both |
+| Chopped Walnuts | ½ cup         | Use Pecans or Walnuts, not both |
+| Cinnamon        | 2 tsp         | |
+| Sugar           | ½ cup + 1 cup | |
+| Softened Butter | ½ cup         | |
+| Eggs            | 2             | |
+| Vanilla         | 1 tsp         | |
+| Flour           | 2 cups        | |
+| Salt            | ½ tsp         | |
+| Baking powder   | 1 tsp         | |
+| Baking soda     | 1 tsp         | |
+| Sour cream      | 1 cup         | |
+| Apples          | 2 large       | |
 
 ## Method
 1. Preheat oven to 375 °F.

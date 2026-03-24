@@ -18,19 +18,19 @@ categories:
 
 ## Ingredients
 
-| Ingredient       | Amount | Notes |
-| ---------------- | ------ | ----- |
-| Flaked Crab Meat | ½ cup  | |
-| Shrimp           |        | May substitute for Crab |
-| Lobster          |        | May substitute for Crab |
-| Green Pepper     | 2 tsps | Minced |
-| Celery           | 1 Tbsp | Chopped |
-| Parsley          | 1 Tbsp | |
-| Onion            | 1 Tbsp | Minced |
-| Catsup           | 1 Tbsp | |
-| Mayonnaise       | 4 Tbsp | |
-| Lemon Juice      | 1 tsp  | |
-| Eggs             | 3      | Optional - Hard Boiled and Chopped |
+| Ingredient          | Amount | Notes |
+| ------------------- | ------ | ----- |
+| Flaked Crab Meat    | ½ cup  | |
+| Shrimp              |        | May substitute for Crab |
+| Lobster             |        | May substitute for Crab |
+| Minced Green Pepper | 2 tsps | |
+| Chopped Celery      | 1 Tbsp | |
+| Parsley             | 1 Tbsp | |
+| Minced Onion        | 1 Tbsp | |
+| Catsup              | 1 Tbsp | |
+| Mayonnaise          | 4 Tbsp | |
+| Lemon Juice         | 1 tsp  | |
+| Eggs                | 3      | Optional - Hard Boiled and Chopped |
 | Curry            | ½ tsp | Optional
 
 

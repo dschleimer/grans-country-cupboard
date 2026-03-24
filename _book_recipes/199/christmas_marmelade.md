@@ -15,13 +15,13 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount | Notes |
-| ---------- | ------ | ----- |
-| Oranges    | 10     | Large |
-| Lemons     | 3      | |
-| Grapefruit | 2      | Preferably pink |
-| Tangerines | 2      | |
-| Sugar      |        | Equal amount to fruit |
+| Ingredient    | Amount | Notes |
+| ------------- | ------ | ----- |
+| Large Oranges | 10     | |
+| Lemons        | 3      | |
+| Grapefruit    | 2      | Preferably pink |
+| Tangerines    | 2      | |
+| Sugar         |        | Equal amount to fruit |
 
 ## Method
 

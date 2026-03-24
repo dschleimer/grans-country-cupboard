@@ -15,11 +15,11 @@ categories:
 
 ## Ingredients
 
-| Ingredient        | Amount | Notes |
-| ----------------- | ------ | ----- |
-| Butterscotch Bits | 1 pkg  | Small |
-| Peanut Butter     | ½ Cup  | |
-| Rice Crispies     | 3 Cups | |
+| Ingredient              | Amount | Notes |
+| ----------------------- | ------ | ----- |
+| Small Butterscotch Bits | 1 pkg  | |
+| Peanut Butter           | ½ Cup  | |
+| Rice Crispies           | 3 Cups | |
 
 ## Method
 

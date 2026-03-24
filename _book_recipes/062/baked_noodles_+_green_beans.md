@@ -17,20 +17,20 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount | Notes |
-| ------------- | ------ | ----- |
-| Noodles       | ½ lb   | Medium Noodles |
-| Sour Cream    | 1 cup  | |
-| Flour         | 1 Tbsp | |
-| Milk          | 1 cup  | |
-| Italian Beans | 9 oz   | Frozen |
-| Olives        | ⅓ cup  | Ripe Olives - Chopped |
-| Salt          | ¾ tsp  | |
-| Pepper        | ¼ tsp  | |
-| Basil         | ½ tsp  | |
-| Butter        |        | For casserole dish |
-| Cheese        | 1 cup  | Swiss or Cheddar - Grated |
-| Paprika       | ½ tsp  | |
+| Ingredient           | Amount | Notes |
+| -------------------- | ------ | ----- |
+| Noodles              | ½ lb   | Medium Noodles |
+| Sour Cream           | 1 cup  | |
+| Flour                | 1 Tbsp | |
+| Milk                 | 1 cup  | |
+| Frozen Italian Beans | 9 oz   | |
+| Olives               | ⅓ cup  | Ripe Olives - Chopped |
+| Salt                 | ¾ tsp  | |
+| Pepper               | ¼ tsp  | |
+| Basil                | ½ tsp  | |
+| Butter               |        | For casserole dish |
+| Cheese               | 1 cup  | Swiss or Cheddar - Grated |
+| Paprika              | ½ tsp  | |
 
 ## Method
 

@@ -15,21 +15,21 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount         | Notes |
-| ------------ | -------------- | ----- |
-| Salmon       | 1 lb           | Canned - Flaked |
-| Lemon Juice  | 1 Tbsp         | |
-| Salt         | 1 tsp          | |
-| Dry Mustard  | 1 tsp          | |
-| Celery       | ½ cup          | Chopped |
-| Onion        | 1 med          | Chopped |
-| Parsley      | 1 Tbsp         | Chopped |
-| Eggs         | 2 + 2          | 2 slightly beaten - 2 hard boiled |
-| Bread Crumbs | 1 cup          | |
-| Milk         | 1 + 1 cup      | |
-| Butter       | 2 Tbsp + Extra | |
-| Flour        | 2 Tbsp         | |
-| Salt         | ½ tsp          | |
+| Ingredient      | Amount         | Notes |
+| --------------- | -------------- | ----- |
+| Salmon          | 1 lb           | Canned - Flaked |
+| Lemon Juice     | 1 Tbsp         | |
+| Salt            | 1 tsp          | |
+| Dry Mustard     | 1 tsp          | |
+| Chopped Celery  | ½ cup          | |
+| Chopped Onion   | 1 med          | |
+| Chopped Parsley | 1 Tbsp         | |
+| Eggs            | 2 + 2          | 2 slightly beaten - 2 hard boiled |
+| Bread Crumbs    | 1 cup          | |
+| Milk            | 1 + 1 cup      | |
+| Butter          | 2 Tbsp + Extra | |
+| Flour           | 2 Tbsp         | |
+| Salt            | ½ tsp          | |
 
 ## Method
 

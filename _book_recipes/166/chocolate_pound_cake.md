@@ -18,7 +18,7 @@ categories:
 
 | Ingredient      | Amount  | Notes |
 | --------------- | ------- | ----- |
-| Butter          | ½ lb    | Softened |
+| Softened Butter | ½ lb    | |
 | Sugar           | 2 Cups  | |
 | Eggs            | 4       | Add one at a time |
 | Flour           | 2½ Cups | |

@@ -14,13 +14,13 @@ categories:
 
 ## Ingredients
 
-| Ingredient          | Amount | Notes |
-| ------------------- | ------ | ----- |
-| Sara Lee Cake       | 1      | |
-| Coffee Liqueur      | 1 tsp  | Per layer |
-| Whipping Cream      | 1 Pint | |
-| Maraschino Cherries | ¼ Cup  | Chopped |
-| Whole Cherries      |        | For garnish |
+| Ingredient                  | Amount | Notes |
+| --------------------------- | ------ | ----- |
+| Sara Lee Cake               | 1      | |
+| Coffee Liqueur              | 1 tsp  | Per layer |
+| Whipping Cream              | 1 Pint | |
+| Chopped Maraschino Cherries | ¼ Cup  | |
+| Whole Cherries              |        | For garnish |
 
 ## Method
 

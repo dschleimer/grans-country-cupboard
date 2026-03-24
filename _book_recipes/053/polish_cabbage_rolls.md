@@ -22,7 +22,7 @@ categories:
 | Ground Beef     | 1 lb          | |
 | Ground Pork     | 1 lb          | May substitute for Beef |
 | Rice            | 1 cup         | Measure uncooked - then cook |
-| Onion           | 1             | Grated |
+| Grated Onion    | 1             | |
 | Eggs            | 2             | |
 | Salt            | To Taste      | |
 | Pepper          | To Taste      | |

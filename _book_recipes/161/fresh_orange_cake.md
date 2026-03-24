@@ -15,21 +15,21 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount | Notes |
-| ------------- | ------ | ----- |
-| Butter        | ¾ Cup  | |
-| Sugar         | 2 Cups | |
-| Eggs          | 3      | |
-| Milk          | ¾ Cup  | |
-| Flour         | 3 Cups | |
-| Baking Powder | 1½ tsp | |
-| Salt          | 1 tsp  | |
-| Vanilla       | 1 tsp  | |
-| Chopped Nuts  | 1 Cup  | |
-| White Raisins | 1 Cup  | |
-| Orange Rind   | 1      | Grated |
-| Orange Juice  | 2      | For glaze |
-| Sugar         | ½ Cup  | For glaze |
+| Ingredient         | Amount | Notes |
+| ------------------ | ------ | ----- |
+| Butter             | ¾ Cup  | |
+| Sugar              | 2 Cups | |
+| Eggs               | 3      | |
+| Milk               | ¾ Cup  | |
+| Flour              | 3 Cups | |
+| Baking Powder      | 1½ tsp | |
+| Salt               | 1 tsp  | |
+| Vanilla            | 1 tsp  | |
+| Chopped Nuts       | 1 Cup  | |
+| White Raisins      | 1 Cup  | |
+| Grated Orange Rind | 1      | |
+| Orange Juice       | 2      | For glaze |
+| Sugar              | ½ Cup  | For glaze |
 
 ## Method
 

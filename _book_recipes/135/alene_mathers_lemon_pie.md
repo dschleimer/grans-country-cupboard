@@ -22,8 +22,8 @@ categories:
 | Lemon           | ¼ tsp grated rind & 3 Tblsp juice | tart |
 | Water           | 1 & ⅓ cup                         | |
 | Salt            | ⅓ tsp                             | |
-| Eggs            | 2                                 | separated |
-| Butter          | 1 Tblsp                           | softened |
+| Separated Eggs  | 2                                 | |
+| Softened Butter | 1 Tblsp                           | |
 | Cream of tartar | ¼ tsp                             | |
 | Baked pie shell | one 8" diameter                   | |
 

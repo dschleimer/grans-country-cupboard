@@ -29,7 +29,7 @@ categories:
 | Tomato Juice      | 1 small can | |
 | Red Wine          | 1 cup       | Claret or Burgundy |
 | Onion             | ½ cup       | Finely Minced |
-| Parsley           | ¼ cup       | Chopped |
+| Chopped Parsley   | ¼ cup       | |
 | Bay Leaf          | 1           | |
 | Celery            | ½ cup       | With leaves |
 | Tenderizer        | 1 tsp       | |

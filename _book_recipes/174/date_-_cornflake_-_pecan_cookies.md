@@ -14,17 +14,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient  | Amount | Notes |
-| ----------- | ------ | ----- |
-| Butter      | ½ Cup  | |
-| Sugar       | 1 Cup  | |
-| Eggs        | 2      | Separated |
-| Flour       | 2 Cups | |
-| Baking Soda | ½ tsp  | |
-| Salt        | ½ tsp  | |
-| Dates       | 1 pkg  | Cut up |
-| Pecans      | 2 Cups | In pieces |
-| Cornflakes  | 2 Cups | |
+| Ingredient     | Amount | Notes |
+| -------------- | ------ | ----- |
+| Butter         | ½ Cup  | |
+| Sugar          | 1 Cup  | |
+| Separated Eggs | 2      | |
+| Flour          | 2 Cups | |
+| Baking Soda    | ½ tsp  | |
+| Salt           | ½ tsp  | |
+| Cut Up Dates   | 1 pkg  | |
+| Pecans         | 2 Cups | In pieces |
+| Cornflakes     | 2 Cups | |
 
 ## Method
 

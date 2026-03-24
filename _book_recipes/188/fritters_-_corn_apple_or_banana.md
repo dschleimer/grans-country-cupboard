@@ -16,16 +16,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient        | Amount | Notes |
-| ----------------- | ------ | ----- |
-| Eggs              | 2      | |
-| Milk              | ½ cup  | |
-| Flour             | 1 cup  | |
-| Baking powder     | 1 tsp  | |
-| Salt              | 1 tsp  | |
-| Butter            | 1 tsp  | |
-| Whole Kernel Corn | 1 cup  | drained |
-| Fat               |        | for frying |
+| Ingredient                | Amount | Notes |
+| ------------------------- | ------ | ----- |
+| Eggs                      | 2      | |
+| Milk                      | ½ cup  | |
+| Flour                     | 1 cup  | |
+| Baking powder             | 1 tsp  | |
+| Salt                      | 1 tsp  | |
+| Butter                    | 1 tsp  | |
+| Drained Whole Kernel Corn | 1 cup  | |
+| Fat                       |        | for frying |
 
 ## Method
 1. Beat eggs.

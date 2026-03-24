@@ -18,9 +18,9 @@ categories:
 
 | Ingredient     | Amount     | Notes |
 | -------------- | ---------- | ----- |
-| Chicken        | 2          | Cut Up |
-| Onions         | 2          | Cut Up |
-| Lemon          | 1          | Cut up |
+| Cut Up Chicken | 2          | |
+| Cut Up Onions  | 2          | |
+| Cut Up Lemon   | 1          | |
 | Seasoned Salt  |            | Lowry's |
 | Pepper         |            | |
 | Parsley Flakes | Good Pinch | |

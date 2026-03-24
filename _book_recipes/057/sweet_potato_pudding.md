@@ -15,18 +15,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient     | Amount | Notes |
-| -------------- | ------ | ----- |
-| Sweet Potatoes | 2 cups | Uncooked - Grated |
-| Butter         | ¼ cup  | Melted |
-| Lemon Juice    | 1 tsp  | |
-| Ginger         | pinch  | |
-| Cinnamon       | pinch  | |
-| Ground Cloves  | pinch  | |
-| Salt           | ½ tsp  | |
-| Brown Sugar    | 1 cup  | |
-| Eggs           | 2      | |
-| Pecans         | ½ cup  | Optional - Pieces or meal |
+| Ingredient              | Amount | Notes |
+| ----------------------- | ------ | ----- |
+| Uncooked Sweet Potatoes | 2 cups | Grated |
+| Melted Butter           | ¼ cup  | |
+| Lemon Juice             | 1 tsp  | |
+| Ginger                  | pinch  | |
+| Cinnamon                | pinch  | |
+| Ground Cloves           | pinch  | |
+| Salt                    | ½ tsp  | |
+| Brown Sugar             | 1 cup  | |
+| Eggs                    | 2      | |
+| Pecans                  | ½ cup  | Optional - Pieces or meal |
 
 ## Method
 

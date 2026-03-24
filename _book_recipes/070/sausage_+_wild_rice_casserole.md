@@ -16,13 +16,13 @@ categories:
 
 ## Ingredients
 
-| Ingredient      | Amount      | Notes |
-| --------------- | ----------- | ----- |
-| Sausage         | 1 lb        | Medium Seasoning |
-| Mushrooms       | 1 small can | Pieces, not whole mushrooms |
-| Onions          | 1           | cut up |
-| Wild Rice       | 1 cup       | cooked |
-| Stewed Tomatoes | 1 can       | |
+| Ingredient       | Amount      | Notes |
+| ---------------- | ----------- | ----- |
+| Sausage          | 1 lb        | Medium Seasoning |
+| Mushrooms        | 1 small can | Pieces, not whole mushrooms |
+| Cut Up Onions    | 1           | |
+| Cooked Wild Rice | 1 cup       | |
+| Stewed Tomatoes  | 1 can       | |
 
 ## Method
 1. Preheat oven to 350 °F

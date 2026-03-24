@@ -19,7 +19,7 @@ categories:
 | -------------------- | ------ | ----- |
 | Lump Crab Meat       | 1 lb   | See modern notes |
 | Worcestershire Sauce | 1 Tbsp | |
-| Parsley              | 1 tsp  | Dried |
+| Dried Parsley        | 1 tsp  | |
 | Prepared Mustard     | 1 tsp  | |
 | Curry                | dash   | |
 | Red Pepper           | dash   | |

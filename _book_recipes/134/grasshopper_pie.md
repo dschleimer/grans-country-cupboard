@@ -17,7 +17,7 @@ categories:
 | Ingredient             | Amount  | Notes |
 | ---------------------- | ------- | ----- |
 | Chocolate Wafer Crumbs | 1½ Cups | For crust |
-| Butter                 | ⅓ Cup   | Melted, for crust |
+| Melted Butter          | ⅓ Cup   | for crust |
 | Egg Whites             | 3       | |
 | Salt                   |         | Dash |
 | Sugar                  | 2 Tbsp  | |

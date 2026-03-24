@@ -21,7 +21,7 @@ categories:
 | --------------- | ------- | ----- |
 | Soy Sauce       | ½ cup   | |
 | Sherry          | ¼ cup   | |
-| Garlic          | 1 Clove | Crushed |
+| Crushed Garlic  | 1 Clove | |
 | Ginger          | 1tbsp   | Powdered ginger per original recipe |
 | Top round steak |         | Should be a thin rather than thick cut of steak |
 | Bamboo Skewers  |         | |

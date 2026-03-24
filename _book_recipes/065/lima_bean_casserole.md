@@ -18,8 +18,8 @@ categories:
 | Ingredient             | Amount | Notes |
 | ---------------------- | ------ | ----- |
 | Limas                  | 10 oz  | Recipe calls for 1 package of frozen limas |
-| Onions                 | 2 Tbsp | Chopped |
-| Sharp Cheddar          | ½ cup  | Grated |
+| Chopped Onions         | 2 Tbsp | |
+| Grated Sharp Cheddar   | ½ cup  | |
 | Salt                   | ½ tsp  | |
 | Pepper                 | ⅛ tsp  | |
 | Cream of Mushroom Soup | 1 can  | |

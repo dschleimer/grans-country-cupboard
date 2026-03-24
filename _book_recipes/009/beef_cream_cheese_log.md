@@ -14,15 +14,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient           | Amount | Notes |
-| -------------------- | ------ | ----- |
-| Cream Cheese         | 8 oz   | |
-| Mayonnaise           | 1 Tbsp | |
-| Worcestershire Sauce | ½ tsp  | |
-| Olives               | 2 tbsp | Ripe - Chopped |
-| Parsley              | 1 tbsp | Minced |
-| Onion                | 1 tbsp | Minced |
-| Dried Beef           |        | Finely Chopped |
+| Ingredient                | Amount | Notes |
+| ------------------------- | ------ | ----- |
+| Cream Cheese              | 8 oz   | |
+| Mayonnaise                | 1 Tbsp | |
+| Worcestershire Sauce      | ½ tsp  | |
+| Olives                    | 2 tbsp | Ripe - Chopped |
+| Minced Parsley            | 1 tbsp | |
+| Minced Onion              | 1 tbsp | |
+| Finely Chopped Dried Beef |        | |
 
 ## Method
 1. Chop Olives

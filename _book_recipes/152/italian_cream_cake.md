@@ -15,18 +15,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient          | Amount      | Notes |
-| ------------------- | ----------- | ----- |
-| Butter              | ¾ Cup       | |
-| Sugar               | 2 Cups      | |
-| Egg Yolks           | 5           | Add one at a time |
-| Flour               | 2 Cups      | |
-| Baking Soda         | 1 tsp       | |
-| Buttermilk          | 1 Cup       | |
-| Vanilla             | 1 tsp       | |
-| Angel Flake Coconut | 1 small can | About 3½ oz |
-| Chopped Pecans      | 1 Cup       | |
-| Egg Whites          | 5           | Beaten stiff |
+| Ingredient              | Amount      | Notes |
+| ----------------------- | ----------- | ----- |
+| Butter                  | ¾ Cup       | |
+| Sugar                   | 2 Cups      | |
+| Egg Yolks               | 5           | Add one at a time |
+| Flour                   | 2 Cups      | |
+| Baking Soda             | 1 tsp       | |
+| Buttermilk              | 1 Cup       | |
+| Vanilla                 | 1 tsp       | |
+| Angel Flake Coconut     | 1 small can | About 3½ oz |
+| Chopped Pecans          | 1 Cup       | |
+| Beaten Stiff Egg Whites | 5           | |
 
 ## Method
 

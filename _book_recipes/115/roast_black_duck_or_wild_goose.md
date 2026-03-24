@@ -15,15 +15,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount        | Notes |
-| ---------- | ------------- | ----- |
-| Duck       |               | |
-| Onions     | 2 + 1         | One sliced |
-| Carrot     | 1             | Sliced |
-| Celery     | 2 ribs        | |
-| Garlic     | 1 small clove | |
-| Salt pork  |               | Use salt pork or bacon |
-| Bacon      |               | Use salt pork or bacon |
+| Ingredient    | Amount        | Notes |
+| ------------- | ------------- | ----- |
+| Duck          |               | |
+| Onions        | 2 + 1         | One sliced |
+| Sliced Carrot | 1             | |
+| Celery        | 2 ribs        | |
+| Garlic        | 1 small clove | |
+| Salt pork     |               | Use salt pork or bacon |
+| Bacon         |               | Use salt pork or bacon |
 
 ## Method
 

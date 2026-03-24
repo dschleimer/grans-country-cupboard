@@ -16,12 +16,12 @@ categories:
 
 ## Ingredients
 
-| Ingredient             | Amount | Notes |
-| ---------------------- | ------ | ----- |
-| Green Beans            | 2 cups | Canned - Preferably French Style |
-| Cream of Mushroom Soup | 1 can  | Undiluted |
-| Fried Onion            | 1 can  | |
-| Butter                 | ⅛ lb   | |
+| Ingredient                       | Amount | Notes |
+| -------------------------------- | ------ | ----- |
+| Green Beans                      | 2 cups | Canned - Preferably French Style |
+| Undiluted Cream of Mushroom Soup | 1 can  | |
+| Fried Onion                      | 1 can  | |
+| Butter                           | ⅛ lb   | |
 
 ## Method
 

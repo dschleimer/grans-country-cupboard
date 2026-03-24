@@ -16,18 +16,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient                 | Amount      | Notes |
-| -------------------------- | ----------- | ----- |
-| Ground Beef                | 1½ lbs      | |
-| Green Peppers              | 1 lb        | Chopped |
-| Onions                     | 1 lb        | Chopped |
-| Celery                     | 6 ribs      | With leaves - Cut fine |
-| Mushrooms                  | 8 oz        | Recipe specifies one 8 Oz can |
-| Tomato Soup                | 1 can       | |
-| Tomato Sauce               | 1 large can | |
-| Stuffed Olives             | 1 small jar | |
-| Pennsylvania Dutch Noodles | 1 lb        | Cooked |
-| American Cheese            | ½ lb        | Grated |
+| Ingredient                        | Amount      | Notes |
+| --------------------------------- | ----------- | ----- |
+| Ground Beef                       | 1½ lbs      | |
+| Chopped Green Peppers             | 1 lb        | |
+| Chopped Onions                    | 1 lb        | |
+| Celery                            | 6 ribs      | With leaves - Cut fine |
+| Mushrooms                         | 8 oz        | Recipe specifies one 8 Oz can |
+| Tomato Soup                       | 1 can       | |
+| Tomato Sauce                      | 1 large can | |
+| Stuffed Olives                    | 1 small jar | |
+| Cooked Pennsylvania Dutch Noodles | 1 lb        | |
+| Grated American Cheese            | ½ lb        | |
 
 ## Method
 

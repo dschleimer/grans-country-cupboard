@@ -24,7 +24,7 @@ categories:
 | Eggs          | 1      | |
 | Water         | ⅔ cup  | |
 | Lemon Juice   | ½ Tbsp | |
-| Butter        | 1 Tbsp | Melted |
+| Melted Butter | 1 Tbsp | |
 
 ## Method
 

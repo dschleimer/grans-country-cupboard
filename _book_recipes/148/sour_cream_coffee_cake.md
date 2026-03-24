@@ -14,21 +14,21 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount  | Notes |
-| ------------- | ------- | ----- |
-| Pecan Meats   | ½ Cup   | For streusel |
-| Cinnamon      | ½ tsp   | For streusel |
-| Sugar         | ¼ Cup   | For streusel |
-| Butter        | 1 Cup   | |
-| Sugar         | 1 Cup   | |
-| Egg Yolks     | 3       | |
-| Sour Cream    | 1 Cup   | |
-| Flour         | 1¾ Cups | Sifted |
-| Baking Powder | 1 tsp   | |
-| Baking Soda   | 1 tsp   | |
-| Salt          | ⅛ tsp   | |
-| Egg Whites    | 3       | Beaten stiff |
-| Vanilla       | 1 tsp   | |
+| Ingredient              | Amount  | Notes |
+| ----------------------- | ------- | ----- |
+| Pecan Meats             | ½ Cup   | For streusel |
+| Cinnamon                | ½ tsp   | For streusel |
+| Sugar                   | ¼ Cup   | For streusel |
+| Butter                  | 1 Cup   | |
+| Sugar                   | 1 Cup   | |
+| Egg Yolks               | 3       | |
+| Sour Cream              | 1 Cup   | |
+| Sifted Flour            | 1¾ Cups | |
+| Baking Powder           | 1 tsp   | |
+| Baking Soda             | 1 tsp   | |
+| Salt                    | ⅛ tsp   | |
+| Beaten Stiff Egg Whites | 3       | |
+| Vanilla                 | 1 tsp   | |
 
 ## Method
 

@@ -16,24 +16,24 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount  | Notes |
-| ------------- | ------- | ----- |
-| Butter        | ½ Cup   | |
-| Sugar         | 1 Cup   | |
-| Egg Yolks     | 2       | Beaten |
-| Flour         | 1½ Cups | |
-| Salt          | ½ tsp   | |
-| Baking Powder | 1 tsp   | |
-| Milk          | ⅓ Cup   | |
-| Vanilla       | 1 tsp   | |
-| Egg Whites    | 2       | Beaten stiff |
-| Blueberries   | 1 Cup   | Washed and well drained |
-| Blueberries   | ½ Cup   | For sauce |
-| Sugar         | ½ Cup   | For sauce |
-| Cornstarch    | 1 Tbsp  | For sauce |
-| Boiling Water | 1 Cup   | For sauce |
-| Lemon Juice   | ½ tsp   | For sauce |
-| Butter        | 1 Tbsp  | For sauce |
+| Ingredient              | Amount  | Notes |
+| ----------------------- | ------- | ----- |
+| Butter                  | ½ Cup   | |
+| Sugar                   | 1 Cup   | |
+| Beaten Egg Yolks        | 2       | |
+| Flour                   | 1½ Cups | |
+| Salt                    | ½ tsp   | |
+| Baking Powder           | 1 tsp   | |
+| Milk                    | ⅓ Cup   | |
+| Vanilla                 | 1 tsp   | |
+| Beaten Stiff Egg Whites | 2       | |
+| Blueberries             | 1 Cup   | Washed and well drained |
+| Blueberries             | ½ Cup   | For sauce |
+| Sugar                   | ½ Cup   | For sauce |
+| Cornstarch              | 1 Tbsp  | For sauce |
+| Boiling Water           | 1 Cup   | For sauce |
+| Lemon Juice             | ½ tsp   | For sauce |
+| Butter                  | 1 Tbsp  | For sauce |
 
 ## Method
 

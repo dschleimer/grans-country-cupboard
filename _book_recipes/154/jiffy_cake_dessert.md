@@ -20,7 +20,7 @@ categories:
 | ------------------- | ------ | ----- |
 | Canned Pie Cherries | 1 can  | |
 | Jiffy Cake Mix      | 1 pkg  | Yellow |
-| Butter              | ½ Cup  | Melted |
+| Melted Butter       | ½ Cup  | |
 
 ## Method
 

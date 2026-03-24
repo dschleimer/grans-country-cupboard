@@ -16,16 +16,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount         | Notes |
-| ------------- | -------------- | ----- |
-| Lump Crabmeat | 1 lb           | |
-| Butter        | 4 + 2 Tbsp     | |
-| Green Peppers | 2              | Chopped |
-| Mushrooms     | ½ lb (8oz can) | Sliced |
-| Pimento       | 1              | Diced |
-| Flour         | 2 Tbsp         | |
-| Heavy Cream   | 1 cup          | |
-| Sherry        | ¼ cup          | |
+| Ingredient            | Amount         | Notes |
+| --------------------- | -------------- | ----- |
+| Lump Crabmeat         | 1 lb           | |
+| Butter                | 4 + 2 Tbsp     | |
+| Chopped Green Peppers | 2              | |
+| Sliced Mushrooms      | ½ lb (8oz can) | |
+| Diced Pimento         | 1              | |
+| Flour                 | 2 Tbsp         | |
+| Heavy Cream           | 1 cup          | |
+| Sherry                | ¼ cup          | |
 
 ## Method
 

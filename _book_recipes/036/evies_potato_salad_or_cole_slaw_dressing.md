@@ -16,7 +16,7 @@ categories:
 
 | Ingredient    | Amount   | Notes |
 | ------------- | -------- | ----- |
-| Egg           | 1        | Beaten |
+| Beaten Egg    | 1        | |
 | Sugar         | 3 Tbsp   | |
 | Vinegar       | 3 Tbsp   | |
 | Dried Mustard | ½ Tsp    | |

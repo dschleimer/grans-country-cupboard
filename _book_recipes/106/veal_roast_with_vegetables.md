@@ -16,18 +16,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient     | Amount      | Notes |
-| -------------- | ----------- | ----- |
-| Veal Shoulder  | 4-5 lbs     | Boned and Rolled |
-| Margarine      | 2 Tbsp      | |
-| Onion Soup Mix | 1 envelope  | Lipton's |
-| Apple Juice    | 1 cup       | |
-| Onions         | 1 bag       | Frozen White Onions |
-| White Potatoes | 4           | Quartered |
-| Carrots        | 4 large     | In Pieces |
-| Parsnips       | 2 medium    | Sliced |
-| Mushrooms      | 1 large can | sliced |
-| Flour          | 3 Tbsp      | |
+| Ingredient               | Amount      | Notes |
+| ------------------------ | ----------- | ----- |
+| Veal Shoulder            | 4-5 lbs     | Boned and Rolled |
+| Margarine                | 2 Tbsp      | |
+| Onion Soup Mix           | 1 envelope  | Lipton's |
+| Apple Juice              | 1 cup       | |
+| Onions                   | 1 bag       | Frozen White Onions |
+| Quartered White Potatoes | 4           | |
+| Carrots                  | 4 large     | In Pieces |
+| Sliced Parsnips          | 2 medium    | |
+| Sliced Mushrooms         | 1 large can | |
+| Flour                    | 3 Tbsp      | |
 
 ## Method
 

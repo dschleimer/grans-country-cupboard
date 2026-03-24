@@ -15,15 +15,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount | Notes |
-| ------------- | ------ | ----- |
-| Sugar         | 1 Cup  | |
-| Butter        | 1 Cup  | |
-| Eggs          | 3      | |
-| Flour         | 4 Cups | |
-| Baking Powder | 1 tsp  | |
-| Milk          | 5 Tbsp | |
-| Orange Rind   |        | Grated |
+| Ingredient         | Amount | Notes |
+| ------------------ | ------ | ----- |
+| Sugar              | 1 Cup  | |
+| Butter             | 1 Cup  | |
+| Eggs               | 3      | |
+| Flour              | 4 Cups | |
+| Baking Powder      | 1 tsp  | |
+| Milk               | 5 Tbsp | |
+| Grated Orange Rind |        | |
 
 ## Method
 

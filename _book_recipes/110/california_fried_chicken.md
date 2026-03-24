@@ -23,7 +23,7 @@ categories:
 | Lemon Juice          | 2 Tbsp     | |
 | Worcestershire Sauce | 2 tsp      | |
 | Celery Salt          | 1 tsp      | |
-| Garlic               | 2 cloves   | Minced |
+| Minced Garlic        | 2 cloves   | |
 | Salt                 | 2 tsp      | |
 | Pepper               | 1 tsp      | |
 | Paprika              | ½ tsp      | |

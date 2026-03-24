@@ -18,7 +18,7 @@ categories:
 | ------------- | -------------- | ----- |
 | Butter        | ¼ cup          | |
 | Sugar         | 1 cup + 3 Tbsp | |
-| Egg           | 1              | Beaten |
+| Beaten Egg    | 1              | |
 | Milk          | ½ cup          | |
 | Flour         | 1¾ cups        | |
 | Baking powder | 3 tsp          | |

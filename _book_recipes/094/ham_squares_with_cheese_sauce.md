@@ -18,10 +18,10 @@ categories:
 
 | Ingredient              | Amount   | Notes |
 | ----------------------- | -------- | ----- |
-| Ground Ham              | 2 lbs    | Smoked |
-| Eggs                    | 4        | Beaten |
+| Smoked Ground Ham       | 2 lbs    | |
+| Beaten Eggs             | 4        | |
 | Milk                    | 2 cups   | |
-| Onion                   | 1 small  | minced |
+| Minced Onion            | 1 small  | |
 | Prepared Mustard        | 2 Tbsp   | |
 | Processed Cheese Spread | 8 oz jar | |
 | White Wine              | ⅓ cup    | |

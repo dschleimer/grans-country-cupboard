@@ -22,7 +22,7 @@ categories:
 | Baking Powder  | ½ tsp  | |
 | Salt           |        | |
 | Minced Parsley | 1 Tbsp | |
-| Egg            | 1      | Beaten |
+| Beaten Egg     | 1      | |
 | Milk           | ½ Cup  | |
 | Cooking Oil    | 1 Tbsp | |
 

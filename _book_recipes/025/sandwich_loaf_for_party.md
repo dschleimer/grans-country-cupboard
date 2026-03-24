@@ -32,14 +32,14 @@ categories:
 
 #### Pimento-Nut Filling
 
-| Ingredient   | Amount   | Notes |
-| ------------ | -------- | ----- |
-| Nuts         | ⅓ cup    | Chopped |
-| Pimentos     | 2        | Diced |
-| Cream Cheese | 3 oz     | |
-| Mayonnaise   | 2 Tbsp   | |
-| Salt         | To Taste | |
-| Pepper       | To Taste | |
+| Ingredient     | Amount   | Notes |
+| -------------- | -------- | ----- |
+| Chopped Nuts   | ⅓ cup    | |
+| Diced Pimentos | 2        | |
+| Cream Cheese   | 3 oz     | |
+| Mayonnaise     | 2 Tbsp   | |
+| Salt           | To Taste | |
+| Pepper         | To Taste | |
 
 #### Curried Egg Filling
 

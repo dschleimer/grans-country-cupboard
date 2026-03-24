@@ -14,17 +14,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient  | Amount | Notes |
-| ----------- | ------ | ----- |
-| Brown Sugar | 1 Cup  | |
-| Salt        | ¼ tsp  | |
-| Flour       | 3 Tbsp | |
-| Milk        | 1 Cup  | |
-| Water       | 3 Tbsp | |
-| Egg Yolks   | 2      | Beaten |
-| Butter      | 1 Tbsp | |
-| Vanilla     | 1 tsp  | |
-| Tart Shells |        | About 10, baked |
+| Ingredient       | Amount | Notes |
+| ---------------- | ------ | ----- |
+| Brown Sugar      | 1 Cup  | |
+| Salt             | ¼ tsp  | |
+| Flour            | 3 Tbsp | |
+| Milk             | 1 Cup  | |
+| Water            | 3 Tbsp | |
+| Beaten Egg Yolks | 2      | |
+| Butter           | 1 Tbsp | |
+| Vanilla          | 1 tsp  | |
+| Tart Shells      |        | About 10, baked |
 
 ## Method
 

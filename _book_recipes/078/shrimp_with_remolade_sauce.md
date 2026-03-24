@@ -16,19 +16,19 @@ categories:
 
 ## Ingredients
 
-| Ingredient           | Amount     | Notes |
-| -------------------- | ---------- | ----- |
-| Shrimp               | 3 lbs      | |
-| Mayonnaise           | 1 cup      | |
-| Eggs                 | 2          | Hard Boiled - Chopped |
-| Stuffed Olives       | 6          | Chopped |
-| Green Pepper         | 1 Tbsp     | Chopped |
-| Garlic Powder        | few dashes | |
-| Anchovy Paste        | 1 Tbsp     | Optional |
-| Worcestershire Sauce | 1 tsp      | |
-| Dry Mustard          | 1 tsp      | |
-| Seasoned Salt        |            | |
-| Black Pepper         |            | Fresh Ground |
+| Ingredient             | Amount     | Notes |
+| ---------------------- | ---------- | ----- |
+| Shrimp                 | 3 lbs      | |
+| Mayonnaise             | 1 cup      | |
+| Eggs                   | 2          | Hard Boiled - Chopped |
+| Chopped Stuffed Olives | 6          | |
+| Chopped Green Pepper   | 1 Tbsp     | |
+| Garlic Powder          | few dashes | |
+| Anchovy Paste          | 1 Tbsp     | Optional |
+| Worcestershire Sauce   | 1 tsp      | |
+| Dry Mustard            | 1 tsp      | |
+| Seasoned Salt          |            | |
+| Black Pepper           |            | Fresh Ground |
 
 ## Method
 

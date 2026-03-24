@@ -15,15 +15,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount | Notes |
-| ------------ | ------ | ----- |
-| Fruit        | 9 lbs  | Pared and pitted |
-| Sugar        | 7 lbs  | |
-| Vinegar      | 1 Pint | |
-| Cloves       | 2 Tbsp | Powdered |
-| Cinnamon     | 2 Tbsp | Powdered |
-| Allspice     | 1 Tbsp | |
-| Whole Cloves | Few    | For each jar |
+| Ingredient        | Amount | Notes |
+| ----------------- | ------ | ----- |
+| Fruit             | 9 lbs  | Pared and pitted |
+| Sugar             | 7 lbs  | |
+| Vinegar           | 1 Pint | |
+| Powdered Cloves   | 2 Tbsp | |
+| Powdered Cinnamon | 2 Tbsp | |
+| Allspice          | 1 Tbsp | |
+| Whole Cloves      | Few    | For each jar |
 
 ## Method
 

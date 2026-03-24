@@ -23,7 +23,7 @@ categories:
 | Thick Cream Sauce | ¾ cups  | |
 | Salt              | ½ tsp   | |
 | Lemon Juice       | 1 tsp   | |
-| Egg               | 2 yolks | separated |
+| Separated Egg     | 2 yolks | |
 | Celery Salt       | ½ tsp   | |
 | Onion Juice       | ½ tsp   | |
 | Bread Crumbs      |         | |

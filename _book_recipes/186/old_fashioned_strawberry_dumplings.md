@@ -15,17 +15,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount  | Notes |
-| ------------- | ------- | ----- |
-| Sugar         | ½ Cup   | For berry mixture |
-| Strawberries  | 2 Pints | Hulled |
-| Sugar         | 5 Tbsp  | For topping |
-| Vanilla       | ½ tsp   | Set aside |
-| Flour         | 1 Cup   | |
-| Salt          | ½ tsp   | |
-| Baking Powder | ½ tsp   | |
-| Butter        | 2 Tbsp  | |
-| Milk          | ½ Cup   | |
+| Ingredient          | Amount  | Notes |
+| ------------------- | ------- | ----- |
+| Sugar               | ½ Cup   | For berry mixture |
+| Hulled Strawberries | 2 Pints | |
+| Sugar               | 5 Tbsp  | For topping |
+| Vanilla             | ½ tsp   | Set aside |
+| Flour               | 1 Cup   | |
+| Salt                | ½ tsp   | |
+| Baking Powder       | ½ tsp   | |
+| Butter              | 2 Tbsp  | |
+| Milk                | ½ Cup   | |
 
 ## Method
 

@@ -14,18 +14,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient      | Amount  | Notes |
-| --------------- | ------- | ----- |
-| Butter          | 1 Cup   | |
-| Sugar           | 3 Cups  | |
-| Flour           | 3½ Cups | |
-| Baking Powder   | 3½ tsp  | |
-| Salt            | ½ tsp   | |
-| Milk            | 1 Cup   | |
-| Egg Whites      | 6       | Beaten stiff |
-| Vanilla Extract | ½ tsp   | |
-| Almond Extract  | ½ tsp   | |
-| Coconut         | 2 Cups  | Optional |
+| Ingredient              | Amount  | Notes |
+| ----------------------- | ------- | ----- |
+| Butter                  | 1 Cup   | |
+| Sugar                   | 3 Cups  | |
+| Flour                   | 3½ Cups | |
+| Baking Powder           | 3½ tsp  | |
+| Salt                    | ½ tsp   | |
+| Milk                    | 1 Cup   | |
+| Beaten Stiff Egg Whites | 6       | |
+| Vanilla Extract         | ½ tsp   | |
+| Almond Extract          | ½ tsp   | |
+| Coconut                 | 2 Cups  | Optional |
 
 ## Method
 

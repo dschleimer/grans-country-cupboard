@@ -19,10 +19,10 @@ categories:
 | --------------------- | ------ | ----- |
 | Miniature Cream Puffs | 30     | |
 | Ham                   | 2 cups | Cooked and Ground |
-| Sharp Cheese          | ½ cup  | Grated |
+| Grated Sharp Cheese   | ½ cup  | |
 | Catsup                | ½ cup  | Use catsup OR chili sauce.  Not both |
 | Chili Sauce           | ½ cup  | Use catsup OR chili sauce.  Not both - recipe calls for homemade |
-| Green Pepper          | ¼ cup  | Chopped |
+| Chopped Green Pepper  | ¼ cup  | |
 | Olives                | ¼ cup  | Ripe - Chopped |
 | Garlic Salt           | ⅛ tsp  | |
 | Celery Seed           | ½ tsp  | |

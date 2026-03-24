@@ -22,7 +22,7 @@ categories:
 | Eggs             | 2      | Beaten lightly |
 | Flour            | ¾ Cup  | |
 | Baking Powder    | ¼ tsp  | |
-| Dates            | 1 Cup  | Cut up |
+| Cut Up Dates     | 1 Cup  | |
 | Chopped Walnuts  | 1 Cup  | |
 | Granulated Sugar |        | For rolling |
 

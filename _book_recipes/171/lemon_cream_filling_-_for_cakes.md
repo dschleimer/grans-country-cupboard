@@ -15,16 +15,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount | Notes |
-| ------------- | ------ | ----- |
-| Sugar         | 1 Cup  | |
-| Flour         | 5 Tbsp | |
-| Egg           | 1      | Slightly beaten |
-| Lemon Juice   | ⅓ Cup  | |
-| Water         | ⅔ Cup  | |
-| Butter        | 2 tsp  | |
-| Lemon Rind    |        | Grated, optional |
-| Whipped Cream | ½ Cup  | For spreading |
+| Ingredient        | Amount | Notes |
+| ----------------- | ------ | ----- |
+| Sugar             | 1 Cup  | |
+| Flour             | 5 Tbsp | |
+| Egg               | 1      | Slightly beaten |
+| Lemon Juice       | ⅓ Cup  | |
+| Water             | ⅔ Cup  | |
+| Butter            | 2 tsp  | |
+| Grated Lemon Rind |        | optional |
+| Whipped Cream     | ½ Cup  | For spreading |
 
 ## Method
 

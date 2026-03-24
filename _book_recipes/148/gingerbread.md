@@ -14,21 +14,21 @@ categories:
 
 ## Ingredients
 
-| Ingredient  | Amount  | Notes |
-| ----------- | ------- | ----- |
-| Sugar       | ½ Cup   | |
-| Butter      | ½ Cup   | |
-| Eggs        | 3       | |
-| Molasses    | 1 Cup   | |
-| Flour       | 2½ Cups | Sifted |
-| Baking Soda | 1 tsp   | Dissolved in a little warm water |
-| Cinnamon    | 1 tsp   | |
-| Ginger      | ⅛ tsp   | |
-| Cloves      | ¼ tsp   | |
-| Salt        | ½ tsp   | |
-| Nutmeg      |         | Dash |
-| Brandy      | ½ Cup   | |
-| Hot Water   | ⅔ Cup   | Add last |
+| Ingredient   | Amount  | Notes |
+| ------------ | ------- | ----- |
+| Sugar        | ½ Cup   | |
+| Butter       | ½ Cup   | |
+| Eggs         | 3       | |
+| Molasses     | 1 Cup   | |
+| Sifted Flour | 2½ Cups | |
+| Baking Soda  | 1 tsp   | Dissolved in a little warm water |
+| Cinnamon     | 1 tsp   | |
+| Ginger       | ⅛ tsp   | |
+| Cloves       | ¼ tsp   | |
+| Salt         | ½ tsp   | |
+| Nutmeg       |         | Dash |
+| Brandy       | ½ Cup   | |
+| Hot Water    | ⅔ Cup   | Add last |
 
 ## Method
 

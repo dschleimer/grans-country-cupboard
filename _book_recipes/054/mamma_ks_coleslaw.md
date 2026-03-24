@@ -18,9 +18,9 @@ categories:
 | Ingredient        | Amount       | Notes |
 | ----------------- | ------------ | ----- |
 | Cabbage           | 1 large head | |
-| Celery            | 3 ribs       | Cut fine |
-| Carrots           | 2            | Peeled - Grated |
-| Onion             | 1 small      | Grated |
+| Cut Fine Celery   | 3 ribs       | |
+| Peeled Carrots    | 2            | Grated |
+| Grated Onion      | 1 small      | |
 | Coleslaw Dressing | 1 Jar        | Recipe calls for Kraft brand |
 | Lemon Juice       | 1 Tbsp       | |
 | Salt              | To Taste     | |

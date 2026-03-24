@@ -16,20 +16,20 @@ categories:
 
 ## Ingredients
 
-| Ingredient      | Amount     | Notes |
-| --------------- | ---------- | ----- |
-| Butter          | 2 + 1 Tbsp | |
-| Flour           | 2 Tbsp     | |
-| Dry Mustard     | 1 tsp      | |
-| Milk            | 1 cup      | |
-| Cheddar Cheese  | 1 cup      | Shredded - Recipe calls for 1 cup (4 oz) shredded |
-| Green Pepper    | ¼ cup      | Chopped |
-| Pimento         | 2 Tbsp     | Chopped |
-| Eggs            | 5          | Whites and yolks separated |
-| Pepper          | Dash       | |
-| Sour Cream      | ⅓ cup      | |
-| Cream of Tartar | ½ tsp      | |
-| Dried Beef      | 1 package  | Cut fine - 1 package is 3 or 4 oz, per recipe |
+| Ingredient              | Amount     | Notes |
+| ----------------------- | ---------- | ----- |
+| Butter                  | 2 + 1 Tbsp | |
+| Flour                   | 2 Tbsp     | |
+| Dry Mustard             | 1 tsp      | |
+| Milk                    | 1 cup      | |
+| Shredded Cheddar Cheese | 1 cup      | Recipe calls for 1 cup (4 oz) shredded |
+| Chopped Green Pepper    | ¼ cup      | |
+| Chopped Pimento         | 2 Tbsp     | |
+| Eggs                    | 5          | Whites and yolks separated |
+| Pepper                  | Dash       | |
+| Sour Cream              | ⅓ cup      | |
+| Cream of Tartar         | ½ tsp      | |
+| Cut Fine Dried Beef     | 1 package  | 1 package is 3 or 4 oz, per recipe |
 
 ## Method
 

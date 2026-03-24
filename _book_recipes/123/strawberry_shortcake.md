@@ -15,17 +15,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount | Notes |
-| ------------- | ------ | ----- |
-| Sifted Flour  | 2 Cups | |
-| Salt          | ½ tsp  | |
-| Baking Powder | 3 tsp  | |
-| Butter        | 1 Cup  | |
-| Sugar         |        | |
-| Eggs          | 2      | Beaten |
-| Milk          | ⅔ Cup  | |
-| Strawberries  |        | Fresh |
-| Whipped Cream |        | |
+| Ingredient         | Amount | Notes |
+| ------------------ | ------ | ----- |
+| Sifted Flour       | 2 Cups | |
+| Salt               | ½ tsp  | |
+| Baking Powder      | 3 tsp  | |
+| Butter             | 1 Cup  | |
+| Sugar              |        | |
+| Beaten Eggs        | 2      | |
+| Milk               | ⅔ Cup  | |
+| Fresh Strawberries |        | |
+| Whipped Cream      |        | |
 
 ## Method
 

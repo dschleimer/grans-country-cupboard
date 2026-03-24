@@ -29,9 +29,9 @@ categories:
 | Pepper             |            | |
 | Horseradish        | 2 Tbsp     | |
 | Ground Ham         | 1½ cups    | |
-| Celery             | 1 cup      | Chopped |
-| Parsley            | ¼ cup      | Chopped |
-| Onion              | 1 Tbsp     | Chopped fine |
+| Chopped Celery     | 1 cup      | |
+| Chopped Parsley    | ¼ cup      | |
+| Chopped Fine Onion | 1 Tbsp     | |
 
 ## Method
 

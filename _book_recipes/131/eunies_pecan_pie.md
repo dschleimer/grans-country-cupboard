@@ -14,16 +14,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient        | Amount | Notes |
-| ----------------- | ------ | ----- |
-| Dark Karo         | 1 Cup  | |
-| Eggs              | 3      | Beaten |
-| Vanilla           | ½ tsp  | |
-| Salt              | ½ tsp  | |
-| Melted Butter     | 1 Tbsp | |
-| Sugar             | ½ Cup  | |
-| Pecans            | 1 Cup  | Coarsely chopped |
-| Unbaked Pie Shell | 1      | |
+| Ingredient              | Amount | Notes |
+| ----------------------- | ------ | ----- |
+| Dark Karo               | 1 Cup  | |
+| Beaten Eggs             | 3      | |
+| Vanilla                 | ½ tsp  | |
+| Salt                    | ½ tsp  | |
+| Melted Butter           | 1 Tbsp | |
+| Sugar                   | ½ Cup  | |
+| Coarsely Chopped Pecans | 1 Cup  | |
+| Unbaked Pie Shell       | 1      | |
 
 ## Method
 

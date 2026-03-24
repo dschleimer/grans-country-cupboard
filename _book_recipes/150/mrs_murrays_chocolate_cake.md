@@ -15,17 +15,17 @@ categories:
 
 ## Ingredients
 
-| Ingredient            | Amount    | Notes |
-| --------------------- | --------- | ----- |
-| Butter                | ¼ lb      | |
-| Sugar                 | 2 Cups    | |
-| Eggs                  | 2         | Slightly beaten |
-| Chocolate             | 2 squares | Melted |
-| Flour                 | 2½ Cups   | |
-| Buttermilk            | ½ Cup     | |
-| Baking Soda           | ½ tsp     | |
-| Salt                  | ¼ tsp     | |
-| Vanilla               | 1 tsp     | |
+| Ingredient       | Amount    | Notes |
+| ---------------- | --------- | ----- |
+| Butter           | ¼ lb      | |
+| Sugar            | 2 Cups    | |
+| Eggs             | 2         | Slightly beaten |
+| Melted Chocolate | 2 squares | |
+| Flour            | 2½ Cups   | |
+| Buttermilk       | ½ Cup     | |
+| Baking Soda      | ½ tsp     | |
+| Salt             | ¼ tsp     | |
+| Vanilla          | 1 tsp     | |
 
 ## Method
 

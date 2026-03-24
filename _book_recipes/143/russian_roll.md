@@ -15,18 +15,18 @@ categories:
 
 ## Ingredients
 
-| Ingredient          | Amount | Notes |
-| ------------------- | ------ | ----- |
-| Gelatin             | 1 Tbsp | |
-| Scalded Milk        | 2 Cups | |
-| Egg Yolks           | 3      | Beaten |
-| Sugar               | ½ Cup  | |
-| Salt                | ¼ tsp  | |
-| Vanilla             | 1 tsp  | |
-| Whipping Cream      | 1 Cup  | |
-| Angel Food Cake     | 1      | |
-| Pecans              |        | For garnish |
-| Maraschino Cherries |        | Cut up, for garnish |
+| Ingredient                 | Amount | Notes |
+| -------------------------- | ------ | ----- |
+| Gelatin                    | 1 Tbsp | |
+| Scalded Milk               | 2 Cups | |
+| Beaten Egg Yolks           | 3      | |
+| Sugar                      | ½ Cup  | |
+| Salt                       | ¼ tsp  | |
+| Vanilla                    | 1 tsp  | |
+| Whipping Cream             | 1 Cup  | |
+| Angel Food Cake            | 1      | |
+| Pecans                     |        | For garnish |
+| Cut Up Maraschino Cherries |        | for garnish |
 
 ## Method
 

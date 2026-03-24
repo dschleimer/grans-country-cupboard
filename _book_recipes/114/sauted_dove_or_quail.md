@@ -22,7 +22,7 @@ categories:
 | White Wine        | 1½ cups       | Dinner Wine |
 | Onion             | ½ cup chopped | |
 | Scallions         | ½ cup chopped | |
-| Celery            | 3 Tbsp        | Chopped - with leaves |
+| Chopped Celery    | 3 Tbsp        | with leaves |
 | Salt              | ½ tsp         | |
 | Pepper            | ½ tsp         | |
 | Italian Seasoning | ½ tsp         | |

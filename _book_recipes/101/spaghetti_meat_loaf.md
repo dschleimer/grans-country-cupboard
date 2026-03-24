@@ -15,16 +15,16 @@ categories:
 
 ## Ingredients
 
-| Ingredient   | Amount | Notes |
-| ------------ | ------ | ----- |
-| Ground Beef  | 1 lb   | |
-| Egg          | 1      | Beaten |
-| Salt         | 1¼ tsp | |
-| Pepper       | ¼ tsp  | |
-| Onion        | 4 tbsp | Minced |
-| Spaghetti    |        | Recipe calls for leftover spaghetti - with Sauce |
-| Butter       |        | For Casserole |
-| Sharp Cheese | ½ cup  | Grated |
+| Ingredient          | Amount | Notes |
+| ------------------- | ------ | ----- |
+| Ground Beef         | 1 lb   | |
+| Beaten Egg          | 1      | |
+| Salt                | 1¼ tsp | |
+| Pepper              | ¼ tsp  | |
+| Minced Onion        | 4 tbsp | |
+| Spaghetti           |        | Recipe calls for leftover spaghetti - with Sauce |
+| Butter              |        | For Casserole |
+| Grated Sharp Cheese | ½ cup  | |
 
 ## Method
 

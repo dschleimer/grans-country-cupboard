@@ -16,15 +16,15 @@ categories:
 
 
 #### For Salad
-| Ingredient   | Amount  | Notes |
-| ------------ | ------- | ----- |
-| Pineapple    | 1 large | Ripe |
-| Oranges      | 4       | Sectioned |
-| Grapefruit   | 1       | Sectioned |
-| Strawberries |         | Halved |
-| Raspberries  |         | May substitute for strawberries |
-| Bananas      | 2       | Sliced |
-| Melon        |         | Optional - Balls |
+| Ingredient          | Amount  | Notes |
+| ------------------- | ------- | ----- |
+| Pineapple           | 1 large | Ripe |
+| Oranges             | 4       | Sectioned |
+| Grapefruit          | 1       | Sectioned |
+| Halved Strawberries |         | |
+| Raspberries         |         | May substitute for strawberries |
+| Sliced Bananas      | 2       | |
+| Melon               |         | Optional - Balls |
 
 #### For Dressing
 | Ingredient    | Amount | Notes |

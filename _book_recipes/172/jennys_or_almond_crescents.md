@@ -19,8 +19,8 @@ categories:
 | Butter              | 1 lb   | |
 | Sugar               | 1 Cup  | |
 | Flour               | 4 Cups | |
-| Almonds             | ¾ lb   | Ground - Use Almonds or Pecans, not both |
-| Pecans              | ¾ lb   | Ground - Use Almonds or Pecans, not both |
+| Ground Almonds      | ¾ lb   | Use Almonds or Pecans, not both |
+| Ground Pecans       | ¾ lb   | Use Almonds or Pecans, not both |
 | Salt                | 1 tsp  | |
 | Vanilla             | 1 tsp  | |
 | Confectioners Sugar |        | For rolling |

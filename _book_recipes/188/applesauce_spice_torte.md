@@ -15,13 +15,13 @@ categories:
 
 ## Ingredients
 
-| Ingredient                 | Amount | Notes |
-| -------------------------- | ------ | ----- |
-| Spice Cake Mix             | 1 pkg  | 2-layer size |
-| Fine Graham Cracker Crumbs | 1 Cup  | |
-| Frozen Whipped Topping     | 4 Cups | Thawed |
-| Applesauce                 | 1 Cup  | |
-| Chopped Nuts               | ½ Cup  | |
+| Ingredient                    | Amount | Notes |
+| ----------------------------- | ------ | ----- |
+| Spice Cake Mix                | 1 pkg  | 2-layer size |
+| Fine Graham Cracker Crumbs    | 1 Cup  | |
+| Thawed Frozen Whipped Topping | 4 Cups | |
+| Applesauce                    | 1 Cup  | |
+| Chopped Nuts                  | ½ Cup  | |
 
 ## Method
 

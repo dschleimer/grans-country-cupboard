@@ -18,13 +18,13 @@ categories:
 
 ## Ingredients
 
-| Ingredient | Amount     | Notes |
-| ---------- | ---------- | ----- |
-| Asparagus  | 2 boxes    | |
-| Cheese     | ½ lb       | Velveeta, American, or Cheddar |
-| Butter     | ⅔ cup      | Melted |
-| Salt       | To Taste   | |
-| Cayenne    | Few grains | |
+| Ingredient    | Amount     | Notes |
+| ------------- | ---------- | ----- |
+| Asparagus     | 2 boxes    | |
+| Cheese        | ½ lb       | Velveeta, American, or Cheddar |
+| Melted Butter | ⅔ cup      | |
+| Salt          | To Taste   | |
+| Cayenne       | Few grains | |
 
 ## Method
 

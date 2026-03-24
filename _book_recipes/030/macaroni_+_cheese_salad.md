@@ -14,20 +14,20 @@ categories:
 
 ## Ingredients
 
-| Ingredient     | Amount   | Notes |
-| -------------- | -------- | ----- |
-| Elbow Macaroni | 1 lb     | |
-| Sharp Cheddar  | 8 oz     | Shredded |
-| Green Peppers  | 1 cup    | Chopped |
-| Celery         | 1 cup    | Chopped |
-| Onion          | 2 tsp    | Grated |
-| Salt           | 2 tsp    | |
-| Pepper         | To Taste | |
-| Tabasco Sauce  | Dash     | |
-| Relish         | 2 Tbsp   | |
-| Mayonnaise     | 1½ cups  | |
-| Mustard        | 1½ tsp   | |
-| Vinegar        | 2 tsp    | Sweet Pickle Juice |
+| Ingredient             | Amount   | Notes |
+| ---------------------- | -------- | ----- |
+| Elbow Macaroni         | 1 lb     | |
+| Shredded Sharp Cheddar | 8 oz     | |
+| Chopped Green Peppers  | 1 cup    | |
+| Chopped Celery         | 1 cup    | |
+| Grated Onion           | 2 tsp    | |
+| Salt                   | 2 tsp    | |
+| Pepper                 | To Taste | |
+| Tabasco Sauce          | Dash     | |
+| Relish                 | 2 Tbsp   | |
+| Mayonnaise             | 1½ cups  | |
+| Mustard                | 1½ tsp   | |
+| Vinegar                | 2 tsp    | Sweet Pickle Juice |
 
 ## Method
 1. Cook macaroni as directed on box

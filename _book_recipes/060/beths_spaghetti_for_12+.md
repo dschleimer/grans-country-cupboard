@@ -15,23 +15,23 @@ categories:
 
 ## Ingredients
 
-| Ingredient           | Amount       | Notes |
-| -------------------- | ------------ | ----- |
-| Ground Chuck         | 3 lbs        | |
-| Onions               | 8 large      | Cut up fine |
-| Celery               | 3 ribs       | Cut up fine |
-| Green Pepper         | 1            | Cut up fine |
-| Mushrooms            | 1 large can  | Recipe calls for stems and pieces |
-| Tomatoes             | 2 large cans | |
-| Ragu Sauce           | 32 Oz        | Recipe calls for 2 large jars and then specifies 32 Oz, presumably fluid ounces |
-| Salt                 | To Taste     | |
-| Pepper               | To Taste     | |
-| Italian Seasoning    | To Taste     | |
-| Garlic Powder        | To Taste     | |
-| Worcestershire Sauce | To Taste     | |
-| Parmesan             | 2 Tbsp       | For serving |
-| Cooking Oil          |              | |
-| Spaghetti            |              | |
+| Ingredient               | Amount       | Notes |
+| ------------------------ | ------------ | ----- |
+| Ground Chuck             | 3 lbs        | |
+| Cut Up Fine Onions       | 8 large      | |
+| Cut Up Fine Celery       | 3 ribs       | |
+| Cut Up Fine Green Pepper | 1            | |
+| Mushrooms                | 1 large can  | Recipe calls for stems and pieces |
+| Tomatoes                 | 2 large cans | |
+| Ragu Sauce               | 32 Oz        | Recipe calls for 2 large jars and then specifies 32 Oz, presumably fluid ounces |
+| Salt                     | To Taste     | |
+| Pepper                   | To Taste     | |
+| Italian Seasoning        | To Taste     | |
+| Garlic Powder            | To Taste     | |
+| Worcestershire Sauce     | To Taste     | |
+| Parmesan                 | 2 Tbsp       | For serving |
+| Cooking Oil              |              | |
+| Spaghetti                |              | |
 
 ## Method
 

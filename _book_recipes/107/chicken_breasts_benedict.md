@@ -26,7 +26,7 @@ categories:
 | Water                  | 1 cup    | |
 | White pepper           | ⅛ tsp    | |
 | Salt                   | ¾ tsp    | |
-| Eggs                   | 2        | beaten |
+| Beaten Eggs            | 2        | |
 | Lemon juice            | 2½ Tblsp | |
 | Cayenne                | dash     | |
 

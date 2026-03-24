@@ -17,7 +17,7 @@ categories:
 
 | Ingredient           | Amount          | Notes |
 | -------------------- | --------------- | ----- |
-| Onions               | ½ cup           | Chopped |
+| Chopped Onions       | ½ cup           | |
 | Mushrooms            | 1 can (4oz)     | |
 | Butter               | 2 Tbsp          | |
 | Cream of Shrimp Soup | 1 can           | |
@@ -28,7 +28,7 @@ categories:
 | Pepper               |                 | |
 | Mustard              | little          | |
 | Shrimp               | 1 cup           | Cooked or canned |
-| Rice                 | 3 cups          | Cooked - may substitute noodles or patty shells for rice |
+| Cooked Rice          | 3 cups          | may substitute noodles or patty shells for rice |
 
 ## Method
 

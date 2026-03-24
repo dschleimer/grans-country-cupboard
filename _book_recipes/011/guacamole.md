@@ -26,8 +26,8 @@ categories:
 | Salt                 | 1¼ tsp   | |
 | Tabasco Sauce        | ¼ tsp    | |
 | Worcestershire Sauce | ½ tsp    | |
-| Onion                | 1 tbsp   | Minced |
-| Garlic               | 1 Clove  | Minced |
+| Minced Onion         | 1 tbsp   | |
+| Minced Garlic        | 1 Clove  | |
 | Cream Cheese         | 3 Oz     | |
 | Mayonnaise           | ⅓ Cup    | |
 | Bacon                | 6 slices | Optional - at serving time |

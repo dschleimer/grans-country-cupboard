@@ -14,19 +14,19 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount          | Notes |
-| ------------- | --------------- | ----- |
-| Dates         | 1 cup           | |
-| Water         | 1½ cups         | Boiling |
-| Eggs          | 2               | Beaten light |
-| Sugar         | 1½ cups         | |
-| Flour         | 2¼ cups + extra | Sifted |
-| Baking Soda   | 2 tsp           | |
-| Baking Powder | ½ tsp           | |
-| Salt          | ½ tsp           | |
-| Butter        | 2 Tbsp          | Melted |
-| Vanilla       | 1 tsp           | |
-| Nuts          | 1 cup           | Floured and Chopped |
+| Ingredient        | Amount          | Notes |
+| ----------------- | --------------- | ----- |
+| Dates             | 1 cup           | |
+| Boiling Water     | 1½ cups         | |
+| Beaten Light Eggs | 2               | |
+| Sugar             | 1½ cups         | |
+| Sifted Flour      | 2¼ cups + extra | |
+| Baking Soda       | 2 tsp           | |
+| Baking Powder     | ½ tsp           | |
+| Salt              | ½ tsp           | |
+| Melted Butter     | 2 Tbsp          | |
+| Vanilla           | 1 tsp           | |
+| Nuts              | 1 cup           | Floured and Chopped |
 
 ## Method
 

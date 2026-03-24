@@ -14,15 +14,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount | Notes |
-| ------------- | ------ | ----- |
-| Flour         | 2 Cups | |
-| Baking Powder | 2 tsp  | |
-| Salt          | ½ tsp  | |
-| Egg Yolks     | 3      | Well beaten |
-| Milk          | 1 Cup  | |
-| Melted Butter | 4 tsp  | |
-| Egg Whites    | 3      | Beaten stiff |
+| Ingredient              | Amount | Notes |
+| ----------------------- | ------ | ----- |
+| Flour                   | 2 Cups | |
+| Baking Powder           | 2 tsp  | |
+| Salt                    | ½ tsp  | |
+| Egg Yolks               | 3      | Well beaten |
+| Milk                    | 1 Cup  | |
+| Melted Butter           | 4 tsp  | |
+| Beaten Stiff Egg Whites | 3      | |
 
 ## Method
 

@@ -22,12 +22,12 @@ categories:
 | Salt Pork            | ½ lb         | |
 | Stewed Tomatoes      | 2 cans       | |
 | Worcestershire Sauce | few shakes   | |
-| Onions               | 4 medium     | Cut up |
-| Green Pepper         | 1            | Cut up |
+| Cut Up Onions        | 4 medium     | |
+| Cut Up Green Pepper  | 1            | |
 | Onion Powder         | Big shake    | |
 | Garlic Powder        | Little Shake | |
 | Bay Leaves           | 2            | Remove Before Serving |
-| Parsley              | ½ tsp        | Dried |
+| Dried Parsley        | ½ tsp        | |
 | Tabasco Sauce        | Shake        | |
 | Maggis               | Shake        | Probably this [seasoning sauce](https://en.wikipedia.org/wiki/Maggi) |
 | Seasoned Salt        | Shake        | |

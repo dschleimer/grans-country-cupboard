@@ -20,10 +20,10 @@ categories:
 | Ingredient        | Amount  | Notes |
 | ----------------- | ------- | ----- |
 | Ground Beef       | 1 lb    | |
-| Onion             | 2 large | Chopped |
+| Chopped Onion     | 2 large | |
 | Butter            | 2 Tbsp  | |
 | Tomatoes          | #2 can  | Approximately 2½ cups or 20 ounces |
-| Celery            | ½ cup   | Chopped |
+| Chopped Celery    | ½ cup   | |
 | Salt              | 1½ tsp  | |
 | Pepper            | ¼ tsp   | |
 | Basil             | Pinch   | |

@@ -19,7 +19,7 @@ categories:
 
 | Ingredient        | Amount                   | Notes |
 | ----------------- | ------------------------ | ----- |
-| Onion             | ¼ cup                    | chopped |
+| Chopped Onion     | ¼ cup                    | |
 | Margarine         | ¼ cup                    | or butter |
 | Parsley flakes    | 2 Tbsp                   | |
 | Black pepper      | ⅛ tsp                    | |

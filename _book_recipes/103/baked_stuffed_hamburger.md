@@ -18,20 +18,20 @@ categories:
 
 ## Ingredients
 
-| Ingredient      | Amount         | Notes |
-| --------------- | -------------- | ----- |
-| Ground Beef     | 1½ lbs         | |
-| Parsley         | 4 Tbsp         | Chopped |
-| Onions          | 4 Tbsp         | Chopped |
-| Salt            | 1½ tsp + ½ tsp | |
-| Pepper          | ½ tsp          | |
-| Vegetable Oil   | ¼ cup          | |
-| Bread Crumbs    | 1½ cups        | |
-| Roasted Peanuts | ¾ cup          | Chopped |
-| Pepper          | Few Grains     | |
-| Water           | 2 Tbsp         | |
-| Tomato          |                | Sliced |
-| Bacon           |                | "Bacon curls" |
+| Ingredient              | Amount         | Notes |
+| ----------------------- | -------------- | ----- |
+| Ground Beef             | 1½ lbs         | |
+| Chopped Parsley         | 4 Tbsp         | |
+| Chopped Onions          | 4 Tbsp         | |
+| Salt                    | 1½ tsp + ½ tsp | |
+| Pepper                  | ½ tsp          | |
+| Vegetable Oil           | ¼ cup          | |
+| Bread Crumbs            | 1½ cups        | |
+| Chopped Roasted Peanuts | ¾ cup          | |
+| Pepper                  | Few Grains     | |
+| Water                   | 2 Tbsp         | |
+| Sliced Tomato           |                | |
+| Bacon                   |                | "Bacon curls" |
 
 ## Method
 

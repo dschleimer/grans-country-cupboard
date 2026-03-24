@@ -29,7 +29,7 @@ categories:
 | Pepper                        | ¼ tsp   | |
 | Basil                         | ⅛ tsp   | |
 | Italian Seasoning             | ⅛ tsp   | Optional - May substitute for Basil |
-| Elbow Macaroni                | 2 cups  | Cooked - recipe calls for 2 cups (8 oz package) |
+| Cooked Elbow Macaroni         | 2 cups  | recipe calls for 2 cups (8 oz package) |
 | Parsley Flakes                | 1 tsp   | |
 | Italian Seasoned Bread Crumbs |         | |
 

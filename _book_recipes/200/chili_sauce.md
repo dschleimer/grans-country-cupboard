@@ -17,7 +17,7 @@ categories:
 
 | Ingredient          | Amount  | Notes |
 | ------------------- | ------- | ----- |
-| Red Tomatoes        | 18      | Large |
+| Large Red Tomatoes  | 18      | |
 | Sweet Green Peppers | 4–6     | |
 | Onions              | 8       | Good size |
 | Sugar               | 2 Cups  | |

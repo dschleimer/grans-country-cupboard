@@ -15,14 +15,14 @@ categories:
 
 ## Ingredients
 
-| Ingredient          | Amount  | Notes |
-| ------------------- | ------- | ----- |
-| Raspberry Jello     | 1 pkg   | |
-| Hot Raspberry Juice | 1¼ Cups | And water |
-| Vanilla Ice Cream   | 1 Pint  | |
-| Frozen Raspberries  | 1 pkg   | Drained, reserve juice |
-| Lady Fingers        | 6       | Split |
-| Whipped Cream       |         | For topping |
+| Ingredient                 | Amount  | Notes |
+| -------------------------- | ------- | ----- |
+| Raspberry Jello            | 1 pkg   | |
+| Hot Raspberry Juice        | 1¼ Cups | And water |
+| Vanilla Ice Cream          | 1 Pint  | |
+| Drained Frozen Raspberries | 1 pkg   | reserve juice |
+| Lady Fingers               | 6       | Split |
+| Whipped Cream              |         | For topping |
 
 ## Method
 

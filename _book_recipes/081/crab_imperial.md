@@ -15,21 +15,21 @@ categories:
 
 ## Ingredients
 
-| Ingredient           | Amount        | Notes |
-| -------------------- | ------------- | ----- |
-| Lump Crab Meat       | 1½ lbs        | |
-| Green Pepper         | ¼ cup         | Chopped |
-| Sweet Red Pepper     | ¼ cup         | Chopped |
-| Onion                | ¼ cup         | Chopped |
-| Butter               | ½ cup + extra | |
-| Mayonnaise           | ½ cup         | |
-| Parsley              | 2 Tbsp        | Chopped |
-| Worcestershire Sauce | 2 tsp         | |
-| Prepared Mustard     | ½ tsp         | |
-| Salt                 | ½ tsp         | |
-| Pepper               |               | Freshly Ground Black Pepper |
-| Crab shells          | 6             | |
-| Paprika              |               | |
+| Ingredient               | Amount        | Notes |
+| ------------------------ | ------------- | ----- |
+| Lump Crab Meat           | 1½ lbs        | |
+| Chopped Green Pepper     | ¼ cup         | |
+| Chopped Sweet Red Pepper | ¼ cup         | |
+| Chopped Onion            | ¼ cup         | |
+| Butter                   | ½ cup + extra | |
+| Mayonnaise               | ½ cup         | |
+| Chopped Parsley          | 2 Tbsp        | |
+| Worcestershire Sauce     | 2 tsp         | |
+| Prepared Mustard         | ½ tsp         | |
+| Salt                     | ½ tsp         | |
+| Pepper                   |               | Freshly Ground Black Pepper |
+| Crab shells              | 6             | |
+| Paprika                  |               | |
 
 ## Method
 

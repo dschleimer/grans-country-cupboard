@@ -22,7 +22,7 @@ categories:
 | Salt          | 1½ tsp  | |
 | Pepper        | ¼ tsp   | |
 | Parsley       | 2 Tblsp | fresh minced |
-| Flour         | 3 Tbsp  | sifted |
+| Sifted Flour  | 3 Tbsp  | |
 | Onion         | 1       | small grated |
 
 ## Method

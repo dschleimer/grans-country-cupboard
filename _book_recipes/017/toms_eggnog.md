@@ -23,7 +23,7 @@ categories:
 | Whole Milk      | 1 pint | |
 | Blended Whiskey | 1 pint | |
 | Jamaican Rum    | 1.5 oz | |
-| Nutmeg          |        | Grated - for glasses |
+| Grated Nutmeg   |        | for glasses |
 
 ## Method
 1. Beat egg yolks
