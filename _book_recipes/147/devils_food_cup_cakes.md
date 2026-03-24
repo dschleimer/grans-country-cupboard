@@ -23,7 +23,7 @@ categories:
 | Baking Soda           | 1 tsp     | Dissolved in milk |
 | Milk                  | ½ Cup     | |
 | Vanilla               | 1 tsp     | |
-| Unsweetened Chocolate | 2 squares | Melted |
+| Chocolate             | 2 squares | Melted |
 
 ## Method
 

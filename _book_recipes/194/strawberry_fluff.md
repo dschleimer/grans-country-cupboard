@@ -17,7 +17,7 @@ categories:
 | Ingredient          | Amount | Notes |
 | ------------------- | ------ | ----- |
 | Egg Whites          | 2      | |
-| Sugar               | ½ Cup  | |
+| Gran. Sugar         | ½ Cup  | |
 | Frozen Strawberries | 1 pkg  | Thawed |
 | Whipped Cream       | ½ Cup  | |
 | Lemon Juice         |        | A few drops |

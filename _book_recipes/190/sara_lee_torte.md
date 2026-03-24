@@ -16,15 +16,15 @@ categories:
 
 | Ingredient          | Amount | Notes |
 | ------------------- | ------ | ----- |
-| Pound Cake          | 1      | Sara Lee or similar |
-| Coffee Liqueur      | 3 tsp  | |
+| Sara Lee Cake       | 1      | |
+| Coffee Liqueur      | 1 tsp  | Per layer |
 | Whipping Cream      | 1 Pint | |
 | Maraschino Cherries | ¼ Cup  | Chopped |
 | Whole Cherries      |        | For garnish |
 
 ## Method
 
-1. Slice the pound cake horizontally into thirds
+1. Slice the Sara Lee cake horizontally into thirds
 1. Sprinkle each layer with 1 tsp coffee liqueur
 1. Whip the cream until stiff and stir in chopped maraschino cherries
 1. Spread whipped cream between layers, on top, and on the sides

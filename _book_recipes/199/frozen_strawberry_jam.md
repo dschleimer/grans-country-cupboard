@@ -21,7 +21,7 @@ categories:
 | Water            | ¾ Cup   | |
 | Sure-Jell        | 1 Box   | |
 | Mashed Berries   | 4 Cups  | |
-| White Karo Syrup | 1 Cup   | |
+| White Karo       | 1 Cup   | |
 | Sugar            | 5½ Cups | |
 
 ## Method

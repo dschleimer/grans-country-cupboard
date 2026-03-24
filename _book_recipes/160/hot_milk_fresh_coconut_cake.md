@@ -25,7 +25,7 @@ categories:
 | Milk                | 1 Cup  | |
 | Butter              | ⅓ Cup  | |
 | Vanilla             | ½ tsp  | |
-| Lemon Extract       | 1 tsp  | Optional |
+| Lemon               | 1 tsp  | Optional |
 | Fresh Coconut       | 1      | For topping |
 | Confectioners Sugar |        | For icing |
 | Butter              |        | For icing |

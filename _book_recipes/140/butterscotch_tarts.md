@@ -24,7 +24,7 @@ categories:
 | Egg Yolks   | 2      | Beaten |
 | Butter      | 1 Tbsp | |
 | Vanilla     | 1 tsp  | |
-| Tart Shells |        | About 10, prebaked |
+| Tart Shells |        | About 10, baked |
 
 ## Method
 

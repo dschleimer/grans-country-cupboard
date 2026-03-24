@@ -16,7 +16,7 @@ categories:
 
 | Ingredient            | Amount   | Notes |
 | --------------------- | -------- | ----- |
-| Unsweetened Chocolate | 1 square | |
+| Chocolate             | 1 square | |
 | Milk                  | 2 Cups   | |
 | Instant Tapioca       | 3 Tbsp   | |
 | Egg Yolk              | 1        | |

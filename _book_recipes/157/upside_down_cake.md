@@ -20,7 +20,7 @@ categories:
 | Butter              | 3 Tbsp | For topping |
 | Brown Sugar         | 1 Cup  | For topping |
 | Pineapple Slices    |        | Or canned peaches |
-| Maraschino Cherries |        | A few |
+| Cherries            |        | A few |
 | Nuts                |        | A few |
 | Brown Sugar         | ½ Cup  | For batter |
 | Egg                 | 1      | Well beaten |

@@ -22,7 +22,7 @@ categories:
 | Tapioca             | ½ Cup  | |
 | Confectioners Sugar | ¾ Cup  | |
 | Lemons              | 2      | Juiced |
-| Heavy Cream         | 1 pt   | Whipped |
+| Heavy Cream         | 1 qt   | Whipped |
 | Chopped Pecans      | 1 Cup  | |
 | Macaroons           | 1 doz  | Crumbled |
 

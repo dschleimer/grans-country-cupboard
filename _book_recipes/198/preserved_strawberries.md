@@ -18,7 +18,7 @@ categories:
 
 | Ingredient       | Amount  | Notes |
 | ---------------- | ------- | ----- |
-| Strawberries     | 1 Quart | Washed, stemmed |
+| Berries          | 1 Quart | Washed, stemmed |
 | Granulated Sugar | 2 lbs   | |
 
 ## Method

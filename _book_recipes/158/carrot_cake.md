@@ -25,6 +25,7 @@ categories:
 | Cinnamon              | 1 tsp   | |
 | Salt                  | 1 tsp   | |
 | Chopped Walnuts       | ½ Cup   | |
+| Eggs                  | 4       | |
 | Cooked Grated Carrots | 4 Cups  | |
 
 ## Method

@@ -22,7 +22,7 @@ categories:
 | Angel Flake Coconut | 1 Can  | 3½ oz |
 | Brown Sugar         | 1 Cup  | |
 | Yellow Cake Mix     | ½ pkg  | |
-| Butter              | ¼ lb   | |
+| Margarine           | ¼ lb   | |
 | Chopped Nuts        | 1 Cup  | |
 
 ## Method

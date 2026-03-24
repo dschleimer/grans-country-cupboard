@@ -20,7 +20,7 @@ categories:
 | Butter                | ¼ lb      | |
 | Sugar                 | 2 Cups    | |
 | Eggs                  | 2         | Slightly beaten |
-| Unsweetened Chocolate | 2 squares | Melted |
+| Chocolate             | 2 squares | Melted |
 | Flour                 | 2½ Cups   | |
 | Buttermilk            | ½ Cup     | |
 | Baking Soda           | ½ tsp     | |

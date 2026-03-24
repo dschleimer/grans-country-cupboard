@@ -23,7 +23,7 @@ categories:
 | Butter                | ¼ lb      | |
 | Sugar                 | 1 Cup     | |
 | Egg Yolks             | 2         | Well beaten |
-| Unsweetened Chocolate | 3 squares | Melted |
+| Chocolate             | 3 squares | Melted |
 | Milk                  | 1½ Cups   | |
 | Vanilla               | 1 tsp     | |
 | Egg Whites            | 2         | Beaten stiff |

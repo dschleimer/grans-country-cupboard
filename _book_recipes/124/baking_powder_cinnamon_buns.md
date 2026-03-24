@@ -17,7 +17,7 @@ categories:
 
 | Ingredient    | Amount | Notes |
 | ------------- | ------ | ----- |
-| Flour         | 2 Cups | |
+| Sifted Flour  | 2 Cups | |
 | Sugar         | ¼ Cup  | |
 | Shortening    | 4 Tbsp | |
 | Milk          | 1 Cup  | |

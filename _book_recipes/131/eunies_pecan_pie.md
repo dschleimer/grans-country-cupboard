@@ -16,7 +16,7 @@ categories:
 
 | Ingredient        | Amount | Notes |
 | ----------------- | ------ | ----- |
-| Dark Karo Syrup   | 1 Cup  | |
+| Dark Karo         | 1 Cup  | |
 | Eggs              | 3      | Beaten |
 | Vanilla           | ½ tsp  | |
 | Salt              | ½ tsp  | |

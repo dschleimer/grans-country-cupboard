@@ -19,7 +19,7 @@ categories:
 | ----------- | ------ | ----- |
 | Sugar       | 1 Cup  | |
 | Lemon Juice | ½ Cup  | |
-| Whole Milk  | 3 Cups | |
+| Milk        | 3 Cups | |
 
 ## Method
 

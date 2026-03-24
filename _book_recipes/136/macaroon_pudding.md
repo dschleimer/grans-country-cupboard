@@ -25,6 +25,7 @@ categories:
 | Almond Extract   | 1 tsp   | Or vanilla |
 | Butter           | 4 tsp   | |
 | Almond Macaroons | ½ lb    | |
+| Egg Whites       | 4       | |
 
 ## Method
 

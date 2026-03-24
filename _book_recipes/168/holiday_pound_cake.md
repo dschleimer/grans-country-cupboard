@@ -22,7 +22,7 @@ categories:
 | Vanilla                | 2 tsp   | |
 | Lemon Peel             | 1 tsp   | Grated |
 | Eggs                   | 9       | Large, add one at a time |
-| Candied Red Cherries   | 1 Cup   | Chopped |
+| Candied Cherries       | 1 Cup   | Chopped |
 | Candied Green Cherries | 1 Cup   | Chopped |
 | Pecans                 | 1 Cup   | Finely chopped |
 | Flour                  | 3½ Cups | Plus 1 cup for tossing |
