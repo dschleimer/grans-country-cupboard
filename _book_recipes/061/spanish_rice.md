@@ -19,7 +19,7 @@ categories:
 | Tomatoes              | 1 Large can    | |
 | Sharp Cheese Cut Fine | ½ lb           | |
 | Onions                | 5 med          | Sliced Thin |
-| Uncooked Rice         | 6 Tbsp         | |
+| Raw Rice         | 6 Tbsp         | |
 | Hot Water             | ½ cup          | |
 | Stuffed Olives        | 1 Small bottle | Including Juice |
 | Bacon Drippings       | 1 Tbsp         | |

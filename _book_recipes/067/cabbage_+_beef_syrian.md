@@ -23,7 +23,7 @@ categories:
 | Cream of Mushroom Soup | 1 can       | |
 | Tomato Soup            | 1 can       | |
 | Ground Chuck           | 1 lb        | |
-| Cut Up Fine Onion      | 1 med.      | |
+| Onion Cut Up Fine      | 1 med.      | |
 | Worcestershire Sauce   |             | |
 
 ## Method

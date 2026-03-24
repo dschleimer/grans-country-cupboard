@@ -17,7 +17,7 @@ categories:
 
 | Ingredient               | Amount  | Notes |
 | ------------------------ | ------- | ----- |
-| Boneless Chicken Breasts | 4       | Skinless - Cooked - Cut bite size |
+| Boneless Skinless Chicken Breasts | 4       | Cooked - Cut bite size |
 | Cream of Chicken Soup    | 2 cans  | |
 | Lemon Juice              | 2 tsp   | |
 | Mayonnaise               | ¾ cup   | Recipe specifies Hellman's Blue Ribbon Mayonnaise |

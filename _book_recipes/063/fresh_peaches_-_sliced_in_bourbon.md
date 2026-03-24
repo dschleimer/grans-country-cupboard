@@ -16,7 +16,7 @@ categories:
 
 | Ingredient     | Amount           | Notes |
 | -------------- | ---------------- | ----- |
-| Peeled Peaches | 6 medium         | Sliced |
+| Peeled Sliced Peaches | 6 medium         | Sliced |
 | Bourbon        | ⅓ cup            | |
 | Ascorbic Acid  | See modern Notes | |
 | Sour Cream     |                  | For serving |

@@ -19,8 +19,8 @@ categories:
 | Squash                    | 2 lbs    | |
 | Beaten Eggs               | 2        | |
 | Mayonnaise                | 1 cup    | Blue Ribbon Mayonnaise |
-| Chopped Fine Onion        | 1        | |
-| Chopped Fine Green pepper | ¼ cup    | |
+| Onion Chopped Fine        | 1        | |
+| Green Pepper Chopped Fine | ¼ cup    | |
 | Parmesan                  | 1 cup    | |
 | Salt                      | To Taste | |
 | Pepper                    | To Taste | |
