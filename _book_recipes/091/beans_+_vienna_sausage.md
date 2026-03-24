@@ -21,7 +21,7 @@ categories:
 | Kidney Beans                 | 16 oz          | Cut - Canned - Drained |
 | Butter Beans                 | 16 oz          | Cut - Canned - Drained |
 | Pork + Beans in Tomato Sauce | 16 oz          | Cut - Canned - Drained |
-| Horseradish Sauce            | 2 Tbsp         | |
+| Horseradish             | 2 Tbsp         | |
 | Salt                         | 1 tsp          | |
 | Pepper                       | ¼ tsp          | |
 | Vienna Sausage               | 10 oz (2 cans) | |

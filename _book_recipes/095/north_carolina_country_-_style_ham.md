@@ -35,7 +35,7 @@ categories:
 1. Trim fat
 1. Place whole Cloves in fat side, about 1 inch apart
 1. Sprinkle with brown sugar
-1. Bake about ½ hour
+1. Bake about 1 hour
 1. Slice thinly
 1. Serve Hot or Cold
 1. Keep refrigerated until all is used

@@ -24,7 +24,7 @@ categories:
 | Salt                      | ½ tsp   | |
 | Pepper                    |         | |
 | Milk                      | 2 cups  | |
-| Cubed All-American Cheese | ¼ lb    | |
+| Cubed American Cheese | ¼ lb    | |
 | Chopped Shallot           | ¼ cup   | |
 | Diced Pimento             | ¼ cup   | |
 | Cooked Ham                | 1½ cups | Cubed |

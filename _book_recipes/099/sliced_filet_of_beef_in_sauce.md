@@ -24,7 +24,7 @@ categories:
 | Dry Red Wine     | 1½ cup | |
 | Butter           | ¼ lb   | |
 | Minced Parsley   | 2 tsp  | |
-| Salt             | ½ tsp  | |
+| Salt             | 1½ tsp  | |
 | Black Pepper     | ¼ tsp  | Fresh Ground |
 
 ## Method

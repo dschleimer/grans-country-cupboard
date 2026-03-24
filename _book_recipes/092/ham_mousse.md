@@ -31,7 +31,7 @@ categories:
 | Ground Ham         | 1½ cups    | |
 | Chopped Celery     | 1 cup      | |
 | Chopped Parsley    | ¼ cup      | |
-| Chopped Fine Onion | 1 Tbsp     | |
+| Onion Chopped Fine | 1 Tbsp     | |
 
 ## Method
 
