@@ -21,7 +21,7 @@ categories:
 | Pepper               | ½ tsp  | |
 | Beaten Eggs          | 2 + 2  | See modern notes |
 | Finely Chopped Onion | ⅓ cup  | |
-| Dry Mustard          | ½ tsp  | |
+| Dry Mustard          | 2 tsp  | |
 | Mayonnaise           | 3 Tbsp | |
 | Flour                |        | |
 | Bread Crumbs         |        | Fine Dry Bread Crumbs |

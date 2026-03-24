@@ -21,7 +21,7 @@ categories:
 | Salt                   |                         | |
 | Brandy                 | 1 oz                    | |
 | Mushrooms              | ½ lb                    | Chop - Saute |
-| Soft White Bread Cubes | 3½ cups                 | |
+| Soft Bread Cubes | 3½ cups                 | |
 | Melted Butter          | ⅓ cup                   | |
 | Garlic                 | Touch                   | |
 | Apple                  | 1 cup chopped + 1 whole | Whole apple should be shiny red |

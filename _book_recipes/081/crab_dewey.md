@@ -33,8 +33,9 @@ categories:
 1. Chop Green peppers
 1. Slice Mushrooms if not pre-sliced
 1. Sauté green pepper and mushrooms in 2 Tbsp butter
-1. Add flour and stir
-1. Add pimento and cream
+1. Add pimento
+1. Add flour and mix well
+1. Add cream
 1. Stir until thickened
 1. Add crab and sherry
 1. Cook until everything is piping hot but do not let boil.

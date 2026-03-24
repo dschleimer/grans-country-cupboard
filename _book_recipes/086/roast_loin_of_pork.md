@@ -35,11 +35,11 @@ categories:
   * wash Sauerkraut and place in bottom of roasting pan
   * cut up onion, core and slice apple, and place in bottom of roasting pan with Sauerkraut
 1. Roast 2½ to 3 hours or until meat is tender
+1. Sprinkle with Salt
+1. Serve
 
 ## Notes From Gran
 
-* Sprinkle with salt
-* Serve
 * Good hot or cold
 
 ## Modern Notes

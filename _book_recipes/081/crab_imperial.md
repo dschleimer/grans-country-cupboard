@@ -25,7 +25,7 @@ categories:
 | Mayonnaise               | ½ cup         | |
 | Chopped Parsley          | 2 Tbsp        | |
 | Worcestershire Sauce     | 2 tsp         | |
-| Prepared Mustard         | ½ tsp         | |
+| Prepared Mustard         | 2 tsp         | |
 | Salt                     | ½ tsp         | |
 | Pepper                   |               | Freshly Ground Black Pepper |
 | Crab shells              | 6             | |

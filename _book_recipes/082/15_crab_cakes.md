@@ -23,7 +23,7 @@ categories:
 | Milk                 | 2 cups   | |
 | Nutmeg               | 1 dash   | |
 | Red Pepper           | 1 dash   | |
-| Chopped Fine Parsley | 1 dash   | |
+| Parsley Chopped Fine | 1 dash   | |
 | Salt                 | to taste | |
 | Bread crumbs         |          | |
 | Crisco               |          | all-vegetable shortening |

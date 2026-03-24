@@ -30,7 +30,7 @@ categories:
 1. Preheat Oven to 350 °F
 2. Season chops with Salt and Pepper
 3. Brown chops in greased skillet
-4. Place chop in a shallow baking dish
+4. Place chops in a shallow baking dish
 5. Combine Soup, 1 soup can of water, and Catsup
 1. Pour soup mixture over meat
 1. Cover with foil

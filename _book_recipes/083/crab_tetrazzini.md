@@ -16,7 +16,7 @@ categories:
 
 | Ingredient      | Amount     | Notes |
 | --------------- | ---------- | ----- |
-| Fresh Crab Meat | ½ lb       | frozen, or canned |
+| Crab Meat | ½ lb       | fresh, frozen, or canned |
 | Minced Shallots | ½ Tbsp     | |
 | Butter          | 2 + 1 Tbsp | |
 | Paprika         | ½ tsp      | |

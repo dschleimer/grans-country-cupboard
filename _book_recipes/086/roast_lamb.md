@@ -23,7 +23,7 @@ categories:
 | Pepper      |          | |
 | Rosemary    |          | |
 | Garlic      |          | |
-| Onion       | 2 slices | On top |
+| Onion       |  | On top |
 
 ## Method
 
