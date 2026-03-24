@@ -24,7 +24,7 @@ categories:
 | Onions               | 6 large        | |
 | Bay Leaves           | 2              | Remove before serving |
 | Dried Parsley        | 1½ Tbsp        | |
-| Uncooked Rice        | 1 cup          | |
+| Raw Rice        | 1 cup          | |
 | Turkey Gravy         | 2 cups         | More if available |
 | Tabasco Sauce        | 3 good shakes  | |
 | Worcestershire Sauce | 1 Tbsp         | |

@@ -28,7 +28,7 @@ categories:
 | Dried Lentils      | ½ cup       | |
 | Dried Peas         | ½ cup       | |
 | Parsley            | 2 Tbsp      | Parsley Flakes |
-| Cut Up Potatoes    | 2           | White potatoes |
+| Cut Up White Potatoes    | 2           |  |
 | Turnip             | 1           | Optional - cut up |
 | Frozen Limas       | 1 box       | |
 | Frozen Green Beans | 1 box       | |

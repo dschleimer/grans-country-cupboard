@@ -26,7 +26,7 @@ categories:
 | Tomatoes                   | 1 large can   | Can also use peeled fresh tomatoes |
 | Ham Hocks                  | 3-6           | Meaty |
 | Ham bones                  |               | |
-| Dried Parsley              | 1 Tbsp        | |
+| Dried Parsley              | 2 Tbsp        | |
 | Worcestershire Sauce       | few shakes    | |
 | Tabasco Sauce              | Couple shakes | |
 | Seasoned Salt              | To taste      | |
