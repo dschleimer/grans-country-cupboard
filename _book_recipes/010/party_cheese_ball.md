@@ -23,8 +23,8 @@ categories:
 | Shredded Sharp Cheddar | 8 oz   | |
 | Roquefort              | 6 Oz   | |
 | Minced Onion           | 2 Tbsp | |
-| Pimento                | 1 Tbsp | Optional - Chopped |
-| Green Pepper           | 1 Tbsp | Optional - Chopped |
+| Chopped Pimento                | 1 Tbsp | Optional |
+| Chopped Green Pepper           | 1 Tbsp | Optional |
 | Worcestershire Sauce   | 2 tsp  | |
 | Garlic Salt            | Dash   | |
 | Cayenne Pepper         | Dash   | |

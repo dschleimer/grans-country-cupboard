@@ -22,7 +22,7 @@ categories:
 | Chopped Ripe Olives       | 2 tbsp | |
 | Minced Parsley            | 1 tbsp | |
 | Minced Onion              | 1 tbsp | |
-| Finely Chopped Dried Beef |        | |
+| Finely Snipped Dried Beef |        | |
 
 ## Method
 1. Chop Olives

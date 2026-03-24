@@ -17,9 +17,9 @@ categories:
 
 | Ingredient            | Amount   | Notes |
 | --------------------- | -------- | ----- |
-| Bacon Bits            | ½ cup    | should be crisp |
+| Crisp Bacon Bits            | ½ cup    |  |
 | Finely Chopped Celery | ½ cup    | |
-| Diced Fine Apple      | ½ medium | |
+| Apple Diced Fine      | ½ medium | |
 | Cream Cheese          | 3 oz     | 3 oz used to be a standard "small" brick of Cream Cheese |
 | Mayonnaise            |          | |
 | Chopped Nuts          |          | |

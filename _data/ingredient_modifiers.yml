@@ -20,28 +20,27 @@ prefixes:
   - Boneless
   - Candied
   - Chopped
-  - Chopped Fine
-  - Coarsely Chopped
+  - Coarse
+  - Coarsely
   - Cold
   - Cooked
+  - Crisp
   - Crumbled
   - Crushed
   - Cubed
-  - Cut Fine
+  - Cut
   - Cut Up
-  - Cut Up Fine
   - Diced
-  - Diced Fine
   - Drained
   - Dried
   - Dry
-  - Finely Chopped
+  - Finely
+  - Fine
   - Flaked
   - Fresh
   - Frozen
   - Grated
   - Ground
-  - Ground Fine
   - Halved
   - Hot
   - Hulled
@@ -65,13 +64,14 @@ prefixes:
   - Slivered
   - Small
   - Smoked
+  - Snipped
   - Soft
   - Softened
   - Stiffly Beaten
   - Thawed
   - Thick
   - Thin
-  - Thinly Sliced
+  - Thinly
   - Tiny
   - Uncooked
   - Undiluted
@@ -87,24 +87,20 @@ suffixes:
   - Boneless
   - Candied
   - Chopped
-  - Chopped Fine
   - Coarsely Chopped
   - Cooked
   - Crumbled
   - Crushed
   - Cubed
-  - Cut Fine
+  - Cut
   - Cut Up
-  - Cut Up Fine
   - Diced
-  - Diced Fine
   - Drained
   - Dried
   - Dry
-  - Flaked
+  - Fine
   - Grated
   - Ground
-  - Ground Fine
   - Halved
   - Hulled
   - Mashed
