@@ -24,7 +24,8 @@ categories:
 | Sugar                   | 1 Cup    | |
 | Sifted Flour            | 2 Cups   | |
 | Baking Soda             | 2 tsp    | Dissolved in sour milk |
-| Sour Milk or Buttermilk | ½ Cup    | |
+| Sour Milk               | ½ Cup    | May substitute Buttermilk |
+| Buttermilk              | ½ Cup    | May substitute for Sour Milk |
 | Salt                    | ½ tsp    | |
 | Vanilla                 | 1 tsp    | |
 | Egg Whites              | 2        | Beaten stiff |

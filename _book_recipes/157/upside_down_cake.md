@@ -22,7 +22,6 @@ categories:
 | Pineapple Slices    |        | Or canned peaches |
 | Maraschino Cherries |        | A few |
 | Nuts                |        | A few |
-| Batter              | 1      | For batter |
 | Brown Sugar         | ½ Cup  | For batter |
 | Egg                 | 1      | Well beaten |
 | Salt                | ¼ tsp  | |

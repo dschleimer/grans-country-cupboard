@@ -19,7 +19,8 @@ categories:
 | ---------------------- | ------ | ----- |
 | Fresh Fruit            | 3 Cups | Peaches, raspberries, or strawberries |
 | Sugar                  | ½ Cup  | For fruit |
-| Flour or Quick Tapioca | 2 Tbsp | For fruit |
+| Flour                  | 2 Tbsp | For fruit - Use Flour or Quick Tapioca, not both |
+| Quick Tapioca          | 2 Tbsp | For fruit - Use Flour or Quick Tapioca, not both |
 | Cinnamon               | ½ tsp  | For fruit |
 | Butter                 | 2 Tbsp | For dotting fruit |
 | Flour                  | 2 Cups | For topping |

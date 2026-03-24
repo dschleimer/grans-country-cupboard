@@ -24,10 +24,12 @@ categories:
 | White Raisins             | 1 Box   | |
 | Currants                  | ½ lb    | |
 | Citron                    | ½ lb    | |
-| Mixed Lemon + Orange Peel | ½ lb    | Candied |
+| Lemon Peel                | ¼ lb    | Candied - Combined ½ lb with Orange Peel |
+| Orange Peel               | ¼ lb    | Candied - Combined ½ lb with Lemon Peel |
 | Candied Cherries          | ½ lb    | |
 | Candied Pineapple         | ½ lb    | |
-| Pecans or Walnuts         | ½ lb    | Chopped |
+| Pecans                    | ½ lb    | Chopped - Use Pecans or Walnuts, not both |
+| Walnuts                   | ½ lb    | Chopped - Use Pecans or Walnuts, not both |
 | Apples                    | 4       | Peeled and diced |
 | Molasses                  | 1 Tbsp  | |
 | Sour Cream                | 1 Cup   | |

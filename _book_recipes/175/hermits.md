@@ -26,7 +26,9 @@ categories:
 | Nuts                        | 1 Cup   | Chopped (pecans) |
 | White Raisins               | 1 Cup   | |
 | Figs                        | 6       | Cut up fine |
-| Citron, Orange + Lemon Peel | 1½ Cups | Cut up |
+| Citron                      |         | Cut up - Combined 1½ Cups with Orange and Lemon Peel |
+| Orange Peel                 |         | Cut up - Combined 1½ Cups with Citron and Lemon Peel |
+| Lemon Peel                  |         | Cut up - Combined 1½ Cups with Citron and Orange Peel |
 | Lemon Rind                  | 1 tsp   | Grated |
 | Cinnamon                    | 1 tsp   | |
 | Cloves                      | ¼ tsp   | |
