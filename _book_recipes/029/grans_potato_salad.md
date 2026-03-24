@@ -25,7 +25,7 @@ categories:
 | Vinegar               | 2 Tbsp     | |
 | Mayonnaise            | 6 Tbsp     | |
 | Eggs                  | 3          | Hard Boiled - sliced |
-| Celery                | 1 cup      | Chopped  fine |
+| Finely Chopped Celery                | 1 cup      |  |
 | Minced Parsley        | ⅛ cup      | |
 | Sliced Pimento Olives | 12         | |
 | Prepared Mustard      | 1 tsp      | |
