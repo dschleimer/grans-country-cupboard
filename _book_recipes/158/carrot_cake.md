@@ -26,7 +26,7 @@ categories:
 | Salt                  | 1 tsp   | |
 | Chopped Walnuts       | ½ Cup   | |
 | Eggs                  | 4       | |
-| Cooked Grated Carrots | 4 Cups  | |
+| Cooked Mashed Carrots | 4 Cups  | |
 
 ## Method
 
@@ -42,7 +42,7 @@ categories:
 
 ## Modern Notes
 
-* This version uses cooked (not raw) grated carrots, which gives a smoother, moister cake -- Claude (AI)
+* This version uses cooked mashed carrots, which gives a smoother, moister cake -- Claude (AI)
 * Wesson Oil is a vegetable oil — any neutral cooking oil will work -- Claude (AI)
 * "Scant" means slightly less than the full measurement -- Claude (AI)
 

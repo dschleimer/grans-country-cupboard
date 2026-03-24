@@ -16,20 +16,20 @@ categories:
 
 ## Ingredients
 
-| Ingredient            | Amount          | Notes |
-| --------------------- | --------------- | ----- |
-| Softened Cream Cheese | 8 oz            | |
-| Cream                 | 3 oz            | |
-| Butter                | ½ + ¼ lb        | Divided |
-| Powdered Sugar        | 1 lb            | |
-| Chocolate             | 6 oz            | Semi-Sweet |
-| Water                 | ¼ cup           | |
-| Eggs                  | 3               | |
-| Flour                 | 2¼ cups + extra | |
-| Baking Soda           | 1 tsp           | Original recipe calls for just "soda" |
-| Salt                  | 1 tsp           | |
-| Buttermilk            | 1 cup           | |
-| Vanilla               | 1 tsp           | |
+| Ingredient     | Amount          | Notes |
+| -------------- | --------------- | ----- |
+| Cream Cheese   | 8 oz            | |
+| Cream          | 3 oz            | |
+| Butter         | ½ + ¼ lb        | Divided |
+| Powdered Sugar | 1 lb            | |
+| Chocolate      | 6 oz            | Semi-Sweet |
+| Water          | ¼ cup           | |
+| Eggs           | 3               | |
+| Flour          | 2¼ cups + extra | |
+| Baking Soda    | 1 tsp           | Original recipe calls for just "soda" |
+| Salt           | 1 tsp           | |
+| Buttermilk     | 1 cup           | |
+| Vanilla        | 1 tsp           | |
 
 ## Method
 

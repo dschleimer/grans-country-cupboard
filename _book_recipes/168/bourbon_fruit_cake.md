@@ -17,23 +17,23 @@ categories:
 
 ## Ingredients
 
-| Ingredient              | Amount | Notes |
-| ----------------------- | ------ | ----- |
-| Bourbon                 | 3 Cups | For soaking fruit |
-| Chopped Citron          |        | |
-| Candied Cherries        |        | |
-| Candied Orange Peel     |        | |
-| Candied Lemon Peel      |        | |
-| Candied Pineapple       |        | |
-| White Raisins           |        | |
-| Butter                  | 2 Cups | |
-| Brown Sugar             | 2 Cups | |
-| Egg Yolks               | 10     | Add one at a time |
-| Flour                   | 3 Cups | |
-| Pecans                  | 2 Cups | |
-| Nutmeg                  | 1 tsp  | |
-| Baking Powder           | 1½ tsp | |
-| Beaten Stiff Egg Whites | 10     | |
+| Ingredient          | Amount | Notes |
+| ------------------- | ------ | ----- |
+| Bourbon             | 3 Cups | For soaking fruit |
+| Chopped Citron      |        | |
+| Candied Cherries    |        | |
+| Candied Orange Peel |        | |
+| Candied Lemon Peel  |        | |
+| Candied Pineapple   |        | |
+| White Raisins       |        | |
+| Butter              | 2 Cups | |
+| Brown Sugar         | 2 Cups | |
+| Egg Yolks           | 10     | Add one at a time |
+| Flour               | 3 Cups | |
+| Pecans              | 2 Cups | |
+| Nutmeg              | 1 tsp  | |
+| Baking Powder       | 1½ tsp | |
+| Egg Whites          | 10     | |
 
 ## Method
 

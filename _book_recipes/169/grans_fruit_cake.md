@@ -19,7 +19,7 @@ categories:
 | ------------------- | ------- | ----- |
 | Sugar               | 2 Cups  | |
 | Butter              | 1 lb    | |
-| Separated Eggs      | 8       | |
+| Eggs                | 8       | |
 | Seedless Raisins    | 1 Box   | |
 | White Raisins       | 1 Box   | |
 | Currants            | ½ lb    | |

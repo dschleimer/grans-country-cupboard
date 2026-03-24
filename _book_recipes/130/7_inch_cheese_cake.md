@@ -20,7 +20,7 @@ categories:
 | Butter                   | ¼ lb          | |
 | Nutmeg                   | ⅛ tsp         | |
 | Cinnamon                 | ¼ tsp         | |
-| Softened Cream cheese    | 6 oz          | |
+| Cream Cheese             | 6 oz          | |
 | Beaten Egg               | 1             | |
 | Sugar                    | ¼ cup + 1 tsp | |
 | Vanilla                  | ½ tsp + 1 tsp | |

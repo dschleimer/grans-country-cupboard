@@ -26,7 +26,7 @@ categories:
 | Salt                |        | |
 | Pepper              |        | |
 | Cut Up Green Pepper | 1      | |
-| Cut Up Onion        | 1 med  | |
+| Onion               | 1 med  | |
 | Creamettes          | 1 pkg  | This is a brand of pasta - Use Creamettes or Macaroni, not both |
 | Macaroni            | ½ pkg  | Use Creamettes or Macaroni, not both |
 | Parmesan Cheese     |        | |

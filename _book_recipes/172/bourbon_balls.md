@@ -16,15 +16,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient             | Amount  | Notes |
-| ---------------------- | ------- | ----- |
-| Crushed Vanilla Wafers | 1 Cup   | |
-| Crushed Pecans         | 1 Cup   | |
-| Confectioners Sugar    | 1 Cup   | |
-| Cocoa                  | 2 Tbsp  | |
-| White Corn Syrup       | 1½ Tbsp | |
-| Bourbon                | ¼ Cup   | |
-| Confectioners Sugar    |         | For rolling |
+| Ingredient          | Amount  | Notes |
+| ------------------- | ------- | ----- |
+| Vanilla Wafers      | 1 Cup   | |
+| Crushed Pecans      | 1 Cup   | |
+| Confectioners Sugar | 1 Cup   | |
+| Cocoa               | 2 Tbsp  | |
+| White Corn Syrup    | 1½ Tbsp | |
+| Bourbon             | ¼ Cup   | |
+| Confectioners Sugar |         | For rolling |
 
 ## Method
 

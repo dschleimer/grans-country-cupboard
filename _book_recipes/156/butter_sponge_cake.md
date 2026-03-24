@@ -16,15 +16,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient    | Amount  | Notes |
-| ------------- | ------- | ----- |
-| Egg Yolks     | 11      | |
-| Sifted Sugar  | 2 Cups  | |
-| Scalded Milk  | 1 Cup   | |
-| Vanilla       | 1 tsp   | |
-| Sifted Flour  | 2½ Cups | |
-| Baking Powder | 2 tsp   | |
-| Melted Butter | ⅓ Cup   | |
+| Ingredient     | Amount  | Notes |
+| -------------- | ------- | ----- |
+| Egg Yolks      | 11      | |
+| Sifted Sugar   | 2 Cups  | |
+| Scalded Milk   | 1 Cup   | |
+| Vanilla        | 1 tsp   | |
+| Unsifted Flour | 2½ Cups | |
+| Baking Powder  | 2 tsp   | |
+| Melted Butter  | ⅓ Cup   | |
 
 ## Method
 

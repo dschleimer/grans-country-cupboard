@@ -17,13 +17,13 @@ categories:
 
 #### Cheese Filling
 
-| Ingredient            | Amount | Notes |
-| --------------------- | ------ | ----- |
-| Softened Cream cheese | 8 oz   | |
-| Sugar                 | ⅔ cup  | |
-| Sour Cream            | ½ cup  | |
-| Vanilla               | 1 tsp  | |
-| Eggs                  | 2      | unbeaten |
+| Ingredient   | Amount | Notes |
+| ------------ | ------ | ----- |
+| Cream Cheese | 8 oz   | |
+| Sugar        | ⅔ cup  | |
+| Sour Cream   | ½ cup  | |
+| Vanilla      | 1 tsp  | |
+| Eggs         | 2      | unbeaten |
 
 #### Cake Base
 

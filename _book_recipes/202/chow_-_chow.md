@@ -14,21 +14,21 @@ categories:
 
 ## Ingredients
 
-| Ingredient                 | Amount | Notes |
-| -------------------------- | ------ | ----- |
-| Ground Fine Large Onions   | 3      | |
-| Ground Fine Green Tomatoes | 5      | |
-| Ground Fine Peppers        | 6      | |
-| Green Beans                | 2 Cups | Cut in 1" pieces |
-| Cauliflower                | 2 Cups | Small buds |
-| Lima Beans                 | 2 Cups | |
-| Pickling Salt              | ¾ Cup  | |
-| Sugar                      | 3 Cups | |
-| Mustard Seed               | 1 Tbsp | |
-| Celery Seed                | ½ tsp  | |
-| Turmeric                   | ¾ tsp  | |
-| Vinegar                    | 2 Cups | |
-| Water                      | 1 Cup  | |
+| Ingredient     | Amount | Notes |
+| -------------- | ------ | ----- |
+| Large Onions   | 3      | Coarsely ground |
+| Green Tomatoes | 5      | Coarsely ground |
+| Peppers        | 6      | Coarsely ground |
+| Green Beans    | 2 Cups | Cut in 1" pieces |
+| Cauliflower    | 2 Cups | Small buds |
+| Lima Beans     | 2 Cups | |
+| Pickling Salt  | ¾ Cup  | |
+| Sugar          | 3 Cups | |
+| Mustard Seed   | 1 Tbsp | |
+| Celery Seed    | ½ tsp  | |
+| Turmeric       | ¾ tsp  | |
+| Vinegar        | 2 Cups | |
+| Water          | 1 Cup  | |
 
 ## Method
 

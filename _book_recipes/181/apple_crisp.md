@@ -22,7 +22,7 @@ categories:
 | Baking powder | 1 tsp     | |
 | Salt          | ¾ tsp     | |
 | Egg           | 1         | unbeaten |
-| Melted Butter | ¼ cup     | |
+| Butter        | ¼ cup     | |
 | Cinnamon      | ½ tsp     | |
 | Whipped cream |           | |
 

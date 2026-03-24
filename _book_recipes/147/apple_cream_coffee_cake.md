@@ -20,7 +20,7 @@ categories:
 | Chopped Walnuts | ½ cup         | Use Pecans or Walnuts, not both |
 | Cinnamon        | 2 tsp         | |
 | Sugar           | ½ cup + 1 cup | |
-| Softened Butter | ½ cup         | |
+| Butter          | ½ cup         | |
 | Eggs            | 2             | |
 | Vanilla         | 1 tsp         | |
 | Flour           | 2 cups        | |

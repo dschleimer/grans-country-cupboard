@@ -15,15 +15,15 @@ categories:
 
 ## Ingredients
 
-| Ingredient                   | Amount    | Notes |
-| ---------------------------- | --------- | ----- |
-| Butter                       | 4 Tbsp    | |
-| Melted Unsweetened Chocolate | 2 Squares | |
-| Hot Water                    |           | |
-| Confectioners Sugar          | 2 Cups    | |
-| Cocoa                        | 2 Tbsp    | |
-| Vanilla                      | 1 tsp     | |
-| Cream                        |           | As needed for consistency |
+| Ingredient            | Amount    | Notes |
+| --------------------- | --------- | ----- |
+| Butter                | 4 Tbsp    | |
+| Unsweetened Chocolate | 2 Squares | |
+| Hot Water             |           | |
+| Confectioners Sugar   | 2 Cups    | |
+| Cocoa                 | 2 Tbsp    | |
+| Vanilla               | 1 tsp     | |
+| Cream                 |           | As needed for consistency |
 
 ## Method
 

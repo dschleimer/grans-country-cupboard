@@ -15,20 +15,20 @@ categories:
 
 ## Ingredients
 
-| Ingredient             | Amount | Notes |
-| ---------------------- | ------ | ----- |
-| Lettuce                |        | |
-| Sliced Cucumber        | 1      | |
-| Chopped Red Onion      | 1      | |
-| Scallions              |        | Optional - May substitute for Onion |
-| Oil                    |        | |
-| Garlic Salt            |        | |
-| Wine Vinegar           |        | |
-| Artichoke Hearts       |        | |
-| Marinated Greek Olives |        | |
-| Croutons               |        | |
-| Chopped Egg            |        | \[presumably hard boiled first\] |
-| Ground Pepper          |        | |
+| Ingredient                 | Amount | Notes |
+| -------------------------- | ------ | ----- |
+| Lettuce                    |        | |
+| Sliced Cucumber            | 1      | |
+| Chopped Red Onion          | 1      | |
+| Scallions                  |        | Optional - May substitute for Onion |
+| Oil                        |        | |
+| Garlic Salt                |        | |
+| Wine Vinegar               |        | |
+| Marinated Artichoke Hearts |        | |
+| Greek Olives               |        | |
+| Croutons                   |        | |
+| Chopped Egg                |        | \[presumably hard boiled first\] |
+| Ground Pepper              |        | |
 
 ## Method
 

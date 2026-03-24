@@ -23,7 +23,7 @@ categories:
 | Water           | 1 & ⅓ cup                         | |
 | Salt            | ⅓ tsp                             | |
 | Separated Eggs  | 2                                 | |
-| Softened Butter | 1 Tblsp                           | |
+| Butter          | 1 Tblsp                           | |
 | Cream of tartar | ¼ tsp                             | |
 | Baked pie shell | one 8" diameter                   | |
 
