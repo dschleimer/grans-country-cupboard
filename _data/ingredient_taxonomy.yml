@@ -100,6 +100,7 @@ Meat:
     - name: Liver Pâté
     - name: Meat
     - name: Pork
+      see_also: [Lard]
       variations:
         - name: Bacon
           variations:
@@ -165,6 +166,7 @@ Seafood:
         - Crab Shells
         - She-Crab Meat
     - name: Fish
+      see_also: [Tuna]
       variations:
         - name: Anchovy
           variations:
@@ -303,6 +305,7 @@ Fruits:
         - Grape Juice
     - name: Italian Plums
     - name: Lemon
+      see_also: [Lemon Extract]
       variations:
         - Lemon Juice
         - Lemon Peel
@@ -312,6 +315,7 @@ Fruits:
         - Lime Juice
     - name: Melon
     - name: Orange
+      see_also: [Instant Orange Mix]
       variations:
         - Orange Juice
         - Orange Peel
@@ -428,6 +432,7 @@ Sauces and Condiments:
     - name: Pepperidge Farm Dressing
     - name: Pickle Juice
     - name: Pimento
+      see_also: [Pimento Cheese, Pimento Olives]
     - name: Ragu Sauce
     - name: Relish
       variations:
@@ -519,6 +524,7 @@ Sweeteners:
     - name: Sugar Cane
 
 Oils and Fats:
+  see_also: [Butter]
   members:
     - name: Cooking Oil
     - name: Fat
@@ -598,7 +604,8 @@ Baked Goods:
       variations:
         - Cracker Crumbs
         - Graham Cracker Crumbs
-        - Graham Crackers
+        - name: Graham Crackers
+          see_also: [Graham Cracker Crust]
         - Saltines
     - name: Croutons
     - name: English Muffins
