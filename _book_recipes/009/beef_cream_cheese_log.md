@@ -19,7 +19,7 @@ categories:
 | Cream Cheese              | 8 oz   | |
 | Mayonnaise                | 1 Tbsp | |
 | Worcestershire Sauce      | ½ tsp  | |
-| Olives                    | 2 tbsp | Ripe - Chopped |
+| Chopped Ripe Olives       | 2 tbsp | |
 | Minced Parsley            | 1 tbsp | |
 | Minced Onion              | 1 tbsp | |
 | Finely Chopped Dried Beef |        | |
