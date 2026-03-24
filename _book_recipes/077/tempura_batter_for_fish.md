@@ -21,7 +21,7 @@ categories:
 | ------------- | ------- | ----- |
 | Flour         | 1¾ cups | |
 | Egg           | 1       | Well-beaten |
-| Water         | 1¼ cups | |
+| Water         | 1¾ cups | |
 | Salt          | dash    | |
 | Filet of Fish |         | |
 
