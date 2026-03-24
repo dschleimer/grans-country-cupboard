@@ -21,7 +21,7 @@ categories:
 | Sliced Carrot      | 1        | |
 | Sliced Onion       | 1        | |
 | Diced Celery       | 2 ribs   | |
-| Cut Fine Parsley   | 2 sprigs | |
+| Parsley Cut Fine   | 2 sprigs | |
 | Bay Leaf           | ½        | |
 | Peppercorns        | ½ tsp    | |
 | Cloves             | 2        | |

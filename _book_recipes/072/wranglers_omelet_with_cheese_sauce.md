@@ -29,7 +29,7 @@ categories:
 | Pepper                  | Dash       | |
 | Sour Cream              | ⅓ cup      | |
 | Cream of Tartar         | ½ tsp      | |
-| Cut Fine Dried Beef     | 1 package  | 1 package is 3 or 4 oz, per recipe |
+| Dried Beef Cut Fine     | 1 package  | 1 package is 3 or 4 oz, per recipe |
 
 ## Method
 

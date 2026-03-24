@@ -27,7 +27,7 @@ categories:
 | Red Pepper      | dash    | |
 | Sugar           | 1 Tbsp  | |
 | Flour           | 1 Tbsp  | |
-| Cut Fine Celery | 6 ribs  | |
+| Celery Cut Fine | 6 ribs  | |
 | Capers          | 20      | Optional |
 | Olives          | 1 dozen | Optional - Ripe - Cut Up |
 

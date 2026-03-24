@@ -17,7 +17,7 @@ categories:
 | Ingredient            | Amount         | Notes |
 | --------------------- | -------------- | ----- |
 | Tomatoes              | 1 Large can    | |
-| Cut Fine Sharp Cheese | ½ lb           | |
+| Sharp Cheese Cut Fine | ½ lb           | |
 | Onions                | 5 med          | Sliced Thin |
 | Uncooked Rice         | 6 Tbsp         | |
 | Hot Water             | ½ cup          | |

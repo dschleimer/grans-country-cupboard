@@ -23,7 +23,7 @@ categories:
 | Quartered Onions    | 2      | |
 | Peeled Carrots      | 2      | Chopped |
 | Cut Up Green Pepper | 1      | |
-| Cut Fine Celery     | 1 rib  | |
+| Celery Cut Fine     | 1 rib  | |
 | Quartered Tomato    | 1      | |
 | Bay Leaves          | 4      | |
 | Flour               | 3 Tbsp | |

@@ -20,7 +20,7 @@ categories:
 | ------------------------ | --------- | ----- |
 | Cooked Noodles           | 1 Package | |
 | Boneless Chicken Breasts | 3         | Skinless - Cooked - Cut bite size |
-| Cut Fine Celery          | 1 cup     | |
+| Celery Cut Fine          | 1 cup     | |
 | Cheese Soup              | 1 can     | |
 | Celery Soup              | 1 can     | Use Celery *OR* Mushroom soup, not both |
 | Mushroom Soup            | 1 can     | Use Celery *OR* Mushroom soup, not both |
