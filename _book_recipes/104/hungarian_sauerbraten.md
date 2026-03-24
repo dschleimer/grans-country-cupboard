@@ -21,7 +21,7 @@ categories:
 | Boneless Top Round  | 2 lbs  | |
 | Oil                 | 3 Tbsp | |
 | Quartered Onions    | 2      | |
-| Peeled Carrots      | 2      | Chopped |
+| Peeled Chopped Carrots      | 2      |  |
 | Cut Up Green Pepper | 1      | |
 | Celery Cut Fine     | 1 rib  | |
 | Quartered Tomato    | 1      | |

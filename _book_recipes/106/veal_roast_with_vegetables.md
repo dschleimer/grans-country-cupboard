@@ -22,7 +22,7 @@ categories:
 | Margarine                | 2 Tbsp      | |
 | Onion Soup Mix           | 1 envelope  | Lipton's |
 | Apple Juice              | 1 cup       | |
-| Onions                   | 1 bag       | Frozen White Onions |
+| White Onions                   | 1 bag       | Frozen  |
 | Quartered White Potatoes | 4           | |
 | Carrots                  | 4 large     | In Pieces |
 | Sliced Parsnips          | 2 medium    | |
