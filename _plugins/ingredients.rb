@@ -9,26 +9,10 @@ module Ingredients
     class IngredientsGenerator < Jekyll::Generator
         safe true
 
-        # Modifier prefixes — preparation words that don't change identity.
-        # Must match _tools/fix_ingredients.py MODIFIER_PREFIXES.
-        MODIFIER_PREFIXES = [
-            "Finely Chopped", "Thinly Sliced",
-            "Melted", "Softened", "Grated", "Chopped", "Sliced", "Crushed",
-            "Dried", "Fresh", "Cooked", "Roasted", "Minced", "Slivered",
-            "Diced", "Shredded", "Mashed", "Candied", "Flaked", "Boiling",
-            "Hot", "Cold", "Warm", "Scalded", "Sifted", "Blanched",
-            "Frozen", "Instant", "Large", "Small", "Tiny", "Raw", "Peeled",
-        ].sort_by { |m| -m.length }  # longest first
-
-        MODIFIER_SUFFIXES = [
-            "Melted", "Softened", "Grated", "Chopped", "Sliced", "Crushed",
-            "Dried", "Cooked", "Roasted", "Minced", "Slivered", "Diced",
-            "Shredded", "Mashed", "Candied", "Flaked", "Sifted", "Blanched",
-        ]
-
         def generate(site)
             @taxonomy = load_taxonomy(site)
             @mappings = load_mappings(site)
+            load_modifiers(site)
             @canonical_set, @canonical_to_aisle, @canonical_to_parent,
                 @see_also_map, @canonical_variations = flatten_taxonomy(@taxonomy)
 
@@ -55,6 +39,12 @@ module Ingredients
             result = {}
             raw.each { |k, v| result[k.downcase] = v if v }
             result
+        end
+
+        def load_modifiers(site)
+            data = site.data["ingredient_modifiers"] || {}
+            @modifier_prefixes = (data["prefixes"] || []).sort_by { |m| -m.length }
+            @modifier_suffixes = (data["suffixes"] || []).sort_by { |m| -m.length }
         end
 
         def flatten_taxonomy(taxonomy)
@@ -162,7 +152,7 @@ module Ingredients
             return singular_match if singular_match
 
             # 4. Try modifier prefix stripping
-            MODIFIER_PREFIXES.each do |mod|
+            @modifier_prefixes.each do |mod|
                 mod_lower = mod.downcase
                 if key.start_with?(mod_lower + " ")
                     remainder = normalized[(mod.length + 1)..].strip
@@ -175,7 +165,7 @@ module Ingredients
             end
 
             # 5. Try modifier suffix stripping (e.g., "Cheese - Grated")
-            MODIFIER_SUFFIXES.each do |mod|
+            @modifier_suffixes.each do |mod|
                 mod_lower = mod.downcase
                 [" - ", ", "].each do |sep|
                     suffix = sep + mod_lower

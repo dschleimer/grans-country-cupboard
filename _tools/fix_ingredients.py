@@ -34,31 +34,23 @@ TOOLS_DIR = Path(__file__).parent
 REPO_ROOT = TOOLS_DIR.parent
 TAXONOMY_PATH = REPO_ROOT / "_data" / "ingredient_taxonomy.yml"
 MAPPINGS_PATH = TOOLS_DIR / "ingredient_mappings.yml"
+MODIFIERS_PATH = REPO_ROOT / "_data" / "ingredient_modifiers.yml"
 STATS_DIR = REPO_ROOT / ".recipe_stats"
 
 ALL_DASHES = re.compile(r"^\s*-+\s*$")
 
-# Modifier prefixes — preparation words that don't change the identity.
-# Explicit mappings always win over modifier stripping.
-# This is the single source of truth for modifier lists.
-MODIFIER_PREFIXES = [
-    "Melted", "Softened", "Grated", "Chopped", "Sliced", "Crushed",
-    "Dried", "Fresh", "Cooked", "Roasted", "Minced", "Slivered",
-    "Diced", "Shredded", "Mashed", "Candied", "Flaked", "Boiling",
-    "Hot", "Cold", "Warm", "Scalded", "Sifted", "Blanched",
-    "Finely Chopped", "Thinly Sliced", "Frozen", "Instant",
-    "Large", "Small", "Tiny", "Raw", "Peeled",
-]
-# Sort longest first so multi-word modifiers match before single-word ones
-MODIFIER_PREFIXES.sort(key=lambda m: -len(m))
 
-# Modifier suffixes — preparation words appearing after the ingredient,
-# typically separated by " - " (e.g., "Cheese - Grated").
-MODIFIER_SUFFIXES = [
-    "Melted", "Softened", "Grated", "Chopped", "Sliced", "Crushed",
-    "Dried", "Cooked", "Roasted", "Minced", "Slivered", "Diced",
-    "Shredded", "Mashed", "Candied", "Flaked", "Sifted", "Blanched",
-]
+def load_modifiers():
+    """Load modifier lists from the shared YAML data file."""
+    data = yaml.safe_load(MODIFIERS_PATH.read_text(encoding="utf-8")) or {}
+    prefixes = data.get("prefixes", [])
+    prefixes.sort(key=lambda m: -len(m))
+    suffixes = data.get("suffixes", [])
+    suffixes.sort(key=lambda m: -len(m))
+    return prefixes, suffixes
+
+
+MODIFIER_PREFIXES, MODIFIER_SUFFIXES = load_modifiers()
 
 
 # ---------------------------------------------------------------------------

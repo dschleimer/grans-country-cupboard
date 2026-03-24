@@ -1,0 +1,132 @@
+# Ingredient modifiers — preparation words stripped during normalization.
+# Shared by _plugins/ingredients.rb and _tools/fix_ingredients.py.
+# Alpha-sorted here; consumers sort longest-first at load time.
+#
+# The resolution chain checks taxonomy variants and explicit mappings
+# BEFORE modifier stripping, so words that also appear as taxonomy
+# variant prefixes (e.g., "Ground", "Whole", "Dry") are safe here —
+# taxonomy matches take priority.
+#
+# Excluded (identity-changers / meta-instructions):
+#   Juiced   — changes identity ("Juiced Lemon" = lemon juice)
+#   Divided  — portioning instruction, not preparation
+
+prefixes:
+  - Beaten
+  - Beaten Light
+  - Beaten Stiff
+  - Blanched
+  - Boiling
+  - Boneless
+  - Candied
+  - Chopped
+  - Chopped Fine
+  - Coarsely Chopped
+  - Cold
+  - Cooked
+  - Crumbled
+  - Crushed
+  - Cubed
+  - Cut Fine
+  - Cut Up
+  - Cut Up Fine
+  - Diced
+  - Diced Fine
+  - Drained
+  - Dried
+  - Dry
+  - Finely Chopped
+  - Flaked
+  - Fresh
+  - Frozen
+  - Grated
+  - Ground
+  - Ground Fine
+  - Halved
+  - Hot
+  - Hulled
+  - Instant
+  - Large
+  - Mashed
+  - Melted
+  - Minced
+  - Peeled
+  - Pitted
+  - Powdered
+  - Quartered
+  - Raw
+  - Roasted
+  - Scalded
+  - Separated
+  - Shredded
+  - Sifted
+  - Sliced
+  - Slivered
+  - Small
+  - Smoked
+  - Soft
+  - Softened
+  - Stiffly Beaten
+  - Thawed
+  - Thick
+  - Thin
+  - Thinly Sliced
+  - Tiny
+  - Uncooked
+  - Undiluted
+  - Warm
+  - Whipped
+  - Whole
+
+suffixes:
+  - Beaten
+  - Beaten Light
+  - Beaten Stiff
+  - Blanched
+  - Boneless
+  - Candied
+  - Chopped
+  - Chopped Fine
+  - Coarsely Chopped
+  - Cooked
+  - Crumbled
+  - Crushed
+  - Cubed
+  - Cut Fine
+  - Cut Up
+  - Cut Up Fine
+  - Diced
+  - Diced Fine
+  - Drained
+  - Dried
+  - Dry
+  - Flaked
+  - Grated
+  - Ground
+  - Ground Fine
+  - Halved
+  - Hulled
+  - Mashed
+  - Melted
+  - Minced
+  - Peeled
+  - Pitted
+  - Powdered
+  - Quartered
+  - Roasted
+  - Separated
+  - Shredded
+  - Sifted
+  - Sliced
+  - Slivered
+  - Smoked
+  - Soft
+  - Softened
+  - Stiffly Beaten
+  - Thawed
+  - Thick
+  - Thin
+  - Uncooked
+  - Undiluted
+  - Whipped
+  - Whole
