@@ -1,0 +1,186 @@
+# Ingredient Mappings
+#
+# Maps raw ingredient strings (as they appear in recipe tables) to canonical
+# names from the taxonomy (_data/ingredient_taxonomy.yml).
+#
+# Lookup is case-insensitive. Only entries that differ from their canonical
+# form need to be listed here — ingredients that already match a canonical
+# name (case-insensitive) are resolved automatically.
+#
+# Categories of mappings:
+#   - Synonyms: different names for the same thing
+#   - Plurals: irregular singular/plural normalization
+#   - Brands: brand names -> generic canonical
+#   - Variants: specific forms -> canonical name
+#
+# NOT listed here (handled automatically by the plugin):
+#   - Standard English plurals (trailing -s/-es)
+#   - Modifier prefix/suffix stripping (Grated, Chopped, etc.)
+#   - Case normalization
+
+# ---------------------------------------------------------------------------
+# Synonyms & word-order variants
+# ---------------------------------------------------------------------------
+"All-American Cheese": American Cheese
+"Bay Leaf": Bay Leaves
+"Bacon + Cheese": Cheese Spread
+"Beef Chuck": Chuck
+"Catsup": Ketchup
+"Cayenne Pepper": Cayenne
+"Chunk Tuna": Tuna
+"Condensed Consommé Madrilène": Condensed Consommé Madrilène
+"Condensed Milk": Sweetened Condensed Milk
+"Corn Meal": Cornmeal
+"Corn Starch": Cornstarch
+"Curry": Curry Powder
+"Dried Mustard": Dry Mustard
+"Flaked Crab Meat": Crab Meat
+"Gelatin": Unflavored Gelatin
+"Grated Cheese": Cheese
+"Ground Chuck Beef": Ground Chuck
+"Half + Half": Half and Half
+"Hamburger": Ground Beef
+"Leg Of Lamb": Lamb Leg
+"Lima Beans": Limas
+"Liver Paté": Liver Pâté
+"Lump Crab Meat": Crab Meat
+"Lump Crabmeat": Crab Meat
+"Maggi Sauce": Maggi Seasoning
+"Maggi's Sauce": Maggi Seasoning
+"Maggis": Maggi Seasoning
+"Parmesan": Parmesan Cheese
+"Peppers": Bell Pepper
+"Pimento - Olive": Pimento Olives
+"Pimento Cream Cheese": Cream Cheese
+"Pimento Stuffed Olives": Pimento Olives
+"Pork + Beans In Tomato Sauce": Pork and Beans
+"Processed Cheese Spread": Cheese Spread
+"Processes Cheese Spread": Cheese Spread
+"Rich Cream": Heavy Cream
+"Rice Crispies": Rice Krispies
+"Roquefort": Roquefort Cheese
+"Season Salt": Seasoned Salt
+"Sharp Cheddar": Cheddar Cheese
+"Sharp Cheddar Cheese": Cheddar Cheese
+"Sharp Grated Cheddar": Cheddar Cheese
+"Thick Cream Sauce": Cream Sauce
+"Top Round Beef": Top Round
+"Top Round Steak": Top Round
+"White Rum": Light Rum
+"Yellow Cornmeal": Cornmeal
+
+# ---------------------------------------------------------------------------
+# Irregular plural normalization
+# ---------------------------------------------------------------------------
+# Standard plurals (trailing -s/-es) are handled by the plugin.
+# Only irregular forms or ambiguous cases need explicit mappings.
+"Carrot": Carrots
+"Cherry": Cherries
+"Chickens": Chicken
+"Cracker": Crackers
+"Cucumbers": Cucumber
+"Egg": Eggs
+"Egg White": Egg Whites
+"Egg Yolk": Egg Yolks
+"Green Peppers": Green Pepper
+"Lemons": Lemon
+"Olive": Olives
+"Onions": Onion
+"Pimentos": Pimento
+"Red Peppers": Red Pepper
+"Shallot": Shallots
+"Sweet Onions": Sweet Onion
+"Tomato": Tomatoes
+"Yeast Cake": Yeast Cakes
+
+# ---------------------------------------------------------------------------
+# Brand names -> generic canonical
+# ---------------------------------------------------------------------------
+"Bisquick": Prepared Biscuit Mix
+"California Port Wine": Port Wine
+"Creamettes": Macaroni
+"Crisco": Shortening
+"Crisco Oil": Cooking Oil
+"Dark Karo Syrup": Corn Syrup
+"Duncan Hines Cake Mix": Cake Mix
+"Elbow Macaroni": Macaroni
+"Hennessey Cognac": Cognac
+"Mazola Oil": Cooking Oil
+"Salad Oil": Cooking Oil
+"Wesson Oil": Cooking Oil
+"White Karo Syrup": Corn Syrup
+
+# ---------------------------------------------------------------------------
+# Variants -> canonical
+# ---------------------------------------------------------------------------
+"Active Dry Yeast": Dry Yeast
+"Angel Flake Coconut": Coconut
+"Black Cherry Gelatin": Black Cherry Jello
+"Candied Orange Peel": Orange Peel
+"Confectioners Sugar": "Confectioner's Sugar"
+"Creme de Cacao": Crème de Cacao
+"Creme de Menthe": Crème de Menthe
+"Crème de Cacao": Crème de Cacao
+"Dark Brown Sugar": Brown Sugar
+"Double Lady Fingers": Lady Fingers
+"Fine Graham Cracker Crumbs": Graham Cracker Crumbs
+"Fresh Strawberries": Strawberries
+"Frozen Raspberries": Raspberries
+"Frozen Strawberries": Strawberries
+"Graham Crumbs": Graham Cracker Crumbs
+"Green Creme de Menthe": Crème de Menthe
+"Green Crème de Menthe": Crème de Menthe
+"Hot Raspberry Juice": Raspberries
+"Italian Seasoned Bread Crumbs": Italian Bread Crumbs
+"Large Graham Crackers": Graham Crackers
+"Light Brown Sugar": Brown Sugar
+"Maraschino Liquer": Maraschino Liqueur
+"Marinated Mushroom": Marinated Mushrooms
+"Marinated Mushrooms": Marinated Mushrooms
+"Onion Powder": Onion
+"Pecan Meats": Pecans
+"Pineapple Slices": Pineapple
+"Powdered Sugar": "Confectioner's Sugar"
+"Pure Cider Vinegar": Cider Vinegar
+"Rich Milk": Milk
+"Soft Bread Crumbs": Bread Crumbs
+"Soft Dry Cloth": Soft Dry Cloth
+"Soft Shortening": Shortening
+"Sweet Milk": Milk
+"Sweetened Condensed Milk": Sweetened Condensed Milk
+"Sweetened Whipped Cream": Whipped Cream
+"Vanilla Extract": Vanilla
+"Vanilla Flavoring": Vanilla
+"Whipping Cream": Heavy Cream
+"White Bread Cubes": Bread Cubes
+"White Creme de Cacao": Crème de Cacao
+"White Corn Syrup": Corn Syrup
+"White Crème de Cacao": Crème de Cacao
+"Whole Cherries": Cherries
+"Whole Eggs": Eggs
+"Wild Cherries": Cherries
+
+# ---------------------------------------------------------------------------
+# Modifier stripping (until plugin handles these automatically)
+# ---------------------------------------------------------------------------
+"Blanched Almonds": Almonds
+"Chopped Nuts": Nuts
+"Chopped Peanuts": Peanuts
+"Chopped Pecans": Pecans
+"Chopped Roasted Almonds": Almonds
+"Chopped Walnuts": Walnuts
+"Cooked Grated Carrots": Carrots
+"Crushed Fruit": Fruit
+"Finely Chopped Blanched Almonds": Almonds
+"Fresh Fruit": Fruit
+"Fried Onion": Onion
+"Fried Onions": Onion
+"Grated Onion": Onion
+"Ground Nuts": Nuts
+"Instant Minced Onion": Onion
+"Large Onions": Onion
+"Mashed Berries": Fruit
+"Peeled Chopped Apples": Apple
+"Raw Corn": Corn
+"Raw Potatoes": Potatoes
+"Tiny Cucumbers": Cucumber

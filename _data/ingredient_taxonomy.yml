@@ -1,0 +1,754 @@
+# Ingredient Taxonomy
+#
+# Structure: Aisle -> Ingredient -> Variation (variations can nest)
+# see_also: cross-references for ingredients that span categories
+#
+# Rules for primary vs. see_also:
+#   1. What animal/plant is it from? -> Primary parent
+#   2. What part of the animal? -> Variation of the animal
+#   3. What preparation/form? -> Further variation OR see_also
+#   Permanent attributes are primary; processing is see_also.
+#
+# All members and variations are sorted alphabetically within each section.
+
+Dairy:
+  members:
+    - name: Butter
+      see_also: [Oils and Fats]
+    - name: Cheese
+      variations:
+        - American Cheese
+        - Blue Cheese
+        - Cheddar Cheese
+        - Cheese Spread
+        - Cottage Cheese
+        - Cream Cheese
+        - Liederkranz Cheese
+        - Parmesan Cheese
+        - name: Pimento Cheese
+          see_also: [Pimento]
+        - Roquefort Cheese
+        - name: Sharp Cheese
+          see_also: [Cheddar Cheese]
+        - Velveeta Cheese
+    - name: Cream
+      variations:
+        - Heavy Cream
+        - Light Cream
+        - Whipped Cream
+    - name: Half and Half
+    - name: Ice Cream
+      variations:
+        - Vanilla Ice Cream
+    - name: Margarine
+    - name: Milk
+      variations:
+        - Buttermilk
+        - Evaporated Milk
+        - name: Sweetened Condensed Milk
+          see_also: [Evaporated Milk]
+        - name: Sour Milk
+          see_also: [Buttermilk]
+        - Sweet Milk
+        - Whole Milk
+    - name: Sour Cream
+    - name: Ricotta
+
+Eggs:
+  members:
+    - name: Eggs
+      variations:
+        - Egg Whites
+        - Egg Yolks
+
+Meat:
+  members:
+    - name: Beef
+      variations:
+        - Beef Roast Drippings
+        - Beef Shank
+        - name: Brisket
+          variations:
+            - Corned Beef Brisket
+        - name: Chuck
+          variations:
+            - Chuck Roast
+            - name: Ground Chuck
+              see_also: [Ground Beef]
+        - Dried Beef
+        - Filet of Beef
+        - name: Ground Beef
+          see_also: [Ground Chuck]
+        - Rib Eye Roast
+        - Rib Roast
+        - Roast Beef
+        - Roast Beef Bones
+        - name: Round
+          variations:
+            - Top Round
+        - Smoked Beef Tongue
+        - Soup Bones
+        - Stew Beef
+        - name: Veal
+          variations:
+            - Ground Veal
+            - Veal Scallops
+            - Veal Shoulder
+    - name: Lamb
+      variations:
+        - Lamb Leg
+    - name: Liver Pâté
+    - name: Meat
+    - name: Pork
+      variations:
+        - name: Bacon
+          variations:
+            - Bacon Bits
+            - Bacon Drippings
+            - Bacon Grease
+        - Ground Pork
+        - name: Ham
+          variations:
+            - Baked Country Ham
+            - Cooked Ham
+            - Deviled Ham
+            - Deviled Ham Filling
+            - Ground Ham
+            - Ham Bones
+            - Ham Hocks
+            - Ham Slice
+        - Pig Liver
+        - Pork Chops
+        - Pork Loin
+        - Pork Sausage
+        - Ribs
+        - Salt Pork
+        - Whole Pig
+    - name: Sausage
+      variations:
+        - name: Beef Frankfurters
+          see_also: [Beef]
+        - Hot Or Mild Sausage
+        - Vienna Sausage
+    - name: Venison
+      variations:
+        - Deer
+        - Ground Venison
+    - name: Elk
+    - name: Rabbit
+
+Poultry:
+  members:
+    - name: Chicken
+      variations:
+        - Chicken Breasts
+        - Chicken Legs
+        - Chicken Livers
+        - Chicken Wings
+        - Ground Chicken
+    - name: Dove Breasts
+    - name: Duck
+    - name: Pheasant
+    - name: Squabs
+    - name: Turkey
+      variations:
+        - Turkey Gravy
+
+Seafood:
+  members:
+    - name: Caviar
+    - name: Clams
+    - name: Cooked Seafood
+    - name: Crab
+      variations:
+        - Crab Meat
+        - Crab Shells
+        - She-Crab Meat
+    - name: Fish
+      variations:
+        - name: Anchovy
+          variations:
+            - Anchovy Paste
+        - Filet of Fish
+        - Salmon
+        - Sardine
+        - Smoked Salmon
+        - name: Tuna
+          see_also: [Fish]
+    - name: Lobster
+      variations:
+        - Lobster Meat
+    - name: Oysters
+    - name: Shrimp
+
+Vegetables:
+  members:
+    - name: Artichoke Hearts
+    - name: Asparagus
+    - name: Avocados
+    - name: Bean Liquor
+    - name: Bell Pepper
+      variations:
+        - Green Pepper
+        - Red Pepper
+        - Sweet Green Peppers
+        - Sweet Red Pepper
+    - name: Broccoli
+    - name: Cabbage
+    - name: Carrots
+    - name: Cauliflower
+    - name: Celery
+    - name: Corn
+      variations:
+        - Creamed Corn
+        - Crushed Corn
+        - Fresh Corn
+        - Sweet Corn
+        - Whole Kernel Corn
+    - name: Cucumber
+    - name: Dried Beans
+      variations:
+        - Italian Beans
+        - Little Michigan Navy Beans
+        - State of Maine Dry Beans
+    - name: Eggplant
+    - name: Green Beans
+      variations:
+        - Wax Beans
+    - name: Kidney Beans
+      variations:
+        - Red Kidney Beans
+    - name: Lentils
+    - name: Lettuce
+    - name: Limas
+      variations:
+        - Baby Lima Beans
+        - Butter Beans
+    - name: Mushrooms
+      variations:
+        - Marinated Mushrooms
+    - name: Onion
+      variations:
+        - Leeks
+        - Red Onion
+        - Scallions
+        - Shallots
+        - Sweet Onion
+    - name: Parsnips
+    - name: Peas
+      variations:
+        - Split Peas
+    - name: Pork and Beans
+    - name: Potatoes
+      variations:
+        - Sweet Potatoes
+        - White Potatoes
+    - name: Pumpkin
+    - name: Radish
+    - name: Red Beans
+    - name: Sauerkraut
+    - name: Squash
+      variations:
+        - Yellow Squash
+    - name: Stew Vegetables
+    - name: Tomatoes
+      variations:
+        - Green Tomatoes
+        - Red Tomatoes
+        - Stewed Tomatoes
+    - name: Turnip
+    - name: Watercress
+
+Fruits:
+  members:
+    - name: Apple
+      variations:
+        - Apple Juice
+        - Apples
+        - Applesauce
+    - name: Bananas
+    - name: Blackberries
+    - name: Blueberries
+    - name: Cherries
+      variations:
+        - Candied Cherries
+        - Candied Green Cherries
+        - Candied Red Cherries
+        - Canned Pie Cherries
+        - Dark Cherries
+        - Dark Sweet Cherries
+        - Drained Red Cherries
+        - Maraschino Cherries
+        - Red Cherries
+        - Red Pit Cherries
+        - Sweet Black Cherries
+    - name: Citron
+      variations:
+        - Candied Citron
+    - name: Coconut
+      variations:
+        - Coconut Milk
+    - name: Cranberries
+    - name: Currants
+    - name: Dates
+    - name: Figs
+    - name: Fruit
+    - name: Fruit Cocktail
+    - name: Fruit Juice
+    - name: Fruit Syrup
+    - name: Grapefruit
+    - name: Grapes
+      variations:
+        - Concord Grapes
+        - Grape Juice
+    - name: Italian Plums
+    - name: Lemon
+      variations:
+        - Lemon Juice
+        - Lemon Peel
+        - Lemon Rind
+    - name: Lime
+      variations:
+        - Lime Juice
+    - name: Melon
+    - name: Orange
+      variations:
+        - Orange Juice
+        - Orange Peel
+        - Orange Rind
+        - Oranges
+    - name: Peaches
+    - name: Peanut Butter
+    - name: Pineapple
+      variations:
+        - Crushed Pineapple
+        - Pineapple Juice
+        - Pineapple Preserves
+    - name: Raisins
+      variations:
+        - Seeded Raisins
+        - Seedless Raisins
+        - White Raisins
+    - name: Raspberries
+    - name: Strawberries
+    - name: Tangerines
+    - name: Teaberries
+
+Seasonings and Spices:
+  members:
+    - name: Accent
+    - name: Allspice
+    - name: Basil
+    - name: Bay Leaves
+    - name: Cayenne
+    - name: Celery Seed
+    - name: Chili Sauce
+    - name: Chives
+    - name: Cinnamon
+      variations:
+        - Stick Cinnamon
+    - name: Cloves
+      variations:
+        - Ground Cloves
+        - Whole Cloves
+    - name: Curry Powder
+    - name: Garlic
+      variations:
+        - Garlic Cloves
+        - Garlic Powder
+    - name: Ginger
+      variations:
+        - Powdered Ginger
+    - name: Italian Seasoning
+    - name: Mace
+    - name: Maggi Seasoning
+    - name: Marjoram
+    - name: Mixed Pickling Spice
+    - name: Mustard
+      variations:
+        - Dry Mustard
+        - Mustard Seed
+        - Prepared Mustard
+    - name: Nutmeg
+    - name: Paprika
+    - name: Parsley
+      variations:
+        - Parsley Flakes
+    - name: Pepper
+      variations:
+        - Black Pepper
+        - Ground Pepper
+        - Peppercorns
+        - Seasoned Pepper
+        - White Pepper
+    - name: Pickling Spices
+    - name: Poultry Seasoning
+    - name: Rosemary
+    - name: Sage
+    - name: Salt
+      variations:
+        - Celery Salt
+        - Coarse Salt
+        - Fine Salt
+        - Garlic Salt
+        - Onion Salt
+        - Pickling Salt
+        - Seasoned Salt
+    - name: Seasoning
+    - name: Sesame Seeds
+    - name: Tenderizer
+    - name: Thyme
+    - name: Turmeric
+    - name: Whole Spices
+
+Sauces and Condiments:
+  members:
+    - name: Barbeque Sauce
+    - name: Capers
+    - name: Ketchup
+    - name: Coleslaw Dressing
+    - name: Cream Sauce
+    - name: Gravy
+    - name: Hollandaise Sauce
+    - name: Horseradish
+      variations:
+        - Horseradish Sauce
+    - name: Italian Dressing
+    - name: Jelly
+    - name: Mayonnaise
+    - name: Meat Stock
+    - name: Olives
+      variations:
+        - Marinated Greek Olives
+        - name: Pimento Olives
+          see_also: [Pimento]
+        - Salad Olives With Pimento
+        - Stuffed Olives
+    - name: Onion Juice
+    - name: Pepperidge Farm Dressing
+    - name: Pickle Juice
+    - name: Pimento
+    - name: Ragu Sauce
+    - name: Relish
+      variations:
+        - Sweet Pickle Relish
+    - name: Soy Sauce
+    - name: Tabasco Sauce
+    - name: Tomato Paste
+      variations:
+        - Italian Tomato Paste
+    - name: Tomato Puree
+    - name: Tomato Sauce
+    - name: Vinegar
+      variations:
+        - Cider Vinegar
+        - White Vinegar
+        - Wine Vinegar
+    - name: Worcestershire Sauce
+
+Baking:
+  members:
+    - name: Almond Extract
+    - name: Alum
+    - name: Ascorbic Acid
+    - name: Baking Powder
+    - name: Baking Soda
+    - name: Butterscotch Bits
+    - name: Cake Mix
+      variations:
+        - Jiffy Cake Mix
+        - Spice Cake Mix
+        - Yellow Cake Mix
+    - name: Chocolate
+      variations:
+        - Chocolate Chips
+        - Chocolate Syrup
+        - German Sweet Chocolate
+        - Hershey Bars
+        - Sweet Chocolate
+        - Unsweetened Chocolate
+    - name: Cocoa
+    - name: Cornmeal
+    - name: Cornstarch
+    - name: Cream of Tartar
+    - name: Flour
+      variations:
+        - Seasoned Flour
+        - Soy Flour
+    - name: Frozen Whipped Topping
+    - name: Ground Flaxseed
+    - name: Pudding
+      variations:
+        - Instant Pudding Mix
+        - Vanilla Pudding
+    - name: Lemon Extract
+      see_also: [Lemon, Instant Lemonade Mix]
+    - name: Marshmallow Whip
+    - name: Prepared Biscuit Mix
+    - name: Saltpeter
+    - name: Shake'N Bake Seasoning
+    - name: Tapioca
+      variations:
+        - Instant Tapioca
+        - Quick Tapioca
+    - name: Vanilla
+    - name: Yeast
+      variations:
+        - Cake Yeast
+        - Dry Yeast
+        - Yeast Cakes
+
+Sweeteners:
+  members:
+    - name: Corn Syrup
+      variations:
+        - Dark Corn Syrup
+        - Light Corn Syrup
+    - name: Honey
+    - name: Maple Syrup
+    - name: Molasses
+      variations:
+        - Unsulphured Molasses
+    - name: Sugar
+      variations:
+        - Brown Sugar
+        - "Confectioner's Sugar"
+        - Granulated Sugar
+        - Raw Sugar
+        - White Sugar
+    - name: Sugar Cane
+
+Oils and Fats:
+  members:
+    - name: Cooking Oil
+    - name: Fat
+    - name: Lard
+      see_also: [Pork]
+    - name: Oil
+    - name: Olive Oil
+    - name: Peanut Oil
+    - name: Shortening
+    - name: Vegetable Oil
+
+Nuts:
+  members:
+    - name: Almonds
+      variations:
+        - Slivered Almonds
+    - name: Brazil Nuts
+    - name: Chestnuts
+    - name: Nuts
+    - name: Peanuts
+      variations:
+        - Roasted Peanuts
+    - name: Pecans
+      variations:
+        - Pecan Meal
+    - name: Walnuts
+
+Grains and Pasta:
+  members:
+    - name: Dumplings
+    - name: Oatmeal
+      variations:
+        - Quick Oatmeal
+        - Rolled Oats
+    - name: Pasta
+      variations:
+        - Broad Egg Noodles
+        - Broad Noodles
+        - Macaroni
+        - Noodles
+        - Pennsylvania Dutch Noodles
+        - Spaghetti
+    - name: Rice
+      variations:
+        - Wild Rice
+    - name: Wheat Germ
+
+Baked Goods:
+  members:
+    - name: Almond Macaroons
+      variations:
+        - Macaroons
+    - name: Bread
+      variations:
+        - Brown Bread
+        - French Bread
+        - Pumpernickel Bread
+        - Rye Bread
+        - Soft Bread
+        - White Bread
+        - Whole Wheat Bread
+    - name: Bread Crumbs
+      variations:
+        - Italian Bread Crumbs
+        - Seasoned Bread Crumbs
+        - Soft Bread Crumbs
+    - name: Bread Cubes
+      variations:
+        - White Bread Cubes
+    - name: Cakes
+      variations:
+        - Angel Food Cake
+        - Pound Cake
+    - name: Chocolate Wafer Crumbs
+    - name: Cornflakes
+    - name: Crackers
+      variations:
+        - Cracker Crumbs
+        - Graham Cracker Crumbs
+        - Graham Crackers
+        - Saltines
+    - name: Croutons
+    - name: English Muffins
+    - name: Heath Bars
+    - name: Lady Fingers
+    - name: Melba Rounds
+    - name: Miniature Cream Puffs
+    - name: Pastry
+      see_also: [Pie Crust]
+    - name: Patty Shells
+    - name: Pie Crust
+      variations:
+        - Baked Pie Shell
+        - name: Graham Cracker Crust
+          see_also: [Graham Crackers]
+        - Pie Shell
+        - Unbaked Pie Shell
+      see_also: [Pastry]
+    - name: Tart Shells
+    - name: Toast
+    - name: Vanilla Wafers
+
+Canned Soups:
+  members:
+    - name: Bouillon
+    - name: Cheddar Soup
+    - name: Celery Soup
+    - name: Cheese Soup
+    - name: Chicken Broth
+    - name: Chicken Soup
+    - name: Condensed Consommé Madrilène
+    - name: Cream of Celery Soup
+    - name: Cream of Chicken Soup
+    - name: Cream of Mushroom Soup
+    - name: Cream of Shrimp Soup
+    - name: Golden Mushroom Soup
+    - name: Gumbo Creole Soup
+    - name: Mushroom Soup
+    - name: Onion Soup Mix
+    - name: Tomato Soup
+
+Beverages and Mixers:
+  members:
+    - name: Cherry Juice
+    - name: Club Soda
+    - name: Coffee
+      variations:
+        - Strong Coffee
+    - name: Ginger Ale
+    - name: Grenadine
+    - name: Instant Lemonade Mix
+      see_also: [Lemon, Lemon Extract]
+    - name: Instant Orange Mix
+      see_also: [Orange]
+    - name: Papaya Juice
+    - name: Tea
+      variations:
+        - Instant Tea
+    - name: Tomato Juice
+    - name: Water
+      variations:
+        - Boiling Water
+        - Cold Water
+        - Hot Water
+        - Ice
+        - Ice Water
+        - Lukewarm Water
+
+Alcohol:
+  members:
+    - name: Applejack
+    - name: Brandy
+      variations:
+        - Cognac
+    - name: Champagne
+    - name: Coffee Liqueur
+    - name: Gin
+    - name: Liqueur
+      variations:
+        - Crème de Cacao
+        - Crème de Menthe
+        - Curacao
+        - Maraschino Liqueur
+        - Orange Curacao
+    - name: Orgeat
+    - name: Rum
+      variations:
+        - Dark Rum
+        - Jamaican Rum
+        - Light Rum
+    - name: Sherry
+      variations:
+        - Dry Sherry
+    - name: Sweet Vermouth
+    - name: Vodka
+    - name: Whiskey
+      variations:
+        - Blended Whiskey
+        - Bourbon
+        - Drambuie
+        - Irish Whiskey
+    - name: Wine
+      variations:
+        - Claret Wine
+        - Port Wine
+        - Red Wine
+        - Rhine Wine
+        - Sauterne
+        - name: White Wine
+          variations:
+            - Dry White Wine
+
+Gelatin:
+  members:
+    - name: Black Cherry Jello
+    - name: Lemon Jello
+    - name: Raspberry Jello
+    - name: Strawberry Jello
+    - name: Strawberry-Banana Jello
+    - name: Sure-Jell
+    - name: Unflavored Gelatin
+
+Cereal:
+  members:
+    - name: Cheerio Oats
+    - name: Rice Chex
+    - name: Rice Krispies
+    - name: Wheat Chex
+
+Non-Food:
+  members:
+    - name: Bamboo Skewers
+    - name: Boiled Linseed Oil
+    - name: Fine Steel Wool
+    - name: Linseed Oil
+    - name: Orchid
+    - name: Other Garnish
+    - name: Punch Bowl
+    - name: Soft Dry Cloth
+    - name: Toppings
+    - name: Turpentine
+
+Prepared Fillings:
+  members:
+    - name: Cream of Coconut
+    - name: Curried Egg Filling
+    - name: Pimento-Nut Filling
+
+Miscellaneous:
+  members:
+    - name: Liquid Drained From Canned Pickled Beets
+    - name: Mature
+    - name: Protein
