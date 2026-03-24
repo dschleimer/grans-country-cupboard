@@ -22,6 +22,7 @@
 # Synonyms & word-order variants
 # ---------------------------------------------------------------------------
 "All-American Cheese": American Cheese
+"Mashed Berries": Fruit
 "Bay Leaf": Bay Leaves
 "Bacon + Cheese": Cheese Spread
 "Beef Chuck": Chuck
@@ -88,6 +89,7 @@
 "Egg": Eggs
 "Egg White": Egg Whites
 "Egg Yolk": Egg Yolks
+"Fried Onions": Fried Onion
 "Green Peppers": Green Pepper
 "Lemons": Lemon
 "Olive": Olives
@@ -172,29 +174,3 @@
 "Whole Pepper": Peppercorns
 "Whole Eggs": Eggs
 "Wild Cherries": Cherries
-
-# ---------------------------------------------------------------------------
-# Modifier stripping (until plugin handles these automatically)
-# ---------------------------------------------------------------------------
-"Blanched Almonds": Almonds
-"Chopped Flaked Coconut": Coconut
-"Chopped Nuts": Nuts
-"Chopped Peanuts": Peanuts
-"Chopped Pecans": Pecans
-"Chopped Roasted Almonds": Almonds
-"Chopped Walnuts": Walnuts
-"Cooked Grated Carrots": Carrots
-"Crushed Fruit": Fruit
-"Finely Chopped Blanched Almonds": Almonds
-"Fresh Fruit": Fruit
-"Fried Onion": Onion
-"Fried Onions": Onion
-"Grated Onion": Onion
-"Ground Nuts": Nuts
-"Instant Minced Onion": Onion
-"Large Onions": Onion
-"Mashed Berries": Fruit
-"Peeled Chopped Apples": Apple
-"Raw Corn": Corn
-"Raw Potatoes": Potatoes
-"Tiny Cucumbers": Cucumber

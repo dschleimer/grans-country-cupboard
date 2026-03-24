@@ -32,9 +32,7 @@ module Ingredients
         end
 
         def load_mappings(site)
-            path = File.join(site.source, '_tools', 'ingredient_mappings.yml')
-            return {} unless File.exist?(path)
-            raw = YAML.safe_load(File.read(path)) || {}
+            raw = site.data["ingredient_mappings"] || {}
             # Build case-insensitive lookup: lowercase key => canonical value
             result = {}
             raw.each { |k, v| result[k.downcase] = v if v }
@@ -135,36 +133,43 @@ module Ingredients
             nil
         end
 
+        def try_resolve_base(key, normalized)
+            # Check mappings (case-insensitive)
+            return @mappings[key] if @mappings.key?(key)
+            # Check if normalized form is already a canonical name
+            @canonical_set.each { |c| return c if c.downcase == key }
+            # Try plural normalization
+            try_singular(normalized)
+        end
+
         def resolve_ingredient(raw)
             normalized = normalize_raw(raw)
             key = normalized.downcase
 
-            # 1. Check mappings (case-insensitive)
-            if @mappings.key?(key)
-                return @mappings[key]
-            end
+            # 1. Try direct resolution (mappings, canonical, plural)
+            result = try_resolve_base(key, normalized)
+            return result if result
 
-            # 2. Check if normalized form is already a canonical name
-            @canonical_set.each { |c| return c if c.downcase == key }
-
-            # 3. Try plural normalization
-            singular_match = try_singular(normalized)
-            return singular_match if singular_match
-
-            # 4. Try modifier prefix stripping
-            @modifier_prefixes.each do |mod|
-                mod_lower = mod.downcase
-                if key.start_with?(mod_lower + " ")
-                    remainder = normalized[(mod.length + 1)..].strip
-                    remainder_key = remainder.downcase
-                    return @mappings[remainder_key] if @mappings.key?(remainder_key)
-                    @canonical_set.each { |c| return c if c.downcase == remainder_key }
-                    singular_match = try_singular(remainder)
-                    return singular_match if singular_match
+            # 2. Try iterative modifier prefix stripping
+            remainder_norm = normalized
+            remainder_key = key
+            loop do
+                matched = false
+                @modifier_prefixes.each do |mod|
+                    mod_lower = mod.downcase
+                    if remainder_key.start_with?(mod_lower + " ")
+                        remainder_norm = remainder_norm[(mod.length + 1)..].strip
+                        remainder_key = remainder_norm.downcase
+                        result = try_resolve_base(remainder_key, remainder_norm)
+                        return result if result
+                        matched = true
+                        break  # restart prefix scan on shorter remainder
+                    end
                 end
+                break unless matched
             end
 
-            # 5. Try modifier suffix stripping (e.g., "Cheese - Grated")
+            # 3. Try modifier suffix stripping (e.g., "Cheese - Grated")
             @modifier_suffixes.each do |mod|
                 mod_lower = mod.downcase
                 [" - ", ", "].each do |sep|
@@ -172,15 +177,13 @@ module Ingredients
                     if key.end_with?(suffix)
                         remainder = normalized[0...(normalized.length - sep.length - mod.length)].strip
                         remainder_key = remainder.downcase
-                        return @mappings[remainder_key] if @mappings.key?(remainder_key)
-                        @canonical_set.each { |c| return c if c.downcase == remainder_key }
-                        singular_match = try_singular(remainder)
-                        return singular_match if singular_match
+                        result = try_resolve_base(remainder_key, remainder)
+                        return result if result
                     end
                 end
             end
 
-            # 6. Unknown — use normalized form as-is
+            # 4. Unknown — use normalized form as-is
             normalized
         end
 
