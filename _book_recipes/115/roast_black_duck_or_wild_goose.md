@@ -20,7 +20,7 @@ categories:
 | Duck          |               | |
 | Onions        | 2 + 1         | One sliced |
 | Sliced Carrot | 1             | |
-| Celery        | 2 ribs        | |
+| Sliced Celery | 2 ribs        | |
 | Garlic        | 1 small clove | |
 | Salt pork     |               | Use salt pork or bacon |
 | Bacon         |               | Use salt pork or bacon |

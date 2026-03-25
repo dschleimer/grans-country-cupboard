@@ -17,11 +17,11 @@ categories:
 
 | Ingredient        | Amount        | Notes |
 | ----------------- | ------------- | ----- |
-| Dove Breasts      | 2-4           | |
+| Dove Breasts      | 24           | |
 | Butter            | 1 cup or more | |
-| White Wine        | 1½ cups       | Dinner Wine |
-| Onion             | ½ cup chopped | |
-| Scallions         | ½ cup chopped | |
+| White Dinner Wine | 1½ cups       |  |
+| Chopped Onion             | ½ cup  | |
+| Chopped Scallions         | ½ cup  | |
 | Chopped Celery    | 3 Tbsp        | with leaves |
 | Salt              | ½ tsp         | |
 | Pepper            | ½ tsp         | |

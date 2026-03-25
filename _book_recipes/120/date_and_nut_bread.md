@@ -22,7 +22,7 @@ categories:
 | Sugar             | 1½ cups         | |
 | Sifted Flour      | 2¼ cups + extra | |
 | Baking Soda       | 2 tsp           | |
-| Baking Powder     | ½ tsp           | |
+| Baking Powder     | ¼ tsp           | |
 | Salt              | ½ tsp           | |
 | Melted Butter     | 2 Tbsp          | |
 | Vanilla           | 1 tsp           | |

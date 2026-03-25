@@ -17,7 +17,7 @@ categories:
 
 | Ingredient               | Amount  | Notes |
 | ------------------------ | ------- | ----- |
-| Boneless Chicken Breasts | 6       | skinless |
+| Boneless Skinless Chicken Breasts | 6       | |
 | Heavy Cream              | 2 cups  | |
 | Eggs                     | 4 yolks | |
 | Salt                     | 2½ tsp  | |
