@@ -9,6 +9,7 @@ categories:
   - Bread
   - Baked
   - Ovo-Lacto Vegetarian
+  - Overnight Recipe
   - Breakfast
 ---
 # Cinnamon Buns
@@ -17,29 +18,39 @@ categories:
 
 | Ingredient  | Amount | Notes |
 | ----------- | ------ | ----- |
-| Sugar       | ⅓ Cup  | |
-| Milk        | 1 Cup  | Scalded and cooled |
+| Milk        | 1 pint  | Scalded and cooled |
+| Butter      | 1/4 lb + 2 oz + Extra       | |
 | Yeast Cake  | 1      | |
-| Shortening  | ½ Cup  | |
-| Flour       | 5 Cups | Approximately |
+| Salt | 1/2 tsp | |
 | Eggs        | 3      | Lightly beaten |
-| Butter      |        | For filling |
-| Brown Sugar |        | For filling |
-| Cinnamon    |        | For filling |
+| Nutmeg | 1/2 tsp | |
+| Flour       | 2 + 2 cups + Extra |  |
+| Sugar       | 1/2 Cup  | For Dough |
+| Light Brown Sugar | 1 lb + extra | For Syrup + Filling|
+| Currants | | For filling |
+| Water | 1 1/2 cups | |
+| Cinnamon    |        | See modern notes |
 
 ## Method
 
-1. Scald the milk and cool to lukewarm
-1. Dissolve yeast cake in the warm milk
-1. Add sugar, shortening, beaten eggs, and enough flour to make a stiff dough
-1. Knead on a floured board until smooth
-1. Let the dough rise until doubled
-1. Roll out thin into a rectangle
-1. Spread with butter, brown sugar, and cinnamon
-1. Roll up tightly and cut into ½-inch thick slices
+1. At supper time, the evening before serving:
+  1. Scald the milk and cool
+  1. Add 2 oz butter, yeast cake salt, and nutmeg
+  1. Beat eggs and add
+  1. Add 2 cups flour and ocmbine to make a thin sponge
+1. At Bedtime the evening before:
+  1. Add 1/2 cup sugar and 2 additional cups flour
+  1. Combine to make a stiff dough
+1. Let Rise overnight
+1. Preheat oven to 325°F
+1. Grease deep pan
+1. Make a syrup with 1 1/2 cups water, 1/4 lb butter, and 1 lb light brown sugar.
+1. Slowly boil syrup for 30 minutes
+1. Roll dough thin on a floured board
+1. Spread with butter, brown sugar, and currants
+1. Roll up tightly and cut into 1½-inch thick slices
 1. Place cut side down in a deep greased pan
-1. Let rise about 1 hour
-1. Bake at 325°F until golden brown
+1. Bake rolls.  When the rolls start to brown, pour the syrup over the rolls
 
 ## Notes From Gran
 
@@ -47,7 +58,7 @@ categories:
 
 ## Modern Notes
 
+* The original recipe for Cinnamon buns... does not call for any cinnamon.  I left it in the ingredients because that seems likely to be a transcription error either by Gran, or by Aunt Anna Marter.  I think the most likely places fo add the cinnamon are with the brown sugar in the filling or in the butter.  -- David S
 * This is a yeast-risen version of cinnamon buns — richer and softer than the baking powder version on the same page -- Claude (AI)
 * One cake of compressed yeast can be substituted with 1 packet (2¼ tsp) active dry yeast -- Claude (AI)
-* Some details of this recipe were difficult to read in the original handwriting — the flour amount and rising times are approximate -- Claude (AI)
 

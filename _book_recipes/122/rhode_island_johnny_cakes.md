@@ -5,7 +5,7 @@ recipe: 122/rhode_island_johnny_cakes
 page_order: 1
 categories:
   - Machine Transcribed
-  - Dessert
+  - Breakfast
   - Cakes
   - Ovo-Lacto Vegetarian
   - Bread
@@ -21,9 +21,9 @@ categories:
 | Beaten Eggs   | 3       | |
 | Milk          | 1 Cup   | |
 | Flour         | 1½ Cups | |
-| Corn Meal     | 1 Cup   | |
-| Baking Powder | 3 tsp   | |
-| Salt          | 1 tsp   | |
+| Corn Meal     | 1½ Cups  | |
+| Baking Powder | 1 tsp   | |
+| Salt          | 1 Tbsp   | |
 
 ## Method
 

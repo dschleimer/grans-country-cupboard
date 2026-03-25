@@ -3,7 +3,7 @@ layout: recipe
 page: "124"
 recipe: 124/sweet_muffins
 page_order: 1
-from: Mrs. Robt. K. Major
+from: Mrs. Robt. K. Major - Gettysburg, PA
 categories:
   - Machine Transcribed
   - Bread
@@ -18,7 +18,7 @@ categories:
 | Ingredient    | Amount | Notes |
 | ------------- | ------ | ----- |
 | Sugar         | ½ Cup  | |
-| Eggs          | 1      | |
+| Egg          | 1      | |
 | Melted Butter | 2 Tbsp | |
 | Sweet Milk    | 1 Cup  | |
 | Flour         | 2 Cups | |
@@ -27,8 +27,11 @@ categories:
 
 ## Method
 
-1. Beat hard and ladle into muffin tins
-1. Bake at 400°F for 20–30 minutes
+1. Preheat oven to 400°F
+1. Combine all ingredient in mixing bowl
+1. Beat hard
+1. Transfer to muffin tins
+1. Bake for 20–30 minutes
 
 ## Notes From Gran
 

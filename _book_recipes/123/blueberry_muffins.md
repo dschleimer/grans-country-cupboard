@@ -20,14 +20,17 @@ categories:
 | Butter      | 2 Tbsp | |
 | Egg         | 1      | |
 | Milk        | 1 Cup  | |
-| Sugar       | ½ Cup  | |
+| Sugar       | 4 Tbsp | |
+| Salt        | 1/2 tsp | |
 | Blueberries | 1 pint | |
 
 ## Method
 
+1. Preheat oven to 400°F
+1. Grease and flour muffin pans
 1. Mix all ingredients together
-1. Pour into greased and floured muffin pans
-1. Bake at 400°F for 25–30 minutes
+1. Pour into muffin pans
+1. Bake for 20–30 minutes
 
 ## Notes From Gran
 

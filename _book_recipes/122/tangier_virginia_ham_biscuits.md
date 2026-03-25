@@ -17,23 +17,26 @@ categories:
 | Ingredient                         | Amount | Notes |
 | ---------------------------------- | ------ | ----- |
 | Flour                              | 2 Cups | |
+| Sugar | 1 Tbsp | |
 | Salt                               | ¼ tsp  | |
 | Shortening                         | 2 Tbsp | |
 | Baking Powder                      | 2 tsp  | |
 | Milk                               | ¾ Cup  | |
 | Beaten Egg                         | 1      | |
-| Coarsely Chopped Baked Country Ham | ¼ Cup  | |
+| Minced Baked Country Ham | 1/2 Cup  | |
 
 ## Method
 
+1. Preheat oven to 425°F
 1. Sift flour and baking powder together
-1. Add salt and cut in shortening
-1. Add milk and beaten egg, stir with a fork to make a soft dough
-1. Fold in the chopped ham
+1. Add salt and ham
+1. Cut in shortening with a knife until consistency of meal
+1. Beat together milk and egg
+1. Add milk/egg mixture and mix with a fork as little as possible
 1. Roll out on a floured board to ½ inch thick
-1. Cut with a biscuit cutter
+1. Cut out biscutis
 1. Place on an ungreased cookie sheet
-1. Bake at 425°F for 10–18 minutes
+1. Bake for 10–18 minutes
 
 ## Notes From Gran
 
