@@ -286,7 +286,6 @@ Fruits:
         - Drained Red Cherries
         - Maraschino Cherries
         - Red Cherries
-        - Red Pit Cherries
         - Sweet Black Cherries
     - name: Citron
       variations:
@@ -623,11 +622,8 @@ Baked Goods:
     - name: Patty Shells
     - name: Pie Crust
       variations:
-        - Baked Pie Shell
         - name: Graham Cracker Crust
           see_also: [Graham Crackers]
-        - Pie Shell
-        - Unbaked Pie Shell
       see_also: [Pastry]
     - name: Tart Shells
     - name: Toast

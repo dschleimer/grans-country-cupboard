@@ -3,7 +3,7 @@ layout: recipe
 page: "127"
 recipe: 127/angel_pie
 page_order: 2
-from: Ruth Engler, Calif.
+from: Ruth Eueler, Calif.
 categories:
   - Machine Transcribed
   - Dessert
@@ -17,22 +17,27 @@ categories:
 
 | Ingredient      | Amount | Notes |
 | --------------- | ------ | ----- |
-| Egg Whites      | 3      | For meringue shell |
+| Separated Eggs      | 3      |  |
 | Cream of Tartar | ¾ tsp  | |
-| Sugar           | ¾ Cup  | For meringue |
+| Sugar           | ¾ + 1/2 Cup  |  |
 | Lemon           | 1      | Rind grated and juiced |
 | Egg Yolks       | 3      | For lemon custard |
-| Sugar           | ½ Cup  | For custard |
 | Heavy Cream     | 1 Cup  | Whipped stiff |
 | Cinnamon        |        | For sprinkling |
+| Butter | | For greasing pan |
 
 ## Method
 
+1. Prheat oven to 275°F
+1. Butter 8-inch square pan
+1. Separate egg whites from yolks
 1. Beat egg whites until frothy
 1. Add cream of tartar and beat until stiff
 1. Add ¾ cup sugar slowly while continuing to beat
-1. Press meringue into a buttered 8-inch square pan
-1. Bake at 275°F for 60 minutes, then cool completely
+1. Spread meringue into a buttered 8-inch square pan
+1. Bake for 60 minutes, then cool completely
+1. Grate lemon rind and juice lemon
+1. beat egg yolks
 1. Combine grated lemon rind, lemon juice, beaten egg yolks, and ½ cup sugar in a saucepan
 1. Cook over low heat, stirring constantly, until thick and smooth
 1. Cool the lemon custard

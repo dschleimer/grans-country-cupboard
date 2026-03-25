@@ -12,6 +12,7 @@
 #   Divided  — portioning instruction, not preparation
 
 prefixes:
+  - Baked
   - Beaten
   - Beaten Light
   - Beaten Stiff
@@ -74,6 +75,7 @@ prefixes:
   - Thin
   - Thinly
   - Tiny
+  - Unbaked
   - Uncooked
   - Undiluted
   - Warm

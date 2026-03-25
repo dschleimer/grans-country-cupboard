@@ -16,27 +16,26 @@ categories:
 
 | Ingredient       | Amount | Notes |
 | ---------------- | ------ | ----- |
-| Cream Cheese     | 3 oz   | 1 package |
+| Cream Cheese     | 8 oz   | 1 package |
 | Whipping Cream   | ½ pint | |
-| Sugar            | ½ Cup  | For cream filling |
-| Lemon Extract    | ¼ tsp  | |
-| Baked Pie Shell  | 1      | |
-| Red Pit Cherries | 1 can  | Or black cherries |
-| Sugar            | ¾ Cup  | For cherry topping |
-| Cornstarch       | ½ Tbsp | |
-| Butter           | 1 Tbsp | |
+| Sugar            | ¾ + ½ Cup  | |
+| Almond Extract    | ¼ + ¼ tsp  | |
+| Baked Pie Shell  | 1      | See the [Pie Crust](/book_recipes/127/pie_crust.html) recipe |
+| Red Pie Cherries | 1 can  | Or black cherries |
+| Cornstarch       | 1½ Tbsp | |
+| Butter           | 1 tsp | |
 | Cinnamon         | 1 tsp  | |
-| Almond Extract   | ¼ tsp  | |
 
 ## Method
 
-1. Cream the cream cheese well
-1. Whip the cream and fold into the cream cheese along with ½ cup sugar and lemon extract
-1. Spread the cream mixture into a baked pie shell
+1. Cream together the cream cheese and 1/2 cup sugar
+1. Whip the cream and fold into the cream cheese
+1. Add lemon 1/4 tswp almond extract
+1. Spread the cream mixture into a pre-baked pie shell
 1. Drain the juice from the can of cherries into a saucepan
-1. Add cornstarch, ¾ cup sugar, butter, cinnamon, and almond extract to the juice
+1. Add cornstarch, ¾ cup sugar, butter, cinnamon, and 1/4 tsp almond extract to the juice
 1. Cook, stirring constantly, until it thickens
-1. Add the drained cherries and stir gently
+1. Add the drained cherries and mix
 1. Let the cherry topping cool
 1. Pour the cooled cherry topping over the cream layer
 1. Freeze or chill before serving
@@ -47,6 +46,5 @@ categories:
 
 ## Modern Notes
 
-* This is a no-bake cream cheese pie with a cooked cherry topping — similar to a cherry cheesecake -- Claude (AI)
 * Can be frozen for longer storage or simply chilled for a few hours -- Claude (AI)
 

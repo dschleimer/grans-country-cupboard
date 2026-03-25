@@ -19,18 +19,19 @@ categories:
 | Flour                   | 2 Cups | |
 | Baking Powder           | 2 tsp  | |
 | Salt                    | ½ tsp  | |
-| Egg Yolks               | 3      | Well beaten |
+| Separated Eggs          | 3      |  |
 | Milk                    | 1 Cup  | |
 | Melted Butter           | 4 tsp  | |
-| Beaten Stiff Egg Whites | 3      | |
 
 ## Method
 
+1. Separate eggs whites and yolks
 1. Sift together flour, baking powder, and salt
-1. Combine well-beaten egg yolks and milk
-1. Add the melted butter
+1. Beat beaten egg yolks well
+1. Melt butter
+1. Combine egg yolks, butter, and milk
 1. Mix wet ingredients into the dry ingredients
-1. Fold in stiffly beaten egg whites
+1. Beat egg whites stiff and fold into batter
 1. Bake on a hot waffle iron
 
 ## Notes From Gran

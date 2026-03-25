@@ -25,13 +25,14 @@ categories:
 
 ## Method
 
+1. Preheat oven to 450°F
 1. Sift flour and salt together
-1. Work in shortening, cutting with a fork until the mixture resembles peas
-1. Add cold water by the spoonful, tossing with a fork after each addition, until all the flour is just dampened — stop, do not overwork
-1. Turn out between sheets of wax paper and roll thin
+1. Work in shortening, until you have pea-sized lumps
+1. Add ice water by the spoonful, tossing with a fork after each addition, until all the flour is just dampened — **STOP**, do not overwork
+1. Turn out between sheets of wax paper and roll *thin*
 1. Ease into a pie pan without stretching
 1. For a single prebaked crust, prick with a fork around sides and bottom
-1. Bake at 450°F for 15 minutes
+1. Bake for 15 minutes
 
 ## Notes From Gran
 
